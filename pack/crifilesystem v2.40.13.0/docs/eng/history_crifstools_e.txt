@@ -1,0 +1,956 @@
+/****************************************************************************
+ *
+ * CRI Middleware SDK
+ *
+ * Copyright (c) 2016 CRI Middleware Co., Ltd.
+ *
+ * Title   : CRI File System tools
+ * Module  : Revision History
+ * File    : history_crifstools_e.txt
+ * Date    : 2016-03-10 
+ * Version : 2.50.03
+ *
+ ****************************************************************************/
+
+/*--------------------------------------------------------------------------*
+ *
+ * [Table of Contents]
+ *  1. List of Tool Versions
+ *  2. Revision History of CPK File Builder
+ *  3. Revision History of CRI Packed File Maker
+ *  4. Revision History of CRI Packed File Maker for Console
+ *
+ *--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*
+ * 1. List of Tool Versions
+ *--------------------------------------------------------------------------*/
+[2012-03-07 CRI File System Tools Ver.2.30.00] -----------------------------
+  (a) CpkFileBuilder.exe                : Ver.1.49.34
+  (b) CRI Packed File Maker             : Ver.2.40.13
+  (c) CRI Packed File Maker for Console : Ver.2.49.32
+  (d) MakeCpk                           : Ver.1.00.03
+
+/*--------------------------------------------------------------------------*
+ * 2. Revision History of CPK File Builder
+ *--------------------------------------------------------------------------*/
+[2016-03-10 CPK File Builder Ver.1.49.34] ------------------
+(1) Fix
+  (a) Changed techinical support URL in the tool menu.
+
+[2015-10-09 CPK File Builder Ver.1.49.33] ------------------
+(1) Specification changes
+  (a) The number of files that have already been registered is displayed when registering files.
+
+[2015-09-30 CPK File Builder Ver.1.49.32] ------------------
+(1) New features
+  (a) The "Enable Attribute User String Each File" option that embeds attribute string into the file information is added in the Other Settings in the Build settings.
+
+[2015-03-20 CPK File Builder Ver.1.49.10] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A hang-up may occur when a CSV file is output in the case where a group is not used.
+
+[2015-01-29 CPK File Builder Ver.1.49.00] ------------------
+(1) Specification changes
+  (a) Added the following options to the Other settings in the Build settings:
+      - To specify header file name.
+      - To specify a prefix for program symbols defined in the headr file
+      - To specify a suffix for program symbols defined in the headr file
+  (b) Added the "Renumber all IDs by file name" command in the Edit menu, which renumbers ID from 0 for all the files.
+      Previously, in the case where files are added to a CPK file, to access files in the order of IDs, they should have been renumberd manually.
+  (c) The performance of adding a large amount of files are improved.
+      [Example] 
+      Under the condition that 23,498 files and 3,369 folders will be added,
+      the processing time has been improved from 38.093sec to 12.121sec.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) The content of CSV file output was indefinite.
+      If groups exist, it was output in the placement order.
+      If groups do not exist, it was output in the ID order.
+
+[2014-08-01 CPK File Builder Ver.1.47.02] ------------------
+(1) Specification changes
+Rebuilt the tool due to the update of CRI Packed File Maker for Console.
+
+[2014-07-14 CPK File Builder Ver.1.47.01] ------------------
+(1) Specification changes
+  (a) If output file name has a file extension, the file is output without changing the file extension.  If no file extension, the file extension cpk is appended.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) A crash occurs when exporting a CSV file.
+
+[2014-03-05 CPK File Builder Ver.1.45.00] ------------------
+(1) Operationg environment
+  (a) Updated the .NET Framework from 2.0 to 4.0.
+  (b) Updated the Visual C++ runtime from 2008 to 2010.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) Select a file mode that contains "Group", and perform the Clean Build with the configuration that the data alignment and the group file alignment are different.  After that, when performing the additional build with the Difference Part Only enabled, an error "Invalid alignment setting." occurs even though the alignment settings are changed.
+  (b) When performing the additional build with the alignment setting changed, error checking process does not work, and therefore a CPK file with non-consistent alignment setting is created.
+  (c) Adjusted highlight color in the selected row in the [File list] pane.
+      Fixed a problem that characters are unreadable on some environmet.
+  (d) When registering a large content file and then executing the trial compression, clicking a directory in the file pane causes an exception.
+  (e) In the decompression process of CPK file, while decompressing a large content file, a slowdon occurs and temporarily indicates "no response."
+
+  (f) If the decompression process of CPK file fails in the CPK File Viewer, no error message is displayed.
+  (g) When WinRAR and CPK File Builder are used together, an exception may occur. 
+  (h) Group alignment is not applied for the first non-compressed file in the group.
+      If a smaller value than the minimum value of seek operation on the target is set to the attribute alignment, the first non-compressed file cannot be loaded or group-loaded.
+  (i) The constant macro CPK_TOTAL_INFO_SIZE_ALIGNED, which was output in the header file, is not correct in the roundup calculation.
+  (j) When performing the additional build in the "Filename+Id+Group" mode, all the content files become a target file regardless of changes to the content file.
+
+(3) Specification changes
+  (a) Corrected the description of items such as checkbox or selected items.
+  (b) Even when "checkig" is performed by default, a file which extension is registered as non-compressed file will not be checked.
+  (c) Packing order control is improved so that non-compressed and compressed files in a group can be separated and grouped into individual groups.
+      In the case where non-compressed and compressed files are mixed in a group, the total size of groups is reduced, and the performance of group loading is improved.
+  (d) Added the "Yes to all" button in some dialogs which can avoid answering for the same question multiple times, such as deleting many items.
+
+(4) New features
+  (a) Added an option to output the update range information also in the GUI version tool.
+      [Build Options] -> [Other Settings] -> [Output update range info]
+      Output file name: "<CPK file base name>_addrange.csv"
+  (b) Added the display of work size required to buind a CPK file in the CPK File Viewer.
+      [Notes]
+      The size displayed in the CPK File Viwer is the size needed to bind a CPK file on the PC (x86) environment.
+      The size to bind a CPK file is different depending on the platform, and so please consider it as a rough indication.
+
+[2013-04-05 CPK File Builder Ver.1.42.00] ------------------
+(1) New features
+  (a) File extension of files which are not compressed can be specified.
+      They are defined in the CpkMaker.uncompfileext.settings which is located in the same folder as where CpkMaker.dll exists.
+      The following extensions are registered by default:
+      .afs;.acx;.aax;.adx;.ahx;.aif;.aiff;.wav;.sfd;.m1v;.hca;.hcamx;.cpk;
+      .aix;.awb;.acb;.acf;.usa;.usm;.usv;.self;.sprx;.sdat;.mself;.mpg;.mp3;
+      .h264;.aac;.at9;.vag;.cwav;.p256
+      Define file extensions without a line break and continue with ";";
+      Please note that they may be changed in the future releases.
+      The settings file is also vaild for the command line tool.
+      It can be overwriten by the -uncompfileext option of the command line tool.
+  (b) Attributes can be specified for the group creation feature from a file list file.
+      Specify an attribute name separated by comma(,) in a file list file, and the attribute will belong to the file.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) When creating a content directy, other directory name may be changed to illegal one infrequently.
+  (b) When loading a project file, the file size of uncompressed file is displayed as 0.
+  (c) During a project file saving, its multiple operations can be performed, and therefore an illegal project file will be created.
+  (d) Red "x" mark is displayed on the diagonal line of rectangle where the compression ratio is displayed on the detail pane, and then an exception saying displaying width 0 is not possble occurs.
+  (e) Immediately after loading a project file, a group file list is always updated.
+  (f) File names in the "Recent Project Files" command of the File menu is not correct.
+
+[2012-03-07 CPK File Builder Ver.1.30.07] ------------------
+(1) Specification changes
+  (a) Changes to display an error if the imported CSV file is illegal.
+
+(2) New features
+  (a) Added a CPK file verification feature.
+      Using this feature, a CPK file already built can be verified against 
+      the original file contents that are registered in the project.
+
+[2012-02-09 CPK File Builder Ver.1.30.04] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Some operations such as exiting the application while registering files
+      or saving the project file are allowed.
+
+(2) New features
+  (a) Added a feature that deletes a registered file that does not have 
+      a existing local file.
+
+(3) Specification changes
+  (a) The following specification is removed, and a new specification that 
+      allows registeration of additional files is added.
+      - If a directory has been already registered when adding a file, 
+        an error occurs.  
+
+(4) Internal changes
+  (a) Built with Visual Studio 2008 SP1.
+
+[2011-12-08 CPK File Builder Ver.1.19.16] ------------------
+(1) Specification changes
+  (a) The range of file ID is changed as showen below:
+     [Before the change]
+      file mode = all               : 0 - 65535
+     [After the change]
+      file mode = ID Only           : 0 - 63354
+      file mode = other than ID Only: 0 - 2147483647
+
+[2011-09-30 CPK File Builder Ver.1.19.11] ------------------
+(1) Development environment
+  (a) Built with the Visual Studio 2008 and the VC90 runtime library is used.
+
+(2) New features
+  (a) The ":GROUP=group name" command becomes available in a list file.
+
+(3) Specification changes
+  (b) Optimized memory use.
+
+[2011-02-17 CPK File Builder Ver.1.18.04] ------------------
+(1) New features
+  (a) The tool does not work correctly on Windows 7 64-bit edition.
+
+[2010-12-02 CPK File Builder Ver.1.18.03] ------------------
+(1) New features
+  (a) Added a feature that exports the information within the CPK file 
+      to a CSV file.
+      It is found in the CPK File Viewer.
+
+[2010-11-29 CPK File Builder Ver.1.18.02] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When file name or group name containing '+' mark are used, 
+      a file cannot be loaded properly.
+
+[2010-09-21 CPK File Builder Ver.1.18.01] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A project file cannot be read/written properly.
+
+[2010-09-14 CPK File Builder Ver.1.18.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Improved the redundant memory management for file duplication check.
+
+[2010-06-17 CPK File Builder Ver.1.17.00] ------------------
+(1) New features
+  (a) Added an option of file size specification for the test file compression.
+      A file which file size is less than or equal to the specified size 
+      does not become the compression target.
+
+[2010-04-26 CPK File Builder Ver.1.16.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) The File Acces Log Viewer cannot get the correct information.
+
+[2010-03-30 CPK File Builder Ver.1.15.00] ------------------
+(1) New features
+  (a) Adde a feature that the CPK File Viewer is launched by specifying 
+      -view option and CPK file name.
+
+(2) Specification changes
+  (a) Updated the internal processing of data compression (DPK)
+
+[2009-12-15 CPK File Builder Ver.1.14.02] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When updating a group file and files within the group file, 
+      the synchronization is not completed by the single operation.
+
+[2009-12-04 CPK File Builder Ver.1.14.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) In the ID mode, only short definitions are put in the header file.
+
+(2) New features
+  (a) Supported group file alignment.
+
+(2) Specification changes
+  (a) When compressing files in the group alignment, compressed files
+      are aligned at the group file alignment.
+
+  (b) The original file registration can be deleted from a link file.
+
+[2009-11-18 CPK File Builder Ver.1.13.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) If there are a number of files in a group, a hang-up may occur during 
+      the build.
+
+(2) New features
+Added the following features:
+  (a) Added a feature that adds group files from a group file list (*.glst)
+      which defines a file list.
+      It is invoked from the Add Group from GroupFileList File command of
+      the Edit menu.
+
+  (b) Added an option that performs the synchronization in the build.
+      Check the Synchronize Local Files before Building checkbox in the
+      Application tab of the Options dialog box.
+
+(3) Specification changes
+  (a) The detail error information about the synchronization is output to
+      log, and an error dialog box is displayed after completed the process.
+      When being inquired about the file list update, press y or n while 
+      holding CTRL key to ignore the subsequent inquires.
+
+[2009-11-05 CPK File Builder Ver.1.11.00] ------------------
+(1) Bug fixes
+  (a) In the group creation from a list file, synchronization is performed 
+      unintendedly.
+
+  (b) In the sort function from the file access log, the sort calculation 
+      may not progress according to the conditions in file access log.
+
+(2) New features
+Added the following features:
+  (a) Added an option that does not ignore cases for file name, group name, 
+      and attribute name.
+      It is found in the Application tab in the Options dialog box.
+
+  (b) Added an option that disables the file exclusion setting when 
+      using the CSV export funtion.
+      It is found in the Export the CSV file dialog box.
+      Note that the exclusion files from packing target are excluded 
+      by default.
+
+  (b) Added the checkbox to place priority on the file unification.
+
+(3) Specification changes
+  (a) The settings for the file duplication and the the file unification 
+      are isolated.
+
+[2009-06-10 CPK File Builder Ver.1.08.11] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) The CRC value for audio file etc. may not be reflected in the CPK file.
+
+[2009-06-09 CPK File Builder Ver.1.08.10] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) If there are a number of files in the mode where ID is used,
+      an error may occur during the build.
+
+[2009-05-29 CPK File Builder Ver.1.08.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When enabling the forced compression or the CRC, an improper CRC value
+      may be written.
+
+  (b) The Additional build may not work correctly in some cases.
+
+(2) New features
+Added the following features:
+  (a) Added an option to randomizes the padding data in the CPK file. 
+
+(3) Specification changes
+  (a) Displays information of the offset within a content file in the 
+      File Access Log Viewer.
+
+  (b) File information in the CPK file that was located in the footer area 
+      is moved to the header area. 
+      This change may make the bind process to be performed fast by reducing
+      the seek quantity.  
+
+  (c) Added an option that local information is not contained in the CPK file.
+      This option makes the CPK file size smaller.
+
+[2009-04-27 CPK File Builder Ver.1.05.35] ------------------
+(1) Bug fixes
+  (a) In the ID Only mode, "_0" is added to a unique file name in the header 
+      file.
+
+  (b) If the CRC information to the compressed file is enabled, a hang-up
+      may happen during the building.
+
+[2009-03-03 CPK File Builder Ver.1.05.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When operating a locked file, an error occurs.
+
+(2) New features
+Added the following features:
+  (a) Added a feature that excludes registration files using a file fileter,
+      which is found in the Application tab in the Options dialog box.
+
+  (b) Embedded the CRC information in a CPK file.
+      The library supporting this feature is needed.
+
+  (c) Supported the file relocation by using the access log by ID.
+
+  (d) Added an option that a short definition name is used in the header
+      file, which is found in the Application tab in the Options dialog box.
+
+  (e) Added a feature to do the test compression.
+      This feature is invoked from the Test File Compression command in
+      the righ-click menu.
+
+  (f) Added a feature to search the redundant files that match binary data.
+      This feature is invoked from the Show Redundant Files command 
+      in the Edit menu.
+
+  (g) Added a feature to display the original file from a group file or 
+      a search result.
+
+  (h) Added a feature to display the original file from a file within 
+      a group file or a search result.
+
+(3) Specification changes
+  (a) Ignores cases when doing the search.
+
+  (b) Duplication is possible even in the "ID + Group" mode.
+
+  (b) Added the Apply button in the Build Settings dialog box.
+
+[2008-12-24 CPK File Builder Ver.1.04.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Files on the file list may not be selected correctly.
+
+  (b) When doing the additional build with the "Duplicates all group files"
+      enabled, an hang-up may happen.
+
+(2) New features
+  (a) Added the CPK file mode, "Filename + ID + Group".
+
+[2008-11-28 CPK File Builder Ver.1.03.10] ------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll).
+
+[2008-11-26 CPK File Builder Ver.1.03.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A file access log containing space characters in its file name cannot 
+      be analyzed correctly.
+
+  (b) Group names displayed in the File Layout Editor may not be updated.
+
+  (c) When changing an ID, it may not be reflected on the CPK file.
+
+(2) New features
+Added the following features:
+  (a) Added the "Show Tool Window" checkbox in the Post-Proces Settings.
+      in the Bulid Settings dialog box.
+
+  (b) Added the "No file DateTime information" in the Build Settings dialog
+      box.
+
+  (c) Added the "File Layout" combo box in the Build Settings dialog box.
+
+  (d) Added the CPK file mode, "ID + Group" and "Filename + ID".
+
+[2008-10-30 CPK File Builder Ver.1.02.00] -----------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) An exception occurs when deleting a directory in the file list view.
+
+(2) New features
+  (a) Added a feature to view the CPK file information in the File Layout
+      editor.
+
+(3) Specification changes
+  (b) Enhanced information displayed in the file access log viewer.
+
+[2008-10-17 CPK File Builder Ver.1.01.00] -----------------------------------
+(1) Development environment
+  (a) Changed the runtime library for development to .NET 2.0 SP1.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) When manually specifying a duplicate file, the file may not be assigned
+      to the intended group.
+
+(3) New features
+Addef the following features:
+  (a) File access log viewer
+
+  (b) Added "Delete blank group".
+
+  (c) When creating a group from a file list, a group file is synchronized 
+      with the file list update.
+
+(4) Specification changes
+  (a) Expanded a CSV file for inport/export to have group name, attribute name.
+
+  (b) The header file is output even in the "Filename" or "Filename + Group"
+      mode.
+
+  (c) Improved the speed of displaying a file list.
+
+[2008-09-26 CPK File Builder Ver.1.00.00] -----------------------------------
+(1) New features
+Added the following features:
+  (a) Added the File Layout dialog box, on which groups are created by
+      analyzing the file access log, and the file relocation sorting 
+      is available.
+
+  (b) Added a feature to duplicate a file.
+
+[2008-09-19 CPK File Builder Ver.0.93.00] -----------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A hang-up may happenn during copying the log.
+
+  (b) Deleting multiple files takes time to be completed.
+
+  (c) Corrected the splash window position when maximizing the application.
+
+  (d) When registering the same directory many times, a node in the Files 
+      pane disappears.
+
+  (f) Even when selecting multiple file lists in the Add Files, 
+      only one file list is registered.
+
+(2) New features
+Added the following features:
+  (a) Local path format for the output setting can be selected between 
+      relative/absolute paths in the Options dialog box.
+
+  (b) Added the Language setting in the Options dialog box.
+
+[2008-09-05 CPK File Builder Ver.0.91.60] -----------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A hang-up may happen during the access log analysis.
+
+[2008-09-04 CPK File Builder Ver.0.91.10] -----------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) A group file may not be referenced correctly depending on the packing 
+      order.
+
+  (b) Improved the speed of selecting the file list items.
+
+[2008-08-29 CPK File Builder Ver.0.91.01] -----------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) "Sort by the file list file ..." may hang during the analyzing 
+      the access log.
+
+[2008-08-29 CPK File Builder Ver.0.91.00] -----------------------------------
+This is the first release of the tool.
+
+/*--------------------------------------------------------------------------*
+ * 3. Revision History of CRI Packed File Maker
+ *--------------------------------------------------------------------------*/
+[2014-03-05 CRI Packed File Maker Ver.2.40.13] ------------------------------
+Updated the tool due to the dll update.
+
+[2013-04-05 CRI Packed File Maker Ver.2.40.12] ------------------------------
+Updated the tool due to the dll update.
+
+[2012-03-07 CRI Packed File Maker Ver.2.30.07] ------------------------------
+Updated the tool due to the dll update.
+
+[2012-02-09 CRI Packed File Maker Ver.2.30.04] ------------------------------
+Updated the tool due to the dll update.
+
+[2011-12-08 CRI Packed File Maker Ver.2.18.10] ------------------------------
+Updated the tool due to the dll update.
+
+[2011-09-30 CRI Packed File Maker Ver.2.17.00] ------------------------------
+Updated the tool due to the dll update.
+
+[2009-05-29 CRI Packed File Maker Ver.2.08.00] ------------------------------
+Updated the tool due to the dll update.
+
+[2009-05-21 CRI Packed File Maker Ver.2.07.20] ------------------------------
+Updated the tool due to the dll update.
+
+[2009-03-03 CRI Packed File Maker Ver.2.05.00] ------------------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll).
+
+[2008-11-28 CRI Packed File Maker Ver.2.00.00] ------------------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll).
+
+[2008-09-26 CRI Packed File Maker Ver.1.62.00] ------------------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll).
+
+[2008-09-19 CRI Packed File Maker Ver.1.60.00] ------------------------------
+(1) Specification changes
+  (a) Change the Maximum Data Alignment. 2048 -> 32768
+
+  (b) Change the Default Data Alignment. 512 -> 2048
+
+[2008-08-29 CRI Packed File Maker Ver.1.50.00] ------------------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll).
+
+[2008-05-20 CRI Packed File Maker Ver.1.42.00] ------------------------------
+(1) Specification changes
+  (a) A file of 128MB or more can be packed.
+
+[2008-02-29 CRI Packed File Maker Ver.1.40.00] ------------------------------
+(1) Changes
+  (a) Improved stability in packing process.
+
+[2008-02-14 CRI Packed File Maker Ver.1.36.00] ------------------------------
+(1) Specification changes
+  (a) Added the information in the output header file and changed 
+      the definitions in the header file to become unique.
+
+(2) Bug fixes
+  (a) Improved stability during the packing process.
+
+[2007-11-01 CRI Packed File Maker Ver.1.35.00] ------------------------------
+(1) Specification changes
+  (a) The version information of the tool that created a CPK file is put
+      into the CPK file.
+
+  (b) The version number of the CPK file is Ver.2/Rev.3.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) A CPK file, which file name information cannot be detected, is created.
+
+  (b) Hang-up or other problems may occur.
+
+[2007-10-16 CRI Packed File Maker Ver.1.32.00] ------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) If a file has the longest file name in the content file and 
+      the file name starts with a number, the number is appended directly
+      to the definition name in the output header file.
+
+[2007-09-15 CRI Packed File Maker Ver.1.31.00] ------------------------------
+(1) Specification changes
+  (a) Supported the sort by file name for CPK file to perform the fast search
+      at the runtime.
+
+  (b) The version number of CPK File is Ver.2/Rev.1.
+
+[2007-07-28 CRI Packed File Maker Ver.1.20.00] ------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Displaying CPK file information and writing back a file may fail.
+
+[2007-07-28 CRI Packed File Maker Ver.1.20.00] ------------------------------
+(1) Specification changes
+  (a) Changed the compressing algorithm. 
+      Be sure to use CRI Base Ver.1.09.00 or later and CRI File System 
+      Ver.1.07.00 or later.
+      The CPK file version is Ver.2/Rev.0.
+
+[2007-07-26 CRI Packed File Maker Ver.1.16.00] ------------------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Hang-up may happen during the packing.
+
+[2007-07-21 CRI Packed File Maker Ver.1.14.00] ------------------------------
+(1) New features
+  (a) Displays the version number of CpkMaker.dll.
+
+[2007-07-07 CRI Packed File Maker Ver.1.13.00] ------------------------------
+(1) Changes
+  (a) Changed the default settings. (DataAlign=512)
+
+[2007-06-30 CRI Packed File Maker Ver.1.12.00] ------------------------------
+(1) Specification changes
+  (a) Changed the default settings. (DataAlign=2048, Try Compress=True)
+
+[2007-06-16 CRI Packed File Maker Ver.1.09.00] ------------------------------
+(1) Specification changes
+  (a) Changed the file compression algorithm.
+      Be sure to use the CRI Base Ver.1.08.00 or later.
+
+(2) New features
+Added the following features:
+  (a) A feature to adjust the data alignment.
+
+  (b) A feature to exclude files not to be registered in the file list.
+
+[2007-04-11 CRI Packed File Maker Ver.1.00.01] ------------------------------
+(1) Bug fixes
+  (a) Corrected misspelling
+
+[2007-04-10 CRI Packed File Maker Ver.1.00.00] ------------------------------
+(1) New features
+Added the following features:
+  (a) A feature to compress files.
+
+  (b) A feature to configure the file exclusion setting.
+
+[2007-02-23 CRI Packed File Maker Ver.0.95.00] ------------------------------
+This is the first release of the tool.
+
+/*--------------------------------------------------------------------------*
+ * 4. Revision History of CRI Packed File Maker for Console
+ *--------------------------------------------------------------------------*/
+[2015-03-20 CRI Packed File Maker for Console Ver.2.48.00] ------------------
+[Common]
+(1) New features
+  (a) Added the following option:
+      -cpkroot=[Path]
+      This option adds the specified path at the top of the content file path (CPK file path)
+
+(2) Specification changes
+  (a) Removed the waiting process for key-in during displaying the usage.
+
+[2014-09-19 CRI Packed File Maker for Console Ver.2.47.04] ------------------
+(1) New features
+  (a) Added the following option:
+      -noerrorstop
+      This option disables a key-in waiting process even in the case of error.
+
+[2014-08-01 CRI Packed File Maker for Console Ver.2.47.02] ------------------
+(1) New features
+  (a) Added the following option:
+      - cpkproj
+      This option creates a .cpkproj file for CPK File Builder after building a CPK file.
+
+[2014-07-14 CRI Packed File Maker for Console Ver.2.47.00] ------------------
+(1) Specification changes
+  (a) If a file extension is specified as output file name, the file is output without changing the specified extension.
+      Without file extension, it is set to .cpk.
+
+[2014-03-05 CRI Packed File Maker for Console Ver.2.45.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When performing the additional build with the alignment setting changed, error checking process does not work, and therefore a CPK file with non-consistent alignment setting is created.
+  (b) Group alignment is not applied for the first non-compressed file in the group.
+      If a smaller value than the minimum value of seek operation on the target is set to the attribute alignment, the first non-compressed file cannot be loaded or group-loaded.
+  (c) The constant macro CPK_TOTAL_INFO_SIZE_ALIGNED, which was output in the header file, is not correct in the roundup calculation.
+  (d) Enhanced the error checking for the additional build.
+      Specifically, if the condition is not appropriate, a warning will be displayed to stop the process.
+      Examples of non-appropriate conditions are shown below:
+      - combination use of -nolocalinfo and -add options
+      - combination use of -nolocalinfo and -add options
+      - specifying -add option to the CPK file build with -nolocalinfo option
+      - specifying -add option to the CPK file build with -nodatetime option
+  (e) On the execution of additional build, the group search information in the CPK file becomes invalid, and therefore CPU load in the group loader related APIs cannot be reduced.
+     (CPU load reduction in the additional build  was ineffective in cpkmakec Ver.2.41.01.)
+
+(2) Specification changes
+  (a) CompressAdd mode for the compression setting is added to resolve a problem that redundant file are added when adding files by CSV file.
+      In the file addition with the old Compress/Uncompress option, there was some inconsistency in the CPK file.
+      If the CompressAdd option is specified, a file that does not exist in the CPK is compressed, and a file that exists in the CPK file is processed depending on the compression settings.  As a result, useless redundant additions can be avoided.
+      When repeating file additions by an automatically generated CSV file, specify the CompressAdd option for all the files.
+  (b) Packing order control is improved so that non-compressed and compressed files in a group can be separated and grouped into individual groups.
+      In the case where non-compressed and compressed files are mixed in a group, the total size of groups is reduced, and the performance of group loading is improved.
+
+[2013-04-05 CRI Packed File Maker for Console Ver.2.42.00] ------------------
+(1) Specification changes
+  (a) CPK file with non-CPK file extension can be indentified to display its information.
+
+  (b) Specifying an invalid option becomes an error.
+
+[2012-03-07 CRI Packed File Maker for Console Ver.2.30.07] ------------------
+(1) Specification changes
+  (a) An error occurs when specifying an invalid command option.
+
+(2) New features
+  (a) Added file alignment related features:
+      -groupalign=<Group Alignment size>
+          Specifies an alignment of data that is located at the group top,
+          which is valid when using the group load feature.
+      -attralign=<Attribute Alignment File List>
+          Specifies a CSV file in which attribute name and alignment size 
+          are enumerated, and specifies file alignment by attribute.
+
+  (b) Added a CPK file verification feature.
+      Using this feature, a CPK file already built can be verified against 
+      the original file contents that are registered in the project.
+      [Usage]
+      cpkmakec <Input CSV File or Directory> <Input CPK File> -verify
+
+[2012-02-09 CRI Packed File Maker for Console Ver.2.30.04] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) An illegal CPK file is output if specifying a file alignment greater
+      than 2048.
+
+[2011-12-08 CRI Packed File Maker for Console Ver.2.21.12] ------------------
+Updated the tool due to the dll update.
+
+[2011-09-30 CRI Packed File Maker for Console Ver.2.21.10] ------------------
+Updated the tool due to the dll update.
+
+[2011-02-17 CRI Packed File Maker for Console Ver.2.18.04] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) The tool does not work correctly on Windows 7 64-bit edition.
+
+[2010-12-02 CRI Packed File Maker for Console Ver.2.18.03] ------------------
+(1) New features
+  (a) Added a feature that exports the information within the CPK file 
+      to a CSV file.
+      cpkmakec <CPK Filename> -exportcpkinfo=<CSV Filename>
+
+[2010-09-14 CRI Packed File Maker for Console Ver.2.18.00] ------------------
+(1) Specification changes
+  (a) Improved the redundant memory management for file duplication check.
+
+[2010-06-17 CRI Packed File Maker for Console Ver.2.17.00] -------------------
+(1) New features
+  (a) Added the following option.
+    -compfilesize=[Original File Size]
+      A file which file size is less than or equal to the specified size 
+      is not compressed.
+    Example: -compfilesize=4096 
+      A file which file size is less than or equl to 4096 is not compressed.
+
+[2010-05-07 CRI Packed File Maker for Console Ver.2.16.00] -------------------
+(1) New features
+  (a) Added the following options.
+    -compper=[Compression Threshold %]
+        If the compression ration is less than or equal to the specified 
+        threshold, the compression process is not performed.
+    ExampleÅF -compper=80.0
+        If the compression ratio of a file is less than or equal to 80%, 
+        it is not compressed.
+
+    -fileunification
+        The duplicated binary files are contracted to a single file.
+
+[2010-03-30 CRI Packed File Maker for Console Ver.2.15.00] -------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) In the ID+Group, ALL mode, groups are not defined in the header.
+
+  (b) In the ID mode, definitions with paths are not output in the header.
+
+  (c) Overlapped definitions are output in the header when duplicating files.
+
+(2) New features
+  (a) Comment is available in the input CSV file.
+      The line starting with # is handled as a comment line.
+
+[2009-06-10 CRI Packed File Maker for Console Ver.2.08.11] -------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) The CRC value for audio file etc. may not be reflected in the CPK file.
+
+[2009-06-09 CRI Packed File Maker for Console Ver.2.08.10] -------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) If there are a number of files in the mode where ID is used,
+      an error may occur during the build.
+
+[2009-05-29 CRI Packed File Maker for Console Ver.2.08.00] -------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) When enabling the forced compression or the CRC, an improper CRC value
+      may be written.
+
+  (b) The Additional build may not work correctly in some cases.
+
+(2) New features
+Added the following features:
+  (a) Added an option to randomize the padding data in the CPK file. 
+     (-rand option)
+
+  (b) Added an option that local information is not contained in the CPK file.
+      This option makes the CPK file size smaller.
+     (-nolocalinfo option)
+
+(3) Specification changes
+  (b) File information in the CPK file that was located in the footer area 
+      is moved to the header area. 
+      This change may make the bind process to be performed fast by reducing
+      the seek quantity.  
+     (the -disabletoptoc option to revert to the previous format)
+
+[2009-04-27 CRI Packed File Maker for Console Ver.2.05.35] -------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) In the ID Only mode, "_0" is added to a unique file name in the header 
+      file.
+
+  (b) If the CRC information to the compressed file is enabled, a hang-up
+      may happen during the building.
+
+[2009-03-03 CRI Packed File Maker for Console Ver.2.05.00] ------------------
+(1) New features
+  (a) Supported to embed the CRC information into a CPK file. 
+     (-crc option)
+
+[2008-12-26 CRI Packed File Maker for Console Ver.2.02.00] ------------------
+(1) New features
+  (a) Added a feature to duplicate group files. 
+     (-duplicate option)
+
+  (b) Supported a new CPK file mode "Filename + ID + Group". 
+      (-mode=filenameidgroup)
+
+[2008-11-28 CRI Packed File Maker for Console Ver.2.00.00] ------------------
+(1) New features
+  (a) Supported the "addtional build" (incremental build).
+
+  (b) Supported a new CPK file mode "Filename + Group" and "ID + Group".
+
+(2) Specificaton changes
+  (a) Changed the CPK file format about "ID + Filename" mode.
+
+[2008-09-26 CRI Packed File Maker for Console Ver.1.62.00] ------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll). 
+
+[2008-09-19 CRI Packed File Maker for Console Ver.1.60.00] ------------------
+(1) Specification changes
+  (a) Change the default data alignment to 2048
+
+[2008-08-29 CRI Packed File Maker for Console Ver.1.50.00] ------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll). 
+
+[2008-05-20 CRI Packed File Maker for Console Ver.1.42.00] ------------------
+(1) Development environment
+  (a) Built with the latest CpkMaker.dll (common dll). 
+
+[2008-02-29 CRI Packed File Maker for Console Ver.1.40.00] ------------------
+Rebuilt the tool.
+
+[2007-11-01 CRI Packed File Maker for Console Ver.1.35.00] ------------------
+(1) Specification changes
+  (a) The version information of the tool that created a CPK file is put
+      into the CPK file.
+
+  (b) The version number of the CPK file is Ver.2/Rev.3.
+
+(2) Bug fixes
+Fixed the following bugs:
+  (a) A CPK file, which file name information cannot be detected, is created.
+
+  (b) Hang-up or other problems may occur.
+
+[2007-09-15 CRI Packed File Maker for Console Ver.1.31.00] ------------------
+(1) Specification changes
+  (a) Supported the sort by file name for CPK file to perform the fast search
+      at the runtime.
+
+  (b) Changed to wait for key-in if an error occurs.
+
+[2007-08-01 CRI Packed File Maker for Console Ver.1.21.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Displaying CPK file information and writing back a file may fail.
+
+[2007-07-28 CRI Packed File Maker for Console Ver.1.20.00] ------------------
+(1) Specification changes
+  (a) Changed the file compression algorithm. 
+      Be sure to use CRI Base Ver.1.09.00 or later and CRI File System 
+      Ver.1.07.00 or later.
+      The CPK file version is Ver.2/Rev.0.
+
+(2) New features
+  (a) Added the -forcecompress option.
+
+[2007-07-26 CRI Packed File Maker for Console Ver.1.06.00] ------------------
+(1) Bug fixes
+Fixed the following bugs:
+  (a) Hang-up may happen during the packing.
+
+[2007-07-07 CRI Packed File Maker for Console Ver.1.04.00] ------------------
+(1) New features
+  (a) Displays the version number of CpkMaker.dll.
+
+[2007-07-07 CRI Packed File Maker for Console Ver.1.03.00] ------------------
+(1) Specification changes
+  (a) Changed the default settings. (DataAlign=512)
+
+[2007-06-30 CRI Packed File Maker for Console Ver.1.02.00] ------------------
+(1) Specification changes
+  (a) Changed the internal file processing.
+
+[2007-06-23 CRI Packed File Maker for Console Ver.1.00.00] ------------------
+(1) New features
+Added the following features:
+  (a) A feature to encrypt the directory information within a CPK file.
+
+  (b) A feature to set the currect directory.
+
+  (c) A feature to display the CPK file information.
+
+[2007-06-14 CRI Packed File Maker for Console Ver.0.81.00] ------------------
+This is the first release of the tool.
+
+-END-
+
+/*--< end of file >---------------------------------------------------------*/

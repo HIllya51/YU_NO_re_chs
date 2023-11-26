@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Orca XML File Format -->
+<OrcaTrees OriginalFilePath="C:\Users\wcy\Documents\GitHub\YU_NO_re_chs\patch\pack.cpkproj" ObjectTypeExpression="Full" BinaryEncodingType="Base64" FileVersion="3" FileRevision="0">
+  <OrcaTree OrcaName="C:/Users/wcy/Documents/GitHub/YU_NO_re_chs/pack/crifilesystem v2.40.13.0/CpkFileBuilder.exe">
+    <Orca OrcaName="CRI CPK Builder" OrcaType="CriMw.CriGears.Core.OrcaObject">
+      <Orca OrcaName="Workspace" OrcaType="CriMw.CriGears.Core.OrcaObject">
+        <Orca OrcaName="Project" CpkFilePath="C:/Users/wcy/Documents/default.cpk" LastWriteTime="2023/11/26 21:15:14" CpkFileMode="ModeFilenameAndId" FileLayoutType="LayoutModeUser" CpkDataAlignment="2048" CpkTryCompression="False" CpkMaskInfo="False" CpkCrc="False" CpkOutputHeader="False" OutputAddRangeCsv="False" IsSpecifyHeaderFilePath="False" IsProgramSymbolUsePrefix="False" IsProgramSymbolUseSuffix="False" IsRemoveFileExtension="False" EnableAttrString="False" CpkRandomPadding="False" CpkTopTocInfo="True" CpkRemoveLocalFileInfo="False" NumberOfMaxId="18" OutputFilePath="C:/Users/wcy/Documents/default.dat" Command="" Arguments="&quot;%CPKPATH%&quot;" EnablePostProcess="False" ShowProcess="False" FileOptimizeType="None" RemainGroupName="Remains" OpenLayoutEdit="True" DisplayMself="False" EnableMself="False" NoDateTimeInfo="False" ShowTooWindow="False" CodecInfo="0" Lzma_WindowSize="3" Lzma_BlockSizeVer2="17" Relc_PageSize="12" Relc_RomType="1" UnificationType="None" GroupFileAlignment="-1" DifferencePartOnly="False" ShowLogPain="True" ShowDetailPain="True" ShowTreePain="True" CompressThreshold="100" CompressFileSize="0" AuthorToolVersion="CPKFBSTD1.49.34, DLL3.24.00" OrcaType="CpkFileBuilder.Objects.ObjectProject">
+          <Orca OrcaName="Root" CompressedSize="0" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectDirectory">
+            <Orca OrcaName="album.png" Id="0" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr)" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/album.png" OriginalSize="10144427" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="album_thum.png" Id="1" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):1" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/album_thum.png" OriginalSize="11870904" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="backlog.png" Id="2" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):2" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/backlog.png" OriginalSize="4180945" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="config.png" Id="3" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):3" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/config.png" OriginalSize="6185012" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="data01.png" Id="4" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):4" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/data01.png" OriginalSize="4242488" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="data03.png" Id="5" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):5" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/data03.png" OriginalSize="88686" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="eff_lenzflare.png" Id="6" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):6" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/eff_lenzflare.png" OriginalSize="373864" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="font.png" Id="7" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):7" LastWriteTime="2023/11/26 14:59:44" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/font.png" OriginalSize="2455996" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="font2.png" Id="8" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):8" LastWriteTime="2023/11/26 14:59:44" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/font2.png" OriginalSize="2455996" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="help.png" Id="9" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):9" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/help.png" OriginalSize="2465840" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="menuchip.png" Id="10" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):10" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/menuchip.png" OriginalSize="1166186" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="meswin.png" Id="11" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):11" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/meswin.png" OriginalSize="2817884" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="music.png" Id="12" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):12" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/music.png" OriginalSize="8504710" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="titlechip.png" Id="13" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):13" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/titlechip.png" OriginalSize="6820052" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="wavtable.dat" Id="14" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):14" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/wavtable.dat" OriginalSize="383060" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="yuno_ui.png" Id="15" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):15" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/yuno_ui.png" OriginalSize="7172881" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="yuno_ui2.png" Id="16" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):16" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/yuno_ui2.png" OriginalSize="4433084" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="guide.png" Id="17" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):17" LastWriteTime="2023/11/26 20:42:02" LocalFilePath="../../../../../../dataH/AAAAAAAAAA/Jpn/data/system/guide.png" OriginalSize="87771" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+          </Orca>
+          <Orca OrcaName="Groups" LastWriteTime="0001/1/1 0:00:00" SyncFileList="True" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectGroup" />
+          <Orca OrcaName="Attributes" Alignment="2048" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectAttribute">
+            <Orca OrcaName="" Alignment="2048" DeleteLocked="True" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectAttribute">
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/album.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/album_thum.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/backlog.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/config.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/data01.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/data03.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/eff_lenzflare.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/font.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/font2.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/help.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/menuchip.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/meswin.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/music.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/titlechip.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/wavtable.dat" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/yuno_ui.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/yuno_ui2.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/guide.png" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+            </Orca>
+          </Orca>
+        </Orca>
+      </Orca>
+      <Orca OrcaName="View" OrcaType="CriMw.CriGears.Core.OrcaObject">
+        <Orca />
+      </Orca>
+      <!-- Copyright (c) CRI Middleware Co.,LTD. -->
+      <!-- end of document -->
+    </Orca>
+  </OrcaTree>
+</OrcaTrees>

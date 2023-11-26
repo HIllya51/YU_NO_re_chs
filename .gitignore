@@ -1,0 +1,10 @@
+dump/build
+sc3tools-main/target
+sc3tools-main_pack/target
+unpack/vMES
+unpack/vTXT
+unpack/vTXTu8 
+pack/CriPakTools-master/.vs
+pack/CriPakTools-master/CriPakTools/bin
+pack/CriPakTools-master/CriPakTools/obj
+patch/build

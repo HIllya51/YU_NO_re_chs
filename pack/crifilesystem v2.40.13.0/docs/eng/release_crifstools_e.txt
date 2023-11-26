@@ -1,0 +1,122 @@
+/****************************************************************************
+ *
+ * CRI Middleware SDK
+ *
+ * Copyright (c) 2016 CRI Middleware Co., Ltd.
+ *
+ * Title   : CRI File System tools
+ * Module  : Release Notes
+ * File    : release_crifstools_e.txt
+ * Date    : 2016-03-10
+ * Version : 2.50.03
+ *
+ ****************************************************************************/
+
+/*--------------------------------------------------------------------------*
+ *
+ * [Table of Contents]
+ * 1.  About CRI File System Tools
+ * 2.  Version Information
+ * 3.  Tool Package
+ * 4.  System Requirements
+ * 5.  Notes
+ *   5.1 Known problems
+ *
+ *--------------------------------------------------------------------------*/
+
+1.  About CRI File System Tools
+"CRI File System tools" is a tool package for creating files used by 
+the CRI File System library.
+CRI File System tools package comes with the following components:
+
+(a) "CPK File Builder"
+A Windows GUI version of CPK file making tool.
+This tool is an advanced verison of "CRI Packed File Maker", and it has 
+a number of higher-level features.
+Various operations such as, organizing files and directories, configuring 
+compression settings, and optimizing file locations, are supported.
+
+(b) "CRI Packed File Maker"
+A simple GUI version of CPK file making tool.
+A CPK file can easily be created simply by dragging and dropping the folder
+containing files.
+
+(c) Console Version of "CRI Packed File Maker"
+A console program for "CRI Packed File Maker".
+Define files in a CSV file that are packed into a CPK file, and then start 
+the tool specifying the CSV file as a command line option.
+
+(d) CPK File Making Tool 'MakeCpk' for Excel
+A tool that can create a CPK file directly within the Excel worksheet.
+A CPK file can easily be created by defining a file list in the worksheet 
+and clicking the button.
+
+(e) cpkencryptor
+A console program to encrypt the content files contained in the CPK file that
+is built with CPK File Builder etc.
+This tool extracts content files from the existent CPK file, specifying 
+those files as encryption target, and then encrypts them with user's own 
+encryption tool.
+
+2.  Version Information
+(1) Tool Package
+  CRI File System tools                 : Ver.2.50.03
+
+(2) Tools
+  (a) CPK File Builder                  : Ver.1.49.34
+  (b) CRI Packed File Maker             : Ver.2.40.13
+  (c) CRI Packed File Maker for Console : Ver.2.49.32
+  (d) MakeCpk(Excel)                    : Ver.1.00.03
+
+[Note]
+(*) denotes the updated tool.
+
+3. Tool Package
+This tool package includes the following tools and documentation.
+
+(1) Executables
+  (a) CpkFileBuilder.exe                  : CPK File Builder
+  (b) CriPackedFileMaker.exe              : CRI Packed File Maker
+  (c) cpkmakec.exe                        : CRI Packed File Maker for Console
+
+(2) Execubale sub-files
+  (a) CpkMaker.dll                        : Common sub-modules
+  (b) CpkBinder.dll                       : Common sub-modules
+  (c) CpkMakerControl.dll                 : CPK File Builder sub-modules
+  (d) ja-JP/CpkFileBuilder.resources.dll  : CPK File Builder jpn-resource
+
+(3) Excel files
+  (a) MakeCpk_e.xsl                       : Excel file for MakeCpk
+     (Its manual and samples/tutorials are included in the excel file.)
+
+(4) Documents
+  (a) release_crifstools_e.txt            : Release notes (this file)
+  (b) history_crifstools_e.txt            : Revision history
+  (c) CRI_File_System_e.chm               : User's manual
+
+For tool's usage, please see the manual "CRI File System tools user's manual"
+(CRI_File_System_Tools_Manual_e.chm).
+
+4.  System Requirements
+(1) CRI File System Tools Environment
+CRI File Systemn tools run on the following environment:
+
+    PC              : IBM PC compatible 
+    OS              : Windows 7 / 8.1 (x86 or x64)
+    .NET Framework  : .NET Framework 4.0 or 4.5
+
+[Note]
+CRI File System tools are built for the .NET Framework 4.0.
+However, it runs on the .NET Framework 4.5 environment.
+If .NET Framework 4.5 is already installed, there's no need to additonally 
+install the .NET Framework 4.0.
+CRI File System tools are 32-bit applications but can run on 64-bit OS.
+
+(2) Getting the .NET Framework
+You can get the .NET Framework from the following website.
+
+    - Microsoft .NET Framework 4.0
+https://www.microsoft.com/en-US/download/details.aspx?id=17718
+
+
+/*--< end of file >---------------------------------------------------------*/

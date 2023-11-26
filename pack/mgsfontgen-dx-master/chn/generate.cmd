@@ -1,0 +1,1 @@
+..\bin\Release\net461\mgsfontgen-dx generate --charset .\Charset.utf8 --compound-characters .\CompoundCharacters.tbl --font-family "VL PGothic" --image-format png
