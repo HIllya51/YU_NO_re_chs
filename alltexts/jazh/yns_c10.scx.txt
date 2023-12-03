@@ -1,0 +1,129 @@
+JA [name]たくや[line]‥‥屋上だ。[%p]
+ZH [name]拓也[line]……屋顶上。[%p]
+
+JA [name]たくや[line]校内には、誰もいないのかな‥‥。[%p]
+ZH [name]拓也[line]校园里面，已经没有人了吗……。[%p]
+
+JA [name]たくや[line]‥‥屋上だ。[%p]
+ZH [name]拓也[line]……屋顶上。[%p]
+
+JA [name]たくや[line]ここには、誰もいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]这里，好像没有人在啊……。[%p]
+
+JA [name]たくや[line]‥‥またまた来てしまった。[%p]
+ZH [name]拓也[line]……又走上来了。[%p]
+
+JA [name]たくや[line]いったい俺は、何をやっているんだろうな‥‥。[%p]
+ZH [name]拓也[line]我这究竟是在干什么啊……。[%p]
+
+JA [name]たくや[line]‥‥戻ろう。[%p]
+ZH [name]拓也[line]……回去吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここに教師がいるわけないじゃないか‥‥。[%p]
+ZH [name]拓也[line]这里不是应该没有老师在吧……。[%p]
+
+JA [name]たくや[line]じゃあ、何で俺はここにいるんだ?[%p]
+ZH [name]拓也[line]那么，为什么我会在这里呢？[%p]
+
+JA [name]たくや[line]‥‥下に戻ろう。[%p]
+ZH [name]拓也[line]……回下面去吧。[%p]
+
+JA [name]たくや[line]屋上に来たぜ‥‥。[%p]
+ZH [name]拓也[line]到屋顶上来了……。[%p]
+
+JA [name]たくや[line]少し、肌寒いな‥‥。[%p]
+ZH [name]拓也[line]有点，冷起来了……。[%p]
+
+JA [name]たくや[line](‥‥亜由美さんだ。)[%p]
+ZH [name]拓也[line](（……是亚由美小姐。）。)[%p]
+
+JA [name]たくや[line](手すりごしに、海の方を見ているみたいだな‥‥。)[%p]
+ZH [name]拓也[line](（好像靠在扶手上，往海的方向眺望着……。）。)[%p]
+
+JA [name]たくや[line](何か、考え事かな‥‥?)[%p]
+ZH [name]拓也[line](（我在，想些什么呢……？）)[%p]
+
+JA [name]たくや[line](よーし、少し驚かせてやろう。)[%p]
+ZH [name]拓也[line](（好——了，稍微吓吓她吧。）。)[%p]
+
+JA [name]たくや[line](そーっと、そーっと後ろから近づき‥‥。)[%p]
+ZH [name]拓也[line](（悄悄地，悄悄地从背后靠近……。）。)[%p]
+
+JA [name]たくや[line](そして、おもむろに!)[%p]
+ZH [name]拓也[line](（然后，再静静地！）)[%p]
+
+JA [name]亜由美[line]そうよっ、そうだわっ![%p]
+ZH [name]亚由美[line]对了，是这样啊！[%p]
+
+JA [name]たくや[line]どわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]亜由美[line]あら‥‥たくやクン。[%p]
+ZH [name]亚由美[line]咦……拓也君。[%p]
+
+JA [name]たくや[line](ドキドキドキ‥‥。)[%p]
+ZH [name]拓也[line](心脏扑通扑通‥‥。)[%p]
+
+JA [name]亜由美[line]どうしたの?[%p]
+ZH [name]亚由美[line]你怎么了？[%p]
+
+JA [name]たくや[line]はははは‥‥。[%p]
+ZH [name]拓也[line]哈哈哈哈……。[%p]
+
+JA [name]たくや[line](逆に驚かされてしまった。)[%p]
+ZH [name]拓也[line](（反倒是他吓了我一跳。）。)[%p]
+
+JA [name]亜由美[line]補習は終わった?[%p]
+ZH [name]亚由美[line]补课结束了吗？[%p]
+
+JA [name]たくや[line]えっ、なにそれ?[%p]
+ZH [name]拓也[line]诶，那是什么？[%p]
+
+JA [name]亜由美[line]‥‥今日から補習だって、言っていたじゃない。[%p]
+ZH [name]亚由美[line]……今天要开始补课了，这个我不是说过吗。[%p]
+
+JA [name]たくや[line]そ、そうだったっけ‥‥そうそう、そうなんだ。[%p]
+ZH [name]拓也[line]是，是这样的吧吗……我差不多，该回去了。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]やだなぁ、もう補習は終わったんだ、うん。[%p]
+ZH [name]拓也[line]讨厌啊，补课已经结束了吗，嗯。[%p]
+
+JA [name]亜由美[line]ほんと?[%p]
+ZH [name]亚由美[line]真的吗？[%p]
+
+JA [name]たくや[line]ほんとほんと。[%p]
+ZH [name]拓也[line]真的是这的。[%p]
+
+JA [name]亜由美[line]良かった。フフ、ご苦労様でした。[%p]
+ZH [name]亚由美[line]太好了。呵呵，你辛苦了。[%p]
+
+JA [name]たくや[line]はははは‥‥‥。[%p]
+ZH [name]拓也[line]哈哈哈哈……。[%p]
+
+JA [name]たくや[line](あぁ、チクチクと良心が痛むぞ‥‥。)[%p]
+ZH [name]拓也[line](（啊啊，良心像是被揪住了似地疼痛……。）。)[%p]
+
+JA [name]たくや[line]屋上だ‥‥少し肌寒いな。[%p]
+ZH [name]拓也[line]屋顶上……稍微有点冷啊。[%p]
+
+JA [name]たくや[line]屋上に来てしまった‥‥。[%p]
+ZH [name]拓也[line]又到屋顶上来了……。[%p]
+
+JA [name]たくや[line]亜由美さんがここにいるとは思えないが‥‥。[%p]
+ZH [name]拓也[line]虽然我认为亚由美小姐不会在这里出现……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,102 @@
+JA [name]たくや[line]‥‥喉が‥‥カラカラだ。[%p]
+ZH [name]拓也[line]JF:喉咙……干巴巴的。[%p]
+
+JA [name]たくや[line]グビグビプハ〜っ!な感じで水を飲まさせてくれよ。[%p]
+ZH [name]拓也[line]JF:咕嘟咕嘟~！让我喝点水吧。[%p]
+
+JA [name]たくや[line]喉がカラッカラで死にそうなんだよ![%p]
+ZH [name]拓也[line]JF:喉咙干巴巴的快要死了！[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]はあ、はあ‥‥。[%p]
+ZH [name]拓也[line]哈啊，哈啊……。[%p]
+
+JA [name]たくや[line]おい、何だか目眩がしてきたぞ。[%p]
+ZH [name]拓也[line]喂，不由得有些眩晕。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]家の貯水は、セーレスが壊してしまったからな‥‥。[%p]
+ZH [name]拓也[line]家里的贮水，被塞蕾斯弄坏了……。[%p]
+
+JA [name]たくや[line]このあたりで、水が飲める場所と言ったら‥‥。[%p]
+ZH [name]拓也[line]这附近，说起能喝水的地方……。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]あの場所だって。[%p]
+ZH [name]拓也[line]就是那个地方。[%p]
+
+JA [name]たくや[line]だだっ広い草原に、ポツンと家が建ってる‥‥。[%p]
+ZH [name]拓也[line]无边无际的辽阔草原上，孤零零地建着一所房子……。[%p]
+
+JA [name]たくや[line]などと説明すると、喉が渇く。[%p]
+ZH [name]拓也[line]说明这些事情之时，喉咙开始渴了。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]石だよ‥‥。[%p]
+ZH [name]拓也[line]是石头……。[%p]
+
+JA [name]たくや[line]そして俺は、喉が渇いている。[%p]
+ZH [name]拓也[line]并且我，正口渴中。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]今はそんなのを見たくないくらい、喉が渇いているんだ。[%p]
+ZH [name]拓也[line]现在已经口渴得，不想看那种东西。[%p]
+
+JA [name]たくや[line]中に入るのか‥‥?[%p]
+ZH [name]拓也[line]到里面去吗‥‥？[%p]
+
+JA [name]たくや[line]よし、丘の上へ行こう。[%p]
+ZH [name]拓也[line]好，前往丘陵上面。[%p]
+
+JA [name]たくや[line]あそこから行ける、あの場所なら、水があるはずだぞ。[%p]
+ZH [name]拓也[line]能从那里过去，那地方的话，应该有水。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]そんなことをやってると、余計に喉が渇く。[%p]
+ZH [name]拓也[line]做那种事的话，喉咙反而更渴了。[%p]
+
+JA [name]たくや[line]早く水‥‥。[%p]
+ZH [name]拓也[line]快点找水……。[%p]
+
+JA [name]たくや[line]あのな‥‥んなバカなことやってないで、他のことをしようぜ。[%p]
+ZH [name]拓也[line]那个……别做些无聊事情，干点别的吧。[%p]
+
+JA [name]たくや[line]まったく、ただでさえ喉が渇いてるってのに‥‥。[%p]
+ZH [name]拓也[line]真是的，本来就口渴了……。[%p]
+
+JA [name]たくや[line]入ってるよ‥‥ちゃんとね。[%p]
+ZH [name]拓也[line]进去了哦……好好地。[%p]
+
+JA [name]たくや[line]イヤだよ。[%p]
+ZH [name]拓也[line]才不要。[%p]
+
+JA [name]たくや[line]だから、煙を吐き出すんだよ‥‥止めておこう。[%p]
+ZH [name]拓也[line]JF:所以，把烟吐出来……停下来吧。[%p]
+
+JA [name]たくや[line]とにかく、水だ。[%p]
+ZH [name]拓也[line]总之，水。[%p]
+
+JA [name]たくや[line]こいつに触ると、煙を吐き出すぜ‥‥。[%p]
+ZH [name]拓也[line]只要一摸这家伙，就会冒出烟来‥‥。[%p]
+
+JA [name]たくや[line]この1週間というもの、俺は嫌というほど味わってきたはずだぜ。[%p]
+ZH [name]拓也[line]这一周期间，我已经受够了。[%p]
+
+JA [name]たくや[line]‥‥説明終わり。さっ、水を飲みに行こう。[%p]
+ZH [name]拓也[line]……说明完毕。快点，去喝水吧。[%p]
+
+JA 
+ZH 
+

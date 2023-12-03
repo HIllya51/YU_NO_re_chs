@@ -1,0 +1,69 @@
+JA [name]たくや[line]セーレス‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯‥‥。[%p]
+
+JA [name]たくや[line]俺が独りだよ‥‥。[%p]
+ZH [name]拓也[line]我独自一人……。[%p]
+
+JA [name]たくや[line]だから、俺独りだけなんだってば![%p]
+ZH [name]拓也[line]说了，只有我一个人！[%p]
+
+JA [name]たくや[line]‥‥男のヒスは情けないぜ。[%p]
+ZH [name]拓也[line]……男人的歇斯底里真是丢脸。[%p]
+
+JA [name]たくや[line]誰もいない居間、か‥‥。[%p]
+ZH [name]拓也[line]JF:谁都不在的起居室。[%p]
+
+JA [name]たくや[line]無論、セーレスもいない‥‥。[%p]
+ZH [name]拓也[line]当然，塞蕾斯也不在……。[%p]
+
+JA [name]たくや[line]テーブルだな‥‥。[%p]
+ZH [name]拓也[line]桌子啊……。[%p]
+
+JA [name]たくや[line]今は何も食う気がしないぜ‥‥。[%p]
+ZH [name]拓也[line]现在完全没有食欲……。[%p]
+
+JA [name]たくや[line]いつもなら、彼女が作ってくれた夕食を食べる時間か‥‥。[%p]
+ZH [name]拓也[line]平时的话，已经是吃着她烹饪的料理的时间了……。[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]いつもなら、彼女があそこに立って‥‥。[%p]
+ZH [name]拓也[line]平时的话，她就站在那里……。[%p]
+
+JA [name]たくや[line]二人分の料理を作っている時間だな‥‥。[%p]
+ZH [name]拓也[line]烹饪两个人分量的料理的时间了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]無理言うなよ‥‥砂漠の夜なんて、月の光だけだぜ。[%p]
+ZH [name]拓也[line]别强人所难啊……沙漠的夜里，可是只有夜光而已。[%p]
+
+JA [name]たくや[line]目の前に落としたサイフだって、見えやしない‥‥。[%p]
+ZH [name]拓也[line]就连掉在眼前钱包，也看不到……。[%p]
+
+JA [name]たくや[line]おいおい、もうさんざん探したぜ‥‥。[%p]
+ZH [name]拓也[line]喂喂，已经彻底地找过了……。[%p]
+
+JA [name]たくや[line]しかも、外はもう暗い‥‥どう考えても無理だ。[%p]
+ZH [name]拓也[line]而且，外面已经漆黑一片……无论怎么想都办不到。[%p]
+
+JA [name]たくや[line]そうだな‥‥もう今晩は遅い。[%p]
+ZH [name]拓也[line]没错……今晚已经太迟了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]わかってる、だけどどうしようもないだろ![%p]
+ZH [name]拓也[line]我明白的，但是现在已经无能为力了啊！[%p]
+
+JA [name]たくや[line]‥‥何を叫んでるんだ、俺は‥‥まったく。[%p]
+ZH [name]拓也[line]……我在，喊什么啊……真是的。[%p]
+
+JA [name]たくや[line]疲れてるんだな‥‥寝室へ行こう。[%p]
+ZH [name]拓也[line]已经累了……去寝室吧。[%p]
+
+JA 
+ZH 
+

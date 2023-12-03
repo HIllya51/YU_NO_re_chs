@@ -1,0 +1,171 @@
+JA [name]たくや[line]‥‥誰もいないな。[%p]
+ZH [name]拓也[line]……没有人在啊。[%p]
+
+JA [name]たくや[line]ユーノ、どうしたんだろう‥‥?[%p]
+ZH [name]拓也[line]优诺，怎么回事啊‥‥？[%p]
+
+JA [name]たくや[line]静かな森だ‥‥誰もいないみたいだけど。[%p]
+ZH [name]拓也[line]静悄悄的森林里‥‥似乎没有人在。[%p]
+
+JA [name]たくや[line]木の実を採るって言ったら、ここしかないよな‥‥。[%p]
+ZH [name]拓也[line]说起采果实的地方，只有这里了‥‥。[%p]
+
+JA [name]たくや[line]うーん‥‥どこへ行ったんだろう。[%p]
+ZH [name]拓也[line]唔—嗯‥‥会去哪里了呢。[%p]
+
+JA [name]たくや[line]綺麗な小川だ‥‥魚が泳いでいるんだぜ。[%p]
+ZH [name]拓也[line]清凉的小河里‥‥鱼儿欢快地游着。[%p]
+
+JA [name]たくや[line]小川だ‥‥。[%p]
+ZH [name]拓也[line]一条小河‥‥。[%p]
+
+JA [name]たくや[line]俺たちの食料といったら、木の実と川の魚くらいだからな‥‥。[%p]
+ZH [name]拓也[line]要说我们的食物来源，也就是野果和鱼这种东西了‥‥。[%p]
+
+JA [name]たくや[line]やや、食生活に偏りがあるところだが。[%p]
+ZH [name]拓也[line]虽然伙食有些单一。[%p]
+
+JA [name]たくや[line]木の上にユーノはいない‥‥。[%p]
+ZH [name]拓也[line]优诺没在树上‥‥。[%p]
+
+JA [name]たくや[line]まさか、ユーノが上に登ってるなんてことは‥‥。[%p]
+ZH [name]拓也[line]难道优诺爬到上面去了‥‥。[%p]
+
+JA [name]たくや[line]‥‥ないよな。[%p]
+ZH [name]拓也[line]‥‥不会有啦。[%p]
+
+JA [name]たくや[line]このまま進むと、例の絶壁に出るぜ‥‥。[%p]
+ZH [name]拓也[line]这样走下去，以前见到的绝壁就要出现了‥‥。[%p]
+
+JA [name]たくや[line]この道に沿っていくと、例の絶壁に出るんだな‥‥。[%p]
+ZH [name]拓也[line]沿着这条小路前行，会遇到那个绝壁……。[%p]
+
+JA [name]たくや[line]おかしいな‥‥いないぞ。[%p]
+ZH [name]拓也[line]奇怪啊‥‥她不在这里。[%p]
+
+JA [name]たくや[line]どこへ行ったんだ‥‥?[%p]
+ZH [name]拓也[line]去哪里了‥‥？[%p]
+
+JA [name]たくや[line]あいつ、木の実を採ると言って出て行ったんだろう。[%p]
+ZH [name]拓也[line]那孩子说要去采果实，结果一溜烟就走了。[%p]
+
+JA [name]たくや[line]他の森は、あまり良質な実がなっていないんだ。[%p]
+ZH [name]拓也[line]森林的其他地方，不太会有质量较好的果实。[%p]
+
+JA [name]たくや[line]木の実と言ったら、この森しか考えられないし‥‥。[%p]
+ZH [name]拓也[line]要说果实，只能考虑这片森林了‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥戻ってみるか。[%p]
+ZH [name]拓也[line]‥‥回去看看吗。[%p]
+
+JA [name]たくや[line]まさか、あそこにいるとは思えないが‥‥。[%p]
+ZH [name]拓也[line]我想她肯定不会在那边‥‥。[%p]
+
+JA [name]たくや[line]念のために行ってみるかい‥‥?[%p]
+ZH [name]拓也[line]保险起见还是去看看吧‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥こんなところに、いる訳がないな。[%p]
+ZH [name]拓也[line]‥‥不可能在这种地方啊。[%p]
+
+JA [name]たくや[line]ったく、いったいどこに‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]实在是，到底去哪儿了‥‥。[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]‥‥![%p]
+ZH [name]拓也[line]……！[%p]
+
+JA [name]たくや[line]ユーノか?[%p]
+ZH [name]拓也[line]是优诺吗？[%p]
+
+JA [name]たくや[line]妙だな‥‥何なんだよ、さっきから。[%p]
+ZH [name]拓也[line]奇怪‥‥从刚才开始这是在搞什么。[%p]
+
+JA [name]たくや[line]とりあえず、森まで戻ろう。[%p]
+ZH [name]拓也[line]暂且先返回森林吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いない‥‥。[%p]
+ZH [name]拓也[line]（不可能……。）。[%p]
+
+JA [name]たくや[line]何なんだよ、さっきから、まったく。[%p]
+ZH [name]拓也[line]从刚才开始在搞些什么啊，实在是。[%p]
+
+JA [name]声[line]パパー‥‥‥。[%p]
+ZH [name]声音[line]爸爸～‥‥‥。[%p]
+
+JA [name]たくや[line]ユーノ?[%p]
+ZH [name]拓也[line]优诺？[%p]
+
+JA [name]声[line]パパー、川の所よ‥‥。[%p]
+ZH [name]声音[line]爸爸～我在河边‥‥。[%p]
+
+JA [name]たくや[line]ユーノ?[%p]
+ZH [name]拓也[line]优诺？[%p]
+
+JA [name]声[line]‥‥‥‥。[%p]
+ZH [name]声音[line]…………。[%p]
+
+JA [name]たくや[line]どうしたんだ!? いまいく!![%p]
+ZH [name]拓也[line]出什么事了！？　我现在就去！！[%p]
+
+JA [name]たくや[line](どうしたんだ‥‥?)[%p]
+ZH [name]拓也[line](（怎么回事‥‥？）)[%p]
+
+JA [name]たくや[line](川の所‥‥?)[%p]
+ZH [name]拓也[line](（河那边‥‥？）)[%p]
+
+JA [name]たくや[line]ユーノ![%p]
+ZH [name]拓也[line]优诺！[%p]
+
+JA [name]たくや[line]おわっとっとっと‥‥。[%p]
+ZH [name]拓也[line]呜哇～哇～哇‥‥。[%p]
+
+JA [name]たくや[line]うえっぷ![%p]
+ZH [name]拓也[line]唔额～呸！[%p]
+
+JA [name]たくや[line]こ、ここの川縁は、異様に滑るんだった‥‥まったく。[%p]
+ZH [name]拓也[line]JF:这个，这里的河边特别滑……真是的。[%p]
+
+JA [name]声[line]パーパ。[%p]
+ZH [name]声音[line]爸～爸。[%p]
+
+JA [name]たくや[line]ユーノ!?[%p]
+ZH [name]拓也[line]优诺！？[%p]
+
+JA [name]ユーノ[line]どうしたの? 今日が暑いからって、水浴びだなんて‥‥。[%p]
+ZH [name]优诺[line]怎么了？　因为今天很热，所以来冲凉吗‥‥。[%p]
+
+JA [name]たくや[line]あのな。[%p]
+ZH [name]拓也[line]我说啊。[%p]
+
+JA [name]ユーノ[line]ユーノも入っちゃう![%p]
+ZH [name]优诺[line]JF:允浩也会进去的！[%p]
+
+JA [name]たくや[line]おまっ‥‥水浴びじゃない。これはだな‥‥。[%p]
+ZH [name]拓也[line]你啊‥‥我这不是冲凉。这是那个‥‥。[%p]
+
+JA [name]ユーノ[line]お風呂?[%p]
+ZH [name]优诺[line]洗澡吗？[%p]
+
+JA [name]たくや[line]違う。単に浸かってるだけだ。[%p]
+ZH [name]拓也[line]不对。我只是来泡一会儿。[%p]
+
+JA [name]ユーノ[line]ふぅん‥‥じゃあ、ユーノも入っちゃおうっかな。[%p]
+ZH [name]优诺[line]JF:嗯……那么，尤诺也进去吧。[%p]
+
+JA [name]たくや[line]なぜそうなる。[%p]
+ZH [name]拓也[line]为什么问这个。[%p]
+
+JA [name]たくや[line](いったい今までの緊張感は、何だったんだよ‥‥。)[%p]
+ZH [name]拓也[line](（我这会儿的紧张感究竟是怎么回事‥‥）。)[%p]
+
+JA 
+ZH 
+

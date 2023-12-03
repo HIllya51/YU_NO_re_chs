@@ -1,0 +1,717 @@
+JA [name]たくや[line]これは‥‥?[%p]
+ZH [name]拓也[line]这是……？[%p]
+
+JA [name]たくや[line]何だ、この光は‥‥?[%p]
+ZH [name]拓也[line]这道光，是什么……？[%p]
+
+JA [name]たくや[line]以前入った神殿と、構造的には同じだな‥‥。[%p]
+ZH [name]拓也[line]跟以前进去过的神殿，构造上是一样的啊……。[%p]
+
+JA [name]たくや[line]綺麗な円形の部屋だ‥‥。[%p]
+ZH [name]拓也[line]好漂亮的圆形房间……。[%p]
+
+JA [name]たくや[line]神殿の中はシンと静まっている‥‥。[%p]
+ZH [name]拓也[line]神殿里静悄悄地……。[%p]
+
+JA [name]たくや[line]中央の光が気になるが‥‥。[%p]
+ZH [name]拓也[line]中央的光令我很在意……。[%p]
+
+JA [name]アマンダ[line]何だろうな、あれ‥‥。[%p]
+ZH [name]阿曼达[line]那里，是什么呢……。[%p]
+
+JA [name]アマンダ[line]大丈夫だよ。そんなに心配しなくても。[%p]
+ZH [name]阿曼达[line]没事的。你不用这么担心。[%p]
+
+JA [name]たくや[line]‥‥ちょっと違うような気がする。[%p]
+ZH [name]拓也[line]……感觉稍微有点不一样。[%p]
+
+JA [name]アマンダ[line]何だよ、そんなに見つめて。[%p]
+ZH [name]阿曼达[line]怎么了，这样子看着我。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]フフ、大丈夫さ。何かあったら、オレがたくやを守ってやる。[%p]
+ZH [name]阿曼达[line]呵呵，没事的。要是有事的话，俺会保护拓也你的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ちょっと違うんだけど‥‥。)[%p]
+ZH [name]拓也[line](（稍微有点不一样……。）。)[%p]
+
+JA [name]たくや[line]中央の台座が光っている‥‥。[%p]
+ZH [name]拓也[line]中央的台座正在发光……。[%p]
+
+JA [name]たくや[line]いったい何の光なんだ‥‥?[%p]
+ZH [name]拓也[line]到底是什么东西在发光……？[%p]
+
+JA [name]たくや[line]中央の台座が‥‥光っている。[%p]
+ZH [name]拓也[line]中央的台座……正在发光。[%p]
+
+JA [name]たくや[line]いったい、何の光だ‥‥?[%p]
+ZH [name]拓也[line]到底，是什么光呢……？[%p]
+
+JA [name]アマンダ[line]たくや‥‥慎重に行動してくれよ。[%p]
+ZH [name]阿曼达[line]拓也……要慎重地行动啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今は戻るべきじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在不应该回去啊……。[%p]
+
+JA [name]たくや[line]いや‥‥今は戻るべきじゃない。[%p]
+ZH [name]拓也[line]不对……现在不应该回去。[%p]
+
+JA [name]たくや[line]慎重に行動しよう‥‥。[%p]
+ZH [name]拓也[line]（得谨慎行动‥‥）。[%p]
+
+JA [name]たくや[line]あのときは、俺の軽率な行動で、ユーノをさらわれてしまったんだ‥‥。[%p]
+ZH [name]拓也[line]那个时候，由于我轻率的行动，害得优诺被抓走了……。[%p]
+
+JA [name]たくや[line]同じ過ちを繰り返すなよ‥‥。[%p]
+ZH [name]拓也[line]不能再重蹈覆辙了……。[%p]
+
+JA [name]アマンダ[line]たくやったら。[%p]
+ZH [name]阿曼达[line]拓也你啊。[%p]
+
+JA [name]アマンダ[line]ぜんっぜん判ってないじゃないか。慎重というのはね‥‥。[%p]
+ZH [name]阿曼达[line]你这不是完全没明白吗。都跟你说了要慎重行动了吧……。[%p]
+
+JA [name]たくや[line]ゴメン。[%p]
+ZH [name]拓也[line]抱歉。[%p]
+
+JA [name]アマンダ[line]そっ‥‥なっ‥‥わ、わかればいいんだけどさ。[%p]
+ZH [name]阿曼达[line]对……了……明，明白了就好。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]慎重に行動しよう‥‥。[%p]
+ZH [name]拓也[line]（得谨慎行动‥‥）。[%p]
+
+JA [name]たくや[line]あのときは、俺の軽率な行動で、ユーノをさらわれてしまったんだ‥‥。[%p]
+ZH [name]拓也[line]那个时候，由于我轻率的行动，害得优诺被抓走了……。[%p]
+
+JA [name]たくや[line]同じ過ちを繰り返すなよ‥‥。[%p]
+ZH [name]拓也[line]不能再重蹈覆辙了……。[%p]
+
+JA [name]アマンダ[line]たくや![%p]
+ZH [name]阿曼达[line]这是拓也！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]慎重に行動した方がいい。[%p]
+ZH [name]阿曼达[line]还是要慎重地行动比较好。[%p]
+
+JA [name]たくや[line]わかってる‥‥。[%p]
+ZH [name]拓也[line]明白了……。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]慎重に行動する、か‥‥。[%p]
+ZH [name]拓也[line]慎重地行动，吗……。[%p]
+
+JA [name]アマンダ[line]さっきから、台座に近づきたいみたいだな‥‥。[%p]
+ZH [name]阿曼达[line]JF:从刚才开始，好像就想靠近台座。[%p]
+
+JA [name]たくや[line]まあね。[%p]
+ZH [name]拓也[line]是嘛。[%p]
+
+JA [name]アマンダ[line]どうするんだよ‥‥。[%p]
+ZH [name]阿曼达[line]怎么办好呢……。[%p]
+
+JA [name]たくや[line]あの台座上で光っているモノを確認したい。[%p]
+ZH [name]拓也[line]我想确认一下那个台座上正在发光的东西。[%p]
+
+JA [name]アマンダ[line]‥‥近衛兵にアッという間に取り囲まれるぜ。[%p]
+ZH [name]阿曼达[line]……你马上就会被近卫兵给包围住了。[%p]
+
+JA [name]たくや[line]その前に逃げる。[%p]
+ZH [name]拓也[line]在那之前逃走吧。[%p]
+
+JA [name]アマンダ[line]ははは‥‥気に入った![%p]
+ZH [name]阿曼达[line]哈哈哈……这主意不错！[%p]
+
+JA [name]たくや[line]お、おい![%p]
+ZH [name]拓也[line]喂，喂！[%p]
+
+JA [name]アマンダ[line]オレが確認してきてやるよ‥‥。[%p]
+ZH [name]阿曼达[line]就由俺来确认吧……。[%p]
+
+JA [name]たくや[line]アマンダ‥‥!?[%p]
+ZH [name]拓也[line]阿曼达……！？[%p]
+
+JA [name]たくや[line]お、おい![%p]
+ZH [name]拓也[line]喂，喂！[%p]
+
+JA [name]アマンダ[line]大丈夫だよ、たくや。[%p]
+ZH [name]阿曼达[line]没事的，拓也。[%p]
+
+JA [name]たくや[line]大丈夫なわけ‥‥。[%p]
+ZH [name]拓也[line]怎么可能没事……。[%p]
+
+JA [name]アマンダ[line]何だ、小さいモノだな‥‥。[%p]
+ZH [name]阿曼达[line]怎么，是个小东西啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]綺麗な宝石みたいなのが、はめこまれているぜ‥‥。[%p]
+ZH [name]阿曼达[line]好像是一块漂亮的宝石，被嵌在里面了呢……。[%p]
+
+JA [name]たくや[line]‥‥宝石?[%p]
+ZH [name]拓也[line]……宝石？[%p]
+
+JA [name]アマンダ[line]ああ。丸くて、ガラス細工のような‥‥。[%p]
+ZH [name]阿曼达[line]啊啊。圆圆的，像是个玻璃工艺品……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](丸くて‥‥ガラス細工のような?)[%p]
+ZH [name]拓也[line](（圆圆的……像是玻璃工艺品？）)[%p]
+
+JA [name]たくや[line](綺麗な宝石‥‥はめ込まれている‥‥?)[%p]
+ZH [name]拓也[line](（漂亮的宝石……被嵌在里面……？）)[%p]
+
+JA [name]アマンダ[line]へへっ。[%p]
+ZH [name]阿曼达[line]嘿嘿。[%p]
+
+JA [name]たくや[line]お、おい![%p]
+ZH [name]拓也[line]喂，喂！[%p]
+
+JA [name]アマンダ[line]なーに、大丈夫‥‥‥‥ん?[%p]
+ZH [name]阿曼达[line]什——么，没事的…………嗯？[%p]
+
+JA ポワン‥‥。[%p]
+ZH 波嗡……。[%p]
+
+JA [name]たくや[line]アマンダ![%p]
+ZH [name]拓也[line]阿曼达！[%p]
+
+JA [name]アマンダ[line]うわぁぁっ!![%p]
+ZH [name]阿曼达[line]呜哇啊啊！！[%p]
+
+JA [name]たくや[line]アマンダ、どうした、大丈夫か!?[%p]
+ZH [name]拓也[line]阿曼达，怎么了，你没事吧！？[%p]
+
+JA [name]アマンダ[line]だ、大丈夫‥‥だけど‥‥。[%p]
+ZH [name]阿曼达[line]没，没事……不过……。[%p]
+
+JA [name]たくや[line]どうしたんだよ。[%p]
+ZH [name]拓也[line]怎么了。[%p]
+
+JA [name]アマンダ[line]むっちゃ冷たいんだ、これ。[%p]
+ZH [name]阿曼达[line]好冷啊，这东西。[%p]
+
+JA [name]たくや[line]冷たい‥‥?[%p]
+ZH [name]拓也[line]好冷……？[%p]
+
+JA [name]アマンダ[line]危うく、ヤケドをするところだった。[%p]
+ZH [name]阿曼达[line]很危险，我差点就要被冻伤了。[%p]
+
+JA [name]たくや[line]冷たくて‥‥やけど?[%p]
+ZH [name]拓也[line]差点被……冻伤了？[%p]
+
+JA [name]アマンダ[line]あ、ああ‥‥ふぅ、危ないところだった。[%p]
+ZH [name]阿曼达[line]啊，啊啊……呼，真是个危险的地方。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]今度は、ゆっくりと‥‥。[%p]
+ZH [name]阿曼达[line]这次要，小心地……。[%p]
+
+JA [name]たくや[line]気を付けろよ。[%p]
+ZH [name]拓也[line]你当心点啊。[%p]
+
+JA [name]アマンダ[line]大丈夫さ‥‥。[%p]
+ZH [name]阿曼达[line]没事的……。[%p]
+
+JA [name]たくや[line]‥‥!!?[%p]
+ZH [name]拓也[line]……！！？[%p]
+
+JA [name]たくや[line]これは‥‥リフレクターだ![%p]
+ZH [name]拓也[line]这个……是事象反射器！[%p]
+
+JA [name]アマンダ[line]りふくれた?[%p]
+ZH [name]阿曼达[line]石像反社气？[%p]
+
+JA [name]たくや[line]リフレクターだ。次元の違う並列世界を移行するものだ。[%p]
+ZH [name]拓也[line]是事象反射器。能够在不同次元的平行世界中移行的东西。[%p]
+
+JA [name]アマンダ[line]ふぅん‥‥で、おいしいのかい?[%p]
+ZH [name]阿曼达[line]嗯——……那么，这东西好吃吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]何だよ、その顔は。[%p]
+ZH [name]阿曼达[line]什么啊，这种表情。[%p]
+
+JA [name]たくや[line]別に。[%p]
+ZH [name]拓也[line]没有。[%p]
+
+JA [name]たくや[line](‥‥しかし‥‥‥‥。)[%p]
+ZH [name]拓也[line](（……但是…………。）。)[%p]
+
+JA [name]たくや[line](リフレクターが、ここに置いてある‥‥。)[%p]
+ZH [name]拓也[line](（事象反射器，居然会放在这里……。）。)[%p]
+
+JA [name]たくや[line](驚いたな‥‥。)[%p]
+ZH [name]拓也[line](（我真吃惊……。）。)[%p]
+
+JA [name]たくや[line](もう4年以上前のことだけど‥‥。)[%p]
+ZH [name]拓也[line](（都已经是４年以前的事了……。）。)[%p]
+
+JA [name]たくや[line](俺の世界の‥‥名残‥‥?)[%p]
+ZH [name]拓也[line](（我的世界的……遗留物……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](リフレクターだ、確かに‥‥。)[%p]
+ZH [name]拓也[line](（的确，是事象反射器……。）。)[%p]
+
+JA [name]たくや[line](なぜ、これが、ここにある‥‥。)[%p]
+ZH [name]拓也[line](（为什么，这东西，会在这里……。）。)[%p]
+
+JA [name]たくや[line](いったい、ここ《デラ=グラント》と、俺の世界には、どういうつながりがあるんだ?)[%p]
+ZH [name]拓也[line](（到底，这个《德拉＝格兰特》，和我的世界，有着什么样的联系呢？）)[%p]
+
+JA [name]たくや[line](いったい、ここは‥‥‥‥。)
+ZH [name]拓也[line](（这里，到底是…………。）。)
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]アマンダ[line]なあ‥‥。[%p]
+ZH [name]阿曼达[line]呐……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]なあったら。[%p]
+ZH [name]阿曼达[line]叫你呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]たくやっ![%p]
+ZH [name]阿曼达[line]这是拓也！[%p]
+
+JA [name]たくや[line]えっ、なに?[%p]
+ZH [name]拓也[line]诶，什么？[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]なんだよ。[%p]
+ZH [name]拓也[line]什么啊。[%p]
+
+JA [name]アマンダ[line]昨夜から、ひとっことも話さないんだな。[%p]
+ZH [name]阿曼达[line]昨天晚上到现在，你一句话都没跟俺说过啊。[%p]
+
+JA [name]たくや[line]ああ‥‥考え事さ。[%p]
+ZH [name]拓也[line]啊啊……我在想事情。[%p]
+
+JA [name]アマンダ[line]何を考えているんだよ、1人でイジイジ。[%p]
+ZH [name]阿曼达[line]在想什么事啊，１个人想得这么入迷。[%p]
+
+JA [name]たくや[line]ま、いろいろさ。[%p]
+ZH [name]拓也[line]嘛，很多事吧。[%p]
+
+JA [name]アマンダ[line]昨夜だって‥‥何もしてくれなかったし‥‥。[%p]
+ZH [name]阿曼达[line]而且昨天晚上……你什么都没做呢……。[%p]
+
+JA [name]たくや[line]は?[%p]
+ZH [name]拓也[line]哈？[%p]
+
+JA [name]アマンダ[line]優しかったのは、一昨日の夜だけじゃんか![%p]
+ZH [name]阿曼达[line]这么温柔的，只有前天晚上一晚而已吗！[%p]
+
+JA [name]たくや[line]‥‥何の話だ?[%p]
+ZH [name]拓也[line]……什么意思？[%p]
+
+JA [name]アマンダ[line]もうすぐ‥‥帝都へ着くって話だよ![%p]
+ZH [name]阿曼达[line]俺是说……马上就要到帝都了啊！[%p]
+
+JA [name]たくや[line]ああ、わかってる。[%p]
+ZH [name]拓也[line]啊啊，知道了。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]その妙な物体のせいだな。[%p]
+ZH [name]阿曼达[line]是因为这个奇怪的物体吧。[%p]
+
+JA [name]たくや[line]妙な物体?[%p]
+ZH [name]拓也[line]奇怪的物体？[%p]
+
+JA [name]アマンダ[line]たくやが、リフレクターと呼ぶそれさ。[%p]
+ZH [name]阿曼达[line]拓也，你把这东西叫做事象反射器。[%p]
+
+JA [name]たくや[line]これか‥‥。[%p]
+ZH [name]拓也[line]这是……。[%p]
+
+JA [name]アマンダ[line]何なんだよ、それって。[%p]
+ZH [name]阿曼达[line]这是什么东西啊。[%p]
+
+JA [name]たくや[line]‥‥こいつは、もしかしたら俺が、俺の本来いるべき場所へ帰れるかも知れない可能性を持っているモノさ。[%p]
+ZH [name]拓也[line]……这玩意，说不定，有可能让我回到我本来应该存在的地方去。[%p]
+
+JA [name]アマンダ[line]‥‥意味がよくわからない。[%p]
+ZH [name]阿曼达[line]……俺不明白你的意思。[%p]
+
+JA [name]たくや[line]実は俺もさ。[%p]
+ZH [name]拓也[line]其实我也是。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]帝都へ着いたら‥‥。[%p]
+ZH [name]阿曼达[line]到了帝都之后……。[%p]
+
+JA [name]たくや[line]‥‥え?[%p]
+ZH [name]拓也[line]……誒？[%p]
+
+JA [name]アマンダ[line]帝都へ着いたら、どうするんだ?[%p]
+ZH [name]阿曼达[line]到了帝都之后，你打算怎么办？[%p]
+
+JA [name]たくや[line]とりあえず、神帝とやらの所へ行く。[%p]
+ZH [name]拓也[line]总之，先到神帝的所在之处去。[%p]
+
+JA [name]アマンダ[line]バカ言うな。[%p]
+ZH [name]阿曼达[line]别说傻话了。[%p]
+
+JA [name]たくや[line]馬鹿とはなんだ。[%p]
+ZH [name]拓也[line]我哪里说傻话了。[%p]
+
+JA [name]アマンダ[line]止めてくれ! そんなことをしたら、命がいくつあっても足りないぜ![%p]
+ZH [name]阿曼达[line]JF:你给我停下！你这样做，有多少条命都不够啊！[%p]
+
+JA [name]たくや[line]でも、やらなきゃならない。[%p]
+ZH [name]拓也[line]但是，我必须要这么做。[%p]
+
+JA [name]アマンダ[line]何のために![%p]
+ZH [name]阿曼达[line]为什么！[%p]
+
+JA [name]たくや[line]‥‥アマンダ、お前は何のためにレジスタンス活動をしているんだ?[%p]
+ZH [name]拓也[line]……阿曼达，你是为了什么才会进行反抗运动的呢？[%p]
+
+JA [name]アマンダ[line]オレは‥‥。[%p]
+ZH [name]阿曼达[line]俺叫……。[%p]
+
+JA [name]たくや[line]言ってみろよ。[%p]
+ZH [name]拓也[line]你说说看吧。[%p]
+
+JA [name]アマンダ[line]それは‥‥神帝の手から、民が本来持っている権利を取り戻すためさ![%p]
+ZH [name]阿曼达[line]那是……为了从神帝的手上，取回民众本来应该有的权利！[%p]
+
+JA [name]たくや[line]なるほどね、民主化の波ってヤツか。[%p]
+ZH [name]拓也[line]原来如此，就是所谓的民主化浪潮吗。[%p]
+
+JA [name]アマンダ[line]民主化って意味がよくわからないけど、そういうことさ。[%p]
+ZH [name]阿曼达[line]虽然俺不太明白什么是民主化，不过差不多就是这个意思吧。[%p]
+
+JA [name]たくや[line]民が本来持っている権利、か‥‥セーレスにも、その権利を分け与えてやりたかった。[%p]
+ZH [name]拓也[line]民众本来应该有的权利，吗……塞蕾斯，应该也可以分享这份权利吧。[%p]
+
+JA [name]アマンダ[line]セーレス‥‥。[%p]
+ZH [name]阿曼达[line]塞蕾斯‥‥。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]アマンダ[line]たくやの奥さんだった女性だね。帝都の巫女さん‥‥だったっけ。[%p]
+ZH [name]阿曼达[line]拓也你的老婆吧。是帝都的巫女……对吧。[%p]
+
+JA [name]たくや[line]ま、そんなところさ。[%p]
+ZH [name]拓也[line]嘛，是的呢。[%p]
+
+JA [name]アマンダ[line]民の幸せのために、巫女は自らの身体に神を降臨させるという‥‥ははは、お笑いだよな。[%p]
+ZH [name]阿曼达[line]为了民众的幸福，巫女让神灵降临到自己的身体里……哈哈哈，真是太好笑了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]民の幸せのためだって? まわりを見てみなよ、みんな不幸せさ。[%p]
+ZH [name]阿曼达[line]什么叫为了民众的幸福？　看看四周的民众吧，所有人都这么不幸。[%p]
+
+JA [name]たくや[line]俺に政治的な思惑はない。あるのは帝都の、あの連中に対する憎しみだけだ。[%p]
+ZH [name]拓也[line]我并没有政治上的看法。有的，只是对于帝都那群人的仇恨而已。[%p]
+
+JA [name]アマンダ[line]‥‥憎しみは身を滅ぼすって言葉、知ってるかい?[%p]
+ZH [name]阿曼达[line]……仇恨只会自取灭亡，难道你没听过这句话吗？[%p]
+
+JA [name]たくや[line]誰の言葉さ。[%p]
+ZH [name]拓也[line]谁说的话。[%p]
+
+JA [name]アマンダ[line]オレの言葉だよ。[%p]
+ZH [name]阿曼达[line]是俺说的。[%p]
+
+JA [name]たくや[line]ご忠告、拝聴しておこう。[%p]
+ZH [name]拓也[line]你的忠告，我姑且收下了。[%p]
+
+JA [name]アマンダ[line]止めてくれよ![%p]
+ZH [name]阿曼达[line]JF:你给我停下来啊！[%p]
+
+JA [name]たくや[line]やめない。いや、やめられない。[%p]
+ZH [name]拓也[line]我不放弃。不对，是我不能放弃。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]俺はセーレスに誓った。彼女を手に掛けたヤツら‥‥いや、ヤツらに命令を下した者を、きっと同じ目にあわせてやるって。[%p]
+ZH [name]拓也[line]我曾经对塞蕾斯发过誓。要对加害她的那些家伙……不对，是对那些家伙下命令的人，一定要让他血债血偿。[%p]
+
+JA [name]アマンダ[line]たくや‥‥。[%p]
+ZH [name]阿曼达[line]这是拓也……。[%p]
+
+JA [name]たくや[line]ユーノを連れ去ったヤツらも同じ事さ‥‥きっと‥‥。[%p]
+ZH [name]拓也[line]要同样对待那些把优诺带走的人……一定……。[%p]
+
+JA [name]アマンダ[line]たくや‥‥今のあんたの顔は、とても恐いよ。[%p]
+ZH [name]阿曼达[line]拓也……你现在的表情，真是太可怕了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]まるで、あのときとは別人みたいだ。オレに優しくしてくれた、あのときとはね。[%p]
+ZH [name]阿曼达[line]简直，跟那个时候像是两个人。那个时候，你对俺是如此地温柔。[%p]
+
+JA [name]たくや[line]すまないな、期待にそえなくて。[%p]
+ZH [name]拓也[line]真抱歉啊，辜负了你的期待。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]俺はこういう生き方しか、できないらしい。[%p]
+ZH [name]拓也[line]我好像只能以这种方式生存下去了。[%p]
+
+JA [name]アマンダ[line]わかった‥‥オレにはもう、何も言えないよ。そこまで決心が固いのならね。[%p]
+ZH [name]阿曼达[line]明白了……俺不会再说什么了。既然你的决心都这么坚定了。[%p]
+
+JA [name]たくや[line]帝都についたら、別れよう‥‥。[%p]
+ZH [name]拓也[line]到了帝都之后，我们分别吧……。[%p]
+
+JA [name]アマンダ[line]えっ‥‥?[%p]
+ZH [name]阿曼达[line]诶……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]オ、オレのこと、もう好きじゃないのか?[%p]
+ZH [name]阿曼达[line]难，难道你，已经不再喜欢俺了吗？[%p]
+
+JA [name]たくや[line]なんだ、そりゃ。[%p]
+ZH [name]拓也[line]那是什么意思。[%p]
+
+JA [name]アマンダ[line]だ、だって‥‥優しかったのだって‥‥最初の1日だけで‥‥。[%p]
+ZH [name]阿曼达[line]因，因为……你曾经的那么温柔……只是最初的１天而已……。[%p]
+
+JA [name]たくや[line]馬鹿。[%p]
+ZH [name]拓也[line]笨蛋。[%p]
+
+JA [name]アマンダ[line]な、何だよ![%p]
+ZH [name]阿曼达[line]什，什么啊！[%p]
+
+JA [name]たくや[line]お互いのために言ってる。アマンダ、お前にはお前のやるべきことが沢山あるはずだろう。[%p]
+ZH [name]拓也[line]我是为了我们两个才这么说的。阿曼达，对你来说事情应该还堆积如山吧。[%p]
+
+JA [name]アマンダ[line]それは‥‥そうだけど。[%p]
+ZH [name]阿曼达[line]这个……倒是如此。[%p]
+
+JA [name]たくや[line]大丈夫だ。帝都についたら、別行動というところにしておこう。[%p]
+ZH [name]拓也[line]没事的。到了帝都之后，我们就可以分头行动了。[%p]
+
+JA [name]アマンダ[line]うん‥‥。[%p]
+ZH [name]阿曼达[line]嗯……。[%p]
+
+JA [name]たくや[line]なに、神帝の顔を1発ぶん殴ってユーノの行き先を聞いたら、すぐにお暇するさ。[%p]
+ZH [name]拓也[line]JF:什么，打了一枪神帝的脸，问了尤诺的目的地，马上就有空了。[%p]
+
+JA [name]アマンダ[line]何かあれば、できる限り力にはなりたい。本心だぜ。[%p]
+ZH [name]阿曼达[line]要是有事的话，我想尽可能地成为你的力量。我是真心的。[%p]
+
+JA [name]たくや[line]ありがとう。[%p]
+ZH [name]拓也[line]谢谢你。[%p]
+
+JA [name]アマンダ[line]ただ、これだけは言っておくよ。[%p]
+ZH [name]阿曼达[line]不过，只有这件事我要说在前头。[%p]
+
+JA [name]たくや[line]なんだい。[%p]
+ZH [name]拓也[line]怎么了。[%p]
+
+JA [name]アマンダ[line]神帝は、したたかで恐ろしいヤツだ。こちらの動きを次々と読んで、手を打ってくる。[%p]
+ZH [name]阿曼达[line]神帝，是个极其可怕的家伙。他能够一一解读这边的动向，采取必要的措施。[%p]
+
+JA [name]たくや[line]レジスタンス活動を阻害するってわけか。[%p]
+ZH [name]拓也[line]你是说他在阻碍你的反抗运动吗。[%p]
+
+JA [name]アマンダ[line]あなどっちゃダメだ。ヤれるときに、ヤるんだ。[%p]
+ZH [name]阿曼达[line]你可千万不能疏忽大意。该下手的时候，就要下手。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]いいかい、もう一度、言わせてくれ。[%p]
+ZH [name]阿曼达[line]听好了，俺再跟你说一遍吧。[%p]
+
+JA [name]たくや[line]いいぜ。[%p]
+ZH [name]拓也[line]没问题。[%p]
+
+JA [name]アマンダ[line]ヤれるときに、ヤるんだ。でないとたくや、あんたがヤられるぜ。[%p]
+ZH [name]阿曼达[line]该下手的时候，你就要下手。不然的话拓也，你会被他干掉的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]オレの仲間は、みんなそれで死んでいった‥‥レジスタンス活動も、ほぼオレ1人きりになっちまった。[%p]
+ZH [name]阿曼达[line]俺的同伴，所有人都是这么死掉的……反抗运动，到现在也就只剩下我１个人了。[%p]
+
+JA [name]たくや[line]結構、似たもの同士かもな。[%p]
+ZH [name]拓也[line]或许，全都是类似俺的同志。[%p]
+
+JA [name]アマンダ[line]えへへ‥‥そうだね。[%p]
+ZH [name]阿曼达[line]诶嘿嘿……是呢。[%p]
+
+JA [name]たくや[line]もうすぐ帝都だ‥‥そこで別れよう。[%p]
+ZH [name]拓也[line]马上就到帝都了……就在这里分别吧。[%p]
+
+JA [name]アマンダ[line]‥‥わかったよ。でも、たくやに何かあったときは、きっと駆けつけるぜ。[%p]
+ZH [name]阿曼达[line]……俺知道了。但是，拓也你要是有什么事的话，俺一定会火速赶来的。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]‥‥そういえば、帝都ってどんなところか、俺はまだ知らなかったな。[%p]
+ZH [name]拓也[line]……这么说起来，所谓的帝都到底是个什么样的地方，我还不知道呢。[%p]
+
+JA [name]アマンダ[line]知らない‥‥?[%p]
+ZH [name]阿曼达[line]你不知道……？[%p]
+
+JA [name]たくや[line]おのぼりさん、なんでね。[%p]
+ZH [name]拓也[line]怎么说，我也是个乡巴佬。[%p]
+
+JA [name]アマンダ[line]‥‥今の帝都は、名ばかりの、ふぬけた都市さ。[%p]
+ZH [name]阿曼达[line]……现在的帝都，是个空有名头，毫无精神的都市。[%p]
+
+JA [name]たくや[line]名前ばかりの‥‥ふぬけた都市?[%p]
+ZH [name]拓也[line]空有名头……毫无精神的都市？[%p]
+
+JA [name]アマンダ[line]ああ‥‥。[%p]
+ZH [name]阿曼达[line]啊啊……。[%p]
+
+JA [name]たくや[line]詳しく聞いていいのかな。[%p]
+ZH [name]拓也[line]可以详细点说给我听吗。[%p]
+
+JA [name]アマンダ[line]その目でみた方が、早いと思うよ。[%p]
+ZH [name]阿曼达[line]还是用你自己的眼睛去确认，更快吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]人は年々、減っていっている‥‥もうすぐ、帝都の人口は2桁にまで落ち込むぜ。[%p]
+ZH [name]阿曼达[line]人口，每一年都在减少……马上，帝都的人口就要跌落到百万以下了。[%p]
+
+JA [name]たくや[line][ruby-base]過疎[ruby-text-start]かそ[ruby-text-end]ってヤツか。[%p]
+ZH [name]拓也[line]是过于稀少了吗。[%p]
+
+JA [name]アマンダ[line]違う。単純に、絶対人口が減っているんだ。[%p]
+ZH [name]阿曼达[line]不对。并不是单纯的绝对人口在减少。[%p]
+
+JA [name]たくや[line]なぜだ?[%p]
+ZH [name]拓也[line]为什么？[%p]
+
+JA [name]アマンダ[line]神帝の弾圧によるものが圧倒的だけど‥‥やっぱり最近の地震などで、死んでしまった者も少なくないんだ。[%p]
+ZH [name]阿曼达[line]虽然因为神帝的弹压是压倒性的因素……但是由于最近地震的原因，导致死亡的人也不在少数。[%p]
+
+JA [name]たくや[line]地震でか‥‥それは、神帝がプロパガンダしている、大自然の怒りというヤツじゃないのか?[%p]
+ZH [name]拓也[line]由于地震吗……那个，不是神帝鼓吹的，所谓的大自然之怒吗？[%p]
+
+JA [name]アマンダ[line]それは‥‥偶然さ。[%p]
+ZH [name]阿曼达[line]那是……偶然吧。[%p]
+
+JA [name]たくや[line]偶然、地震が何度も人々を襲うってわけか。[%p]
+ZH [name]拓也[line]偶然，会导致地震多次袭击人群吗。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]じゃあ、今の帝都の惨状は‥‥。[%p]
+ZH [name]拓也[line]JF:那么，现在帝都的惨状是。[%p]
+
+JA [name]アマンダ[line]ああ。地震であちこちにガタがきている状況さ。帝都は、そんなさびれた街なんだ‥‥そして‥‥。[%p]
+ZH [name]阿曼达[line]啊啊。由于地震的缘故现在到处都是兵荒马乱的状况。帝都，现在是一片凌乱的城市……而且……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]神帝の、最後のトリデとも言うべき場所だ‥‥。[%p]
+ZH [name]阿曼达[line]可以说，算是神帝最后据点的地方……。[%p]
+
+JA [name]たくや[line](帝都は‥‥そんなさびれた街‥‥。)[%p]
+ZH [name]拓也[line](（帝都……是这么凌乱的城市……。）。)[%p]
+
+JA [name]たくや[line](セーレスがいた街‥‥。)[%p]
+ZH [name]拓也[line](（塞蕾斯所在的城市……。）。)[%p]
+
+JA [name]たくや[line](帝都‥‥‥‥。)
+ZH [name]拓也[line](（帝都…………。）。)
+
+JA [name]アマンダ[line]ここらの聖地は、帝都の外側からの侵入には弱いらしいな‥‥。[%p]
+ZH [name]阿曼达[line]这里的圣地，似乎对于来自帝都外侧的侵入很弱啊……。[%p]
+
+JA [name]アマンダ[line]ここが、神殿の中か‥‥。[%p]
+ZH [name]阿曼达[line]这里，是神殿之中吗……。[%p]
+
+JA [name]たくや[line]アマンダは、中へ入るのが初めてなのか‥‥?[%p]
+ZH [name]拓也[line]阿曼达，你进到这里面是第一次吗……？[%p]
+
+JA [name]アマンダ[line]おいおい、ここは神聖不可侵の聖地なんだぜ。[%p]
+ZH [name]阿曼达[line]喂喂，这里可是神圣不可侵犯的圣地哦。[%p]
+
+JA [name]たくや[line]‥‥誰も来られないのか、ここには?[%p]
+ZH [name]拓也[line]……这里，谁都不会来的吗？[%p]
+
+JA [name]アマンダ[line]帝都からは、兵士が警護しているからな‥‥オレたちみたいに、帝都の外から砂漠を歩いてくるっていうのは例外だろうけどね。[%p]
+ZH [name]阿曼达[line]JF:因为帝都有士兵在警卫……像我们这样从帝都外面走过沙漠是例外吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]かつてのたくやも、[ボーダー]からここまで歩いてきたっていうんだろう? だからさ。[%p]
+ZH [name]阿曼达[line]曾经的拓也，你也是从［边沿］步行走到这里来的吧？　所以啊。[%p]
+
+JA [name]たくや[line]なるほど‥‥。[%p]
+ZH [name]拓也[line]原来如此……。[%p]
+
+JA 
+ZH 
+

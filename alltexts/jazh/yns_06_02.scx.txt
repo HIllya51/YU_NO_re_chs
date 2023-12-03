@@ -1,0 +1,390 @@
+JA [name]たくや[line](美月さんだ‥‥俺のことを見ているぜ。)[%p]
+ZH [name]拓也[line](（美月……她现在正在看着我呢。）。)[%p]
+
+JA [name]たくや[line]いつもの俺と違うってのは、どういう‥‥。[%p]
+ZH [name]拓也[line]跟平常的我不一样，那是什么意思……。[%p]
+
+JA [name]男の声[line]一条君、どうしたのかね。[%p]
+ZH [name]男人的声音[line]一条君，怎么了。[%p]
+
+JA [name]美月[line]‥‥あっ、龍蔵寺先生。[%p]
+ZH [name]美月[line]……啊、龙藏寺老师。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]龍蔵寺[line]おや、有馬たくや君、きみか。[%p]
+ZH [name]龙藏寺[line]哦呀，有马拓也君，是你啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、龍蔵寺のこの態度は何なんだ‥‥?)[%p]
+ZH [name]拓也[line](（到底，龙藏寺的这种态度是怎么回事啊……？）)[%p]
+
+JA [name]たくや[line](あの、社でのことを、忘れてるっていうのか‥‥。)[%p]
+ZH [name]拓也[line](（在那个，社发生的事，已经忘掉了吗……。）。)[%p]
+
+JA [name]龍蔵寺[line]フッ、若いうちは色々とあるだろうがね。あまり母親に心配掛けるものではないな。[%p]
+ZH [name]龙藏寺[line]呼，年轻的时候会发生各种各样的事呢。不过你可不要让你母亲太担心了啊。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]龍蔵寺[line]よろしくお願いされたよ。君は補習組だそうだね。[%p]
+ZH [name]龙藏寺[line]她拜托过我要关照你哦。你好像是补课组的吧。[%p]
+
+JA [name]たくや[line]亜由美さんが‥‥‥彼女は、今どこに?[%p]
+ZH [name]拓也[line]亚由美小姐……她现在，在什么地方？[%p]
+
+JA [name]龍蔵寺[line]私との打ち合わせが終わったからね。ふむ、どこかな‥‥。[%p]
+ZH [name]龙藏寺[line]她刚刚跟我碰过面吧。呼姆，在哪里呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]彼女を探しているのかね?[%p]
+ZH [name]龙藏寺[line]你现在在找她吗？[%p]
+
+JA [name]たくや[line]まぁ‥‥そうです。[%p]
+ZH [name]拓也[line]嘛……是的呢。[%p]
+
+JA [name]龍蔵寺[line]そうだ、視察とか言っていたな、確か。何かと彼女は忙しいようだからね。[%p]
+ZH [name]龙藏寺[line]这样啊，我记得，她说过要去视察之类的话。看起来她现在应该很忙吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]一条君、行くよ。[%p]
+ZH [name]龙藏寺[line]一条君，走吧。[%p]
+
+JA [name]美月[line]はい、先生。[%p]
+ZH [name]美月[line]好的，老师。[%p]
+
+JA [name]龍蔵寺[line]たくや君、頑張りたまえ。[%p]
+ZH [name]龙藏寺[line]拓也君，请加油了。[%p]
+
+JA [name]美月[line]《今日の夕方‥‥研究室でね。》[%p]
+ZH [name]美月[line]《今天傍晚……研究室见吧。》[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺も龍蔵寺だが‥‥美月さんも何だか妙な感じだ。[%p]
+ZH [name]拓也[line]龙藏寺虽然是龙藏寺……不过美月好像也有种奇怪的感觉。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥‥‥確か、視察とか言っていたな。[%p]
+ZH [name]拓也[line]亚由美小姐…………我记得，说她去视察了吧。[%p]
+
+JA [name]たくや[line]工事の視察か‥‥するとあの場所だろうか?[%p]
+ZH [name]拓也[line]工程的视察吗……这样的话应该是在那里吧？[%p]
+
+JA [name]美月[line]ねぇ、有馬君。[%p]
+ZH [name]美月[line]呐，有马君。[%p]
+
+JA [name]たくや[line]なんだい、美月ちゃん。[%p]
+ZH [name]拓也[line]怎么了，小美月。[%p]
+
+JA [name]美月[line]何よ、その呼び方。[%p]
+ZH [name]美月[line]什么啊，这种叫法。[%p]
+
+JA [name]たくや[line]じゃあ、美月くん。[%p]
+ZH [name]拓也[line]那么，美月君。[%p]
+
+JA [name]美月[line]ふぅ‥‥。[%p]
+ZH [name]美月[line]呼……。[%p]
+
+JA [name]たくや[line]で?[%p]
+ZH [name]拓也[line]然后？[%p]
+
+JA [name]美月[line]‥‥折り入って、話があるの。[%p]
+ZH [name]美月[line]……严肃点，我有话对你说。[%p]
+
+JA [name]たくや[line]話? 枕もとで、寝物語でも語ってくれるのがいいな。[%p]
+ZH [name]拓也[line]话？　在枕头边，给我讲些枕边密语也不错啊。[%p]
+
+JA [name]美月[line]少し、真面目な話。[%p]
+ZH [name]美月[line]有点，严肃的话题。[%p]
+
+JA [name]たくや[line]生理が遅れているんだったら、大変だね。[%p]
+ZH [name]拓也[line]如果是说生理期晚了的话，那就严重了呢。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]ごめん‥‥で、話ってのは?[%p]
+ZH [name]拓也[line]抱歉……那么，要说什么呢？[%p]
+
+JA [name]美月[line]今日の夕方以降、研究室で会えないかしら。[%p]
+ZH [name]美月[line]今天傍晚之后，能不能在研究室见一面呢。[%p]
+
+JA [name]たくや[line]研究室‥‥もしかして、逢い引きってヤツなのかな?[%p]
+ZH [name]拓也[line]研究室……难道说，你是来找我幽会吗？[%p]
+
+JA [name]美月[line]バカ‥‥真面目な話よ。[%p]
+ZH [name]美月[line]笨蛋……是严肃的话题。[%p]
+
+JA [name]たくや[line]なあんだ。ドキドキして損した。[%p]
+ZH [name]拓也[line]什么嘛。害我的心扑通扑通跳。[%p]
+
+JA [name]美月[line]ドキドキする展開になるかもよ。[%p]
+ZH [name]美月[line]说不定真是扑通扑通跳的展开哦。[%p]
+
+JA [name]たくや[line]行く行く。[%p]
+ZH [name]拓也[line]我去我去。[%p]
+
+JA [name]美月[line]現金ねぇ、あなたって。[%p]
+ZH [name]美月[line]你啊，还真是现实呢。[%p]
+
+JA [name]たくや[line]健康優良な男子だからな。[%p]
+ZH [name]拓也[line]我可是身体健康的男人啊。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]マジな話みたいだね。[%p]
+ZH [name]拓也[line]好像是很认真的话题。[%p]
+
+JA [name]美月[line]‥‥今のあなたほどじゃ、ないみたいだけど。[%p]
+ZH [name]美月[line]……可能，没有像你现在这种认真的程度吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]何だか、変よ、あなた‥‥。[%p]
+ZH [name]美月[line]感觉，真奇怪，你……。[%p]
+
+JA [name]たくや[line]どう、変なのかな。[%p]
+ZH [name]拓也[line]怎么，哪里奇怪啊。[%p]
+
+JA [name]美月[line]いつもの有馬君とは違うような‥‥。[%p]
+ZH [name]美月[line]跟平时的有马君有点不一样啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いつもの俺と‥‥違う?)[%p]
+ZH [name]拓也[line](（跟平时的我……不一样？）)[%p]
+
+JA [name]たくや[line](‥‥‥‥。)[%p]
+ZH [name]拓也[line](…………。)[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]なんだい、そんなに見つめられると照れるよ。[%p]
+ZH [name]拓也[line]什么啊，被你这样子看着的话我会害羞哦。[%p]
+
+JA [name]美月[line]‥‥どうしたのよ、いったい。[%p]
+ZH [name]美月[line]……到底，是怎么回事啊。[%p]
+
+JA [name]たくや[line]どうしたのって‥‥俺は学校の生徒で、ここは学校だからね。[%p]
+ZH [name]拓也[line]什么怎么回事……我是学校的学生，而这里不正是学校吗。[%p]
+
+JA [name]美月[line]そういう意味じゃなくて。[%p]
+ZH [name]美月[line]我说的不是这个意思。[%p]
+
+JA [name]たくや[line]じゃあ、どういう意味?[%p]
+ZH [name]拓也[line]那是什么意思啊？[%p]
+
+JA [name]美月[line]何て言ったらいいのか‥‥あなた、ちょっと変よ。[%p]
+ZH [name]美月[line]我该怎么说好呢……你啊，稍微有点怪呢。[%p]
+
+JA [name]たくや[line]失礼だな、人の顔を見て変だなんて。[%p]
+ZH [name]拓也[line]真失礼啊，看着人家的脸说奇怪什么的。[%p]
+
+JA [name]美月[line]違うわ、その‥‥ごめんなさい、そういう意味じゃないの。[%p]
+ZH [name]美月[line]不是的，那个……对不起了，我并不是这个意思。[%p]
+
+JA [name]たくや[line]ははは‥‥わかってるよ、深刻な顔をしてるとか、そういうんだろう?[%p]
+ZH [name]拓也[line]哈哈哈……我明白的，你的意思是说，我现在一副很严肃的表情对吧？[%p]
+
+JA [name]美月[line]‥‥何かあったの?[%p]
+ZH [name]美月[line]……发生什么事了？[%p]
+
+JA [name]たくや[line]何もないよ。[%p]
+ZH [name]拓也[line]没什么啦。[%p]
+
+JA [name]美月[line]ウソ言いなさい。[%p]
+ZH [name]美月[line]请不要对我说谎。[%p]
+
+JA [name]たくや[line]実は生理が遅れていて。[%p]
+ZH [name]拓也[line]其实我生理期晚了。[%p]
+
+JA [name]美月[line]ぷっ。[%p]
+ZH [name]美月[line]噗。[%p]
+
+JA [name]たくや[line]はっはっは。[%p]
+ZH [name]拓也[line]哈哈哈。[%p]
+
+JA [name]美月[line]‥‥その様子だと、それほど深刻ではなさそうね。[%p]
+ZH [name]美月[line]……这样子看起来，似乎没有那么严肃了呢。[%p]
+
+JA [name]たくや[line]さーて、それはどうかな。[%p]
+ZH [name]拓也[line]那么——，这样怎么样。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line](何て説明したらいいか、わからないな‥‥。)[%p]
+ZH [name]拓也[line](（我该怎么说明好呢，完全不知道啊……。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥‥‥。)[%p]
+ZH [name]拓也[line](呼…………。)[%p]
+
+JA [name]たくや[line](穏やかな笑みで、俺を見つめている‥‥。)[%p]
+ZH [name]拓也[line](（平静的笑着，一直看着我……。）。)[%p]
+
+JA [name]美月[line]どうしたのよ、人の顔を見つめて‥‥もう。[%p]
+ZH [name]美月[line]怎么了啊，盯着人家的脸看……真是的。[%p]
+
+JA [name]たくや[line]モヒカンに五分に刈り上げと、何でもござれの髪型だ。[%p]
+ZH [name]拓也[line]莫西干式也好，五分头也好，美月的发型都挺好看的。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]美月さんだったら、モヒカン刈りでも五分刈りでも、似合うと思うけどな。[%p]
+ZH [name]拓也[line]如果是美月的话，不管是是理成莫西干式还是五分头，我觉得都挺合适的。[%p]
+
+JA [name]美月[line]あなたね‥‥他に言いようがないの?[%p]
+ZH [name]美月[line]我说你啊……没别的话要说了吗？[%p]
+
+JA [name]たくや[line]いかにも、秘書という感じの髪型だよな。[%p]
+ZH [name]拓也[line]果然，真是很有秘书感觉的发型。[%p]
+
+JA [name]美月[line]フフ、いちおう秘書をやっているんだけど。[%p]
+ZH [name]美月[line]呵呵，毕竟我也做过秘书嘛。[%p]
+
+JA [name]たくや[line](あーもう、つい目が奪われちまうぜ‥‥。)[%p]
+ZH [name]拓也[line]JF:（啊，眼睛已经被夺走了……）[%p]
+
+JA [name]たくや[line]ぷに‥‥っと。[%p]
+ZH [name]拓也[line]噗尼……呃。[%p]
+
+JA [name]美月[line]なに、「ぷに」って?[%p]
+ZH [name]美月[line]什么，［噗尼］？[%p]
+
+JA [name]たくや[line]はは‥‥いやその、欲望の擬音化ってやつね。[%p]
+ZH [name]拓也[line]哈哈……没什么，只是欲望的拟音化而已。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA はっ。[%p]
+ZH 哈。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥はっ。
+ZH [name]拓也[line]…………哈。
+
+JA [name]美月[line]あなたね、いま鼻の下が20センチくらいになっていたわよ。[%p]
+ZH [name]美月[line]我说你啊，口水流得都快要挂到地上去了哦。[%p]
+
+JA [name]たくや[line]そんな人間がいるかよー。[%p]
+ZH [name]拓也[line]有这样的人吗。[%p]
+
+JA [name]たくや[line](しかし、あんな切れ込みが許されていいのか?)[%p]
+ZH [name]拓也[line](（不过，允许这种程度的暴露也没关系吗？）)[%p]
+
+JA [name]たくや[line](俺は許そう。)[%p]
+ZH [name]拓也[line](（我可以允许。）。)[%p]
+
+JA [name]たくや[line]しかし、凄い切れ込みのベストだね、それ。[%p]
+ZH [name]拓也[line]不过，这马甲裁剪得真厉害呢。[%p]
+
+JA [name]美月[line]そう、とても着やすくて機能的なスーツなのよ、これは。[%p]
+ZH [name]美月[line]是吗，这是有能很容易穿上去功能的套装啊。[%p]
+
+JA [name]たくや[line](そういう問題じゃないような‥‥。)[%p]
+ZH [name]拓也[line](（并不是这个问题啊……。）。)[%p]
+
+JA [name]たくや[line]上着にベスト、タイトスカート‥‥3点セットってやつだな。[%p]
+ZH [name]拓也[line]外面穿背心，紧身裙……这就是所谓的３件套啊。[%p]
+
+JA [name]美月[line]スリーピースというの。ちょっぴり高いのよ。[%p]
+ZH [name]美月[line]这也就是三件套。稍微有点贵哦。[%p]
+
+JA [name]たくや[line]パリッとしたスーツか‥‥美月さんにはお似合いだよな。[%p]
+ZH [name]拓也[line]漂亮的套装吗……穿在美月身上真是太合身了。[%p]
+
+JA [name]美月[line]フフ‥‥ありがとう。実はこれ、先生からの贈り物なの。[%p]
+ZH [name]美月[line]呵呵……谢谢你。其实，这个是老师送给我的礼物呢。[%p]
+
+JA [name]たくや[line]先生?[%p]
+ZH [name]拓也[line]老师？[%p]
+
+JA [name]美月[line]龍蔵寺先生よ。[%p]
+ZH [name]美月[line]龙藏寺老师啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](龍蔵寺の贈り物か‥‥ちぇっ。)[%p]
+ZH [name]拓也[line](（龙藏寺送的礼物吗……切。）。)[%p]
+
+JA [name]たくや[line](あれ? なんで、こんな気分になるんだ?)[%p]
+ZH [name]拓也[line](（咦？　为什么，感觉会这么差？）)[%p]
+
+JA [name]たくや[line](透き通るような肌って感じだな‥‥。)[%p]
+ZH [name]拓也[line](（白皙得好像都快要透明了似的肌肤……。）。)[%p]
+
+JA [name]たくや[line](もちろん、キスマークなんてあるはずがない。)[%p]
+ZH [name]拓也[line](（当然，吻痕什么的不可能会有的。）。)[%p]
+
+JA [name]たくや[line]あっ、ちっちゃな赤いアザがある。[%p]
+ZH [name]拓也[line]啊、有一颗小小的红痣呢。[%p]
+
+JA [name]美月[line]えっ、嘘![%p]
+ZH [name]美月[line]诶，骗人！[%p]
+
+JA [name]たくや[line]嘘。[%p]
+ZH [name]拓也[line]骗人。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]フッフッフ‥‥身に覚えがあるなっ。[%p]
+ZH [name]拓也[line]呵呵呵……似曾相识啊。[%p]
+
+JA [name]美月[line]ノーコメントよ。[%p]
+ZH [name]美月[line]无可奉告。[%p]
+
+JA [name]たくや[line](美月さんだ‥‥。)[%p]
+ZH [name]拓也[line](（这是美月……。）。)[%p]
+
+JA [name]たくや[line](惜しまれるのは、非常勤講師をもう辞めてしまったってことだな。)[%p]
+ZH [name]拓也[line](（非常可惜的是，她已经辞掉了兼课讲师的职务。）。)[%p]
+
+JA [name]たくや[line]さしずめ、対抗馬は校医の絵里子先生ってところか‥‥。[%p]
+ZH [name]拓也[line]目前，竞争对手是校医绘里子老师吗……。[%p]
+
+JA [name]美月[line]ああ‥‥あのグラマラスな先生‥‥武田先生だったかしら。[%p]
+ZH [name]美月[line]啊啊……那个很有魅力的老师……叫做武田老师是吧。[%p]
+
+JA [name]たくや[line]そう、咥えタバコの先生さ。[%p]
+ZH [name]拓也[line]是啊，叼着根香烟的老师。[%p]
+
+JA [name]美月[line]フフ、あの素敵な女性と同列に見てもらえるなんて、光栄ね。[%p]
+ZH [name]美月[line]呵呵，居然把我跟那个迷人的女性相提并论，真是光荣呢。[%p]
+
+JA [name]たくや[line]気品では美月さん、バディでは絵里子先生ってところかな。[%p]
+ZH [name]拓也[line]论气质是美月你，说到身材当属绘里子老师吧。[%p]
+
+JA [name]美月[line]そんな品定めするような言い方はしないの。[%p]
+ZH [name]美月[line]这种好像对人品头论足似的说法还是不要说了。[%p]
+
+JA [name]たくや[line]顔といい、バディといい、恐らくこの学園内でも1、2を争う女性だ。[%p]
+ZH [name]拓也[line]脸蛋也好，身材也好，恐怕在这个学园里面都是数一数二的女性。[%p]
+
+JA [name]美月[line]フフ、ありがと。[%p]
+ZH [name]美月[line]呵呵，谢谢。[%p]
+
+JA 
+ZH 
+

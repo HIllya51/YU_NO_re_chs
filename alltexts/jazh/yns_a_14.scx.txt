@@ -1,0 +1,6 @@
+JA [name]たくや[line]行き止まり、か‥‥。[%p]
+ZH [name]拓也[line]到尽头了，吗……。[%p]
+
+JA 
+ZH 
+

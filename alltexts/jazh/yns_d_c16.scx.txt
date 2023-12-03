@@ -1,0 +1,156 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、真っ暗じゃないか。何も見えないぞ‥‥。[%p]
+ZH [name]拓也[line]可恶，这不是一片漆黑吗。什么都看不到啊……。[%p]
+
+JA [name]美月[line]そうね‥‥懐中電灯が壊れちゃったのが痛かったわ。[%p]
+ZH [name]美月[line]是呢……手电筒坏掉真是太糟糕了。[%p]
+
+JA [name]たくや[line]手探り状態で進めってことか‥‥?[%p]
+ZH [name]拓也[line]只能以慢慢摸索的状态前进了吗……？[%p]
+
+JA [name]美月[line]気をつけて‥‥何があるか、わからないわ。[%p]
+ZH [name]美月[line]要小心点……前面有什么东西，还不清楚呢。[%p]
+
+JA [name]たくや[line]ああ、わかって‥‥‥どわわっ![%p]
+ZH [name]拓也[line]啊啊，知道了……呃哇哇！[%p]
+
+JA [name]美月[line]んきゃっ! ちょ、ちょっとスカートを脱がさないで![%p]
+ZH [name]美月[line]啊呀！　等，等一下，别脱我裙子啊！[%p]
+
+JA [name]たくや[line]えっ、嘘。[%p]
+ZH [name]拓也[line]诶，不会吧。[%p]
+
+JA [name]美月[line]もう![%p]
+ZH [name]美月[line]真是的！[%p]
+
+JA [name]たくや[line]ちぇっ、今日のパンツの色がわからないな。[%p]
+ZH [name]拓也[line]切，看不到今天的内裤颜色啊。[%p]
+
+JA [name]美月[line]ジョークを言っている場合?[%p]
+ZH [name]美月[line]现在是开玩笑的时候吗？[%p]
+
+JA [name]たくや[line]そうだった。何か踏みつけたから、転んでしまって‥‥。[%p]
+ZH [name]拓也[line]说的也是。我只是不小心踩到什么东西，结果摔倒了……。[%p]
+
+JA [name]美月[line]ねぇ、たくや‥‥‥‥。[%p]
+ZH [name]美月[line]呐，拓也…………。[%p]
+
+JA [name]たくや[line]うん、わかってる。[%p]
+ZH [name]拓也[line]嗯，明白了。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]声がさっきほど響いていないし‥‥しかも床が濡れていない。[%p]
+ZH [name]拓也[line]声音在不久之前已经不再响了……而且地面也不湿了。[%p]
+
+JA [name]美月[line]ということは、面積的に比較的狭い場所ということね‥‥。[%p]
+ZH [name]美月[line]也就是说，这里是面积比较狭窄的地方吧……。[%p]
+
+JA [name]たくや[line]ああ。しかも地下水が浸水していないところだ。[%p]
+ZH [name]拓也[line]啊啊。而且还是地下水没有漫进来的地方。[%p]
+
+JA [name]美月[line]いったい‥‥どこなの?[%p]
+ZH [name]美月[line]到底……是什么地方呢？[%p]
+
+JA [name]たくや[line]うわっ、踏んだ床が、下にめり込んだぞ。[%p]
+ZH [name]拓也[line]唔哇，踩到的地面，开始往下陷了。[%p]
+
+JA [name]美月[line]ええっ‥‥!?[%p]
+ZH [name]美月[line]诶诶……！？[%p]
+
+JA [name]たくや[line]しまった! 何かのスイッチだったか‥‥!?[%p]
+ZH [name]拓也[line]糟糕了！　是什么东西的开关吧……！？[%p]
+
+JA [name]美月[line]ちょっと、今度はなに?[%p]
+ZH [name]美月[line]等一下，这次是什么？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]美月[line]‥‥‥何も、起きないわね。[%p]
+ZH [name]美月[line]……什么，都没发生呢。[%p]
+
+JA [name]たくや[line]気のせいだったのかな‥‥? 化け物でも出れば、面白いんだけどな。[%p]
+ZH [name]拓也[line]应该是我的错觉吧……？　不过要是出现怪物什么的话，就有意思了。[%p]
+
+JA [name]美月[line]ちょっと、止めてよ‥‥卒倒しちゃうわ。[%p]
+ZH [name]美月[line]JF:喂，别这样……会晕倒的。[%p]
+
+JA [name]たくや[line]そっか、美月さん、オバケの類が‥‥。[%p]
+ZH [name]拓也[line]是吗，美月，你是怪物的同类吗……。[%p]
+
+JA [name]美月[line]大っ嫌いなのっ。[%p]
+ZH [name]美月[line]我很讨厌那种东西。[%p]
+
+JA [name]たくや[line]ふぅん‥‥。[%p]
+ZH [name]拓也[line]哼……。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]美月[line]油の匂い‥‥モノが燃える匂いもするわ。[%p]
+ZH [name]美月[line]油的气味……好像能闻到物体燃烧的味道。[%p]
+
+JA [name]たくや[line]クンクン‥‥。[%p]
+ZH [name]拓也[line]嗅嗅……。[%p]
+
+JA [name]たくや[line]火が点いた匂い‥‥。[%p]
+ZH [name]拓也[line]点燃了火的气味……。[%p]
+
+JA [name]たくや[line]あっ‥‥![%p]
+ZH [name]拓也[line]啊……！[%p]
+
+JA [name]美月[line]きゃぁぁぁぁぁぁぁっ!![%p]
+ZH [name]美月[line]呀啊啊啊啊啊啊啊啊啊！！[%p]
+
+JA [name]たくや[line]お、おい‥‥美月さん![%p]
+ZH [name]拓也[line]喂，喂……美月！[%p]
+
+JA [name]美月[line]んん‥‥‥。[%p]
+ZH [name]美月[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]美月さん![%p]
+ZH [name]拓也[line]美月！[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]のびちまった‥‥‥。[%p]
+ZH [name]拓也[line]她已经晕倒了……。[%p]
+
+JA [name]たくや[line]ったく、こういうときは先にぶっ倒れるのが勝ちだよな。[%p]
+ZH [name]拓也[line]受不了，这种时候先晕倒真是被她给打败了。[%p]
+
+JA [name]たくや[line]ふぅ‥‥‥。[%p]
+ZH [name]拓也[line]（呼……。）。[%p]
+
+JA [name]たくや[line]とりあえず、美月さんを端っこに座らせておいてと‥‥。[%p]
+ZH [name]拓也[line]总之，先让美月坐到角落去吧……。[%p]
+
+JA [name]美月[line]んん‥‥‥。[%p]
+ZH [name]美月[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥これでよし。[%p]
+ZH [name]拓也[line]…………这样就行了。[%p]
+
+JA [name]たくや[line]あとは、部屋内の探索ってところか‥‥。[%p]
+ZH [name]拓也[line]接着，就要开始探索房间里面吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

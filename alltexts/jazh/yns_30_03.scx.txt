@@ -1,0 +1,516 @@
+JA [name]たくや[line]あ、ああ‥‥立てるけど‥‥。[%p]
+ZH [name]拓也[line]啊，啊啊……站得起来……。[%p]
+
+JA [name]たくや[line](立ちたくない眺めだな‥‥。)[%p]
+ZH [name]拓也[line](（让人舍不得站起来的风景……。）。)[%p]
+
+JA [name]美月[line]‥‥どうしたの?[%p]
+ZH [name]美月[line]……怎么了？[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]美月[line]空をボーっと見つめて‥‥何か考えているみたいだったから。[%p]
+ZH [name]美月[line]傻呆呆地盯着天空看……好像是在思考什么的样子。[%p]
+
+JA [name]たくや[line]うん、ほら見てみなよ、あの澄み切った青空を。[%p]
+ZH [name]拓也[line]嗯，你看啊，这个澄净又明亮的蓝天。[%p]
+
+JA [name]美月[line]なによそれ‥‥でも変わったわね、たくや。[%p]
+ZH [name]美月[line]什么啊……真是够古怪的，拓也。[%p]
+
+JA [name]たくや[line]なにが‥‥?[%p]
+ZH [name]拓也[line]什么……？[%p]
+
+JA [name]美月[line]ひと頃の、とげとげしさが、無くなってる。[%p]
+ZH [name]美月[line]前些日子我们针锋相对的情景，不见了。[%p]
+
+JA [name]たくや[line]‥‥そうかな。[%p]
+ZH [name]拓也[line]……是吗。[%p]
+
+JA [name]美月[line]ええ。[%p]
+ZH [name]美月[line]是啊。[%p]
+
+JA [name]たくや[line]人生20年に満たずして、悟りを開いたんだろう。[%p]
+ZH [name]拓也[line]人生满２０年，开始有所领悟了吧。[%p]
+
+JA [name]美月[line]じゃあ、若き哲学者さんにお訊きしたいけど。[%p]
+ZH [name]美月[line]那么，我有件事想请教年轻的哲学家先生。[%p]
+
+JA [name]たくや[line]どうぞ。[%p]
+ZH [name]拓也[line]请说。[%p]
+
+JA [name]美月[line]私のこと、どう思ってる?[%p]
+ZH [name]美月[line]关于我的事，你是怎么想的？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]ちょっと、何で目を反らすのよ。[%p]
+ZH [name]美月[line]等一下，为什么要转移视线啊。[%p]
+
+JA [name]たくや[line]ほら、あの澄み切った青空を見てみなよ‥‥。[%p]
+ZH [name]拓也[line]来，我们看看这个澄净又明亮的蓝天……。[%p]
+
+JA [name]美月[line]たくや。[%p]
+ZH [name]美月[line]拓也[%p]
+
+JA [name]たくや[line]は、はい。[%p]
+ZH [name]拓也[line]是、是。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]だからさぁ、美月さんのことは好きだって。[%p]
+ZH [name]拓也[line]我都说了，我喜欢美月你啊。[%p]
+
+JA [name]美月[line]おざなりな言い方。[%p]
+ZH [name]美月[line]敷衍了事的说法。[%p]
+
+JA [name]たくや[line]おお、ジュリエット、君の瞳は100万ボルト‥‥とでも言って欲しいの?[%p]
+ZH [name]拓也[line]哦哦，朱丽叶，你的瞳孔能释放１００万伏特的电压……想要我说这个吗？[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]美月さんさ、そんなに眉間にタテジワをきざんでると、美人が台無しだぜ。[%p]
+ZH [name]拓也[line]美月你啊，眉头老是这样子皱起来的话，就白白浪费了一个大美人了。[%p]
+
+JA [name]美月[line]じゃあ‥‥返事。[%p]
+ZH [name]美月[line]那么……回答我。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]また、目を反らした。[%p]
+ZH [name]美月[line]又来了，移开眼神。[%p]
+
+JA [name]たくや[line]ほら、あの澄み切った青空を‥‥。[%p]
+ZH [name]拓也[line]你看，这个澄净又明亮的蓝天……。[%p]
+
+JA [name]美月[line]昨夜から、ずっと私を避けてる‥‥‥。[%p]
+ZH [name]美月[line]从昨晚开始，你就一直在躲避我……。[%p]
+
+JA [name]たくや[line]んなこと無いってば。[%p]
+ZH [name]拓也[line]才没有那种事。[%p]
+
+JA [name]美月[line]嫌いよ。[%p]
+ZH [name]美月[line]我很讨厌。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]嫌い。[%p]
+ZH [name]美月[line]讨厌。[%p]
+
+JA [name]たくや[line]ごめん。[%p]
+ZH [name]拓也[line]抱歉。[%p]
+
+JA [name]美月[line]何で謝るのよ。[%p]
+ZH [name]美月[line]为什么要道歉。[%p]
+
+JA [name]たくや[line]何となく。[%p]
+ZH [name]拓也[line]无论如何。[%p]
+
+JA [name]美月[line]じゃあ、あなたは何となくで他人に謝ったりするわけね。その辺を歩いているオジサンに、いきなり土下座をするのね。[%p]
+ZH [name]美月[line]那么，你无论如何都应该要向别人道歉吧。那就对着那边散步的大叔，磕头认错吧。[%p]
+
+JA [name]たくや[line]何なんだよ、それは。[%p]
+ZH [name]拓也[line]什么意思啊。[%p]
+
+JA [name]美月[line]大っ嫌い。[%p]
+ZH [name]美月[line]很讨厌。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line](とにかく、起きよう‥‥。)[%p]
+ZH [name]拓也[line](（总之，先起来吧……。）。)[%p]
+
+JA [name]たくや[line]よいしょっと‥‥。[%p]
+ZH [name]拓也[line]嘿哟……。[%p]
+
+JA [name]美月[line]きゃぁぁぁっっ![%p]
+ZH [name]美月[line]呀啊啊啊！[%p]
+
+JA [name]たくや[line]どわわわっ![%p]
+ZH [name]拓也[line]呃哇哇哇！[%p]
+
+JA [name]美月[line]わざとやったでしょっ![%p]
+ZH [name]美月[line]你是故意的吧！[%p]
+
+JA [name]たくや[line]してない、してない。[%p]
+ZH [name]拓也[line]不是故意，不是故意。[%p]
+
+JA [name]美月[line]は、早く‥‥ちょっと‥‥んもう![%p]
+ZH [name]美月[line]快，快点……等一下……够了！[%p]
+
+JA [name]たくや[line]わ、わかったってば‥‥。[%p]
+ZH [name]拓也[line]我，我知道了……。[%p]
+
+JA [name]たくや[line](これは、不可抗力だぞ‥‥。)[%p]
+ZH [name]拓也[line](（这个，是不可抗力……。）。)[%p]
+
+JA [name]たくや[line](何で、ここまで言われなきゃ、なんないんだよ‥‥。)[%p]
+ZH [name]拓也[line](（为什么，我非得要做这样的说明啊……。）。)[%p]
+
+JA [name]たくや[line](まったく‥‥‥‥。)[%p]
+ZH [name]拓也[line](（真是的…………。）。)[%p]
+
+JA [name]美月[line]あなた、半信半疑だったでしょう?[%p]
+ZH [name]美月[line]你还是半信半疑吧？[%p]
+
+JA [name]たくや[line]何が?[%p]
+ZH [name]拓也[line]什么？[%p]
+
+JA [name]美月[line]私の話、半分は信じていなかったみたいだから。[%p]
+ZH [name]美月[line]我的话，看上去你还有一半不相信啊。[%p]
+
+JA [name]たくや[line]その言い方はトゲがあるな。半分は信じたって言ってくれよ。[%p]
+ZH [name]拓也[line]你这叫说话带刺啊。应该说我已经相信了一半。[%p]
+
+JA [name]美月[line]言い方はご自由に。[%p]
+ZH [name]美月[line]随你怎么说吧。[%p]
+
+JA [name]たくや[line]ちぇっ。[%p]
+ZH [name]拓也[line]切。[%p]
+
+JA [name]美月[line]もっと、何か見つかればいいと思って‥‥。[%p]
+ZH [name]美月[line]还是，应该再找些什么东西给你比较好……。[%p]
+
+JA [name]たくや[line]日記の本体とか‥‥そういうやつ?[%p]
+ZH [name]拓也[line]日记的本体什么的……这样的东西？[%p]
+
+JA [name]美月[line]そう、それで井戸の中。[%p]
+ZH [name]美月[line]是啊，那就在枯井里面。[%p]
+
+JA [name]たくや[line]ふぅん‥‥。[%p]
+ZH [name]拓也[line]哼……。[%p]
+
+JA [name]美月[line]龍蔵寺先生‥‥今日は特に変だったわ。[%p]
+ZH [name]美月[line]龙藏寺老师……今天特别奇怪啊。[%p]
+
+JA [name]たくや[line]‥‥変? ステテコ一丁で阿波踊りでも踊ったかい?[%p]
+ZH [name]拓也[line]……奇怪？　难道他穿着一条短衬裤跳阿波舞吗？[%p]
+
+JA [name]美月[line]それはあなた。[%p]
+ZH [name]美月[line]那是你吧。[%p]
+
+JA [name]たくや[line]なにおう。[%p]
+ZH [name]拓也[line]什么嘛。[%p]
+
+JA [name]美月[line]真面目に聞いてよ‥‥本当に変だったの。[%p]
+ZH [name]美月[line]认真点听人说话……真的很奇怪啊。[%p]
+
+JA [name]たくや[line]どう、変なの?[%p]
+ZH [name]拓也[line]怎么个奇怪法？[%p]
+
+JA [name]美月[line]凄くナーバスだったの。電話のベル一つに対しても、何かイライラするような‥‥。[%p]
+ZH [name]美月[line]变得非常神经质了。即使是听到电话铃声，也会变得很焦躁不安……。[%p]
+
+JA [name]たくや[line]ふぅん、やっぱりアノ日‥‥あわわ、真面目に聞きます。[%p]
+ZH [name]拓也[line]哼，果然是那个来了……啊哇哇，我会认真听的。[%p]
+
+JA [name]美月[line]今日のスケジュールは、全てキャンセルだとか言い出して、私が午後の学会の会合は外せませんと言ったら‥‥。[%p]
+ZH [name]美月[line]今天的行程，说是要全部都取消掉，又跟我说下午学会的碰面别忘了……。[%p]
+
+JA [name]たくや[line]うん。[%p]
+ZH [name]拓也[line]唔嗯。[%p]
+
+JA [name]美月[line]家具の配置を変えなくてはならないとか、妙なことを口走って‥‥。[%p]
+ZH [name]美月[line]说什么一定要改变家具的摆设，嘴里说着这些奇怪的话……。[%p]
+
+JA [name]たくや[line]家具の‥‥配置?[%p]
+ZH [name]拓也[line]家具的……摆设？[%p]
+
+JA [name]美月[line]ええ‥‥それで私に対して、言葉で酷いことを‥‥。[%p]
+ZH [name]美月[line]是啊……而且，还对我说了很过分的话……。[%p]
+
+JA [name]たくや[line]‥‥どんなことを言ったのさ。[%p]
+ZH [name]拓也[line]……说了什么话。[%p]
+
+JA [name]美月[line]一条君、きみは‥‥‥。[%p]
+ZH [name]美月[line]一条君，你是……。[%p]
+
+JA [name]たくや[line]ストップ。[%p]
+ZH [name]拓也[line]ＳＴＯＰ。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]ゴメン、やっぱり言わなくていいや。[%p]
+ZH [name]拓也[line]抱歉，果然还是不用说出来了。[%p]
+
+JA [name]美月[line]うん‥‥。[%p]
+ZH [name]美月[line]嗯……。[%p]
+
+JA [name]たくや[line](もう一度言って、美月さんが落ち込む必要もないよな‥‥。)[%p]
+ZH [name]拓也[line](（没有必要再说一遍，让美月的心情更加低落……。）。)[%p]
+
+JA [name]たくや[line](俺って無神経だから、そういうところに気付かないから‥‥ったく、バカ。)[%p]
+ZH [name]拓也[line](（我真是太迟钝了，这一点都没有注意到……真的，混蛋。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](しかし、龍蔵寺は凄くナーバスか‥‥。)[%p]
+ZH [name]拓也[line](（不过，龙藏寺变得非常神经质吗……。）。)[%p]
+
+JA [name]たくや[line](学者先生には、ありそうなことだと思うんだが‥‥。)[%p]
+ZH [name]拓也[line](（虽然对于学者老师来说，这种事情是有可能的……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](でも、家具の配置ってのがわからないな‥‥。)[%p]
+ZH [name]拓也[line](（不过，家具的摆设什么的我就完全不懂了……。）。)[%p]
+
+JA [name]たくや[line](あれ‥‥?)[%p]
+ZH [name]拓也[line](咦……？)[%p]
+
+JA [name]たくや[line](家具の配置‥‥どこか別の所で、聞いたような気がする。)[%p]
+ZH [name]拓也[line](（家伙的摆设……貌似，好像也有在别的地方听到过。）。)[%p]
+
+JA [name]たくや[line](どこだったっけ?)[%p]
+ZH [name]拓也[line](到底是在哪里呢？)[%p]
+
+JA [name]たくや[line]それよりもさ、井戸の中を覗いて、何をやっていたんだい?[%p]
+ZH [name]拓也[line]比起这个，你对着枯井里面东张西望，是在做什么啊？[%p]
+
+JA [name]美月[line]ええ、そうなのよ‥‥。[%p]
+ZH [name]美月[line]嗯，是这样的……。[%p]
+
+JA [name]たくや[line]王様の耳は、ロバの耳?[%p]
+ZH [name]拓也[line]国王的耳朵，是驴耳朵？[%p]
+
+JA [name]美月[line]バカね‥‥ちょっと奧を見ていたの。[%p]
+ZH [name]美月[line]傻瓜……我是在往里面看。[%p]
+
+JA [name]たくや[line]わかるわかる。誰でも井戸の底を見つめていたくなるときが、あるんだよな。[%p]
+ZH [name]拓也[line]明白明白。不管是谁，都会有想往井底最深处看的时候。[%p]
+
+JA [name]美月[line]なに言ってるのよ、ばか。[%p]
+ZH [name]美月[line]你在说什么啊，傻瓜。[%p]
+
+JA [name]たくや[line]なにおう。[%p]
+ZH [name]拓也[line]什么嘛。[%p]
+
+JA [name]美月[line]探して‥‥いたのよ。[%p]
+ZH [name]美月[line]我在找……在里面。[%p]
+
+JA [name]たくや[line]水の中に、生理用品でも落としたの?[%p]
+ZH [name]拓也[line]水里面，掉进了生理用品吗？[%p]
+
+JA [name]美月[line]あなたね、そういうことしか頭にないの?[%p]
+ZH [name]美月[line]我说你啊，脑袋里面除了这些就没别的了吗？[%p]
+
+JA [name]たくや[line]うん、そういうことしか頭にない。[%p]
+ZH [name]拓也[line]嗯，脑袋里面除了这些就没别的了。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]眉間に、タテジワが寄ってるよ。[%p]
+ZH [name]拓也[line]眉头，又皱起来了。[%p]
+
+JA [name]美月[line]あそこは枯れ井戸よ‥‥水はもう出ないわ。[%p]
+ZH [name]美月[line]那里的是口枯井……已经没有水了。[%p]
+
+JA [name]たくや[line]枯れ井戸‥‥。[%p]
+ZH [name]拓也[line]枯井……。[%p]
+
+JA [name]美月[line]ええ‥‥かなり深いみたいだけど、もう水は出ないって言っていたわ。[%p]
+ZH [name]美月[line]是啊……虽然看上去相当深，不过已经没有水了。[%p]
+
+JA [name]たくや[line]ふぅん‥‥じゃあ、なんで覗いていたんだい?[%p]
+ZH [name]拓也[line]哼……那么，你是在看什么呢？[%p]
+
+JA [name]美月[line]あなたが来るまでに、もっと有用なものを探しておこうと思ったのよ‥‥。[%p]
+ZH [name]美月[line]到你来了为止，我正在找些更有用的东西……。[%p]
+
+JA [name]たくや[line]有用なもの?[%p]
+ZH [name]拓也[line]有用的东西？[%p]
+
+JA [name]美月[line]‥‥例の日記帳の切れ端、覚えている?[%p]
+ZH [name]美月[line]……那个日记本的书页，你还记得吗？[%p]
+
+JA [name]たくや[line]昨夜の今日だぜ、忘れる訳がない。[%p]
+ZH [name]拓也[line]昨晚的这个时候，我不可能会忘吧。[%p]
+
+JA [name]美月[line]ほんとかしら。[%p]
+ZH [name]美月[line]真的吗。[%p]
+
+JA [name]たくや[line]龍蔵寺が書いたとかいう、あの切れ端だろう?[%p]
+ZH [name]拓也[line]龙藏寺写上去的，那个书页吧？[%p]
+
+JA [name]美月[line]ええ‥‥あれを見つけたのが、この井戸のそばだったの。[%p]
+ZH [name]美月[line]是啊……我找到那个，就是在这口井的旁边。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](日記の切れ端が、井戸のそばに‥‥。)[%p]
+ZH [name]拓也[line](（日记的碎页，在枯井的旁边……。）。)[%p]
+
+JA [name]たくや[line](それはそれで、妙な話だな‥‥。)[%p]
+ZH [name]拓也[line](（这真是，太奇怪了……。）。)[%p]
+
+JA [name]美月[line]もう‥‥他の女の子にも、こんなことばかりしているんでしょ。[%p]
+ZH [name]美月[line]真是的……你对其他的女孩子，也总是做这样的事吧。[%p]
+
+JA [name]たくや[line]んなことするかよ、それじゃあタダの変態だぞ。[%p]
+ZH [name]拓也[line]才没有呢，这样的话就只是单纯的变态了。[%p]
+
+JA [name]美月[line]じゃあ、私には何でするのよ。[%p]
+ZH [name]美月[line]那么，为什么对我做这样的事。[%p]
+
+JA [name]たくや[line]それは‥‥美月さんだから、かな?[%p]
+ZH [name]拓也[line]那是……因为你是美月，吧？[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]あれ、照れてる?[%p]
+ZH [name]拓也[line]咦，害羞了？[%p]
+
+JA [name]美月[line]バ、バカ言わないでよ。とにかく、ケガもないようで何よりだわ。立てる?[%p]
+ZH [name]美月[line]别，别开玩笑了。总之，没有受伤实在是太好了。站得起来吗？[%p]
+
+JA [name]たくや[line]いやその‥‥ええと、少し目眩がするんだ。[%p]
+ZH [name]拓也[line]不是……那个，我稍微有点头晕。[%p]
+
+JA [name]美月[line]‥‥本当? 大丈夫?[%p]
+ZH [name]美月[line]……真的？　没事吗？[%p]
+
+JA [name]たくや[line]大丈夫だとは思うが‥‥何だか、クラクラするな。[%p]
+ZH [name]拓也[line]我想应该是没事的……只不过，有点头晕眼花而已。[%p]
+
+JA [name]美月[line]しばらく、そのままの方がいいわ。無理しないで。[%p]
+ZH [name]美月[line]那么，再稍微保持这样子一段时间吧。别太勉强了。[%p]
+
+JA [name]たくや[line]うん、そうする。[%p]
+ZH [name]拓也[line]嗯，那就这样吧。[%p]
+
+JA [name]たくや[line](この眺めでクラクラするって言ったら、やっぱり怒るかな‥‥。)[%p]
+ZH [name]拓也[line](（如果跟她说是因为这样的景色而头晕的话，一定会生气吧……。）。)[%p]
+
+JA [name]たくや[line](美月さんが俺を見つめている‥‥。)[%p]
+ZH [name]拓也[line](（美月正在盯着我看…。）。)[%p]
+
+JA [name]たくや[line](心配そうに俺を見つめている‥‥。)[%p]
+ZH [name]拓也[line](（很担心地盯着我看……。）。)[%p]
+
+JA [name]たくや[line](何だか、あったかいな‥‥。)[%p]
+ZH [name]拓也[line](（总觉得，有什么事的样子……。）。)[%p]
+
+JA [name]たくや[line](美月さんの髪の毛だ‥‥。)[%p]
+ZH [name]拓也[line](（美月的头发……。）。)[%p]
+
+JA [name]たくや[line](いつもはパリッとセットしてあるんだけどね‥‥。)[%p]
+ZH [name]拓也[line](（她的头发总是这样子烫起来……。）。)[%p]
+
+JA [name]たくや[line](少し乱れてる方が、ナチュラルだよな‥‥。)[%p]
+ZH [name]拓也[line](（稍微有点乱，反而更自然呢……。）。)[%p]
+
+JA [name]たくや[line](だから、やめよう‥‥。)[%p]
+ZH [name]拓也[line](（都说了，住手吧……。）。)[%p]
+
+JA [name]たくや[line]ゴクッ‥‥。[%p]
+ZH [name]拓也[line]（咕噜……。）。[%p]
+
+JA [name]美月[line]大丈夫? 頭、打たなかった?[%p]
+ZH [name]美月[line]没事吧？　脑袋，有撞到吗？[%p]
+
+JA [name]たくや[line]いやその‥‥‥大丈夫。[%p]
+ZH [name]拓也[line]没有……没问题的。[%p]
+
+JA [name]たくや[line](やめよう‥‥。)[%p]
+ZH [name]拓也[line](（停手吧……。）。)[%p]
+
+JA [name]たくや[line](いつも思うけど、この谷間はかなりデンジャーだ。)[%p]
+ZH [name]拓也[line]JF:（虽然一直在想，但是这个山谷相当危险。）[%p]
+
+JA [name]たくや[line](美月さんの服だ‥‥アダルツだぞ。)[%p]
+ZH [name]拓也[line](（美月的衣服……很成熟呢。）。)[%p]
+
+JA [name]たくや[line](ビジネス・スーツに身を包んでいる‥‥。)[%p]
+ZH [name]拓也[line](（一套商务装抱住了全身……。）。)[%p]
+
+JA [name]たくや[line](美月さんは、こういうアダルツな格好が似合うんだ。)[%p]
+ZH [name]拓也[line](（美月，非常适合这样成熟的穿着。）。)[%p]
+
+JA [name]たくや[line](止めろって。美月さんに気付かれるぜ‥‥。)[%p]
+ZH [name]拓也[line]JF:（停下来。美月会注意到的……）[%p]
+
+JA [name]美月[line]さっきから、どうしたの? 口を突き出したりして‥‥。[%p]
+ZH [name]美月[line]从刚才开始，你到底怎么了？　嘴巴这样子张开着……。[%p]
+
+JA [name]たくや[line]ははは‥‥ええと、可能性への挑戦ってやつかな。[%p]
+ZH [name]拓也[line]哈哈哈……那个，是在挑战可能性吧。[%p]
+
+JA [name]美月[line]‥‥?[%p]
+ZH [name]美月[line]……？[%p]
+
+JA [name]たくや[line](無理を言わないでくれ‥‥。)[%p]
+ZH [name]拓也[line](（别再说傻话了……。）。)[%p]
+
+JA [name]たくや[line](欲求と実現は、必ずしも比例しないもんだ‥‥。)[%p]
+ZH [name]拓也[line](（欲求和现实，未必能成比例……。）。)[%p]
+
+JA [name]たくや[line](いや、止めておこう‥‥。)[%p]
+ZH [name]拓也[line]JF:（不，停下来吧……）[%p]
+
+JA [name]たくや[line](自制心が勝ってこそ、大人ってもんだ。)[%p]
+ZH [name]拓也[line]JF:只有自制力强，才算是大人[%p]
+
+JA [name]たくや[line](美月さんの足だ。)[%p]
+ZH [name]拓也[line]JF:（这是美月的脚。）[%p]
+
+JA [name]たくや[line](キレイな足だな‥‥。)[%p]
+ZH [name]拓也[line]JF:（好漂亮的脚啊……）[%p]
+
+JA [name]たくや[line](美月さんの生足だ。)[%p]
+ZH [name]拓也[line]JF:（这是美月的生足。）[%p]
+
+JA [name]たくや[line](ストッキングもいいけど、やっぱり生足だな‥‥。)[%p]
+ZH [name]拓也[line]JF:（长筒袜也不错，但还是生脚啊……）[%p]
+
+JA [name]たくや[line](‥‥などと考えてる場合じゃなくて。)[%p]
+ZH [name]拓也[line](（……现在不是考虑这些的时候。）。)[%p]
+
+JA [name]たくや[line](美月さんが俺の目の前に屈んでいる‥‥‥。)[%p]
+ZH [name]拓也[line](（美月现在就在我的眼前……。）。)[%p]
+
+JA [name]たくや[line](まわりは静かだ‥‥陽射しが少し眩しい。)[%p]
+ZH [name]拓也[line](（周围相当安静……阳光稍微有点耀眼。）。)[%p]
+
+JA [name]たくや[line](まわりには緑が生い茂ってる‥‥。)[%p]
+ZH [name]拓也[line](（这周围植物长得很茂盛……。）。)[%p]
+
+JA [name]たくや[line](ついでに、俺の背中の下にも草が生えてるぜ‥‥。)[%p]
+ZH [name]拓也[line](（就连我的背后，也是杂草丛生呢……。）。)[%p]
+
+JA [name]たくや[line](つまり俺は、地面の上に寝そべっている訳だ‥‥。)[%p]
+ZH [name]拓也[line](（也就是说，现在是正睡在地面上的……。）。)[%p]
+
+JA [name]たくや[line](んな所に使って、どうするつもりだ。)[%p]
+ZH [name]拓也[line](（在这种地方使用，打算做什么啊。）。)[%p]
+
+JA [name]たくや[line](真面目にやってくれ‥‥。)[%p]
+ZH [name]拓也[line](（给我认真点……。）。)[%p]
+
+JA [name]たくや[line](アイテムを使うときじゃないぞ‥‥。)[%p]
+ZH [name]拓也[line](（现在不是使用道具的时候……。）。)[%p]
+
+JA [name]たくや[line](それよりも‥‥目の前のことの方が気になるぞ。)[%p]
+ZH [name]拓也[line](（比起这个……还是要注意眼前的方向吧。）。)[%p]
+
+JA [name]たくや[line](おいおい、そんなのを使ってるときじゃないぜ‥‥。)[%p]
+ZH [name]拓也[line](（喂喂，现在不是使用那东西的时候吧……。）。)[%p]
+
+JA 
+ZH 
+

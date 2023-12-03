@@ -1,0 +1,234 @@
+JA [name]たくや[line]龍蔵寺を追ってきたが‥‥。[%p]
+ZH [name]拓也[line]追着龙藏寺后面……。[%p]
+
+JA [name]たくや[line]いないじゃないか。どこへ行ったんだ‥‥?[%p]
+ZH [name]拓也[line]不见了啊。去哪里了呢……？[%p]
+
+JA [name]声[line]誰かを探しているのかね?[%p]
+ZH [name]声音[line]你在找什么人吗？[%p]
+
+JA [name]たくや[line](龍蔵寺‥‥!)[%p]
+ZH [name]拓也[line](（龙藏寺……！）)[%p]
+
+JA [name]龍蔵寺[line]フフ‥‥ここへ来てしまったようだね。[%p]
+ZH [name]龙藏寺[line]呵呵……都到这里来了啊。[%p]
+
+JA [name]たくや[line]‥‥何を言っている?[%p]
+ZH [name]拓也[line]……他在说什么？[%p]
+
+JA [name]龍蔵寺[line]ほう‥‥カオスの矯正のためか。ノイマン境界を越えると、記憶は断片的になるようだ。[%p]
+ZH [name]龙藏寺[line]哦……为了矫正混沌吗。如果超越了诺伊曼的话，记忆就会变成片段了啊。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]龍蔵寺[line]待っていたよ‥‥今度は逃がさない。[%p]
+ZH [name]龙藏寺[line]我在等着你……这次不会让你逃了。[%p]
+
+JA [name]たくや[line](何を言っているんだ、龍蔵寺は‥‥?)[%p]
+ZH [name]拓也[line](（龙藏寺，他在说些什么啊……？）)[%p]
+
+JA [name]龍蔵寺[line]君の持っている、それを私に渡すのだ。[%p]
+ZH [name]龙藏寺[line]你拿着的东西，把它交给我吧。[%p]
+
+JA [name]たくや[line]‥‥ふざけるなよ、俺は‥‥
+ZH [name]拓也[line]……别开玩笑了，我是……
+
+JA うっ。[%p]
+ZH 唔。[%p]
+
+JA [name]たくや[line]‥‥ふざけるなよ、俺は‥‥うっ。
+ZH [name]拓也[line]……别开玩笑了，我是……唔。
+
+JA [name]龍蔵寺[line]どうしたのかね?[%p]
+ZH [name]龙藏寺[line]怎么了？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どうした‥‥目眩がする。)[%p]
+ZH [name]拓也[line](（怎么了……头晕目眩。）。)[%p]
+
+JA [name]たくや[line](ヤツの‥‥目のせいか?)[%p]
+ZH [name]拓也[line](（是这家伙……眼睛的缘故吗？）)[%p]
+
+JA [name]龍蔵寺[line]ほう、ナイアーブに抵抗を示すとは‥‥これも何かの因子のせいか?[%p]
+ZH [name]龙藏寺[line]嗬，对奈亚普进行了抵抗啊……这个也是某项因子的缘故吗？[%p]
+
+JA [name]たくや[line]くっ‥‥。[%p]
+ZH [name]拓也[line]呜……。[%p]
+
+JA [name]たくや[line](どうした‥‥立っていられない。)[%p]
+ZH [name]拓也[line](（怎么了……站不直了。）。)[%p]
+
+JA [name]たくや[line](いったい、何が起きて‥‥。)[%p]
+ZH [name]拓也[line](（到底，发生什么事了……。）。)[%p]
+
+JA [name]龍蔵寺[line]私の目を見たまえ‥‥そうだ、それでいい。[%p]
+ZH [name]龙藏寺[line]看着我的眼睛……对了，这样就好了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]そうだ‥‥
+ZH [name]龙藏寺[line]是……
+
+JA そう‥‥
+ZH （对了……。）
+
+JA ほら、
+ZH 你看，
+
+JA 眠くなっていく‥‥。[%p]
+ZH 开始变困了……。[%p]
+
+JA [name]龍蔵寺[line]そうだ‥‥そう‥‥ほら、眠くなっていく‥‥。
+ZH [name]龙藏寺[line]JF:对了……对了……看，我困了。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何だ‥‥まぶたが‥‥重くなっていくぞ‥‥。)[%p]
+ZH [name]拓也[line](（什么……眼皮……开始变重了……。）。)[%p]
+
+JA [name]龍蔵寺[line]フフフ‥‥それでいい。[%p]
+ZH [name]龙藏寺[line]呵呵呵……这样就好了。[%p]
+
+JA [name]龍蔵寺[line]この間起きたような、ハプニングは起きそうもない。[%p]
+ZH [name]龙藏寺[line]就像是在这个时候会发生的，意外事件并没有发生。[%p]
+
+JA [name]龍蔵寺[line]どうも、この剣ノ岬には、何かの因子を感じるが‥‥まぁそれはいい。[%p]
+ZH [name]龙藏寺[line]似乎，在这个剑之岬，能感觉到什么因子……这个先算了。[%p]
+
+JA [name]龍蔵寺[line]さぁ、後は任せたまえ‥‥。[%p]
+ZH [name]龙藏寺[line]来，接下来就交给你吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥いったい、何を‥‥‥‥。[%p]
+ZH [name]拓也[line]……究竟，是什么…………。[%p]
+
+JA [name]龍蔵寺[line]こんな所へ来てはいかんな‥‥。[%p]
+ZH [name]龙藏寺[line]这种地方你可不能来啊……。[%p]
+
+JA [name]たくや[line]ええ、お互いそうでしょうね。[%p]
+ZH [name]拓也[line]嗯，彼此彼此吧。[%p]
+
+JA [name]龍蔵寺[line]ふむ‥‥。[%p]
+ZH [name]龙藏寺[line]嗯……。[%p]
+
+JA [name]たくや[line](龍蔵寺‥‥。)[%p]
+ZH [name]拓也[line](龙藏寺……。)[%p]
+
+JA [name]たくや[line](何をしに来たんだろう‥‥?)[%p]
+ZH [name]拓也[line](（是来干什么的呢……？）)[%p]
+
+JA [name]たくや[line]海からの風で、ざわめいているみたいだ‥‥。[%p]
+ZH [name]拓也[line]大海因为起风，而沙沙作响……。[%p]
+
+JA [name]たくや[line]寂しげに揺れている‥‥誰もいないようだ。[%p]
+ZH [name]拓也[line]寂寞地晃动着……好像谁都不在啊。[%p]
+
+JA [name]たくや[line]龍蔵寺はどこへ行ったんだ?[%p]
+ZH [name]拓也[line]龙藏寺去哪里了啊？[%p]
+
+JA [name]たくや[line]何かの文字だな‥‥今は読む必要はないぜ。[%p]
+ZH [name]拓也[line]是一些文字啊……现在没有看的必要呢。[%p]
+
+JA [name]たくや[line]約400年ほど前に書かれたらしいが‥‥。[%p]
+ZH [name]拓也[line]好像是大约４００多年前写上去的……。[%p]
+
+JA [name]たくや[line]今はこれを読んでるときなんだろうか?[%p]
+ZH [name]拓也[line]现在不是看这个的时候吧？[%p]
+
+JA [name]たくや[line]何も落ちていないぜ‥‥。[%p]
+ZH [name]拓也[line]什么都没有掉呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]別に、何も落ちちゃいない‥‥。[%p]
+ZH [name]拓也[line]没什么，会掉下来的东西……。[%p]
+
+JA [name]たくや[line]あれ? これは‥‥。[%p]
+ZH [name]拓也[line]咦？　这个是……。[%p]
+
+JA [name]たくや[line]綺麗な玉だ‥‥。[%p]
+ZH [name]拓也[line]好漂亮的玉啊……。[%p]
+
+JA [name]たくや[line]これって、俺が持っているリフレクターの‥‥。[%p]
+ZH [name]拓也[line]这个，是我手上反射器的……。[%p]
+
+JA [name]たくや[line]いったい、何でこんな所にあるんだ?[%p]
+ZH [name]拓也[line]到底，为什么会在这个地方呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][宝玉5][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[宝玉5][color index="800000"]JF:得到了。
+
+JA [color index="840000"][宝玉5][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[宝玉5][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]確かに、ここに龍蔵寺が来たと思ったんだけど‥‥。[%p]
+ZH [name]拓也[line]确实，我觉得龙藏寺是来这里了的，可是……。[%p]
+
+JA [name]たくや[line]不思議な岩だよな‥‥何かを感じるんだ。[%p]
+ZH [name]拓也[line]不可思议的石头……总觉得有些什么。[%p]
+
+JA [name]たくや[line]自然にできたにしては、作為的過ぎる岩だな‥‥。[%p]
+ZH [name]拓也[line]与其说是自然物，倒不如说是人为形成的岩石……。[%p]
+
+JA [name]たくや[line]もっとも、人工物である証拠は何もないみたいだが‥‥。[%p]
+ZH [name]拓也[line]话虽如此，但好像没什么证据能证明是人工物……。[%p]
+
+JA [name]たくや[line]そんなことよりも、龍蔵寺だ。[%p]
+ZH [name]拓也[line]比起这种事，还是龙藏寺比较重要。[%p]
+
+JA [name]たくや[line]確かに、ここへ来たと思うんだが‥‥。[%p]
+ZH [name]拓也[line]确实，我觉得应该是来这里了的……。[%p]
+
+JA [name]たくや[line]ここに龍蔵寺はいないみたいだが‥‥。[%p]
+ZH [name]拓也[line]龙藏寺好像没有在这里……。[%p]
+
+JA [name]たくや[line]もう2日前になるのか‥‥。[%p]
+ZH [name]拓也[line]已经变成２天前了吗……。[%p]
+
+JA [name]たくや[line]龍蔵寺と亜由美さん‥‥俺たちはこの三角山のふもとで、対峙していたんだ。[%p]
+ZH [name]拓也[line]龙藏寺和亚由美小姐……我们在这个三角山的脚下，对峙着。[%p]
+
+JA [name]たくや[line]なぜ、誰もいなくなってしまったんだ‥‥?[%p]
+ZH [name]拓也[line]为什么，会变成谁都不在了呢……？[%p]
+
+JA [name]たくや[line]あれは、夢だったんだろうか‥‥。[%p]
+ZH [name]拓也[line]难道那个，只是个梦而已吗……。[%p]
+
+JA [name]たくや[line]龍蔵寺は銃を構え、そして俺は‥‥。[%p]
+ZH [name]拓也[line]龙藏寺举起了手枪，然后我……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない‥‥少し寒いな‥‥。[%p]
+ZH [name]拓也[line]谁也不在……有点冷啊……。[%p]
+
+JA [name]たくや[line]おかしい‥‥龍蔵寺はいったい、どこへ行ったんだ?[%p]
+ZH [name]拓也[line]真奇怪……龙藏寺，到底去哪里了？[%p]
+
+JA [name]たくや[line]確かに、ここへ来たと思ったんだが‥‥。[%p]
+ZH [name]拓也[line]确实，我觉得应该来这里了……。[%p]
+
+JA [name]たくや[line]おかしいな‥‥いないはずは無いんだが‥‥。[%p]
+ZH [name]拓也[line]真奇怪啊……应该不可能不在的啊……。[%p]
+
+JA [name]たくや[line]ちょっと待てよ‥‥。[%p]
+ZH [name]拓也[line]（等等啊……。）。[%p]
+
+JA [name]たくや[line]龍蔵寺がどこかにいるはずだぜ‥‥。[%p]
+ZH [name]拓也[line]龙藏寺应该是在什么地方的……。[%p]
+
+JA 
+ZH 
+

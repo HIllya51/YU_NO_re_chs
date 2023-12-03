@@ -1,0 +1,75 @@
+JA [name]たくや[line]じめじめとした場所だ‥‥。[%p]
+ZH [name]拓也[line]真是个潮湿的地方啊……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥方向感覚が、どんどん狂っていくみたいだ。[%p]
+ZH [name]拓也[line]呼……看起来，方向感开始慢慢迷失了呢。[%p]
+
+JA [name]美月[line]この先は行き止まりよ‥‥。[%p]
+ZH [name]美月[line]这前面就是尽头了……。[%p]
+
+JA [name]美月[line]そうね‥‥。[%p]
+ZH [name]美月[line]是呢……。[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line](もう、どのくらい歩いたかな‥‥。)[%p]
+ZH [name]拓也[line](（已经，走了多远的路啊……。）。)[%p]
+
+JA [name]たくや[line](かなりの距離を、移動しているはずだ‥‥。)[%p]
+ZH [name]拓也[line](（应该，移动了相当远的距离吧……。）。)[%p]
+
+JA [name]たくや[line](しかも、方向感覚がまったくつかめない‥‥今はだいたい、どの辺なんだろう。)[%p]
+ZH [name]拓也[line](（而且，也完全找不到方向感……现在，大概是在哪边呢。）。)[%p]
+
+JA [name]美月[line]‥‥もしかしたら。[%p]
+ZH [name]美月[line]……说不定。[%p]
+
+JA [name]たくや[line]‥‥えっ?[%p]
+ZH [name]拓也[line]……诶？[%p]
+
+JA [name]美月[line]海の底かも知れないわね。[%p]
+ZH [name]美月[line]或许会一直通到海底呢。[%p]
+
+JA [name]たくや[line](ドキッ。)[%p]
+ZH [name]拓也[line](扑通。)[%p]
+
+JA [name]たくや[line]お、俺なにか言った?[%p]
+ZH [name]拓也[line]我，我说了什么吗？[%p]
+
+JA [name]美月[line]今、私たちって、地図上でどのあたりを移動しているのかしら。[%p]
+ZH [name]美月[line]刚才，我们两个，是在地图上的哪一带移动呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]さすがに疲れて来たわね‥‥ふぅ。[%p]
+ZH [name]美月[line]一阵疲劳感席卷而来呢……呼。[%p]
+
+JA [name]たくや[line]休む?[%p]
+ZH [name]拓也[line]休息吗？[%p]
+
+JA [name]美月[line]ありがとう、でもいいわ。[%p]
+ZH [name]美月[line]谢谢你啊，不过不用了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]肉体的よりは、むしろ精神的なストレスね。ここにいる限り、休んでも同じだと思うし。[%p]
+ZH [name]美月[line]与其说是肉体上的，倒不如说是精神上的压力呢。只要在这里的话，就算休息也是一样吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](精神的ストレスか‥‥。)[%p]
+ZH [name]拓也[line](（精神上的压力吗……。）。)[%p]
+
+JA [name]たくや[line](じめじめと湿った空気、暗い洞窟‥‥それに閉鎖された空間。)[%p]
+ZH [name]拓也[line](（非常潮湿的空气，黑暗的洞窟……而且还是个密闭的空间。）。)[%p]
+
+JA [name]たくや[line](ストレスが溜まらない方がおかしいよな‥‥。)[%p]
+ZH [name]拓也[line](（这样子不会积累压力才有鬼啊……。）。)[%p]
+
+JA 
+ZH 
+

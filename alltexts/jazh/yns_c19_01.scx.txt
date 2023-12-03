@@ -1,0 +1,195 @@
+JA [name]たくや[line]シティホテルへやってきたけど‥‥。[%p]
+ZH [name]拓也[line]虽然到城市宾馆了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]亜由美さんはいそうもないな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐也不在啊……。[%p]
+
+JA [name]たくや[line]だから電柱だよ‥‥。[%p]
+ZH [name]拓也[line]所以说这是电线杆……。[%p]
+
+JA [name]たくや[line]登らないぞ。[%p]
+ZH [name]拓也[line]爬不上去啊。[%p]
+
+JA [name]たくや[line]電柱でござる。[%p]
+ZH [name]拓也[line]电线杆是也。[%p]
+
+JA [name]たくや[line]「忠臣蔵」は、俺の好きなドラマの一つなんだ。[%p]
+ZH [name]拓也[line]［忠臣藏］，是我喜欢的一部电视剧。[%p]
+
+JA [name]たくや[line]などとやっている場合じゃなかった。[%p]
+ZH [name]拓也[line]现在不是干这些事的场合。[%p]
+
+JA [name]たくや[line]俺は亜由美さんを探していたんだ‥‥。[%p]
+ZH [name]拓也[line]我在寻找亚由美小姐……。[%p]
+
+JA [name]たくや[line]暖かい光で、意外に悪くない雰囲気だ‥‥。[%p]
+ZH [name]拓也[line]暖暖的光线，还真是不错的气氛呢……。[%p]
+
+JA [name]たくや[line]このあたりの路上を照らすライトだな。[%p]
+ZH [name]拓也[line]这是照亮这一带道路的路灯。[%p]
+
+JA [name]たくや[line]亜由美さんがいれば、すぐにわかると思うんだが‥‥。[%p]
+ZH [name]拓也[line]我想要是亚由美小姐在的话，马上就会明白了吧……。[%p]
+
+JA [name]たくや[line]これによると、入り口は右側にあるみたいだ‥‥。[%p]
+ZH [name]拓也[line]JF:根据这个，入口好像在右边。[%p]
+
+JA [name]たくや[line]入ってみるか?[%p]
+ZH [name]拓也[line]要进去看看吗？[%p]
+
+JA [name]たくや[line]ホテルの概要や、簡単な地図が描いてあるようだ‥‥。[%p]
+ZH [name]拓也[line]似乎画着宾馆的概要，还有简单地图的样子……。[%p]
+
+JA [name]たくや[line]ホテルの案内板ってやつだろう。[%p]
+ZH [name]拓也[line]也就是所谓的宾馆标牌吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]入り口は、右手の方にあるみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:入口好像在右手边。[%p]
+
+JA [name]たくや[line]手入れがよく行き届いているな‥‥。[%p]
+ZH [name]拓也[line]修剪得相当周到啊……。[%p]
+
+JA [name]たくや[line]見ていて悪くない気分だ。[%p]
+ZH [name]拓也[line]看上去感觉不错呢。[%p]
+
+JA [name]たくや[line]植え込みってヤツだな‥‥。[%p]
+ZH [name]拓也[line]那里是花丛……。[%p]
+
+JA [name]たくや[line]おい‥‥無茶言うなって。[%p]
+ZH [name]拓也[line]喂……别说些无聊的话了。[%p]
+
+JA [name]たくや[line]だから、無理だ。[%p]
+ZH [name]拓也[line]所以说，太勉强了。[%p]
+
+JA [name]たくや[line]持っていくには重機が必要だぞ。[%p]
+ZH [name]拓也[line]JF:带去的话需要重机哦。[%p]
+
+JA [name]たくや[line]ホテルの看板だな。[%p]
+ZH [name]拓也[line]JF:是酒店的招牌啊。[%p]
+
+JA [name]たくや[line]さすがにあれは持って帰れないぞ。[%p]
+ZH [name]拓也[line]JF:真不愧是那个不能带回去啊。[%p]
+
+JA [name]たくや[line]境町で、一番大きなシティホテルだ‥‥。[%p]
+ZH [name]拓也[line]这里是境町最大的城市宾馆……。[%p]
+
+JA [name]たくや[line]ホテルの名前は、ミレニアムホテル。[%p]
+ZH [name]拓也[line]JF:酒店的名字是千年酒店。[%p]
+
+JA [name]たくや[line]なんとも大袈裟な名前だな。[%p]
+ZH [name]拓也[line]JF:真是个夸张的名字啊。[%p]
+
+JA [name]たくや[line]でっかいホテルだよな‥‥。[%p]
+ZH [name]拓也[line]好大的宾馆啊……。[%p]
+
+JA [name]たくや[line]ここ境町の中でも、一番大きな宿泊所なんだ。[%p]
+ZH [name]拓也[line]在境町之中，这也是最大的休息处了。[%p]
+
+JA [name]たくや[line]‥‥言っておくが、ラブホテルじゃないぞ。[%p]
+ZH [name]拓也[line]……话先说好，这不是爱情宾馆哦。[%p]
+
+JA [name]たくや[line]前はお好み焼きだった気がするぞ。[%p]
+ZH [name]拓也[line]JF:我觉得以前是御好烧。[%p]
+
+JA [name]たくや[line]もんじゃ焼きの看板だ。[%p]
+ZH [name]拓也[line]JF:文字烧的招牌。[%p]
+
+JA [name]たくや[line]ダメだな‥‥あのイケ好かないボーイが、立って睨んでいるぜ。[%p]
+ZH [name]拓也[line]不行啊……那个看上去很讨厌的服务生，就站在那里呢。[%p]
+
+JA [name]たくや[line]中には入れそうもないな‥‥。[%p]
+ZH [name]拓也[line]里面貌似进不去啊……。[%p]
+
+JA [name]たくや[line]そうだな‥‥入り口はこっちがわだ。[%p]
+ZH [name]拓也[line]对了……入口是从这里进去的。[%p]
+
+JA [name]たくや[line]中へ入ってみよう。[%p]
+ZH [name]拓也[line]到里面看看吧。[%p]
+
+JA [name]声[line]こらっ。[%p]
+ZH [name]声音[line]喂。[%p]
+
+JA [name]たくや[line]おわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]ボーイ[line]許可なくここへ入ってはいけない。[%p]
+ZH [name]服务生[line]未经许可这里禁止入内。[%p]
+
+JA [name]たくや[line]何だよ、ホテルに入るのに許可が必要なのか?[%p]
+ZH [name]拓也[line]什么啊，进宾馆还需要个鬼的许可啊？[%p]
+
+JA [name]ボーイ[line]必要だ。予約は取ってあるのかね?[%p]
+ZH [name]服务生[line]这是必要。你有预约过吗？[%p]
+
+JA [name]たくや[line]それはその‥‥。[%p]
+ZH [name]拓也[line]那个吗……。[%p]
+
+JA [name]ボーイ[line]何だ、見たところ、学生じゃないか‥‥君のような人間が来るところではないな。[%p]
+ZH [name]服务生[line]什么，看上去，不是学生吗……像你这种人。不是不可以来这里的啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ボーイ[line]ここは、予約のあるVIPしか、入ることができない。[%p]
+ZH [name]服务生[line]这里面，光是预约ＶＩＰ的人，就有好的了。[%p]
+
+JA [name]たくや[line]少しだけ、人を探すだけだよ。[%p]
+ZH [name]拓也[line]我只是，來找一個人而已。[%p]
+
+JA [name]ボーイ[line]いよいよ論外だね。ホテルでは、お客様のプライバシーを遵守し、これを侵してはならない。これはポリシーだよ。[%p]
+ZH [name]服务生[line]这可不行哦。宾馆里面，必须要保互顾客的隐私权，不能让它被侵犯。这个可是政策哦。[%p]
+
+JA [name]たくや[line](ちぇっ‥‥。)[%p]
+ZH [name]拓也[line](切……。)[%p]
+
+JA [name]ボーイ[line]さぁ、学生がこんな時間にここにいてはだめだ。帰りたまえ。[%p]
+ZH [name]服务生[line]好了，学生可不能在这种时候待在这里了。快点回去吧。[%p]
+
+JA [name]たくや[line]ちょっ‥‥押さないでくれ。[%p]
+ZH [name]拓也[line]切……你别推我。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]押し出されてしまった‥‥。[%p]
+ZH [name]拓也[line]被推出去了……。[%p]
+
+JA [name]たくや[line]くそっ、意外に格調高いホテルみたいだな、ここって。[%p]
+ZH [name]拓也[line]可恶，想不到这宾馆格调还真高啊。[%p]
+
+JA [name]たくや[line]学生ごときはダメだとさ‥‥。[%p]
+ZH [name]拓也[line]像学生这样的不行吗……。[%p]
+
+JA [name]たくや[line]ま、金次第ってところなんだろうな。で、俺は金を持っているように見えなかったと。[%p]
+ZH [name]拓也[line]嘛，应该是金钱至上的地方吧。因为没有看到我多么有钱的样子嘛。[%p]
+
+JA [name]たくや[line]ははは‥‥
+ZH [name]拓也[line]哈哈哈……
+
+JA クスン。[%p]
+ZH 哼。[%p]
+
+JA [name]たくや[line]ははは‥‥クスン。
+ZH [name]拓也[line]哈哈哈……哼。
+
+JA [name]たくや[line]とにかく、ホテルの中までは探せないみたいだ‥‥。[%p]
+ZH [name]拓也[line]总之，看来不能到宾馆里面找了啊……。[%p]
+
+JA [name]たくや[line]そうだな‥‥ここにいてもしょうがない。[%p]
+ZH [name]拓也[line]对啊‥‥在这里呆着也没用。[%p]
+
+JA [name]たくや[line]セントラル街へ戻ろう‥‥。[%p]
+ZH [name]拓也[line]回中心街去吧……。[%p]
+
+JA [name]たくや[line]せっかく来たんだ。ホテルの中を探してみようぜ‥‥。[%p]
+ZH [name]拓也[line]好不容易来了。到宾馆里面找找看吧……。[%p]
+
+JA 
+ZH 
+

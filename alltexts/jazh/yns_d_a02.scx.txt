@@ -1,0 +1,33 @@
+JA [name]たくや[line]静かだな‥‥。[%p]
+ZH [name]拓也[line]好安静……。[%p]
+
+JA [name]美月[line]雫の音が聴こえてくるだけね‥‥。[%p]
+ZH [name]美月[line]只能听到水滴下来的声音呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]‥‥あまり代わり映えしないわね。風景は。[%p]
+ZH [name]美月[line]……看起来都是一成不变的呢。风景。[%p]
+
+JA [name]たくや[line]ま、一本道だからな。[%p]
+ZH [name]拓也[line]嘛，因为是一条直路。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]しかし静かだな。本当に澪は、ここに来たんだろうか。[%p]
+ZH [name]拓也[line]不过好安静啊。澪她，真的进到这里面来了吗。[%p]
+
+JA [name]美月[line]不安?[%p]
+ZH [name]美月[line]JF:不安？[%p]
+
+JA [name]たくや[line]自信はあるが、確信はない状態でね。[%p]
+ZH [name]拓也[line]虽然有点自信，不过处于没有确信状态。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA 
+ZH 
+

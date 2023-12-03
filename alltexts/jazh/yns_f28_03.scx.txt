@@ -1,0 +1,1215 @@
+JA [name]:name:[line][%p]
+ZH [name]:name:[line][%p]
+
+JA [name]北条[line]そうだぁ‥‥余計なことは、喋らなくていい。[%p]
+ZH [name]北条[line]是啊……多余的话，不要说了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line](神奈チャンは、黙っている‥‥。)[%p]
+ZH [name]:name:[line](（神奈，沉默着……。）。)[%p]
+
+JA [name]:name:[line](だけど、怯えた感じは全く見えない‥‥。)[%p]
+ZH [name]:name:[line](（但是，完全看不到她有害怕的感觉……。）。)[%p]
+
+JA [name]:name:[line](強い女の子なんだな‥‥。)[%p]
+ZH [name]:name:[line](（真是坚强的女孩子……。）。)[%p]
+
+JA [name]神奈[line]有馬さん‥‥いますぐ、帰って![%p]
+ZH [name]神奈[line]有马同学……现在立刻，回去！[%p]
+
+JA [name]北条[line]黙っていろと、言ってるだろう![%p]
+ZH [name]北条[line]闭嘴，我不是说了吗！[%p]
+
+JA バシッ!!![%p]
+ZH 啪！！！[%p]
+
+JA [name]神奈[line]うっ‥‥。[%p]
+ZH [name]神奈[line]唔……。[%p]
+
+JA [name]:name:[line]きさまっ、許さないぜ![%p]
+ZH [name]:name:[line]你这家伙，不可原谅！[%p]
+
+JA [name]北条[line]ぐへへへっ‥‥黙ってろう。[%p]
+ZH [name]北条[line]嘿嘿嘿……闭嘴。[%p]
+
+JA [name]:name:[line](こいつ‥‥タダじゃおかねぇ!)[%p]
+ZH [name]:name:[line](（这家伙……不简单！）)[%p]
+
+JA [name]:name:[line](だが‥‥北条の奴、いったいどうしちまったんだ。)[%p]
+ZH [name]:name:[line](（但是……北条那家伙，到底怎么了。）。)[%p]
+
+JA [name]:name:[line](こいつの目は、常軌を逸しているぜ‥‥。)[%p]
+ZH [name]:name:[line](（这家伙的眼神，脱离了常轨……。）。)[%p]
+
+JA [name]神奈[line]有馬さん‥‥いけない、ここにいてはっ![%p]
+ZH [name]神奈[line]有马同学……不可以，不可以留在这里！[%p]
+
+JA [name]:name:[line]えっ‥‥?[%p]
+ZH [name]:name:[line]诶……？[%p]
+
+JA [name]神奈[line]この人は‥‥いいえ、この人の背後にいる人は、有馬さんを‥‥。[%p]
+ZH [name]神奈[line]这个人……，不是，这个人本后有人，会把有马同学……。[%p]
+
+JA [name]北条[line]黙っていろう![%p]
+ZH [name]北条[line]闭嘴！[%p]
+
+JA バシッ!![%p]
+ZH 啪！！[%p]
+
+JA [name]神奈[line]きゃっ!![%p]
+ZH [name]神奈[line]呀！！[%p]
+
+JA [name]:name:[line]野郎っ![%p]
+ZH [name]:name:[line]混蛋！[%p]
+
+JA [name]北条[line]おっと、動くなぁ‥‥この光るモンが、目に入らないかぁ?[%p]
+ZH [name]北条[line]不，不要动……这个发光的东西，看不见吗？[%p]
+
+JA [name]:name:[line]くっ‥‥。[%p]
+ZH [name]:name:[line]呜……。[%p]
+
+JA [name]北条[line]へへへっ、そうだ‥‥それでいい。[%p]
+ZH [name]北条[line]嘿嘿嘿，就是这样……这样就对了。[%p]
+
+JA [name]北条[line]オレは別にいいぜ‥‥出さなければ、神奈を切り刻むだけだからなぁ。[%p]
+ZH [name]北条[line]我倒无所谓……，不过如果不交出来的话，我就只好把神奈宰了。[%p]
+
+JA [name]:name:[line]くっ‥‥。[%p]
+ZH [name]:name:[line]呜……。[%p]
+
+JA [name]北条[line]むしろ、出さないで欲しいんだ。いっかい、女子学生の顔を切り刻んでみたくてよう‥‥。[%p]
+ZH [name]北条[line]与其说，不交出来我就想这么做。其实仅仅，就是向看到女学生的脸被划烂而已……。[%p]
+
+JA [name]:name:[line](こいつを渡したら‥‥。)[%p]
+ZH [name]:name:[line](（交给这家伙的话……。）。)[%p]
+
+JA [name]:name:[line](俺は永遠に、元の場所へ戻れなくなっちまう‥‥。)[%p]
+ZH [name]:name:[line](（我会永远，回不到原来的地方……。）。)[%p]
+
+JA [name]:name:[line](オヤジの野郎を、もう2度と探せなくなってしまうのか‥‥。)[%p]
+ZH [name]:name:[line](（老头子那家伙，已经２次遍寻无果了吗……。）。)[%p]
+
+JA [name]:name:[line](どうしたらいいんだ!?)[%p]
+ZH [name]:name:[line](（怎么办才好！？）)[%p]
+
+JA [name]北条[line]そうかぁ、神奈、この兄さんを恨めよう。[%p]
+ZH [name]北条[line]这样啊，神奈，你就恨这个哥哥吧。[%p]
+
+JA [name]神奈[line]離して![%p]
+ZH [name]神奈[line]走开！[%p]
+
+JA [name]北条[line]そら、ザクっといくか‥‥![%p]
+ZH [name]北条[line]天上，开始轰鸣了呢……！[%p]
+
+JA [name]:name:[line]わかった、お前の勝ちだ、渡す![%p]
+ZH [name]:name:[line]我明白了，你赢了，我给你！[%p]
+
+JA [name]神奈[line]あ、有馬さん‥‥。[%p]
+ZH [name]神奈[line]啊，有马同学……。[%p]
+
+JA [name]北条[line]へへへっ、そうこなくっちゃな‥‥。[%p]
+ZH [name]北条[line]嘿嘿嘿，……这才对嘛。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]北条[line]ゆっくりだ‥‥ゆっくりと、渡すんだぜ。[%p]
+ZH [name]北条[line]放轻松……轻松的，交出来。[%p]
+
+JA [name]:name:[line]神奈チャンを先に離せ![%p]
+ZH [name]:name:[line]你先离开神奈！[%p]
+
+JA [name]北条[line]条件を言える立場かよ、兄さん‥‥へへっ。[%p]
+ZH [name]北条[line]你那是可以讲条件的立场吗，哥哥……。[%p]
+
+JA [name]神奈[line]痛っ‥‥。[%p]
+ZH [name]神奈[line]好痛……。[%p]
+
+JA [name]:name:[line]わ、わかった。だが渡したら、神奈チャンは‥‥。[%p]
+ZH [name]:name:[line]知、知道了，但是你的话。神奈……。[%p]
+
+JA [name]北条[line]おう、解放してやるぞう。[%p]
+ZH [name]北条[line]哦，我会放开她的。[%p]
+
+JA [name]神奈[line]嘘です、この人はそんなことはしません![%p]
+ZH [name]神奈[line]骗人的，这个人才不会这么做！[%p]
+
+JA [name]北条[line]黙ってろう![%p]
+ZH [name]北条[line]闭嘴！[%p]
+
+JA バシッ![%p]
+ZH 啪！[%p]
+
+JA [name]神奈[line]あぅ‥‥![%p]
+ZH [name]神奈[line]啊……！[%p]
+
+JA [name]:name:[line]止めろっ! 宝玉は渡す![%p]
+ZH [name]:name:[line]JF:停下来！宝玉交给你！[%p]
+
+JA [name]北条[line]いいだろう‥‥へへへっ。[%p]
+ZH [name]北条[line]很好……。[%p]
+
+JA [name]神奈[line]有馬さん、ダメ!![%p]
+ZH [name]神奈[line]有马同学，不要！！[%p]
+
+JA バシッ!
+ZH 啪！
+
+JA [name]北条[line]うっ! ナイフを‥‥叩き落としやがった!?[%p]
+ZH [name]北条[line]额！刀……掉落了！？[%p]
+
+JA [name]:name:[line](今だ! ヤツはナイフを持っていないぞ!!)[%p]
+ZH [name]:name:[line](（就是现在！这家伙手里没有刀！！）)[%p]
+
+JA [name]:name:[line]うおぉぉぉぉっっ!!![%p]
+ZH [name]:name:[line]呜哇！！！[%p]
+
+JA ドシッ‥‥
+ZH 咚……
+
+JA ドシ、
+ZH 咚，
+
+JA ドシ!![%p]
+ZH 咚！！[%p]
+
+JA ドシッ‥‥ドシ、ドシ!!
+ZH 咚……咚，咚！！
+
+JA バキッ!
+ZH 啪！
+
+JA  ドカッ!!
+ZH JF:哇！！
+
+JA  ドシッ!!!
+ZH JF:多西！！！
+
+JA  ドカッ!!!![%p]
+ZH JF:哇！！！！[%p]
+
+JA バキッ! ドカッ!! ドシッ!!! ドカッ!!!!
+ZH JF:巴基！哇！！多西！！！哇！！！！
+
+JA [name]北条[line]か、勘弁してくれ〜悪気は無かったんだぁ![%p]
+ZH [name]北条[line]JF:啊，饶了我吧~我没有恶意！[%p]
+
+JA [name]:name:[line]ざけんなっ、てめぇ、やってイイことと、悪いことが‥‥。[%p]
+ZH [name]:name:[line]开什么玩笑，你这家伙，你干的好事，坏事……。[%p]
+
+JA [name]神奈[line]あ、有馬さん‥‥‥‥を‥‥‥‥。[%p]
+ZH [name]神奈[line]啊，有马同学……………………。[%p]
+
+JA [name]:name:[line]か、神奈チャン‥‥どうしたんだよ、顔が真っ青だぜ![%p]
+ZH [name]:name:[line]神、神奈……你怎么样，脸都肿了！[%p]
+
+JA [name]神奈[line]ネックレスを‥‥早く‥‥。[%p]
+ZH [name]神奈[line]把项链…………快。[%p]
+
+JA [name]:name:[line]えっ‥‥ネックレス?[%p]
+ZH [name]:name:[line]诶……项链？[%p]
+
+JA [name]北条[line]けっ!![%p]
+ZH [name]北条[line]可恶！！[%p]
+
+JA ダッ‥‥!![%p]
+ZH 哒……！！[%p]
+
+JA [name]:name:[line]あっ、ま、待て!! 逃すモノかっ!![%p]
+ZH [name]:name:[line]啊、等，等等！！还想逃吗！！[%p]
+
+JA [name]北条[line]ふぅ‥‥ふぅ‥‥ふぃぃぃ‥‥。[%p]
+ZH [name]北条[line]呼………呼……呼…。[%p]
+
+JA [name]:name:[line]諦めろ、もう逃げ場はないぜ。[%p]
+ZH [name]:name:[line]放弃吧，你已经逃不掉了。[%p]
+
+JA [name]北条[line]フフフ‥‥がはははははっ![%p]
+ZH [name]北条[line]哼哼哼……啊哈哈哈哈哈！[%p]
+
+JA [name]:name:[line](‥‥気が触れたか?)[%p]
+ZH [name]:name:[line](（……疯了吗？）)[%p]
+
+JA [name]北条[line]おっとう、それ以上近づかない方がいいぜぇ。さぁ、例のブツを出してもらおう。[%p]
+ZH [name]北条[line]喂，你还是不要靠近的好。不然，那个亡灵会出现哦。[%p]
+
+JA [name]:name:[line]何を寝ぼけてやがる。今までの落とし前をつけてやる。[%p]
+ZH [name]:name:[line]说什么梦话。迄今为止的账我们现在来算算。[%p]
+
+JA [name]北条[line]おっとう、神奈ぁ‥‥この宝石は、水に弱いんだったなぁ。[%p]
+ZH [name]北条[line]喂，神奈……这个宝石，很怕水吧。[%p]
+
+JA [name]神奈[line]はっ‥‥![%p]
+ZH [name]神奈[line]啊……！[%p]
+
+JA [name]北条[line]ちょっとでも近づいてみろ、これを噴水に投げ込むぜぇ‥‥。[%p]
+ZH [name]北条[line]你再过来一点试试，我就丢进这个喷泉里……。[%p]
+
+JA [name]:name:[line](何の話だ‥‥?)[%p]
+ZH [name]:name:[line](（在说什么啊……？）)[%p]
+
+JA [name]北条[line]フフフ‥‥その兄さんは知らないらしいな。こいつは、神奈の命そのものなんだぁ。[%p]
+ZH [name]北条[line]哼哼哼……这个小哥还不知道的样子。这东西，是神奈的命根子哟。[%p]
+
+JA [name]:name:[line]なんだって‥‥。[%p]
+ZH [name]:name:[line]说的是些啥啊‥‥。[%p]
+
+JA [name]北条[line]これを噴水に投げ込むと、どうなるか。石は変質し、神奈は10分もしないうちに衰弱死することだろう。[%p]
+ZH [name]北条[line]把这个丢进喷泉里，会怎么样呢。石头变质了，神奈不到１０分钟就会衰弱死去了哦。[%p]
+
+JA [name]:name:[line]けっ、そんな根も葉もないことで‥‥。[%p]
+ZH [name]:name:[line]可恶，这种没有根据的事……。[%p]
+
+JA [name]北条[line]そうかなぁ‥‥おや、神奈の様子がおかしいぜぇ。[%p]
+ZH [name]北条[line]是吗……，哎呀，神奈的样子很奇怪呢。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](そうだ‥‥神奈チャンの様子が、おかしすぎる。)[%p]
+ZH [name]:name:[line](（是啊……神奈的样子，太奇怪了。）。)[%p]
+
+JA [name]:name:[line](まるで本当に、この野郎の言うとおり‥‥。)[%p]
+ZH [name]:name:[line](（就像是真的，被这家伙说中了一样……。）。)[%p]
+
+JA [name]:name:[line](‥‥そんなバカな。)[%p]
+ZH [name]:name:[line](（……这不可能。）。)[%p]
+
+JA [name]神奈[line]ん‥‥‥。[%p]
+ZH [name]神奈[line]恩……。[%p]
+
+JA [name]:name:[line]本当‥‥なのか?[%p]
+ZH [name]:name:[line]真……的吗？[%p]
+
+JA [name]北条[line]本当に決まってる。こいつを投げ込んだ途端、神奈は死ぬぜぇ。[%p]
+ZH [name]北条[line]真的决定了吗。把这东西丢进去的同时，神奈也会死哦。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]北条[line]さぁさぁさぁ。[%p]
+ZH [name]北条[line]那么那么。[%p]
+
+JA [name]:name:[line](神奈チャンが、死ぬ‥‥?)[%p]
+ZH [name]:name:[line](（神奈她会，死吗……？）)[%p]
+
+JA [name]:name:[line](ネックレスを放り込むとか‥‥?)[%p]
+ZH [name]:name:[line](（把项链仍进去……？）)[%p]
+
+JA [name]:name:[line](そんな非科学的な‥‥。)[%p]
+ZH [name]:name:[line](（这种不科学的……。）。)[%p]
+
+JA [name]:name:[line](だが‥‥今の彼女の様子は、おかしすぎる。)[%p]
+ZH [name]:name:[line](（但是……现在她的样子，太奇怪了。）。)[%p]
+
+JA [name]:name:[line](もしも‥‥もしも本当に、この野郎の言うとおりだったら、取り返しがつかないんじゃないか?)
+ZH [name]:name:[line](（莫非……莫非真的，像这家伙讲的那样，那不就必须拿回来了吗？）)
+
+JA [name]:name:[line](それに‥‥。)[%p]
+ZH [name]:name:[line](（而且……。）。)[%p]
+
+JA [name]神奈[line]《これが無くなれば、私は死にます。》[%p]
+ZH [name]神奈[line]《没有这个的话，我会死。》[%p]
+
+JA [name]:name:[line]《死ぬ‥‥?》[%p]
+ZH [name]:name:[line]《死……？》[%p]
+
+JA [name]神奈[line]《はい。》[%p]
+ZH [name]神奈[line]《是啊。》[%p]
+
+JA [name]:name:[line]《ははは‥‥なるほど。それだけ、大切なモノってわけか。》[%p]
+ZH [name]:name:[line]《哈哈哈……原来如此。这样的话，我就明白了那是很重要的东西。》[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](だが、アレは‥‥。)[%p]
+ZH [name]:name:[line](（但是，那个是……。）。)[%p]
+
+JA [name]神奈[line]死ぬほど大切なモノという意味です。[%p]
+ZH [name]神奈[line]是关乎生死的重要东西。[%p]
+
+JA [name]:name:[line]そうそう‥‥えっ?[%p]
+ZH [name]:name:[line]这样啊……诶？[%p]
+
+JA [name]神奈[line]‥‥北条さんの言うことは、根も葉もない、でたらめです。[%p]
+ZH [name]神奈[line]……北条所说的，是没有根据的，胡扯。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]そのネックレスは、私にとって大切なモノですが、有馬さんが心配されるほど必要なモノではありません。[%p]
+ZH [name]神奈[line]这个项链，对我来说是重要的东西，但对有马同学而言不是什么值得担心的重要东西。[%p]
+
+JA [name]北条[line]な、なんだとう!?[%p]
+ZH [name]北条[line]，！？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]北条[line]ほ、本当に、中へ投げ入れるぞう。[%p]
+ZH [name]北条[line]真，真的，要丢进去了哦。[%p]
+
+JA [name]神奈[line]‥‥どうぞ。[%p]
+ZH [name]神奈[line]……请便。[%p]
+
+JA [name]北条[line]本当の、本当に、投げ入れちゃうからなっ。[%p]
+ZH [name]北条[line]真的，真的，丢进去了哦。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]北条[line]でへへ、そらみろ、不安でたくさんって顔つきだぜぇ、そいつは。[%p]
+ZH [name]北条[line]嘿嘿嘿，你看看，这家伙，表情很不安呢。[%p]
+
+JA [name]神奈[line]だったら、私が投げ入れます‥‥![%p]
+ZH [name]神奈[line]这样的话，我来丢……！[%p]
+
+JA [name]北条[line]な、何をする!?[%p]
+ZH [name]北条[line]你、你要干什么！？[%p]
+
+JA [name]神奈[line]えいっ![%p]
+ZH [name]神奈[line]唉！[%p]
+
+JA [name]北条[line]ばっ‥‥何をするう!?[%p]
+ZH [name]北条[line]蠢货……你做什么！？[%p]
+
+JA [name]神奈[line]これでもう、交渉の道具には使えません。[%p]
+ZH [name]神奈[line]这样的话，你就没有交涉的道具可用了。[%p]
+
+JA [name]北条[line]ぬぬぬぅ、かくなるうえはぁぁっ![%p]
+ZH [name]北条[line]不可，不可饶恕！[%p]
+
+JA じゃきっ。[%p]
+ZH 唧。[%p]
+
+JA [name]:name:[line]‥‥!!?[%p]
+ZH [name]:name:[line]……！！？[%p]
+
+JA [name]北条[line]ぐっはっは、形勢が再び逆転だなぁ。[%p]
+ZH [name]北条[line]呜哈哈哈哈，行驶再逆转啊。[%p]
+
+JA [name]:name:[line]ほ、北条‥‥。[%p]
+ZH [name]:name:[line]北，北条……。[%p]
+
+JA [name]北条[line]人殺しまではしたくなかったからなぁ、コイツは隠しておいたんだ。雇い主から借りておいた甲斐があったぜぇ。[%p]
+ZH [name]北条[line]我也没想过要到杀人的程度，先把这家伙藏起来。就还有让雇主欠我一个人情的价值。[%p]
+
+JA [name]:name:[line](雇い主から‥‥?)[%p]
+ZH [name]:name:[line](（从雇主那……？）)[%p]
+
+JA [name]北条[line]銃は素人だが、この距離じゃ、外しっこないぜぇ。[%p]
+ZH [name]北条[line]我虽然没用过枪，但这个距离，还是射得中的。[%p]
+
+JA [name]:name:[line]バカは止めろ! たかが依頼のために、人まで殺すのか、お前は。[%p]
+ZH [name]:name:[line]JF:别傻了！只是为了委托，连人都要杀吗，你。[%p]
+
+JA [name]北条[line]ううううるさいっ、オレは‥‥ううぅ‥‥オレはぁぁっ![%p]
+ZH [name]北条[line]吵、吵死了，我、我…………！[%p]
+
+JA [name]:name:[line](北条のやつ‥‥完全に切れてるぞ!?)[%p]
+ZH [name]:name:[line](（北条这家伙……完全疯了！？）)[%p]
+
+JA [name]北条[line]初めから交渉など無意味だったなぁ‥‥こいつで兄さんを殺してから、ゆっくりと宝玉とやらをな。[%p]
+ZH [name]北条[line]从一开始交涉就是没有意义的……这家伙，等我把小哥你杀了以后，再慢慢的来拿宝石。[%p]
+
+JA [name]:name:[line]くっ‥‥。[%p]
+ZH [name]:name:[line]呜……。[%p]
+
+JA [name]:name:[line](これまでなのか‥‥?)[%p]
+ZH [name]:name:[line](（就到此为止了吗……？）)[%p]
+
+JA [name]:name:[line](こんなところで‥‥俺は‥‥。)[%p]
+ZH [name]:name:[line](（在这种地方……我就要……。）。)[%p]
+
+JA [name]北条[line]死ねぇぇっ![%p]
+ZH [name]北条[line]去死吧！[%p]
+
+JA ダーーーーン!!!![%p]
+ZH 铛！！！！[%p]
+
+JA [name]:name:[line]‥‥
+ZH [name]:name:[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]:name:[line]‥‥‥‥‥‥。
+ZH [name]:name:[line]………………。
+
+JA [name]:name:[line](‥‥あれ?)[%p]
+ZH [name]:name:[line](……咦？)[%p]
+
+JA [name]:name:[line](まだ‥‥生きてる。)[%p]
+ZH [name]:name:[line](（还……活着。）。)[%p]
+
+JA [name]:name:[line](いったい、これって‥‥。)[%p]
+ZH [name]:name:[line](到底，这是怎么……。)[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]北条が倒れている‥‥。[%p]
+ZH [name]:name:[line]北条被打到了……。[%p]
+
+JA [name]:name:[line]だって、撃たれたのは、俺じゃあ‥‥。[%p]
+ZH [name]:name:[line]但是，被袭击的，不是我吗……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]しかし、北条のヤツ、完全に常軌を逸していたぜ‥‥。[%p]
+ZH [name]:name:[line]但是，北条那家伙，完全脱离了常轨……。[%p]
+
+JA [name]:name:[line]いったいこいつ、どうしてしまったんだ‥‥?[%p]
+ZH [name]:name:[line]到底这家伙，出了什么事……？[%p]
+
+JA [name]声[line]ナイアーブと言われる症状だ。[%p]
+ZH [name]声音[line]是被称为奈亚普的症状。[%p]
+
+JA [name]:name:[line]えっ‥‥?[%p]
+ZH [name]:name:[line]诶……？[%p]
+
+JA [name]:name:[line]え、絵里子先生‥‥!?[%p]
+ZH [name]:name:[line]绘，绘里子老师……！？[%p]
+
+JA [name]絵里子[line]やれやれ‥‥危ないところだった。[%p]
+ZH [name]绘里子[line]哎哟……状况危险呢。[%p]
+
+JA [name]:name:[line]ど、どういうことだよ。[%p]
+ZH [name]:name:[line]到，到底是怎么回事啊。[%p]
+
+JA [name]絵里子[line]まったく、私を呼びに来いと、言ってあったろう? もう少しで君は、帰らぬ人となっていた。[%p]
+ZH [name]绘里子[line]真是的，把我叫过来的，是你说的吧？差一点，你就是回不来的人了。[%p]
+
+JA [name]:name:[line]じゃ、じゃあ‥‥。[%p]
+ZH [name]:name:[line]那，那么……。[%p]
+
+JA [name]:name:[line]絵里子先生が、こいつを‥‥?[%p]
+ZH [name]:name:[line]是绘里子老师，把这家伙……？[%p]
+
+JA [name]絵里子[line]彼は、ナイアーブ症状に侵されていたんだな。だから普通じゃなかったろう。[%p]
+ZH [name]绘里子[line]他啊，处于奈亚普症状中。所以才这么不寻常的。[%p]
+
+JA [name]:name:[line]ないあーぶ‥‥なんだって?[%p]
+ZH [name]:name:[line]Ｎａｉａ……ｐｕ是什么？[%p]
+
+JA [name]絵里子[line]ある種の催眠症状だ。だが通常の催眠と違うのは、自分の意識も同時に存在しているということだな。[%p]
+ZH [name]绘里子[line]一种催眠症状。但是和一般的催眠不同的是，被催眠者自我的意识也会同时存在。[%p]
+
+JA [name]:name:[line]‥‥言っている意味が、よくわからないんだけど。[%p]
+ZH [name]:name:[line]……你所说的，我不太明白。[%p]
+
+JA [name]絵里子[line]つまりだ、巧みに操られているという自覚症状のない、意識的動作、とでも言おうか。[%p]
+ZH [name]绘里子[line]换言之，也可以说是一种没有自我感觉、靠意识行动的巧妙操纵。[%p]
+
+JA [name]:name:[line]‥‥もっとわからないが。[%p]
+ZH [name]:name:[line]……更不懂了。[%p]
+
+JA [name]絵里子[line]まあいい。とにかく、ある種の催眠状態に、この男はあったんだよ。[%p]
+ZH [name]绘里子[line]好了啦。总之，这个男人，进入了某种催眠的状态。[%p]
+
+JA [name]:name:[line]催眠って‥‥いったい誰が掛けたんだ?[%p]
+ZH [name]:name:[line]催眠……到底是谁干的？[%p]
+
+JA [name]絵里子[line]この男の雇い主、だろうな‥‥。[%p]
+ZH [name]绘里子[line]这个男人的雇主，可能吧……。[%p]
+
+JA [name]:name:[line]雇い主‥‥?[%p]
+ZH [name]:name:[line]雇主……？[%p]
+
+JA [name]絵里子[line]その通り。[%p]
+ZH [name]绘里子[line]正是如此。[%p]
+
+JA [name]:name:[line]誰なんだよ、北条の雇い主ってのは。[%p]
+ZH [name]:name:[line]是谁啊，北条的雇主。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]:name:[line]そいつが、なぜ俺の父親を‥‥。[%p]
+ZH [name]:name:[line]这家伙，为什么要把握的父亲……。[%p]
+
+JA [name]絵里子[line]悪いとは思いつつも、少し話を聞かせてもらっていた。[%p]
+ZH [name]绘里子[line]虽然觉得抱歉，还我有些话想问你。[%p]
+
+JA [name]:name:[line]え‥‥?[%p]
+ZH [name]:name:[line]诶‥‥？[%p]
+
+JA [name]絵里子[line]この北条とやらいう男、宝玉という言葉を使っていたな。[%p]
+ZH [name]绘里子[line]这个叫北条的男的，是说过宝石之类的话对吧。[%p]
+
+JA [name]:name:[line]あ、ああ‥‥。[%p]
+ZH [name]:name:[line]啊、啊啊‥‥。[%p]
+
+JA [name]絵里子[line]それを君が持っているとも。[%p]
+ZH [name]绘里子[line]肯定是你拿着了。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]:name:[line]悪いが、覚えがない。[%p]
+ZH [name]:name:[line]不好意思，我不太记得了。[%p]
+
+JA [name]絵里子[line]そうか‥‥わかった。[%p]
+ZH [name]绘里子[line]是吗……知道了。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]絵里子[line]どうする、君はこのまま警察へ通報するか?[%p]
+ZH [name]绘里子[line]怎样，你要就这么和警察说吗？[%p]
+
+JA [name]:name:[line]えっ‥‥。[%p]
+ZH [name]:name:[line]诶……。[%p]
+
+JA [name]絵里子[line]いちおう、こういう事件が起きてしまった訳だからな。どうする?[%p]
+ZH [name]绘里子[line]基本上，发生了这样的事情。要怎么说？[%p]
+
+JA [name]:name:[line]‥‥俺は行くつもりはないぜ。いちいち細部まで説明できないからな。[%p]
+ZH [name]:name:[line]……我没打算去。要一一说明内情是不可能的。[%p]
+
+JA [name]絵里子[line]そうか‥‥波多乃君。[%p]
+ZH [name]绘里子[line]这样吗……波多乃君。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]絵里子[line]君はどうする? 察するところ、君が一番の被害者と言えるかもしれないからな。[%p]
+ZH [name]绘里子[line]你要怎么办？要是调查起来的话，你可以说是最大的受害者。[%p]
+
+JA [name]神奈[line]私は‥‥私も有馬さんと同じです。[%p]
+ZH [name]神奈[line]我……我也和有马同学一样。[%p]
+
+JA [name]絵里子[line]よし。ではとりあえず北条の身柄は、私が引き受ける。[%p]
+ZH [name]绘里子[line]好吧。那么总之北条的身份，由我来负责。[%p]
+
+JA [name]:name:[line]えっ‥‥絵里子先生が?[%p]
+ZH [name]:name:[line]诶……绘里子老师要？[%p]
+
+JA [name]絵里子[line]目が覚めたら、色々と訊いてみたいこともあるからな。[%p]
+ZH [name]绘里子[line]等他醒了，我还有很多想问的。[%p]
+
+JA [name]:name:[line]大丈夫なのか? 今のこいつ、ちょっと普通じゃないぜ。[%p]
+ZH [name]:name:[line]没关系吗？现在这家伙，有点不普通。[%p]
+
+JA [name]絵里子[line]ほう、心配してくれるのか。優しいな。[%p]
+ZH [name]绘里子[line]嚯，在为我担心吗。真是温柔呢。[%p]
+
+JA [name]:name:[line]だ、誰がっ。[%p]
+ZH [name]:name:[line]谁、谁有啊。[%p]
+
+JA [name]絵里子[line]有馬:name:。[%p]
+ZH [name]绘里子[line]JF:有马：name:。[%p]
+
+JA [name]:name:[line]な、何だよ、改まって。[%p]
+ZH [name]:name:[line]什、什么啊，又。[%p]
+
+JA [name]絵里子[line]何か話したくなったら、私のところへ来たまえ。相談くらいなら、のってやれる。[%p]
+ZH [name]绘里子[line]有什么想和我说的话，就来我这里吧。如果要商量点什么，我都可以哦。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]絵里子[line]じゃあな。[%p]
+ZH [name]绘里子[line]再见。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]絵里子先生は、北条を引きずって行ってしまった。[%p]
+ZH [name]:name:[line]绘里子老师，拖着北条走了。[%p]
+
+JA ゴゴゴーーン‥‥。[%p]
+ZH 哐哐哐……。[%p]
+
+JA [name]:name:[line]雷‥‥?[%p]
+ZH [name]:name:[line]打雷了……？[%p]
+
+JA [name]:name:[line]まさか、また事故か‥‥?[%p]
+ZH [name]:name:[line]难道，又是事故吗……？[%p]
+
+JA [name]:name:[line]雨、か‥‥。[%p]
+ZH [name]:name:[line]雨，吗……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]神奈チャン、雨が降ってきた、とりあえず‥‥。[%p]
+ZH [name]:name:[line]神奈，下雨了，总之……。[%p]
+
+JA [name]神奈[line]有馬さん‥‥。[%p]
+ZH [name]神奈[line]有马同学……。[%p]
+
+JA [name]:name:[line]神奈チャン‥‥? 少し顔色、悪いぜ。[%p]
+ZH [name]:name:[line]神奈……？脸色有点，不太好。[%p]
+
+JA [name]神奈[line]何だか、心臓がドキドキして‥‥。[%p]
+ZH [name]神奈[line]不知为什么，心扑通扑通直跳……。[%p]
+
+JA [name]:name:[line]しょうがないさ、あんな目に遭ったんだからな‥‥。[%p]
+ZH [name]:name:[line]没办法，你刚遇见了不好的事……。[%p]
+
+JA [name]神奈[line]はい‥‥。[%p]
+ZH [name]神奈[line]好的……。[%p]
+
+JA [name]:name:[line]そうだ、あの野郎が噴水に投げ込んだネックレス、取ってくるよ。[%p]
+ZH [name]:name:[line]对了，被那个混蛋扔进喷水池里的项链，我拿回来了。[%p]
+
+JA [name]神奈[line]あれは、もう‥‥。[%p]
+ZH [name]神奈[line]那个，已经……。[%p]
+
+JA [name]:name:[line]なーに、ちゃんと洗って拭いて、渇かせば大丈夫さ。[%p]
+ZH [name]:name:[line]什－么，好好的洗洗擦干，晒干就没事了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA どさっ![%p]
+ZH 咚！[%p]
+
+JA [name]:name:[line]か、神奈チャン![%p]
+ZH [name]:name:[line]神，神奈！[%p]
+
+JA [name]:name:[line]おい‥‥おい、大丈夫かっ!?[%p]
+ZH [name]:name:[line]喂……喂，没事吧！？[%p]
+
+JA [name]神奈[line]んん‥‥。[%p]
+ZH [name]神奈[line]嗯嗯……。[%p]
+
+JA [name]:name:[line]うわっ、凄い熱だ‥‥。[%p]
+ZH [name]:name:[line]唔哇，好热啊……。[%p]
+
+JA [name]:name:[line]と、とにかく‥‥芝生の木の陰がいい。あそこで休ませよう。[%p]
+ZH [name]:name:[line]总，总之……先去草坪的树荫下好了。去那里让她休息一下吧。[%p]
+
+JA [name]:name:[line]しかしそれにしても‥‥この熱は異常だぜ。[%p]
+ZH [name]:name:[line]但是即使这样做……这种热太异常了。[%p]
+
+JA [name]:name:[line]いったい、どうしたんだ‥‥。[%p]
+ZH [name]:name:[line]到底，怎么回事……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]取りあえず、雨をさけるために、木陰に入ったが‥‥。[%p]
+ZH [name]:name:[line]总之，为了避雨，先去树荫那里……。[%p]
+
+JA [name]:name:[line]ふぅ‥‥こんなところで助けを求めたって、誰も来るはずないしな。[%p]
+ZH [name]:name:[line]呼……这种地方即使求助，也不会有人来吧。[%p]
+
+JA [name]:name:[line]絵里子先生はもう行ってしまったし‥‥。[%p]
+ZH [name]:name:[line]绘里子老师已经走了……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]神奈チャン‥‥大丈夫だろうか。[%p]
+ZH [name]:name:[line]神奈……没事吧。[%p]
+
+JA [name]北条[line]以前、話したアレのことだ‥‥。[%p]
+ZH [name]北条[line]以前，说过的那个哦……。[%p]
+
+JA [name]:name:[line]何だよ、あれって。[%p]
+ZH [name]:name:[line]什么啊，那个是指。[%p]
+
+JA [name]北条[line]ガラス玉のような玉がはまった、水晶玉みたいなモノだ。[%p]
+ZH [name]北条[line]嵌着玻璃珠一般的珠子，水晶珠一般的东西。[%p]
+
+JA [name]:name:[line]‥‥!?[%p]
+ZH [name]:name:[line]……！？[%p]
+
+JA [name]北条[line]どうやらオレの雇い主は、そいつを持っているのが兄さん、あんたじゃないかと言うんだ。[%p]
+ZH [name]北条[line]好像我的雇主，说过拿着那个的是小哥你不是吗，之类的话。[%p]
+
+JA [name]:name:[line]し、知らないな。[%p]
+ZH [name]:name:[line]不、不知道，。[%p]
+
+JA [name]北条[line]ほう、知らないか‥‥どうやらそいつは、有馬広大の形見らしいって話も聞いたがなぁ。[%p]
+ZH [name]北条[line]那么，不知道吗……，好像也听说过，这东西，是有马广大的遗产，这样的话。[%p]
+
+JA [name]神奈[line]えっ‥‥。[%p]
+ZH [name]神奈[line]诶……。[%p]
+
+JA [name]:name:[line](くそっ‥‥。)[%p]
+ZH [name]:name:[line](（可恶……。）。)[%p]
+
+JA [name]北条[line]神奈を切り刻みながら、ゆっくりと思い出すか?[%p]
+ZH [name]北条[line]在我划花神奈的时候，慢慢的想起来吗？[%p]
+
+JA [name]:name:[line]や、止めろ![%p]
+ZH [name]:name:[line]JF:不，停下！[%p]
+
+JA [name]北条[line]へへっ‥‥どうするかなぁ。[%p]
+ZH [name]北条[line]嘿嘿……怎么办才好呢。[%p]
+
+JA [name]:name:[line](くそっ、どうしたらいいんだ!?)[%p]
+ZH [name]:name:[line](（可恶，怎么办才好！？）)[%p]
+
+JA [name]北条[line]ぐへへ‥‥大人しくなったみたいだな。2人とも。[%p]
+ZH [name]北条[line]呜嘿嘿……似乎很成熟呢。两个人都。[%p]
+
+JA [name]:name:[line]すぐに、神奈チャンを離すんだ。[%p]
+ZH [name]:name:[line]立刻，离开神奈。[%p]
+
+JA [name]北条[line]それは、オレの条件をのんだらだぁ‥‥。[%p]
+ZH [name]北条[line]这个嘛，我可是有条件的……。[%p]
+
+JA [name]:name:[line]‥‥条件?[%p]
+ZH [name]:name:[line]……条件？[%p]
+
+JA [name]神奈[line]有馬さん、ダメです![%p]
+ZH [name]神奈[line]有马同学，不可以！[%p]
+
+JA ドシッ!![%p]
+ZH 咚！！[%p]
+
+JA [name]神奈[line]うっ‥‥![%p]
+ZH [name]神奈[line]唔……！[%p]
+
+JA [name]:name:[line]もう止めろっ、てめぇ![%p]
+ZH [name]:name:[line]JF:快停下来！[%p]
+
+JA [name]北条[line]いいかぁ、よく聞けぇ。[%p]
+ZH [name]北条[line]明白吧，听好了。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]北条[line]以前、兄さんに話したことがあったなぁ。[%p]
+ZH [name]北条[line]以前，和小哥你说过的吧。[%p]
+
+JA [name]:name:[line]俺に‥‥?[%p]
+ZH [name]:name:[line]和我……？[%p]
+
+JA [name]北条[line]そうだぁ。ぐっ‥‥。[%p]
+ZH [name]北条[line]是啊。可恶……。[%p]
+
+JA [name]:name:[line]‥‥?[%p]
+ZH [name]:name:[line]……？[%p]
+
+JA [name]北条[line]あ、頭が‥‥痛ぇ‥‥いでぇよう。[%p]
+ZH [name]北条[line]啊，头……好……痛。[%p]
+
+JA [name]:name:[line](何だ‥‥どうしたんだ?)[%p]
+ZH [name]:name:[line](什么……发生什么事了？)[%p]
+
+JA [name]北条[line]くそっ‥‥いいか、よく聞けぇ‥‥うぅ。[%p]
+ZH [name]北条[line]可恶……听好了，好好听……着。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](大丈夫か、こいつ‥‥。)[%p]
+ZH [name]:name:[line](（没事吧，这家伙……。）。)[%p]
+
+JA [name]北条[line]いいか、そこを動くんじゃないぜぇ‥‥。[%p]
+ZH [name]北条[line]听好了，就站在那里不要动……。[%p]
+
+JA [name]:name:[line](動きたくても、動けないぜ‥‥この状況じゃ。)[%p]
+ZH [name]:name:[line](（即使想动，也动不了啊……这种状况。）。)[%p]
+
+JA [name]北条[line]ふへへ‥‥うっぷぅ。[%p]
+ZH [name]北条[line]呼嘿嘿……唔呼。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](何なんだ、この北条の変わりようは‥‥。)[%p]
+ZH [name]:name:[line](（什么啊，北条这种变化是……。）。)[%p]
+
+JA [name]:name:[line](決してイイ奴じゃないが、ここまでイっちゃってる奴じゃなかったが‥‥。)[%p]
+ZH [name]:name:[line](（虽然绝不是好家伙，但是就这样下去就不是他了……。）。)[%p]
+
+JA [name]:name:[line](完全に自分の世界に、いっちまってるぜ‥‥。)[%p]
+ZH [name]:name:[line](（会完全在他自己的世界，陷进去的……。）。)[%p]
+
+JA [name]:name:[line]おい、いい加減に‥‥。[%p]
+ZH [name]:name:[line]喂，你给我适可而止……。[%p]
+
+JA [name]男[line]何か、そそられるシチュエーションって奴だなぁ、神奈。[%p]
+ZH [name]男人[line]引起了一些状况的家伙啊，神奈。[%p]
+
+JA [name]神奈[line]離して![%p]
+ZH [name]神奈[line]走开！[%p]
+
+JA [name]男[line]おっと、この光るモンが、見えない訳じゃあるまい?[%p]
+ZH [name]男人[line]哎呀，这个发光的东西，不可能看不见吧？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line](完全に、自分の世界にいっちまってる‥‥。)[%p]
+ZH [name]:name:[line](（完全，陷入了自己的世界……。）。)[%p]
+
+JA [name]:name:[line]おい、オッサン![%p]
+ZH [name]:name:[line]喂，大叔！[%p]
+
+JA [name]男[line]ぐへへっ‥‥お前とは一度、こういうプレイもしてみたかったなぁ。[%p]
+ZH [name]男人[line]唔嘿嘿……我也想，和你玩玩这种游戏呢。[%p]
+
+JA [name]神奈[line]や、止めて‥‥![%p]
+ZH [name]神奈[line]JF:不，停下来！[%p]
+
+JA [name]:name:[line](くそっ、聴こえていないぞ。)[%p]
+ZH [name]:name:[line](（可恶，根本没有在听。）。)[%p]
+
+JA [name]:name:[line](ちょっと普通の表情じゃないぜ‥‥。)[%p]
+ZH [name]:name:[line](（表情有点不正常……。）。)[%p]
+
+JA [name]:name:[line](もっとも、夜に林の中で、女の子にナイフを突きつけてるってこと自体、普通じゃないが‥‥。)[%p]
+ZH [name]:name:[line](（本来，在夜晚的树林子里，用刀指着女孩子这事本身，就不正常……。）。)[%p]
+
+JA [name]:name:[line](完全に、目がイってるぜ‥‥。)[%p]
+ZH [name]:name:[line](（完全，眼睛无神……。）。)[%p]
+
+JA [name]:name:[line](なんだって、こんな‥‥いったいどうしたっていうんだ。)[%p]
+ZH [name]:name:[line](（什么啊，这样的……到底是怎么一回事啊。）。)[%p]
+
+JA [name]北条[line]あまり、ヒトの顔をジロジロと見るんじゃないぜぇ‥‥。[%p]
+ZH [name]北条[line]不要，一直盯着别人的脸看……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](しかし‥‥。)[%p]
+ZH [name]:name:[line](但是……。)[%p]
+
+JA [name]:name:[line](どうしちまったんだ、北条のヤツは‥‥。)[%p]
+ZH [name]:name:[line](（怎么回事啊，北条这家伙……。）。)[%p]
+
+JA [name]:name:[line](ちょっと普通じゃない感じだ‥‥。)[%p]
+ZH [name]:name:[line](（有点不寻常的感觉……。）。)[%p]
+
+JA [name]北条[line]なんだぁ、ヒトの顔をジロジロとう‥‥。[%p]
+ZH [name]北条[line]什么啊，一直盯着别人……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](ここからじゃ、良く見えない!)[%p]
+ZH [name]:name:[line](（从这里，不太看得到！）)[%p]
+
+JA [name]:name:[line](いったいあいつは‥‥誰なんだ?)[%p]
+ZH [name]:name:[line](（到底那家伙……是谁啊？）)[%p]
+
+JA [name]:name:[line](くそっ‥‥ここからじゃ、よく見えないぜ。)[%p]
+ZH [name]:name:[line](（可恶……这样下去，就看不清楚了、。）。)[%p]
+
+JA [name]:name:[line](くそっ‥‥あのナイフを何とかしなくちゃ。)[%p]
+ZH [name]:name:[line](（可恶……那个刀，不做点什么的话。）。)[%p]
+
+JA [name]:name:[line](あれを、突きつけられている限り、俺には何もできないぜ‥‥。)[%p]
+ZH [name]:name:[line](（那个要是突然刺过去的话，我什么也做不了……。）。)[%p]
+
+JA [name]:name:[line](ナイフを、神奈チャンに突きつけている‥‥。)[%p]
+ZH [name]:name:[line](（他用刀刺，抵着神奈……。）。)[%p]
+
+JA [name]:name:[line](ナイフを持っている‥‥。)[%p]
+ZH [name]:name:[line](（他拿着刀……。）。)[%p]
+
+JA [name]:name:[line](迂闊に、近づけないぜ‥‥。)[%p]
+ZH [name]:name:[line](（不能随意靠近……。）。)[%p]
+
+JA [name]:name:[line](俺はともかく、神奈チャンの身に、危険が‥‥。)[%p]
+ZH [name]:name:[line](（我姑且不论，可神奈她，很危险……。）。)[%p]
+
+JA [name]:name:[line](‥‥ナイフだ!)[%p]
+ZH [name]:name:[line](（……刀！）)[%p]
+
+JA [name]:name:[line](あんな刃物を、女の子に突きつけるなんて‥‥!)[%p]
+ZH [name]:name:[line](（用那种尖锐东西，抵着女孩子什么的……！）)[%p]
+
+JA [name]:name:[line](今は、やめた方がいいぜ‥‥。)[%p]
+ZH [name]:name:[line](（现在，还是放弃比较好……。）。)[%p]
+
+JA [name]北条[line]動くなと言ったのが、聞こえなかったかぁ‥‥?[%p]
+ZH [name]北条[line]都叫你不要动了，没听到吗……？[%p]
+
+JA [name]:name:[line](今は、北条を刺激しない方がいい‥‥。)[%p]
+ZH [name]:name:[line](（现在，还是不要刺激北条为好……。）。)[%p]
+
+JA [name]:name:[line](きっと、チャンスが巡ってくるはずだ‥‥。)[%p]
+ZH [name]:name:[line](（一定，能找到机会……。）。)[%p]
+
+JA [name]北条[line]おっとぅ‥‥相変わらず手が早ぇ兄さんだなぁ‥‥。[%p]
+ZH [name]北条[line]喂……小哥还是手脚那么快呢……。[%p]
+
+JA [name]北条[line]一歩でも動けば、神奈の顔を切りつけるぜぇ‥‥。[%p]
+ZH [name]北条[line]只要你敢动一步，我就在神奈脸上划下去……。[%p]
+
+JA [name]:name:[line]くっ‥‥。[%p]
+ZH [name]:name:[line]呜……。[%p]
+
+JA [name]:name:[line](そうだ、こんな奴、俺の拳で十分だぜ!)[%p]
+ZH [name]:name:[line](（对了，这样的家伙，我的拳头就足够了！）)[%p]
+
+JA [name]:name:[line]おい、オッサン![%p]
+ZH [name]:name:[line]喂，大叔！[%p]
+
+JA ドシッ![%p]
+ZH 扑通！[%p]
+
+JA [name]:name:[line]決まった![%p]
+ZH [name]:name:[line]决定了！[%p]
+
+JA [name]:name:[line]き、効いてない‥‥? モロ入ったはずなのに![%p]
+ZH [name]:name:[line]没，没有效果……？！应该砸到了啊[%p]
+
+JA [name]神奈[line]あ、有馬さん!?[%p]
+ZH [name]神奈[line]啊，有马同学！？[%p]
+
+JA [name]北条[line]ん‥‥なんだぁ。[%p]
+ZH [name]北条[line]嗯……什么啊。[%p]
+
+JA [name]:name:[line]あっ、お前は北条‥‥北条じゃないか!?[%p]
+ZH [name]:name:[line]啊、你不是……不是北条！？[%p]
+
+JA [name]:name:[line](な、何でこいつが、ここにいるんだ‥‥?)[%p]
+ZH [name]:name:[line](（为，为什么这家伙，会在这里……？）)[%p]
+
+JA [name]:name:[line](いや、俺と約束をしていたから、ここにいる必然性はあるが‥‥。)[%p]
+ZH [name]:name:[line](（不是，虽然是因为和我约好了，出现在这里的可能性是……。）。)[%p]
+
+JA [name]:name:[line](じゃなくて!)[%p]
+ZH [name]:name:[line](不对！)[%p]
+
+JA [name]:name:[line](何でこいつが、神奈チャンを襲っているんだ!?)[%p]
+ZH [name]:name:[line](（为什么，这家伙要袭击神奈！？）)[%p]
+
+JA [name]北条[line]兄さん‥‥オレの邪魔をするなるゎーっ![%p]
+ZH [name]北条[line]小哥……不要妨碍老子！[%p]
+
+JA [name]:name:[line]北条‥‥。[%p]
+ZH [name]:name:[line]北条……。[%p]
+
+JA [name]:name:[line](こいつ‥‥目つきが、おかしいぜ。)[%p]
+ZH [name]:name:[line](（这家伙……眼神，很奇怪。）。)[%p]
+
+JA [name]:name:[line](待てよ‥‥まだ、状況が把握できない!)[%p]
+ZH [name]:name:[line](（等等……还，还没明白状况！）)[%p]
+
+JA [name]:name:[line](ちょっと待てよ‥‥。)[%p]
+ZH [name]:name:[line](（等等啊……。）。)[%p]
+
+JA [name]:name:[line](状況を把握するほうが、先決だぞ。)[%p]
+ZH [name]:name:[line](（前提，是要先把握住状况。）。)[%p]
+
+JA [name]:name:[line](何とかして、彼女を助けられないか‥‥?)[%p]
+ZH [name]:name:[line](（不能做点什么，救一下她吗……？）)[%p]
+
+JA [name]:name:[line](考えるんだ‥‥:name:。)[%p]
+ZH [name]:name:[line]JF:（思考……：name:。）[%p]
+
+JA [name]:name:[line](神奈チャンは、怯えている‥‥。)[%p]
+ZH [name]:name:[line](（神奈，在害怕着……。）。)[%p]
+
+JA [name]:name:[line](だけど、こんな状況で泣き叫ばないなんて‥‥凄い子だな。)[%p]
+ZH [name]:name:[line](（但是，这种状况都没有哭喊……真是坚强的女孩。）。)[%p]
+
+JA [name]:name:[line](‥‥なんて、ボンヤリ見ている場合じゃないぞ!)[%p]
+ZH [name]:name:[line](（……什么啊，现在不是是傻愣着的时候！）)[%p]
+
+JA [name]:name:[line](見ている場合じゃない!)[%p]
+ZH [name]:name:[line](（不能就这么看着！）)[%p]
+
+JA [name]:name:[line](今はもう、行動するときだ!)[%p]
+ZH [name]:name:[line](（现在，应该行动了！）)[%p]
+
+JA [name]神奈[line]私は‥‥知らない‥‥。[%p]
+ZH [name]神奈[line]我……不知道……。[%p]
+
+JA バシッ![%p]
+ZH 啪！[%p]
+
+JA [name]神奈[line]うっ‥‥。[%p]
+ZH [name]神奈[line]唔……。[%p]
+
+JA [name]男[line]言うまで、殴り続けるぜ‥‥。[%p]
+ZH [name]男人[line]打到你说为止，……。[%p]
+
+JA [name]:name:[line](おい! 神奈チャンが目の前で、暴行を受けているんだ!)[%p]
+ZH [name]:name:[line](（喂！神奈在眼前，受到暴行啊！）)[%p]
+
+JA [name]:name:[line](見ている場合じゃないぞ!)[%p]
+ZH [name]:name:[line](（不是傻看着的时候！）)[%p]
+
+JA [name]男[line]さぁ、言ってもらおうかっ![%p]
+ZH [name]男人[line]那么，说不说呢！[%p]
+
+JA [name]神奈[line]知らない‥‥私は、知らない![%p]
+ZH [name]神奈[line]不知道……我，不知道！[%p]
+
+JA [name]男[line]まだ、シラをきるのか![%p]
+ZH [name]男人[line]还在，装不知道吗！[%p]
+
+JA バシッ!![%p]
+ZH 啪！！[%p]
+
+JA [name]神奈[line]うっ‥‥。[%p]
+ZH [name]神奈[line]唔……。[%p]
+
+JA [name]:name:[line](殴りやがった‥‥あの野郎!!)[%p]
+ZH [name]:name:[line](（在施暴……那个家伙！！）)[%p]
+
+JA [name]神奈[line]止めて‥‥痛っ![%p]
+ZH [name]神奈[line]JF:停下来……好痛！[%p]
+
+JA [name]男[line]おとなしくするんだっ![%p]
+ZH [name]男人[line]听话一点你给我！[%p]
+
+JA [name]:name:[line](くそっ‥‥あの野郎!)[%p]
+ZH [name]:name:[line](（可恶……那个家伙！）)[%p]
+
+JA [name]神奈[line]止めて‥‥止めて下さい![%p]
+ZH [name]神奈[line]JF:停下来……请停下来！[%p]
+
+JA [name]男[line]さぁ、早く言え‥‥言うんだ!![%p]
+ZH [name]男人[line]快点，快点……说啊！！[%p]
+
+JA [name]:name:[line](神奈チャンが‥‥男に襲われているっ!?)[%p]
+ZH [name]:name:[line](（神奈……在被男的施暴！？）)[%p]
+
+JA [name]:name:[line](明雲寺公園の林の中だ‥‥。)[%p]
+ZH [name]:name:[line](（明云寺公园的树林中……。）。)[%p]
+
+JA [name]:name:[line](何で今晩に限って、誰もいないんだよ‥‥。)[%p]
+ZH [name]:name:[line](（为什么只有今晚，一个人也没有……。）。)[%p]
+
+JA [name]:name:[line](今は、そんな所を見ている場合じゃないぞ!)[%p]
+ZH [name]:name:[line](（现在，不是看着这种地方的时候！）)[%p]
+
+JA [name]:name:[line](明雲寺公園の林の中だ‥‥。)[%p]
+ZH [name]:name:[line](（明云寺公园的树林中……。）。)[%p]
+
+JA [name]:name:[line](何で、今晩に限って、カップルすらいないんだ‥‥!?)[%p]
+ZH [name]:name:[line]JF:（为什么偏偏今晚连情侣都没有……！？）[%p]
+
+JA [name]:name:[line](或いは、この状況を見て、逃げ出したのかも‥‥。)[%p]
+ZH [name]:name:[line](（又或者，看到这种状况，逃走了……。）。)[%p]
+
+JA [name]北条[line]何だ、もっと見たいのか?[%p]
+ZH [name]北条[line]怎么，还想看更多？[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]北条[line]けっ、わけぇくせに、すげぇ目で睨みやがる。[%p]
+ZH [name]北条[line]切，我知道，一直在盯着看。[%p]
+
+JA [name]北条[line]へっへっへ、兄さんもやっぱ男ってことだな‥‥。[%p]
+ZH [name]北条[line]嘿嘿嘿，小哥你果然也是男人啊……。[%p]
+
+JA [name]:name:[line]俺は見ていないぞ。[%p]
+ZH [name]:name:[line]我没有在看。[%p]
+
+JA [name]:name:[line](止めろよ‥‥状況を理解してくれ。)[%p]
+ZH [name]:name:[line]JF:（停止吧……请理解状况。）[%p]
+
+JA [name]:name:[line](‥‥今はそんなのを見ている場合か?)[%p]
+ZH [name]:name:[line](（……现在是看这个的时候吗？）)[%p]
+
+JA [name]:name:[line](と言いつつも、見てしまう自分が悲しい‥‥。)[%p]
+ZH [name]:name:[line](（虽说如此，但仍然忍不住看了的自己可真是悲哀……。）。)[%p]
+
+JA [name]北条[line]動くなよう‥‥。[%p]
+ZH [name]北条[line]不要动哦……。[%p]
+
+JA [name]:name:[line](くそ‥‥どうしようもないぞ。)[%p]
+ZH [name]:name:[line](（可恶……什么也做不了。）。)[%p]
+
+JA [name]北条[line]へっへっへ、もっと見たいのか?[%p]
+ZH [name]北条[line]嘿嘿嘿，还想看更多吗？[%p]
+
+JA [name]:name:[line]止めろ![%p]
+ZH [name]:name:[line]JF:停下！[%p]
+
+JA [name]:name:[line](くそっ、汚そうな手で触るな!)[%p]
+ZH [name]:name:[line](（可恶，不要用你的脏手去碰！）)[%p]
+
+JA [name]:name:[line](あの男の手が、神奈チャンの脚を‥‥。)[%p]
+ZH [name]:name:[line](（那个男人的手，放在神奈的腿上……。）。)[%p]
+
+JA [name]北条[line]へっへ‥‥そうだ、オレが握っているモノを、よく見るんだな。[%p]
+ZH [name]北条[line]嘿嘿……就是这样，我手里握着的东西，好好看一看。[%p]
+
+JA [name]:name:[line](ナイフを握っているぞ‥‥。)[%p]
+ZH [name]:name:[line](（握着刀……。）。)[%p]
+
+JA [name]:name:[line](迂闊に、動けない‥‥。)[%p]
+ZH [name]:name:[line](（不能鲁莽的，行动……。）。)[%p]
+
+JA [name]:name:[line](胸を見ている場合じゃないぜ‥‥。)[%p]
+ZH [name]:name:[line](（不是看胸部的时候……。）。)[%p]
+
+JA [name]北条[line]兄さんも、物好きだなぁ‥‥へっへっへ。[%p]
+ZH [name]北条[line]小哥也，很喜欢呢……。[%p]
+
+JA [name]:name:[line](くそっ‥‥。)[%p]
+ZH [name]:name:[line](（可恶……。）。)[%p]
+
+JA [name]:name:[line](胸を見ている場合じゃないぞ。)[%p]
+ZH [name]:name:[line](（不是看胸部的时候。）。)[%p]
+
+JA [name]:name:[line](胸だ‥‥こぶりなのが、いいんだよな。)[%p]
+ZH [name]:name:[line](（胸……虽然小小的，但真不错。）。)[%p]
+
+JA [name]:name:[line](‥‥などと品定めをしている場合じゃなくて!)[%p]
+ZH [name]:name:[line](（……现在不是品评这种的时候！）)[%p]
+
+JA [name]:name:[line](ダメだ、こんな物騒なのは使えないぜ。)[%p]
+ZH [name]:name:[line](（不行了，这样危险是不行的。）。)[%p]
+
+JA [name]:name:[line](おいおい‥‥。)[%p]
+ZH [name]:name:[line](喂喂……。)[%p]
+
+JA [name]:name:[line](こんなんで切りつけたら、いくらなんでも死んじまうぜ‥‥。)[%p]
+ZH [name]:name:[line](（这样砍下去的话，会死的吧……。）。)[%p]
+
+JA [name]北条[line]なんだぁ、それは‥‥。[%p]
+ZH [name]北条[line]什么啊……。[%p]
+
+JA [name]北条[line]迂闊なことを、するんじゃないぜ‥‥神奈の顔に、切り傷ができるからな。[%p]
+ZH [name]北条[line]别说蠢话了……否则我会，在神奈脸上划下去哦。[%p]
+
+JA [name]:name:[line](‥‥ダメだ、今はできない。)[%p]
+ZH [name]:name:[line](（……不行，现在不行。）。)[%p]
+
+JA [name]:name:[line](木刀は、少し強力すぎるぜ‥‥。)[%p]
+ZH [name]:name:[line](（木刀，有点太锋利了……。）。)[%p]
+
+JA [name]:name:[line](こんな中年のオッサンなんて、俺の拳で十分だ。)[%p]
+ZH [name]:name:[line](（这种中年大叔什么的，我的拳头就行了。）。)[%p]
+
+JA [name]:name:[line](もうちょっと、状況を把握しないと‥‥。)[%p]
+ZH [name]:name:[line](（再稍微，搞清楚一点状况……。）。)[%p]
+
+JA [name]:name:[line](待てよ‥‥いきなり木刀で襲いかかるのか?)[%p]
+ZH [name]:name:[line](（等待一下……忽然用木刀袭击吗？）)[%p]
+
+JA [name]:name:[line](もうちょっと、状況を把握しようぜ‥‥。)[%p]
+ZH [name]:name:[line](（再稍微，搞清楚一点状况……。）。)[%p]
+
+JA [name]:name:[line](そんなのを今、どうやって使うんだよ‥‥。)[%p]
+ZH [name]:name:[line](（这个，现在要怎么用才好……。）。)[%p]
+
+JA [name]:name:[line](それを使うときじゃないぜ!)[%p]
+ZH [name]:name:[line](（不是用这个的时候吧！）)[%p]
+
+JA [name]:name:[line](‥‥おい、そんなのをいったいどうしろって言うんだ。)[%p]
+ZH [name]:name:[line](（……喂，之前说这个到底是怎么用的来着。）。)[%p]
+
+JA [name]:name:[line](もうちょっと、考えてくれよ‥‥。)[%p]
+ZH [name]:name:[line](（稍微再，考虑一下吧……。）。)[%p]
+
+JA 
+ZH 
+

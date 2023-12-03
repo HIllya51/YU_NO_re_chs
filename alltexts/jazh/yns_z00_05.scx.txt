@@ -1,0 +1,741 @@
+JA [name]たくや[line]キッチンに、テーブル‥‥イス、棚‥‥。[%p]
+ZH [name]拓也[line]有厨房，还有桌子‥‥椅子，架子‥‥。[%p]
+
+JA [name]たくや[line]い、意外に生活的だな‥‥。[%p]
+ZH [name]拓也[line]意、意外地很有生活气息啊‥‥。[%p]
+
+JA [name]たくや[line]やっぱり、誰かが住んでいる‥‥或いは、住んでいたんだ。[%p]
+ZH [name]拓也[line]果然是有人住在这里‥‥或是曾经住在这里。[%p]
+
+JA [name]たくや[line]静かな家だな‥‥。[%p]
+ZH [name]拓也[line]静悄悄的屋子‥‥。[%p]
+
+JA [name]たくや[line]‥‥左奧のカーテンが、気になるが‥‥。[%p]
+ZH [name]拓也[line]‥‥左边靠里的窗帘让我很在意‥‥。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]見落としていたけど、左奧にカーテンが掛かってる。[%p]
+ZH [name]拓也[line]左边靠里处挂着窗帘，我居然看漏了。[%p]
+
+JA [name]たくや[line]カーテンが掛かってるってことは、カーテンの向こう側に何かがあるってことだ。[%p]
+ZH [name]拓也[line]挂着窗帘意味着窗帘里边有什么东西在。[%p]
+
+JA [name]たくや[line]‥‥もう1部屋、あるってことか?[%p]
+ZH [name]拓也[line]‥‥里面还有１个房间吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]確かに、気付いてみればおかしいよな。居間だけの家なんて‥‥。[%p]
+ZH [name]拓也[line]等注意到了确实让人觉得奇怪。屋子里怎么会只有客厅啊‥‥。[%p]
+
+JA [name]たくや[line]生活するんだったら、最低限あと1部屋、寝室があってもおかしくはないぜ‥‥。[%p]
+ZH [name]拓也[line]要生活的话，至少还得要１间卧室才正常吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ?[%p]
+ZH [name]拓也[line]……该怎么办好呢？[%p]
+
+JA [name]たくや[line]‥‥誰もいないんだろうか。[%p]
+ZH [name]拓也[line]……好像谁都不在吧。[%p]
+
+JA [name]たくや[line]静かな家だな‥‥。[%p]
+ZH [name]拓也[line]静悄悄的屋子‥‥。[%p]
+
+JA [name]たくや[line]‥‥誰もいないのかな?[%p]
+ZH [name]拓也[line]‥‥一个人都没有吗？[%p]
+
+JA [name]たくや[line]窓の所には、妙な植物が飾ってある‥‥。[%p]
+ZH [name]拓也[line]窗户那里装饰着奇怪的植物‥‥。[%p]
+
+JA [name]たくや[line]‥‥触ると、胞子を吹き出したりするのかな?[%p]
+ZH [name]拓也[line]‥‥是那种摸一下就会冒出孢子的吗？[%p]
+
+JA [name]たくや[line]右側には、小さなキッチンらしきものがあるな‥‥。[%p]
+ZH [name]拓也[line]右边的小房间像是厨房‥‥。[%p]
+
+JA [name]たくや[line]水の出口、流し‥‥。[%p]
+ZH [name]拓也[line]出水口，水池‥‥。[%p]
+
+JA [name]たくや[line]意外に綺麗に片づいているな‥‥住人の性格がわかるってもんだ。[%p]
+ZH [name]拓也[line]没想到整理得这么干净啊‥‥这样一来也算了解了住人的性格吧。[%p]
+
+JA [name]たくや[line]俺とは正反対だぜ。[%p]
+ZH [name]拓也[line]跟我正相反呢。[%p]
+
+JA [name]たくや[line]テーブルの上には、何も載っていない‥‥。[%p]
+ZH [name]拓也[line]桌子上面，什么都没有‥‥。[%p]
+
+JA [name]たくや[line]テーブルの上には、何も載っていない‥‥。[%p]
+ZH [name]拓也[line]桌子上面，什么都没有‥‥。[%p]
+
+JA [name]たくや[line]綺麗に片づいているな‥‥。[%p]
+ZH [name]拓也[line]整理得很干净啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥本当にここ、誰か住んでいるのか?[%p]
+ZH [name]拓也[line]‥‥这里真有人住吗？[%p]
+
+JA [name]たくや[line]テーブル‥‥だよな。これは。[%p]
+ZH [name]拓也[line]是‥‥桌子啊。这个。[%p]
+
+JA [name]たくや[line]丸テーブルの周りに、イスが4つ置いてある‥‥。[%p]
+ZH [name]拓也[line]圆桌的周围，放着４把椅子‥‥。[%p]
+
+JA [name]たくや[line]ってことは、4人家族‥‥?[%p]
+ZH [name]拓也[line]那么就是，４口之家‥‥？[%p]
+
+JA [name]たくや[line]‥‥即断は禁物だな。4つあるからといって、4人家族とは限らないだろう。[%p]
+ZH [name]拓也[line]‥‥切忌草率做决定啊。虽然说有４把，但是并不局限于４口之家吧。[%p]
+
+JA [name]たくや[line]それにあとは‥‥ナベか。[%p]
+ZH [name]拓也[line]后面还有‥‥这是锅吧。[%p]
+
+JA [name]たくや[line]すると、ここで料理もするってことだろうか‥‥。[%p]
+ZH [name]拓也[line]这么一说，住人也在这里做饭吧‥‥。[%p]
+
+JA [name]たくや[line]コップやら、皿やら‥‥いろいろと収納されてるな。[%p]
+ZH [name]拓也[line]杯子呀，盘子呀‥‥很多都存放在这里。[%p]
+
+JA [name]たくや[line]あっ‥‥本なんかもある。読んでみよう‥‥。[%p]
+ZH [name]拓也[line]啊‥‥有书之类的东西。试着读一读‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥まるでわからん。外国語は苦手なんだ。[%p]
+ZH [name]拓也[line]‥‥全然不懂。我可不擅长外语。[%p]
+
+JA [name]たくや[line]とりあえず、元の場所に、戻しておこう‥‥。[%p]
+ZH [name]拓也[line]姑且先返回之前的地方吧‥‥。[%p]
+
+JA [name]たくや[line]気になるな‥‥。[%p]
+ZH [name]拓也[line]让人很在意啊‥‥。[%p]
+
+JA [name]たくや[line]カーテンが掛かってる‥‥。[%p]
+ZH [name]拓也[line]帘子遮起来了‥‥。[%p]
+
+JA [name]たくや[line]向こうに、何があるっていうんだ‥‥?[%p]
+ZH [name]拓也[line]那后面有什么呢‥‥？[%p]
+
+JA [name]たくや[line](セーレスは俺の傍らにいるけど‥‥。)[%p]
+ZH [name]拓也[line](（塞蕾斯就在我旁边‥‥）。)[%p]
+
+JA [name]たくや[line](今は、もうちょっと調べてみたいな‥‥。)[%p]
+ZH [name]拓也[line](（眼下想再稍微调查一下‥‥）。)[%p]
+
+JA [name]たくや[line]なぁ、セーレス。[%p]
+ZH [name]拓也[line]呐，塞蕾斯。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]この家の中を見て、どう思う?[%p]
+ZH [name]拓也[line]看了这屋子里的情形，怎么想？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]そっか‥‥しゃべれなかったんだよな。[%p]
+ZH [name]拓也[line]JF:是吗……没能说啊。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]訊き方がマズかった。この家の内装は、標準的‥‥あぁ、言葉が悪いな、つまり普通かってことなんだけど。[%p]
+ZH [name]拓也[line]是我问话方式太笨。这屋子里的内部装修是不是挺标准‥‥啊啊，用词不好，应该用普通来形容。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]だから、この家の中を見て、普通に思うかい?[%p]
+ZH [name]拓也[line]就是，你看了这屋子里的情形，是不是觉得挺普通？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]ふむ‥‥つまり、標準的な生活様式ってわけか。[%p]
+ZH [name]拓也[line]哼哼‥‥总之是这里标准的生活方式吧。[%p]
+
+JA [name]たくや[line]ということは、少なくともこの国の人たちの文化レベルってのは、決して低くはないということか。[%p]
+ZH [name]拓也[line]那就是说，这个国家人们的文化水平至少不会比我们低吧。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]あっ、いや。独り言さ。[%p]
+ZH [name]拓也[line]啊，没事，自言自语。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]ふぅ‥‥ここで、住人が帰ってくるのを待つか?[%p]
+ZH [name]拓也[line]呼‥‥我们就在这里等住的人回来吗？[%p]
+
+JA [name]たくや[line]それとも‥‥。[%p]
+ZH [name]拓也[line]或者……。[%p]
+
+JA [name]たくや[line]なぁ、セーレス。[%p]
+ZH [name]拓也[line]呐，塞蕾斯。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]この家のこと、知っていたのかい?[%p]
+ZH [name]拓也[line]你之前知道这屋子的事情吗？[%p]
+
+JA [name]セーレス[line]プルンプルン。[%p]
+ZH [name]塞蕾斯[line]摇头摇头。[%p]
+
+JA [name]たくや[line]‥‥じゃあ、君の知っている人が住んでるのかい?[%p]
+ZH [name]拓也[line]‥‥那这里住的是你认识的人吗？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]知らない?[%p]
+ZH [name]拓也[line]不认识？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]そっか‥‥オッケー。わかった。[%p]
+ZH [name]拓也[line]这样啊‥‥ＯＫ。我懂了。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]セーレスが関連あると思ったんだが‥‥。[%p]
+ZH [name]拓也[line]我本以为这里跟塞蕾斯有关联的‥‥。[%p]
+
+JA [name]たくや[line]彼女は、この家も、この家の住人も知らないそうだ‥‥。[%p]
+ZH [name]拓也[line]无论是这房子还是住这房子里的人她都不了解‥‥。[%p]
+
+JA [name]たくや[line]いや、奧の部屋が気になるぜ‥‥。[%p]
+ZH [name]拓也[line]呀，很在意里面的房间‥‥。[%p]
+
+JA [name]たくや[line]外に出るのは、ちょっと待とう。[%p]
+ZH [name]拓也[line]还是等等再到外面去。[%p]
+
+JA [name]たくや[line]また、外に出るのか‥‥?[%p]
+ZH [name]拓也[line]又要到外面去吗‥‥？[%p]
+
+JA [name]たくや[line]‥‥しょうがないな。[%p]
+ZH [name]拓也[line]‥‥真没办法。[%p]
+
+JA ずいっ。[%p]
+ZH 转头。[%p]
+
+JA [name]たくや[line]おわっ‥‥。[%p]
+ZH [name]拓也[line]哦哇‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]わ、わかってるって。別に置いてきぼりに、しやしないって。[%p]
+ZH [name]拓也[line]我、我知道啊。我又不会在这儿放个木雕什么的。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥ふぅ。[%p]
+ZH [name]拓也[line]‥‥呼。[%p]
+
+JA [name]たくや[line]よし、とにかく外へ出よう。[%p]
+ZH [name]拓也[line]好，先出去吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とりあえず、家の外に出たが‥‥。[%p]
+ZH [name]拓也[line]姑且先到屋子外面去吧‥‥。[%p]
+
+JA [name]たくや[line]どうするんだ?[%p]
+ZH [name]拓也[line]怎么办呢？[%p]
+
+JA [name]たくや[line]外に出るのか‥‥?[%p]
+ZH [name]拓也[line]到外面去吗‥‥？[%p]
+
+JA [name]たくや[line]あっ、大丈夫だよ。ちょっと外の空気を吸うだけだ。[%p]
+ZH [name]拓也[line]啊，没关系的。稍稍呼吸一下外面的空气。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]一緒に来るかい?[%p]
+ZH [name]拓也[line]跟我一起吗？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何だか、ますます動物じみてきたな‥‥。)[%p]
+ZH [name]拓也[line](（怎么感觉越来越像小动物了‥‥）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とりあえず、家の外に出たが‥‥。[%p]
+ZH [name]拓也[line]姑且先到屋子外面去吧‥‥。[%p]
+
+JA [name]たくや[line]どうするんだ?[%p]
+ZH [name]拓也[line]怎么办呢？[%p]
+
+JA [name]たくや[line]イヤだよ‥‥。[%p]
+ZH [name]拓也[line]真讨厌‥‥。[%p]
+
+JA [name]たくや[line]イエイ![%p]
+ZH [name]拓也[line]Ｙｅａｈ！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]セーレスが、呆れた顔をして、俺を見てるぞ。[%p]
+ZH [name]拓也[line]塞蕾斯用惊呆的表情看着我。[%p]
+
+JA [name]たくや[line]テーブルから降りよう‥‥よっこらしょ。[%p]
+ZH [name]拓也[line]从桌子上下来吧‥‥预备，跳。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]気にしないでくれ‥‥男には誰しも、ああなるときがあるんだ。[%p]
+ZH [name]拓也[line]别介意‥‥不管是哪个男的，都有那样的时候。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]気にしなくて、いいの。[%p]
+ZH [name]拓也[line]别介意就行啦。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥ふぅ。[%p]
+ZH [name]拓也[line]‥‥呼。[%p]
+
+JA [name]たくや[line]とにかく、もうちょっと中を調べてみようぜ。[%p]
+ZH [name]拓也[line]总之再调查一下里面吧。[%p]
+
+JA [name]たくや[line]‥‥よし。行ってみるか。[%p]
+ZH [name]拓也[line]‥‥好。去看看吧。[%p]
+
+JA [name]たくや[line]何が出てくるか、わからないからな‥‥慎重に‥‥。[%p]
+ZH [name]拓也[line]会发现什么东系我可不知道‥‥要慎重‥‥。[%p]
+
+JA ずいっ。[%p]
+ZH 转头。[%p]
+
+JA [name]たくや[line]おわっ![%p]
+ZH [name]拓也[line]（哦哇！）[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]なんだい?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]気を付けろって言うのかい?[%p]
+ZH [name]拓也[line]你是让我留神吗？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]大丈夫さ。こう見えても、昔は日本古来の武道である剣術をだな‥‥ま、いいか。[%p]
+ZH [name]拓也[line]没问题的。别看我这样，我可是会日本自古流传下来叫剑术的武道呢‥‥唉，算了吧。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫だ。警戒してるよ。[%p]
+ZH [name]拓也[line]没问题的。我提放着呢。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](確かに、何が出てくるかわからない‥‥。)[%p]
+ZH [name]拓也[line](（的确不知道会出现什么‥‥）。)[%p]
+
+JA [name]たくや[line](慎重に行動しよう‥‥。)[%p]
+ZH [name]拓也[line](（得谨慎行动‥‥）。)[%p]
+
+JA [name]たくや[line](よし‥‥カーテンを開けるぜ。)[%p]
+ZH [name]拓也[line](（好‥‥我要拉开帘子了。）。)[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]誰か‥‥寝てるぞ。[%p]
+ZH [name]拓也[line]有人‥‥睡着。[%p]
+
+JA [name]たくや[line]長い髪の毛‥‥女の人か?[%p]
+ZH [name]拓也[line]长发的‥‥女人？[%p]
+
+JA [name]声[line]‥‥誰だ。[%p]
+ZH [name]声音[line]‥‥是谁。[%p]
+
+JA [name]たくや[line]わっ、喋った!?[%p]
+ZH [name]拓也[line]哇，会说话！？[%p]
+
+JA [name]声[line]侵入者か!?[%p]
+ZH [name]声音[line]JF:入侵者！？[%p]
+
+JA [name]たくや[line](わっ‥‥け、剣を!?)[%p]
+ZH [name]拓也[line](（哇‥‥拿、拿着剑！？）)[%p]
+
+JA [name]たくや[line](人だ‥‥人が剣を構えている!)[%p]
+ZH [name]拓也[line](（这人‥‥这人手里举着剑！）)[%p]
+
+JA [name]目の前の女性[line]誰!?[%p]
+ZH [name]眼前的女性[line]是谁！？[%p]
+
+JA [name]たくや[line]お、俺はその‥‥たくやだ。[%p]
+ZH [name]拓也[line]我、我叫做‥‥叫拓也。[%p]
+
+JA [name]目の前の女性[line]そこで何をしているの‥‥?[%p]
+ZH [name]眼前的女性[line]你在那里干什么呢‥‥？[%p]
+
+JA [name]たくや[line]い、息をして、立っている‥‥ってのは?[%p]
+ZH [name]拓也[line]我在呼、呼吸，而且站着‥‥你是说这个吗？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line](今にも殺すって顔つきだぞ‥‥。)[%p]
+ZH [name]拓也[line](（现在还是带着要杀我的表情‥‥）。)[%p]
+
+JA [name]目の前の女性[line]帝都から来た者‥‥かしら?[%p]
+ZH [name]眼前的女性[line]你是从帝都来的人‥‥是不是？[%p]
+
+JA [name]たくや[line]帝都‥‥? 何だよ、それ。[%p]
+ZH [name]拓也[line]帝都‥‥？　那是啥啊。[%p]
+
+JA [name]目の前の女性[line]私が病に伏せているのを、快く思わぬ者もいるというわ‥‥違うかしら?[%p]
+ZH [name]眼前的女性[line]即使我已经因病卧床不起，也有人看不顺眼‥‥不是吗？[%p]
+
+JA [name]たくや[line]悪いが、言っている意味がまるでわからないぜ。[%p]
+ZH [name]拓也[line]不好意思啊，你说的我完全不懂。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]俺は、ここがどこだか判らないし、君が何者かも知らないし、今日が何月何日かも知らないんだ。君の言ってることは、サッパリさ。[%p]
+ZH [name]拓也[line]我啊，不知道这里是什么地方，不知道你是什么人，也不知道今天是几月几号。你说的那些全然不明白。[%p]
+
+JA [name]目の前の女性[line]‥‥あなた、頭が不自由?[%p]
+ZH [name]眼前的女性[line]‥‥你脑子不好使吗？[%p]
+
+JA [name]たくや[line]あのな。言っておくが、自分の名前はわかるぞ。[%p]
+ZH [name]拓也[line]喂喂。我先说一句，自己的名字还是知道的。[%p]
+
+JA [name]目の前の女性[line]‥‥自分の名前程度はわかるという訳ね。[%p]
+ZH [name]眼前的女性[line]‥‥只知道自己名字的程度吗。[%p]
+
+JA [name]たくや[line](何だか言い訳してるのが、バカらしくなってきたな‥‥。)[%p]
+ZH [name]拓也[line](（本来想解释一下的，越解释显得越蠢‥‥）。)[%p]
+
+JA [name]目の前の女性[line]目的は何?[%p]
+ZH [name]眼前的女性[line]你有什么目的？[%p]
+
+JA [name]たくや[line]目的は‥‥何だろう。[%p]
+ZH [name]拓也[line]我的目的‥‥是啥呢。[%p]
+
+JA [name]目の前の女性[line]‥‥やはり低能なのね。[%p]
+ZH [name]眼前的女性[line]‥‥你果然是低能儿啊。[%p]
+
+JA [name]たくや[line]低能じゃないっ![%p]
+ZH [name]拓也[line]才不是低能儿！[%p]
+
+JA [name]目の前の女性[line]後ろの女性は?[%p]
+ZH [name]眼前的女性[line]你身后的女性是？[%p]
+
+JA [name]たくや[line]セーレスのことか?[%p]
+ZH [name]拓也[line]你说塞蕾斯吗？[%p]
+
+JA [name]目の前の女性[line]何者なの。[%p]
+ZH [name]眼前的女性[line]她是谁？。[%p]
+
+JA [name]たくや[line]実は、俺もよくわからない。[%p]
+ZH [name]拓也[line]其实我也不太清楚。、。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]そんな疑心暗鬼に満ちた目で見ないでくれ。確かに、あんたにとってみれば、俺は露骨に怪しいってのは認めるよ。[%p]
+ZH [name]拓也[line]JF:你不要用那种疑神疑鬼的眼光看我。确实，在你看来，我承认我明显很奇怪。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]だけど、俺だって自分のおかれている状況ってのが、まるでわからなくて‥‥あぁもう! 何て説明すればいいんだ。[%p]
+ZH [name]拓也[line]可是，连我也完全搞不清楚自己身处的状况‥‥啊啊实在是！　该怎么说明才好呢。[%p]
+
+JA [name]目の前の女性[line]‥‥どうやら、盗賊やその類じゃないらしいわね。[%p]
+ZH [name]眼前的女性[line]‥‥你大概不是跟盗贼什么一伙的吧。[%p]
+
+JA [name]たくや[line]当たり前だ、この人畜無害でナイスガイな姿を見ろよ。[%p]
+ZH [name]拓也[line]那是当然啊，睁大眼睛好好看看我这人畜无害的棒小伙。[%p]
+
+JA [name]目の前の女性[line]盗賊じゃないと思ったのは、あなたの言動があまりに間抜けだからよ。[%p]
+ZH [name]眼前的女性[line]为何说你不是盗贼呢，因为你的言行实在过于痴呆了。[%p]
+
+JA [name]たくや[line]なにおう。[%p]
+ZH [name]拓也[line]什么嘛。[%p]
+
+JA [name]目の前の女性[line]で、目的はなに?[%p]
+ZH [name]眼前的女性[line]说，你的目的是什么？[%p]
+
+JA [name]たくや[line]とりあえず、その物騒なモノを下げてくれないか?[%p]
+ZH [name]拓也[line]总之能不能先把那危险的玩意儿收起来？[%p]
+
+JA [name]目の前の女性[line]まだ安心できないわ。着ているモノを、脱ぎなさい。[%p]
+ZH [name]眼前的女性[line]我还没完全放心你。你把穿着的东西都脱掉。[%p]
+
+JA [name]たくや[line]なっ‥‥い、いきなり情熱的だな。[%p]
+ZH [name]拓也[line]你说什‥‥突、突然就这么激情啊。[%p]
+
+JA [name]目の前の女性[line]なに訳のわからないことを言っているの。武装解除よ。[%p]
+ZH [name]眼前的女性[line]你在说些什么乱七八糟的。我要解除你的武装。[%p]
+
+JA [name]たくや[line]武装解除?[%p]
+ZH [name]拓也[line]解除武装？[%p]
+
+JA [name]目の前の女性[line]早くしなさい。でないと‥‥。[%p]
+ZH [name]眼前的女性[line]给我快点。不然的话‥‥。[%p]
+
+JA [name]たくや[line]その先は言わなくていいよ。わかった、武器を持ってないことがわかればいいんだな‥‥。[%p]
+ZH [name]拓也[line]后面的不用说都行。我知道了，要是你能明白我根本没带武器就好了‥‥。[%p]
+
+JA [name]目の前の女性[line]そう、それから‥‥うっ。[%p]
+ZH [name]眼前的女性[line]这样啊，那么‥‥唔。[%p]
+
+JA [name]たくや[line]ど、どうしたんだよ。[%p]
+ZH [name]拓也[line]怎、怎么了啊。[%p]
+
+JA [name]目の前の女性[line]目眩がする‥‥急に動いたから‥‥うっ。[%p]
+ZH [name]眼前的女性[line]突然动一下‥‥有点头晕‥‥唔。[%p]
+
+JA [name]たくや[line]わっ‥‥だ、大丈夫か!?[%p]
+ZH [name]拓也[line]哇‥‥没、没事吧！？[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]おい、しっかりしろよ、おい![%p]
+ZH [name]拓也[line]喂，振作一点啊，喂！[%p]
+
+JA [name]たくや[line]ち、血だ‥‥口から、血が出てるぞ!?[%p]
+ZH [name]拓也[line]是、是血‥‥从嘴里，有血流出来了！？[%p]
+
+JA [name]たくや[line]なんだってんだ‥‥いきなり血を吐いて、倒れちゃったぞ。[%p]
+ZH [name]拓也[line]这是什么事啊‥‥突然吐血倒下去了。[%p]
+
+JA [name]たくや[line]と、とにかく、このままにしておくわけにはいかない。現状じゃ、唯一の情報源だからな。[%p]
+ZH [name]拓也[line]不、不论怎样，不能就把她放在这里不管。她是目前情况下唯一的信息来源啊。[%p]
+
+JA [name]たくや[line]おい、セーレス、手伝ってくれ。[%p]
+ZH [name]拓也[line]喂，塞蕾斯，来帮我。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]ふぅ‥‥前途多難とは、まさに今のことだな。[%p]
+ZH [name]拓也[line]呼‥‥要说前途多难，不正是现在这情况么。[%p]
+
+JA [name]たくや[line]あっ、気付いた?[%p]
+ZH [name]拓也[line]啊，你醒了？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]セーレス、タオルはもういいよ。水を一杯、持ってきて。[%p]
+ZH [name]拓也[line]塞蕾斯，毛巾不用了。拿杯水来。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫かい?[%p]
+ZH [name]拓也[line]没问题？[%p]
+
+JA [name]目の前の女性[line]な、何をしたの‥‥。[%p]
+ZH [name]眼前的女性[line]你、你做了什么‥‥。[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]目の前の女性[line]わ、私が眠っている間に‥‥何をしたの?[%p]
+ZH [name]眼前的女性[line]我、我昏过去的时候‥‥做什么了？[%p]
+
+JA [name]たくや[line]何って‥‥なに?[%p]
+ZH [name]拓也[line]你说做什么‥‥是指？[%p]
+
+JA [name]目の前の女性[line]何かよ。[%p]
+ZH [name]眼前的女性[line]到底做什么了？。[%p]
+
+JA [name]たくや[line]ああ、裸にして‥‥お、おい、剣に手をかけないでくれ![%p]
+ZH [name]拓也[line]啊啊，脱光衣服‥‥喂、喂，手别去拿剑啊！[%p]
+
+JA [name]目の前の女性[line]乱暴したのね‥‥。[%p]
+ZH [name]眼前的女性[line]真是粗鲁呢‥‥。[%p]
+
+JA [name]たくや[line]んなこと、するわけないだろ。[%p]
+ZH [name]拓也[line]那种事情，怎么可能有。、。[%p]
+
+JA [name]目の前の女性[line]じゃあ、は、裸にして、何をしたか言ってみなさい。[%p]
+ZH [name]眼前的女性[line]那么，你说把我脱、脱光以后都做了些什么。[%p]
+
+JA [name]たくや[line]んな、特別なことはしてないよ。こういう状況だったら、誰もがするような‥‥だから、剣に手をかけるなってば。[%p]
+ZH [name]拓也[line]那个，也没做什么特别的事啊。这种情况下，谁都不会做那种‥‥所以，我说你，手别去拿剑啊。[%p]
+
+JA [name]目の前の女性[line]何をしたの!?[%p]
+ZH [name]眼前的女性[line]做了些什么啊！？[%p]
+
+JA [name]たくや[line]凄い汗をかいていたから、身体を拭いて、寝かせただけだよ。[%p]
+ZH [name]拓也[line]因为你身上出了好多汗，所以我就帮你擦了擦，方便你入睡而已。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]本当だって‥‥。[%p]
+ZH [name]拓也[line]是真的啦‥‥。[%p]
+
+JA [name]目の前の女性[line]くっ‥‥。[%p]
+ZH [name]眼前的女性[line]呜……。[%p]
+
+JA [name]たくや[line]何を心配してるかわからんが、セーレスがやってくれたんだぜ。[%p]
+ZH [name]拓也[line]我搞不明白你在担心什么啊，是塞蕾斯帮你弄的。[%p]
+
+JA [name]目の前の女性[line]セーレス‥‥?[%p]
+ZH [name]眼前的女性[line]（塞蕾斯……？）[%p]
+
+JA [name]たくや[line]俺と一緒にいた、あの女の子さ。[%p]
+ZH [name]拓也[line]就是跟我一起的那女孩子啊。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あっ、セーレス、サンキュ。ほら、水。[%p]
+ZH [name]拓也[line]啊，塞蕾斯，３Ｑ。来，喝水。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]飲まないのかい?[%p]
+ZH [name]拓也[line]不喝吗？[%p]
+
+JA [name]目の前の女性[line]今は‥‥いいわ。[%p]
+ZH [name]眼前的女性[line]现在‥‥不用。[%p]
+
+JA [name]たくや[line]そっか‥‥じゃ、俺が。グビグビっと。[%p]
+ZH [name]拓也[line]这样啊‥‥那么，那我就一口气喝掉了。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ぷはーっ、この1杯のために生きている![%p]
+ZH [name]拓也[line]呼啊—，喝了这１杯我又生龙活虎啦！[%p]
+
+JA [name]目の前の女性[line]何なの、あなた‥‥。[%p]
+ZH [name]眼前的女性[line]你，到底是什么‥‥。[%p]
+
+JA [name]たくや[line]人間。[%p]
+ZH [name]拓也[line]人类。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]たくやだよ‥‥君は?[%p]
+ZH [name]拓也[line]拓也‥‥你呢？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥アイリア。[%p]
+ZH [name]眼前的女性[line]‥‥艾丽娅。[%p]
+
+JA [name]たくや[line]アイリア‥‥珍しい名前だね。[%p]
+ZH [name]拓也[line]艾丽娅‥‥好少见的名字啊。[%p]
+
+JA [name]アイリア[line]私には、「たくや」という名前の方が、珍しく感じるわ。[%p]
+ZH [name]艾丽娅[line]对我来说，「拓也」这名字才比较罕见呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アイリア[line]ゴホッ‥‥ゴホゴホッ。[%p]
+ZH [name]艾丽娅[line]咳呵‥‥咳呵咳呵。[%p]
+
+JA [name]たくや[line]‥‥大丈夫か?[%p]
+ZH [name]拓也[line]‥‥不要紧吧？[%p]
+
+JA [name]アイリア[line]ええ‥‥これでは責務をまっとうできないわね。[%p]
+ZH [name]艾丽娅[line]没事‥‥但这样是没法认真履行职责的。[%p]
+
+JA [name]たくや[line]‥‥責務?[%p]
+ZH [name]拓也[line]‥‥职责？[%p]
+
+JA [name]アイリア[line]あなた、何者なの?[%p]
+ZH [name]艾丽娅[line]你是什么人呢？[%p]
+
+JA [name]たくや[line]俺は‥‥。[%p]
+ZH [name]拓也[line]我啊‥‥。[%p]
+
+JA [name]アイリア[line]‥‥‥‥。[%p]
+ZH [name]艾丽娅[line]…………。[%p]
+
+JA [name]たくや[line]‥‥俺のことを話す前に、俺にも訊かせてもらいたい事がある。[%p]
+ZH [name]拓也[line]‥‥在问我的事情之前，我也有想向你询问的事情。[%p]
+
+JA [name]アイリア[line]私に、訊きたいこと?[%p]
+ZH [name]艾丽娅[line]想问我，一些事情？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]アイリア[line]‥‥‥‥。[%p]
+ZH [name]艾丽娅[line]…………。[%p]
+
+JA [name]たくや[line]いきなり家に不法侵入するようなヤツは、信用できないかい?[%p]
+ZH [name]拓也[line]是不是对于突然非法闯入你家里的家伙无法信任呢？[%p]
+
+JA [name]アイリア[line]少なくとも、信頼には値しないわね。だけど、私を介抱してくれたことに関しては信用するわ。[%p]
+ZH [name]艾丽娅[line]至少没到信赖的程度。不过，由于你照顾过我这件事我倒是相信你。[%p]
+
+JA [name]たくや[line]理屈家だな‥‥で、俺の質問に答えてくれるのかい?[%p]
+ZH [name]拓也[line]真讲道理啊‥‥那，你愿意回答我的问题吧？[%p]
+
+JA [name]アイリア[line]いいわ。借りを作ってしまったみたいだしね‥‥私に答えられることなら。[%p]
+ZH [name]艾丽娅[line]好啊。因为感觉刚才欠了你的人情‥‥只要我能回答上来的就行。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

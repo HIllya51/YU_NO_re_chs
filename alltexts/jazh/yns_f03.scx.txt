@@ -1,0 +1,63 @@
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]歳不相応な内装だが、そう見えないところが凄いんだ。[%p]
+ZH [name]拓也[line]装饰跟年龄不相称，不过无视他人眼光这一点也挺厉害的。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]歳不相応な内装だが、そう見えないところが凄いんだ。[%p]
+ZH [name]拓也[line]装饰跟年龄不相称，不过无视他人眼光这一点也挺厉害的。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]ほっ、まだ帰ってきていないらしい‥‥。[%p]
+ZH [name]拓也[line]哦，看起来还没有回来啊……。[%p]
+
+JA [name]たくや[line]歳不相応な内装だが、そう見えないところが凄いんだ。[%p]
+ZH [name]拓也[line]装饰跟年龄不相称，不过无视他人眼光这一点也挺厉害的。[%p]
+
+JA [name]たくや[line]わっ。[%p]
+ZH [name]拓也[line]哇。[%p]
+
+JA [name]たくや[line]電話だ‥‥電話が鳴ってるぜ。[%p]
+ZH [name]拓也[line]是电话……电话响起来了呢。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]わっ。[%p]
+ZH [name]拓也[line]哇。[%p]
+
+JA プルルルル‥‥
+ZH 嘟噜噜噜噜‥‥
+
+JA プルルルル‥‥。[%p]
+ZH 嘟噜噜噜噜‥‥。[%p]
+
+JA プルルルル‥‥プルルルル‥‥。
+ZH 嘟噜噜噜噜‥‥嘟噜噜噜噜‥‥。
+
+JA [name]たくや[line]電話だ‥‥電話が鳴ってるぜ。[%p]
+ZH [name]拓也[line]是电话……电话响起来了呢。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA 
+ZH 
+

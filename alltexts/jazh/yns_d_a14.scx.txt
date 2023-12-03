@@ -1,0 +1,30 @@
+JA [name]たくや[line]行き止まりだ‥‥先には進めないぜ。[%p]
+ZH [name]拓也[line]走到尽头了……里面已经进不去了呢。[%p]
+
+JA [name]美月[line]戻る‥‥?[%p]
+ZH [name]美月[line]回去吗……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あっ‥‥ここも行き止まりだ。[%p]
+ZH [name]拓也[line]啊……这里也是尽头呢。[%p]
+
+JA [name]美月[line]ここも、先へ進めそうもないわね‥‥。[%p]
+ZH [name]美月[line]看样子，这里也没办法再深入了吧……。[%p]
+
+JA [name]たくや[line]戻るしかないか‥‥。[%p]
+ZH [name]拓也[line]也只能回去了……。[%p]
+
+JA [name]たくや[line]行き止まり、か‥‥。[%p]
+ZH [name]拓也[line]到尽头了，吗……。[%p]
+
+JA [name]美月[line]‥‥とても、向こうには行けそうもないわね。[%p]
+ZH [name]美月[line]……这样的话，是不可能向着旁边走过去呢。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA 
+ZH 
+

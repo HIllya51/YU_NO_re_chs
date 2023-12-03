@@ -1,0 +1,192 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何度来ても、いないものはいないな‥‥。[%p]
+ZH [name]拓也[line]不管来多少回，不在就是不在……。[%p]
+
+JA [name]たくや[line]わっ、真っ暗だ‥‥。[%p]
+ZH [name]拓也[line]哇，好黑啊……。[%p]
+
+JA [name]たくや[line]電気、電気‥‥。[%p]
+ZH [name]拓也[line]开灯，开灯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないか‥‥。[%p]
+ZH [name]拓也[line]果然，没人在吗……。[%p]
+
+JA [name]たくや[line]あれ‥‥なぜか戻ってきてしまった。[%p]
+ZH [name]拓也[line]咦……为什么又回来了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺‥‥研究室で何かを探していたとか、言っていたな。[%p]
+ZH [name]拓也[line]龙藏寺……提起过，要在研究室里面找什么东西。[%p]
+
+JA [name]たくや[line]気にならないと言えば嘘になる。いったい何を探していたんだろう‥‥。[%p]
+ZH [name]拓也[line]说我心里不在意肯定是骗人的。他到底是在找什么东西呢……。[%p]
+
+JA [name]たくや[line]美月さんの話だと、日記帳を探していたって話だ。[%p]
+ZH [name]拓也[line]根据美月所说，是关于寻找日记本的事。[%p]
+
+JA [name]たくや[line]日記帳か‥‥あのかすれた日記帳の切れ端‥‥。[%p]
+ZH [name]拓也[line]日记本吗……那个掉出来的日记本碎页……。[%p]
+
+JA [name]たくや[line]何かに怯えたような、そんな感じだった‥‥。[%p]
+ZH [name]拓也[line]好像是在害怕什么东西，给我这样的感觉……。[%p]
+
+JA [name]たくや[line]しかし、研究室に日記帳か‥‥妙な話だよな。[%p]
+ZH [name]拓也[line]不过，研究室里的日记本吗……真是奇怪啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いつもいつも、意味のないノックだな‥‥。)[%p]
+ZH [name]拓也[line](（一直都是这样，毫无意义的敲门……。）。)[%p]
+
+JA [name]たくや[line]誰かいたら、失礼しまーす。[%p]
+ZH [name]拓也[line]要是有谁在的话，就失礼了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり誰もいないな‥‥。[%p]
+ZH [name]拓也[line]果然没人在啊……。[%p]
+
+JA [name]たくや[line]そういえば美月さんの話だと、龍蔵寺がここで日記帳を探していたってことだ。[%p]
+ZH [name]拓也[line]这么说起来根据美月所说，龙藏寺是在这里寻找一本日记本。[%p]
+
+JA [name]たくや[line]研究室に日記帳か‥‥妙な話だよな。[%p]
+ZH [name]拓也[line]研究室里的日记本吗……真是奇怪啊。[%p]
+
+JA [name]たくや[line](いつもいつも、意味のないノックだな‥‥。)[%p]
+ZH [name]拓也[line](（一直都是这样，毫无意义的敲门……。）。)[%p]
+
+JA [name]たくや[line]誰かいたら、失礼しまーす。[%p]
+ZH [name]拓也[line]要是有谁在的话，就失礼了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり誰もいないな‥‥。[%p]
+ZH [name]拓也[line]果然没人在啊……。[%p]
+
+JA [name]たくや[line]美月さん、いるかい‥‥?[%p]
+ZH [name]拓也[line]美月，在里面吗……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]電気を点けないと何も見えないぞ。[%p]
+ZH [name]拓也[line]要是不开灯的话就什么都看不见。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まだ来ていないのか‥‥。[%p]
+ZH [name]拓也[line]还没有来吗……。[%p]
+
+JA [name]たくや[line]ま、ここにいればそのうち来るだろう‥‥少し待つか。[%p]
+ZH [name]拓也[line]算了，只要待在这里的话应该就快来了吧……再等一下。[%p]
+
+JA [name]たくや[line]それにしても‥‥。[%p]
+ZH [name]拓也[line]即便这样……。[%p]
+
+JA [name]たくや[line]龍蔵寺のことって言っていたよな‥‥いったい何だろう。[%p]
+ZH [name]拓也[line]要谈关于龙藏寺的事啊……究竟是什么事呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥美月さんは、まだ来ていないようだな。[%p]
+ZH [name]拓也[line]……美月她，好像还没有来啊。[%p]
+
+JA [name]たくや[line]そういえばまだ、夕方じゃなかったな‥‥。[%p]
+ZH [name]拓也[line]这么说来，不是还没到傍晚嘛……。[%p]
+
+JA [name]たくや[line]‥‥何か、毎回ノックするのがバカらしくなるな。[%p]
+ZH [name]拓也[line]……什么嘛，每次都要敲门，简直跟个白痴一样啊。[%p]
+
+JA [name]たくや[line]相変わらず、誰もいないぜ‥‥。[%p]
+ZH [name]拓也[line]还是老样子，没有人在呢……。[%p]
+
+JA [name]声[line]《はーい。》[%p]
+ZH [name]声音[line]《是～。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](誰かいるのか?)[%p]
+ZH [name]拓也[line](（有谁在里面吗？）)[%p]
+
+JA [name]たくや[line]失礼します。[%p]
+ZH [name]拓也[line]我失陪了。[%p]
+
+JA [name]たくや[line]おいっ。[%p]
+ZH [name]拓也[line]喂。[%p]
+
+JA [name]結城[line]わっ、ごめんなさい![%p]
+ZH [name]结城[line]哇，对不起！[%p]
+
+JA [name]たくや[line]‥‥何だよ、それは。[%p]
+ZH [name]拓也[line]……你这是什么意思。[%p]
+
+JA [name]結城[line]だって、オヤビンがそういう顔をしているとき、たいてい僕をパコッて。[%p]
+ZH [name]结城[line]因为，头目你露出这种表情的时候，大概就是要敲我的时候。[%p]
+
+JA [name]たくや[line]誰だ、オヤビンってのは。それよりも、結城。[%p]
+ZH [name]拓也[line]那是谁，头目什么的。比起这个，结城。[%p]
+
+JA [name]結城[line]すみません、失礼します![%p]
+ZH [name]结城[line]对不起，失陪了！[%p]
+
+JA [name]たくや[line]おい、待てよ![%p]
+ZH [name]拓也[line]喂，等一下！[%p]
+
+JA [name]結城[line]だって、お叱りなんでしょ?[%p]
+ZH [name]结城[line]可是，你是要训斥我吧？[%p]
+
+JA [name]たくや[line]お、怒ってなんか‥‥ははは。[%p]
+ZH [name]拓也[line]生，生气什么的……哈哈哈。[%p]
+
+JA [name]結城[line]うわぁ、顔がひきつってて、恐いっす〜っ![%p]
+ZH [name]结城[line]JF:哇，脸抽筋，好可怕~！[%p]
+
+JA [name]結城[line]やっぱり、パコッて![%p]
+ZH [name]结城[line]JF:果然，帕科！[%p]
+
+JA [name]たくや[line]いいから聞け。[%p]
+ZH [name]拓也[line]给我老实听着。[%p]
+
+JA [name]結城[line]はい。[%p]
+ZH [name]结城[line]是啊。[%p]
+
+JA [name]たくや[line]失礼しまーす。[%p]
+ZH [name]拓也[line]失礼了——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないか‥‥。[%p]
+ZH [name]拓也[line]果然，没人在吗……。[%p]
+
+JA [name]たくや[line](ま、人はいないと思うが‥‥いちおう礼儀ってヤツだな。)[%p]
+ZH [name]拓也[line](（算了，虽然我想应该没人在……姑且也算是个礼仪吧。）。)[%p]
+
+JA [name]たくや[line]‥‥失礼しまーす。[%p]
+ZH [name]拓也[line]……失礼了——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないか‥‥。[%p]
+ZH [name]拓也[line]没有人吗……。[%p]
+
+JA [name]たくや[line]亜由美さん、どこにいるんだ?[%p]
+ZH [name]拓也[line]亚由美小姐，到底在哪里呢？[%p]
+
+JA 
+ZH 
+

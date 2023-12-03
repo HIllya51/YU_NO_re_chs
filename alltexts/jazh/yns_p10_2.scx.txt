@@ -1,0 +1,81 @@
+JA [name]たくや[line]今日もいい天気だな‥‥。[%p]
+ZH [name]拓也[line]今天天气也不错‥‥。[%p]
+
+JA [name]たくや[line]ところで俺は、何で屋上に来たんだろう‥‥?[%p]
+ZH [name]拓也[line]顺带地，我为什么要到楼顶上来啊‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]案の定、誰もいないな‥‥。[%p]
+ZH [name]拓也[line]不出所料，确实没人在‥‥。[%p]
+
+JA [name]たくや[line]相変わらず屋上は気持ちがいいな‥‥。[%p]
+ZH [name]拓也[line]楼顶上还是一如既往的舒服‥‥。[%p]
+
+JA [name]たくや[line]海の匂いが漂ってくる‥‥あの手すり越しに海が見えるんだ。[%p]
+ZH [name]拓也[line]海的味道一个劲儿飘过来‥‥越过那里的栏杆就能看到海了。[%p]
+
+JA [name]たくや[line]もう夏休みのせいかな‥‥。[%p]
+ZH [name]拓也[line]因为已经到了暑假吗‥‥。[%p]
+
+JA [name]たくや[line]みんな、さっさと帰ってしまったみたいだぜ。[%p]
+ZH [name]拓也[line]看来大家都很早地回家了。[%p]
+
+JA [name]たくや[line]そうだな、手すり越しに海が見えるんだ。[%p]
+ZH [name]拓也[line]对啊，越过栏杆就能看到海了。[%p]
+
+JA [name]たくや[line]見てみるかな‥‥。[%p]
+ZH [name]拓也[line]去看一下吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]相変わらず工事中のようだな‥‥。[%p]
+ZH [name]拓也[line]工程一如既往地在进行‥‥。[%p]
+
+JA [name]たくや[line]ちなみに、目の前のとんがった岩は、三角山ってヤツだ。[%p]
+ZH [name]拓也[line]顺便，眼前那块尖尖的大石头，就是叫三角山的那家伙。[%p]
+
+JA [name]たくや[line]もう1回見るのか?[%p]
+ZH [name]拓也[line]再去看１回吗？[%p]
+
+JA [name]たくや[line]何度見ても、同じだと思うが‥‥。[%p]
+ZH [name]拓也[line]不论看几回，都是一样吧‥‥。[%p]
+
+JA [name]たくや[line]やっぱり、同じだったな。[%p]
+ZH [name]拓也[line]果然，还是这副样子。[%p]
+
+JA [name]たくや[line]また見るのか?[%p]
+ZH [name]拓也[line]还要看吗？[%p]
+
+JA [name]たくや[line]同じだと思うんだが‥‥。[%p]
+ZH [name]拓也[line]我觉得还是一样的‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]どわわわっ!!![%p]
+ZH [name]拓也[line]呜哇哇哇！！！[%p]
+
+JA [name]たくや[line]何て空が素敵なんだ‥‥。[%p]
+ZH [name]拓也[line]多美的天空啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]すまんな‥‥。[%p]
+ZH [name]拓也[line]对不住了‥‥。[%p]
+
+JA [name]たくや[line]だから同じなんだってば。[%p]
+ZH [name]拓也[line]所以说还是一样啊。[%p]
+
+JA [name]たくや[line]そうだよ、何で俺は屋上に来たんだろうな‥‥。[%p]
+ZH [name]拓也[line]对啊，为何我要到楼顶上来呢‥‥。[%p]
+
+JA [name]たくや[line]さっさと下に降りようぜ。[%p]
+ZH [name]拓也[line]快点下楼去吧。[%p]
+
+JA 
+ZH 
+

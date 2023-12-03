@@ -1,0 +1,4 @@
+[name]Takuya[line]There's no real reason to knock.[%p]
+[name]Takuya[line]But I can't help being polite.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]It's been a long time since I've been in Ayumi's room.[%p]

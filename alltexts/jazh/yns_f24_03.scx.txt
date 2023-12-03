@@ -1,0 +1,330 @@
+JA [name]香織[line]どう? たくやだったらどこから侵入する?[%p]
+ZH [name]香织[line]怎么样？　拓也的话要从哪里侵入呢？[%p]
+
+JA [name]たくや[line]そうだな、俺だったら‥‥。[%p]
+ZH [name]拓也[line]对了，如果是我的话……。[%p]
+
+JA [name]たくや[line]電灯から侵入できる訳ないだろう。[%p]
+ZH [name]拓也[line]不可能从电灯侵入进去吧。[%p]
+
+JA [name]たくや[line]この電灯から‥‥。[%p]
+ZH [name]拓也[line]从这个电灯……。[%p]
+
+JA [name]香織[line]電灯から?[%p]
+ZH [name]香织[line]从电灯？[%p]
+
+JA [name]たくや[line]‥‥オホン! 次だ。[%p]
+ZH [name]拓也[line]……嗯哼。　下一个。[%p]
+
+JA [name]たくや[line]壁なんか登る必要はないぞ‥‥。[%p]
+ZH [name]拓也[line]没有爬墙的必要吧……。[%p]
+
+JA [name]たくや[line]侵入するとしたら‥‥。[%p]
+ZH [name]拓也[line]要是想侵入的话……。[%p]
+
+JA [name]たくや[line]フフン。[%p]
+ZH [name]拓也[line]哼哼。[%p]
+
+JA [name]香織[line]あら、自信ありそうじゃない。[%p]
+ZH [name]香织[line]咦，似乎挺自信的嘛。[%p]
+
+JA [name]たくや[line]カベだな、これは。[%p]
+ZH [name]拓也[line]是墙壁，这个。[%p]
+
+JA [name]香織[line]壁ね。[%p]
+ZH [name]香织[line]墙壁。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]‥‥‥‥。[%p]
+ZH [name]香织[line]…………。[%p]
+
+JA [name]たくや[line]‥‥次だ。[%p]
+ZH [name]拓也[line]……下一个。[%p]
+
+JA [name]たくや[line]電灯の下の部分だな‥‥言っておくが、全く関係ないぞ。[%p]
+ZH [name]拓也[line]电灯的下半部分……，先说好哦。完全没有关系。[%p]
+
+JA [name]たくや[line]電灯の土台‥‥かな。[%p]
+ZH [name]拓也[line]电灯的灯座……吧。[%p]
+
+JA [name]香織[line]‥‥それが、侵入ルート?[%p]
+ZH [name]香织[line]……那里，是侵入路线？[%p]
+
+JA [name]たくや[line]そんな訳ないだろう。単に確認しただけだよ。[%p]
+ZH [name]拓也[line]不可能会有这种事吧。我只是确认一下而已。[%p]
+
+JA [name]香織[line]‥‥大丈夫かしら。[%p]
+ZH [name]香织[line]……没问题吧。[%p]
+
+JA [name]たくや[line]侵入ルートは‥‥ええと‥‥。[%p]
+ZH [name]拓也[line]侵入路线是……那个……。[%p]
+
+JA [name]たくや[line]ジオ・テクニクス‥‥と書いてあるぜ。[%p]
+ZH [name]拓也[line]Ｇｅｏ　ｔｅｃｈｎｉｃｓ……写着这些字。[%p]
+
+JA [name]たくや[line]無論、侵入するべき場所は、看板じゃない。[%p]
+ZH [name]拓也[line]当然，能够侵入的地方，不是招牌。[%p]
+
+JA [name]たくや[line]『ジオ・テクニクスジャパン地質工学研究所』‥‥と書いてある。[%p]
+ZH [name]拓也[line]『Ｇｅｏ　ｔｅｃｈｎｉｃｓＪａｐａｎ地质工学研究所』……写着这些字。[%p]
+
+JA [name]香織[line]‥‥で?[%p]
+ZH [name]香织[line]‥‥你想说的是？[%p]
+
+JA [name]たくや[line]だから、看板だよ。[%p]
+ZH [name]拓也[line]所以，这是招牌。[%p]
+
+JA [name]香織[line]うふふーん、降参?[%p]
+ZH [name]香织[line]嗯哼哼，认输了？[%p]
+
+JA [name]たくや[line]なんの、まだまだ。[%p]
+ZH [name]拓也[line]什么，还早着呢。[%p]
+
+JA [name]たくや[line]踏切を越えて‥‥どこへ行くんだ?[%p]
+ZH [name]拓也[line]越过道口之后……要去哪里呢？[%p]
+
+JA [name]たくや[line]踏切を越えて‥‥。[%p]
+ZH [name]拓也[line]越过道口之后……。[%p]
+
+JA [name]香織[line]あっ、いい線行ってるわ。踏切を越えて‥‥どこへ行くの?[%p]
+ZH [name]香织[line]啊、路线走得很好呢。越过道口之后……要去哪里呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]香織さんの言う通りだ‥‥守衛所には、誰もいない。[%p]
+ZH [name]拓也[line]就如香织小姐所言……保安室里面，谁都不在。[%p]
+
+JA [name]香織[line]フフ‥‥案の定、誰もいないみたいね。[%p]
+ZH [name]香织[line]呵呵……不出所料，看样子谁都不在呢。[%p]
+
+JA [name]たくや[line]本当だ‥‥。[%p]
+ZH [name]拓也[line]真的……。[%p]
+
+JA [name]香織[line]恐らく中で、防犯会議でもしているんでしょう。バカね‥‥ウフフ。[%p]
+ZH [name]香织[line]恐怕，里面正在开防范会议吧。真傻呢……嗯呵呵。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]アンテナだよ‥‥関係ないぞ。[%p]
+ZH [name]拓也[line]是天线啊……没什么关系。[%p]
+
+JA [name]たくや[line]俺は電波になって、ここから侵入する![%p]
+ZH [name]拓也[line]我要变成电波，从这里侵入进去！[%p]
+
+JA [name]香織[line]やる気ある?[%p]
+ZH [name]香织[line]你有认真想吗？[%p]
+
+JA [name]たくや[line]ある。もうちょっと待ってくれ。[%p]
+ZH [name]拓也[line]有啊。请再稍等一下。[%p]
+
+JA [name]たくや[line](侵入する場所‥‥俺だったら‥‥。)[%p]
+ZH [name]拓也[line](（侵入的场所……如果是我的话……。）。)[%p]
+
+JA [name]たくや[line]コンドームなんて言わせるなよ。[%p]
+ZH [name]拓也[line]说了保险套什么的。[%p]
+
+JA [name]香織[line]言ってるわよ‥‥。[%p]
+ZH [name]香织[line]说了啊……。[%p]
+
+JA [name]たくや[line]ドームだ! そうだ、ドームだ!![%p]
+ZH [name]拓也[line]圆顶屋！　对了，是圆顶屋！！[%p]
+
+JA [name]香織[line]ドームがどうかした?[%p]
+ZH [name]香织[line]圆顶屋怎么了？[%p]
+
+JA [name]たくや[line]ほら、あのドームの色、紺色に見えないか?[%p]
+ZH [name]拓也[line]你看，那个圆顶屋的颜色，没有看到藏青色吗？[%p]
+
+JA [name]香織[line]紺色?[%p]
+ZH [name]香织[line]藏青色？[%p]
+
+JA [name]たくや[line]そう。コン色のドーム、即ち![%p]
+ZH [name]拓也[line]是啊。藏青色的圆顶屋，就是那个！[%p]
+
+JA [name]香織[line]‥‥‥‥。[%p]
+ZH [name]香织[line]…………。[%p]
+
+JA [name]たくや[line]そんな呆れた顔をしないでくれ。わかってるよ、ここじゃないってのは。[%p]
+ZH [name]拓也[line]不要露出这种发呆的表情。我知道的，不是在这里。[%p]
+
+JA [name]香織[line]フフ‥‥たくやにわかるかしら。[%p]
+ZH [name]香织[line]呵呵……拓也你明白吗。[%p]
+
+JA [name]たくや[line]あの建物の中に入るのか‥‥。[%p]
+ZH [name]拓也[line]进到那个建筑立面去吗……。[%p]
+
+JA [name]たくや[line]もしかして‥‥。[%p]
+ZH [name]拓也[line]莫非……。[%p]
+
+JA [name]香織[line]あの建物の中に侵入するのよ‥‥どうするか、わかる?[%p]
+ZH [name]香织[line]侵入到那个建筑的里面去……怎么做，明白吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](今は守衛たちはいない‥‥ってことは‥‥。)[%p]
+ZH [name]拓也[line](（现在保安们都不在……也就是说……。）。)[%p]
+
+JA [name]たくや[line]この坂道を登っていって‥‥。[%p]
+ZH [name]拓也[line]爬上这个坡道……。[%p]
+
+JA [name]香織[line]どうするの?[%p]
+ZH [name]香织[line]怎么办？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]そう、踏切を越えて、その坂道を登っていって‥‥?[%p]
+ZH [name]香织[line]对了，越过道口之后，再爬上那个坡道……？[%p]
+
+JA [name]たくや[line]登って行って‥‥。[%p]
+ZH [name]拓也[line]去爬吧……。[%p]
+
+JA [name]たくや[line](まさか‥‥。)[%p]
+ZH [name]拓也[line](（难道是……。）。)[%p]
+
+JA [name]たくや[line]立て札を見たって、侵入場所は描いてないぜ‥‥。[%p]
+ZH [name]拓也[line]看着公告板，也不会有画着侵入场所吧……。[%p]
+
+JA [name]たくや[line]敷地内のマップみたいだ‥‥。[%p]
+ZH [name]拓也[line]像是建筑地图之类的东西……。[%p]
+
+JA [name]香織[line]そんなのを見ても、秘密の通路なんかは描いてないわよ。[%p]
+ZH [name]香织[line]就算你看着那里，也不会画着秘密通道什么的哦。[%p]
+
+JA [name]たくや[line]わかってるよ‥‥。[%p]
+ZH [name]拓也[line]俺知道啊……。[%p]
+
+JA [name]たくや[line]裏口じゃなかった‥‥ってことは‥‥。[%p]
+ZH [name]拓也[line]不是后面……这样子……。[%p]
+
+JA [name]たくや[line]あそこの木に紛れて、裏口から侵入する![%p]
+ZH [name]拓也[line]藏在那边的那棵树上，从后面侵入！[%p]
+
+JA [name]香織[line]ふぅん‥‥着眼は悪くないわね。[%p]
+ZH [name]香织[line]哼……着眼点还不错呢。[%p]
+
+JA [name]たくや[line]正解だな?[%p]
+ZH [name]拓也[line]是正解吗？[%p]
+
+JA [name]香織[line]昨夜まではね。[%p]
+ZH [name]香织[line]到昨晚还是的。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]香織[line]私、昨夜は裏口から侵入したのよ。[%p]
+ZH [name]香织[line]我呢，昨晚就是从后面侵入的哦。[%p]
+
+JA [name]たくや[line]昨夜は‥‥裏口から?[%p]
+ZH [name]拓也[line]昨晚……从后门？[%p]
+
+JA [name]香織[line]そっ。でも今晩はさすがに、あそこは警戒が厳しいでしょうねぇ。[%p]
+ZH [name]香织[line]是啊。不过今天晚上，那边的警戒一定会更森严了吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]フフ‥‥降参?[%p]
+ZH [name]香织[line]呵呵……认输了？[%p]
+
+JA [name]たくや[line]なんの。[%p]
+ZH [name]拓也[line]没有。[%p]
+
+JA [name]たくや[line](裏口でないとすると‥‥。)[%p]
+ZH [name]拓也[line](（如果不是后门的话……。）。)[%p]
+
+JA [name]たくや[line]俺は鳥じゃないんだ‥‥空からは無理だぞ。[%p]
+ZH [name]拓也[line]我又不是鸟……空中是没办法的。[%p]
+
+JA [name]たくや[line]そうだ、空から侵入するんだ![%p]
+ZH [name]拓也[line]对了，可以从空中侵入啊！[%p]
+
+JA [name]香織[line]へえ、どうやって?[%p]
+ZH [name]香织[line]诶，怎么做？[%p]
+
+JA [name]たくや[line]だから、空から。[%p]
+ZH [name]拓也[line]都说了，从空中。[%p]
+
+JA [name]香織[line]どうやって?[%p]
+ZH [name]香织[line]怎么做？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]‥‥‥‥。[%p]
+ZH [name]香织[line]…………。[%p]
+
+JA [name]たくや[line]次だ、次![%p]
+ZH [name]拓也[line]下，下一个！[%p]
+
+JA [name]たくや[line]ここからは‥‥中に入れないしな。[%p]
+ZH [name]拓也[line]从这里……进不去啊。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]香織[line]あなたね、そんなところから侵入するつもり?[%p]
+ZH [name]香织[line]我说你啊，打算从那种地方侵入吗？[%p]
+
+JA [name]たくや[line]わかってるよ‥‥ここじゃない。[%p]
+ZH [name]拓也[line]知道了……不是这里。[%p]
+
+JA [name]香織[line]本気?[%p]
+ZH [name]香织[line]真的？[%p]
+
+JA [name]たくや[line]‥‥ああ、正面玄関から入る。[%p]
+ZH [name]拓也[line]……啊啊，正面从玄关进去。[%p]
+
+JA [name]香織[line]ウフフーン、正解![%p]
+ZH [name]香织[line]嗯哼哼——，正解！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]私たちには、通常と、そしてブルーの2種類のセキュリティカードがあるわ。[%p]
+ZH [name]香织[line]我们手上，有通常，以及蓝色的２中准入卡。[%p]
+
+JA [name]たくや[line]そうだった。[%p]
+ZH [name]拓也[line]是的。[%p]
+
+JA [name]香織[line]わざわざ、不審な人物のフリをして、裏口から入る必要などないわけ。でしょう?[%p]
+ZH [name]香织[line]没有必要，特意以可疑人物的样子，从后门进去。是吧？[%p]
+
+JA [name]たくや[line]確かにそうかもしれない‥‥。[%p]
+ZH [name]拓也[line]可能确实是这样……。[%p]
+
+JA [name]香織[line]この会社は、良くも悪くもオートメーション化をしているインテリジェントビルよ。電子の目がいかに節穴かをわからせてあげるわ。[%p]
+ZH [name]香织[line]这间公司，无论好坏姑且也算是自动化操作的智能建筑啊。电子眼再怎么有眼无珠也不会让我们这么通过吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]さっ、堂々と正面玄関から入りましょう。受付には、電子錠しか私たちを阻むのはないわ。[%p]
+ZH [name]香织[line]来，堂堂正正地正面从玄关进去吧。接待处那里，除了电子锁没有别的能阻止我们。[%p]
+
+JA [name]たくや[line](いよいよ、か‥‥。)[%p]
+ZH [name]拓也[line](（马上就要，吗……。）。)[%p]
+
+JA [name]たくや[line](中では、いったい何が行われているんだろう‥‥。)[%p]
+ZH [name]拓也[line](（到里面，到底要做什么事呢……。）。)[%p]
+
+JA [name]香織[line]‥‥まさか、正面玄関から入るつもりかしら。[%p]
+ZH [name]香织[line]……难道，你打算正面从玄关进去吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]あなたねぇ、やる気ある?[%p]
+ZH [name]香织[line]我说你啊，有干劲的吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

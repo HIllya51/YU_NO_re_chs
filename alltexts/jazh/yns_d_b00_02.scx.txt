@@ -1,0 +1,117 @@
+JA [name]結城[line]どうするんですか、これから‥‥。[%p]
+ZH [name]结城[line]该怎么办好呢，接下来……。[%p]
+
+JA [name]たくや[line]どうするって‥‥。[%p]
+ZH [name]拓也[line]什么怎么办……。[%p]
+
+JA [name]たくや[line](どうすりゃいいんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（到底该怎么办好啊……。）。)[%p]
+
+JA [name]たくや[line](俺が誰かに訊きたいぜ‥‥。)[%p]
+ZH [name]拓也[line](（我真想找个人来问问呢……。）。)[%p]
+
+JA [name]たくや[line]堅くて重い岩だ‥‥。[%p]
+ZH [name]拓也[line]坚固厚重的岩石……。[%p]
+
+JA [name]結城[line]無理ですよ‥‥。[%p]
+ZH [name]结城[line]不行啊……。[%p]
+
+JA [name]たくや[line]ダメだな‥‥これは。俺ごときじゃ、ビクともしないぜ。[%p]
+ZH [name]拓也[line]不行啊……这样子。像我这样子推的话，完全纹丝不动呢。[%p]
+
+JA [name]たくや[line]美月さんはどうしたんだろう‥‥外にいるんだろうか?[%p]
+ZH [name]拓也[line]美月怎么样了呢……应该还在外面吧？[%p]
+
+JA [name]たくや[line]おーーーーーいっっ!![%p]
+ZH [name]拓也[line]喂————————！！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]みーつーきーさーーーーーーんっ!!![%p]
+ZH [name]拓也[line]美—月—小—姐————————！！！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]結城[line]‥‥誰かを呼びに行ったのかも知れませんね。[%p]
+ZH [name]结城[line]……说不定已经去找人过来了吧。[%p]
+
+JA [name]たくや[line]かもな。[%p]
+ZH [name]拓也[line]也许吧。[%p]
+
+JA [name]結城[line]あの、差し出がましいようですが、提案が1つ。[%p]
+ZH [name]结城[line]那个，可能有点多管闲事了，不过我有个提案。[%p]
+
+JA [name]たくや[line]言ってみろよ。[%p]
+ZH [name]拓也[line]你说说看吧。[%p]
+
+JA [name]結城[line]ここで待つというのは如何でしょうか。[%p]
+ZH [name]结城[line]你觉得我们就待在这里等怎么样呢。[%p]
+
+JA [name]たくや[line]澪を放っておいてか?[%p]
+ZH [name]拓也[line]就这样丢着澪不管吗？[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]たくや[line]何だったら結城、お前が1人で残ってもいいぜ。[%p]
+ZH [name]拓也[line]如果有什么事的话，结城，你１个人留下来也行。[%p]
+
+JA [name]結城[line]行きます。僕のせいなんですから‥‥。[%p]
+ZH [name]结城[line]我会走的。都是因为我的缘故啊……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥しょうがないな。[%p]
+ZH [name]拓也[line]呼……真拿你没办法啊。[%p]
+
+JA [name]たくや[line]今はこの岩を見ているときだろうか‥‥?[%p]
+ZH [name]拓也[line]现在是盯住这块岩石看的时候吗……？[%p]
+
+JA [name]たくや[line]ゴツゴツした岩だ‥‥。[%p]
+ZH [name]拓也[line]一块凹凸不平的岩石……。[%p]
+
+JA [name]結城[line]オヤビンの顔もゴツゴツ‥‥そ、そんなに恐い顔をしないで下さい。[%p]
+ZH [name]结城[line]头目的脸也是凹凸不平的……请，请不要露出那么可怕的表情。[%p]
+
+JA [name]たくや[line]そうだな、戻るしかないか。[%p]
+ZH [name]拓也[line]对啊，只能回去了吧。[%p]
+
+JA [name]結城[line]はい‥‥。[%p]
+ZH [name]结城[line]好的……。[%p]
+
+JA [name]結城[line]中に戻るんですね‥‥?[%p]
+ZH [name]结城[line]要回里面去吧……？[%p]
+
+JA [name]たくや[line]だから、アイテムを使うときじゃないってば。[%p]
+ZH [name]拓也[line]所以说，现在不是使用道具的时候啊。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

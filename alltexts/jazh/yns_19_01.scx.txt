@@ -1,0 +1,99 @@
+JA [name]たくや[line]シティホテルの前だ。[%p]
+ZH [name]拓也[line]城市宾馆的前面。[%p]
+
+JA [name]たくや[line]絵里子先生はいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]绘里子老师好像不在……。[%p]
+
+JA [name]たくや[line]絵里子先生を見失うわ、龍蔵寺はどこかへ行くわ‥‥。[%p]
+ZH [name]拓也[line]绘里子老师走丢了，龙藏寺也不知去了哪里……。[%p]
+
+JA [name]たくや[line]おまけに、亜由美さんはあのバカ野郎と‥‥。[%p]
+ZH [name]拓也[line]还有，亚由美小姐和那个混帐家伙……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]だから電柱だよ‥‥。[%p]
+ZH [name]拓也[line]所以说这是电线杆……。[%p]
+
+JA [name]たくや[line]登らないぞ。[%p]
+ZH [name]拓也[line]爬不上去啊。[%p]
+
+JA [name]たくや[line]電柱でござる。[%p]
+ZH [name]拓也[line]电线杆是也。[%p]
+
+JA [name]たくや[line]「忠臣蔵」は、俺の好きなドラマの一つなんだ。[%p]
+ZH [name]拓也[line]［忠臣藏］，是我喜欢的一部电视剧。[%p]
+
+JA [name]たくや[line]暖かい光で、意外に悪くない雰囲気だ‥‥。[%p]
+ZH [name]拓也[line]暖暖的光线，还真是不错的气氛呢……。[%p]
+
+JA [name]たくや[line]このあたりの路上を照らすライトだな。[%p]
+ZH [name]拓也[line]这是照亮这一带道路的路灯。[%p]
+
+JA [name]たくや[line]言っておくが、持ってかえれないぞ。[%p]
+ZH [name]拓也[line]先说好哦，这个我可带不回去。[%p]
+
+JA [name]たくや[line]ホテルの概要や、簡単な地図が描いてあるようだ‥‥。[%p]
+ZH [name]拓也[line]似乎画着宾馆的概要，还有简单地图的样子……。[%p]
+
+JA [name]たくや[line]ホテルの案内板ってやつだろう。[%p]
+ZH [name]拓也[line]也就是所谓的宾馆标牌吧。[%p]
+
+JA [name]たくや[line]手入れがよく行き届いているな‥‥。[%p]
+ZH [name]拓也[line]修剪得相当周到啊……。[%p]
+
+JA [name]たくや[line]見ていて悪くない気分だ。[%p]
+ZH [name]拓也[line]看上去感觉不错呢。[%p]
+
+JA [name]たくや[line]植え込みってヤツだな‥‥。[%p]
+ZH [name]拓也[line]那里是花丛……。[%p]
+
+JA [name]たくや[line]おい‥‥無茶言うなって。[%p]
+ZH [name]拓也[line]喂……别说些无聊的话了。[%p]
+
+JA [name]たくや[line]だから、無理だ。[%p]
+ZH [name]拓也[line]所以说，太勉强了。[%p]
+
+JA [name]たくや[line]持っていくには重機が必要だぞ。[%p]
+ZH [name]拓也[line]JF:带去的话需要重机哦。[%p]
+
+JA [name]たくや[line]ホテルの看板だな。[%p]
+ZH [name]拓也[line]JF:是酒店的招牌啊。[%p]
+
+JA [name]たくや[line]さすがにあれは持って帰れないぞ。[%p]
+ZH [name]拓也[line]JF:真不愧是那个不能带回去啊。[%p]
+
+JA [name]たくや[line]境町で、一番大きなシティホテルだ‥‥。[%p]
+ZH [name]拓也[line]这里是境町最大的城市宾馆……。[%p]
+
+JA [name]たくや[line]ホテルの名前は、ミレニアムホテル。[%p]
+ZH [name]拓也[line]JF:酒店的名字是千年酒店。[%p]
+
+JA [name]たくや[line]なんとも大袈裟な名前だな。[%p]
+ZH [name]拓也[line]JF:真是个夸张的名字啊。[%p]
+
+JA [name]たくや[line]でっかいホテルだよな‥‥。[%p]
+ZH [name]拓也[line]好大的宾馆啊……。[%p]
+
+JA [name]たくや[line]ここ境町の中でも、一番大きな宿泊所なんだ。[%p]
+ZH [name]拓也[line]在境町之中，这也是最大的休息处了。[%p]
+
+JA [name]たくや[line]‥‥言っておくが、ラブホテルじゃないぞ。[%p]
+ZH [name]拓也[line]……话先说好，这不是爱情宾馆哦。[%p]
+
+JA [name]たくや[line]前はお好み焼きだった気がするぞ。[%p]
+ZH [name]拓也[line]JF:我觉得以前是御好烧。[%p]
+
+JA [name]たくや[line]もんじゃ焼きの看板だ。[%p]
+ZH [name]拓也[line]JF:文字烧的招牌。[%p]
+
+JA [name]たくや[line]そうだな‥‥ここでこうしていても、しょうがないぜ。[%p]
+ZH [name]拓也[line]对了……就算呆在这里，也没什么用呢。[%p]
+
+JA [name]たくや[line]セントラル街へ戻ろう‥‥。[%p]
+ZH [name]拓也[line]回中心街去吧……。[%p]
+
+JA 
+ZH 
+

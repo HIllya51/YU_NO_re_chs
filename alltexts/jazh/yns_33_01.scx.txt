@@ -1,0 +1,123 @@
+JA [name]たくや[line]書斎のドアの前だ‥‥。[%p]
+ZH [name]拓也[line]这是书房的门口……。[%p]
+
+JA [name]たくや[line]カベに何か思い入れでもあるのか?[%p]
+ZH [name]拓也[line]墙壁有什么需要沉思的吗？[%p]
+
+JA [name]たくや[line]書斎の前に来たんだ。何かすることがあるだろう?[%p]
+ZH [name]拓也[line]来到了书房的门口。有什么事要做吗？[%p]
+
+JA [name]たくや[line]2階の廊下のカベだ‥‥。[%p]
+ZH [name]拓也[line]这是２楼走廊的墙壁……。[%p]
+
+JA [name]たくや[line]オヤジの書斎だからな、いちおうプレートの文章は合っていることになる。[%p]
+ZH [name]拓也[line]因为是父亲的书房，所以板上写的字姑且也算是合适。[%p]
+
+JA [name]たくや[line]「オヤジの書斎」とかいてある‥‥。[%p]
+ZH [name]拓也[line]上面写着［父亲的书房］……。[%p]
+
+JA [name]たくや[line]自分のことをオヤジって言うヤツがあるかよ‥‥まったく。[%p]
+ZH [name]拓也[line]居然还有自己给自己写成父亲的家伙……真是的。[%p]
+
+JA [name]たくや[line]オヤジの書斎のドアだ‥‥。[%p]
+ZH [name]拓也[line]老头子的书房门……。[%p]
+
+JA [name]たくや[line]今はカギが開いてる‥‥。[%p]
+ZH [name]拓也[line]现在钥匙已经开了……。[%p]
+
+JA [name]たくや[line]ここでボーっと突っ立ってるのも、間抜けだよな。[%p]
+ZH [name]拓也[line]这样傻傻地站在这里，看起来也太蠢了吧。[%p]
+
+JA [name]たくや[line]オヤジの書斎の前だぜ‥‥カギがないと中には入れない。[%p]
+ZH [name]拓也[line]JF:在爸爸的书房前……没有钥匙就不能进去。[%p]
+
+JA [name]たくや[line]どうしたものかな‥‥。[%p]
+ZH [name]拓也[line]怎么了呢……。[%p]
+
+JA [name]たくや[line]ノックをしてどうするんだ。[%p]
+ZH [name]拓也[line]敲门是闹哪样啊。[%p]
+
+JA [name]たくや[line]中に入るなら、「開ける」だぜ。[%p]
+ZH [name]拓也[line]要进去的话，应该是要［打开］。[%p]
+
+JA [name]たくや[line]コンコン。[%p]
+ZH [name]拓也[line]哐哐。[%p]
+
+JA [name]たくや[line]と口で言ってもしょうがない‥‥誰もいないんだよ![%p]
+ZH [name]拓也[line]就算嘴里这么说着也毫无作用……现在谁都不在啊！[%p]
+
+JA [name]たくや[line]何度ノックしても、いないものはいないぜ‥‥。[%p]
+ZH [name]拓也[line]不管敲多少下，没有人就是没有人呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]な?[%p]
+ZH [name]拓也[line]啥？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。
+ZH [name]拓也[line]…………。
+
+JA [name]たくや[line]いないよな、もちろん‥‥。[%p]
+ZH [name]拓也[line]没有人啊，当然的了……。[%p]
+
+JA [name]たくや[line]中へ入るんだな‥‥?[%p]
+ZH [name]拓也[line]要进里面去吗……？[%p]
+
+JA [name]たくや[line]オヤジの書斎だ‥‥。[%p]
+ZH [name]拓也[line]老头子的书房……。[%p]
+
+JA [name]たくや[line]中へ入るんだな‥‥?[%p]
+ZH [name]拓也[line]要进里面去吗……？[%p]
+
+JA [name]たくや[line]ええと、スイッチ、スイッチと‥‥。[%p]
+ZH [name]拓也[line]那个，开关，开关在……。[%p]
+
+JA [name]たくや[line]見慣れたオヤジの書斎だ‥‥入ると、よくしかられたっけ。[%p]
+ZH [name]拓也[line]看惯了的老头子的书房……以前要是进去，经常会被骂。[%p]
+
+JA [name]たくや[line]相変わらずゴチャゴチャとしているな‥‥亜由美さん、まだ整理をしていないみたいだ。[%p]
+ZH [name]拓也[line]还是一如既往地乱七八糟啊……亚由美小姐，貌似还没有整理过。[%p]
+
+JA [name]たくや[line]どうするんだ‥‥?[%p]
+ZH [name]拓也[line]怎么做呢‥‥？[%p]
+
+JA [name]たくや[line]ダメだ‥‥鍵が掛かっていて開かない。[%p]
+ZH [name]拓也[line]不行……已经锁住了打不开。[%p]
+
+JA [name]たくや[line]書斎のカギがあればな‥‥。[%p]
+ZH [name]拓也[line]要是有书房钥匙的话……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]カギが掛かっているぜ‥‥。[%p]
+ZH [name]拓也[line]还锁着呢……。[%p]
+
+JA [name]たくや[line]‥‥リビングへ戻るのか?[%p]
+ZH [name]拓也[line]……回客厅去吗？[%p]
+
+JA [name]たくや[line]そうだな‥‥ここでこうしていてもしょうがない。[%p]
+ZH [name]拓也[line]是啊‥‥在这里呆着啥也不会发生啊。[%p]
+
+JA [name]たくや[line]いったんリビングへ戻ろう‥‥。[%p]
+ZH [name]拓也[line]还是再回一趟客厅吧……。[%p]
+
+JA [name]たくや[line]もう鍵は開いているぜ‥‥。[%p]
+ZH [name]拓也[line]门锁已经打开了……。[%p]
+
+JA [name]たくや[line]そうだ、この書斎のカギを使えば、或いは‥‥。[%p]
+ZH [name]拓也[line]对了，要是使用这个书房钥匙的话，或许能……。[%p]
+
+JA [name]たくや[line]鍵が開いた‥‥開いたぞ![%p]
+ZH [name]拓也[line]门锁开了……打开了呢！[%p]
+
+JA 
+ZH 
+

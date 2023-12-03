@@ -1,0 +1,1395 @@
+JA [name]たくや[line]君は‥‥だれ?[%p]
+ZH [name]拓也[line]JF:你是谁？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line](誰だ‥‥? 誰なんだ、この女性は!?)[%p]
+ZH [name]拓也[line](（是谁啊‥‥？　这个女性是什么人啊！？）)[%p]
+
+JA [name]たくや[line]森の中だ‥‥。[%p]
+ZH [name]拓也[line]森林之中‥‥。[%p]
+
+JA [name]たくや[line]今は、女の子に色々と訊いてみようぜ‥‥。[%p]
+ZH [name]拓也[line]现在，要试着向这女孩打听各种事情‥‥。[%p]
+
+JA [name]たくや[line]目の前に、女性が倒れている‥‥。[%p]
+ZH [name]拓也[line]有一位女子倒在我的面前‥‥。[%p]
+
+JA [name]たくや[line]ここは森の中だが‥‥。[%p]
+ZH [name]拓也[line]这里处于森林之中‥‥。[%p]
+
+JA [name]たくや[line]‥‥何とも場違いな感じがするな、この状況は。[%p]
+ZH [name]拓也[line]‥‥这种情况下，总感觉好像有什么地方不对劲。[%p]
+
+JA [name]たくや[line]いったい目の前の女性は、誰なんだ?[%p]
+ZH [name]拓也[line]眼前的女性，究竟是谁呢？[%p]
+
+JA [name]たくや[line]さっきほど、怯えてはいないようだ‥‥。[%p]
+ZH [name]拓也[line]好像不像刚开始那么害怕了‥‥。[%p]
+
+JA [name]たくや[line]さっ、今のうちに話しておこうぜ‥‥。[%p]
+ZH [name]拓也[line]好，趁着现在跟她聊一聊吧‥‥。[%p]
+
+JA [name]たくや[line]言葉を話せない女性、か‥‥。[%p]
+ZH [name]拓也[line]是个不会说话的女性，吗‥‥。[%p]
+
+JA [name]たくや[line]話せないんじゃなくて、話したくないんじゃないだろうな‥‥。[%p]
+ZH [name]拓也[line]不一定是不会说，也许是不想说话吧‥‥。[%p]
+
+JA [name]たくや[line]とにかく、最初はもの凄い怯えていたけど、今はそうでもないみたいだ‥‥。[%p]
+ZH [name]拓也[line]不管怎样，最开始的时候她非常胆怯的样子，现在看上去没那么厉害了‥‥。[%p]
+
+JA [name]たくや[line]何かを訊いてみようぜ‥‥。[%p]
+ZH [name]拓也[line]要问点什么呢‥‥。[%p]
+
+JA [name]たくや[line]気のせいか‥‥?[%p]
+ZH [name]拓也[line]我的错觉吗……？[%p]
+
+JA [name]たくや[line]どこかで見たような気がするが‥‥。[%p]
+ZH [name]拓也[line]感觉好像在哪里见到过‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥。[%p]
+ZH [name]拓也[line]咦……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥どこかで、見たような‥‥。[%p]
+ZH [name]拓也[line]‥‥在哪里，见到过呢‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さっきほど、怯えてはいないようだ‥‥。[%p]
+ZH [name]拓也[line]好像不像刚开始那么害怕了‥‥。[%p]
+
+JA [name]たくや[line]さっ、今のうちに話しておこうぜ‥‥。[%p]
+ZH [name]拓也[line]好，趁着现在跟她聊一聊吧‥‥。[%p]
+
+JA [name]たくや[line]言葉を話せない女性、か‥‥。[%p]
+ZH [name]拓也[line]是个不会说话的女性，吗‥‥。[%p]
+
+JA [name]たくや[line]話せないんじゃなくて、話したくないんじゃないだろうな‥‥。[%p]
+ZH [name]拓也[line]不一定是不会说，也许是不想说话吧‥‥。[%p]
+
+JA [name]たくや[line]とにかく、最初はもの凄い怯えていたけど、今はそうでもないみたいだ‥‥。[%p]
+ZH [name]拓也[line]不管怎样，最开始的时候她非常胆怯的样子，现在看上去没那么厉害了‥‥。[%p]
+
+JA [name]たくや[line]何かを訊いてみようぜ‥‥。[%p]
+ZH [name]拓也[line]要问点什么呢‥‥。[%p]
+
+JA [name]たくや[line]気のせいか‥‥?[%p]
+ZH [name]拓也[line]我的错觉吗……？[%p]
+
+JA [name]たくや[line]どこかで見たような気がするが‥‥。[%p]
+ZH [name]拓也[line]感觉好像在哪里见到过‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥。[%p]
+ZH [name]拓也[line]咦……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥どこかで、見たような‥‥。[%p]
+ZH [name]拓也[line]‥‥在哪里，见到过呢‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]金色の髪の毛だ‥‥。[%p]
+ZH [name]拓也[line]一头金发‥‥。[%p]
+
+JA [name]たくや[line]金髪だな‥‥。[%p]
+ZH [name]拓也[line]是金发啊‥‥。[%p]
+
+JA [name]たくや[line]綺麗な髪の毛だぜ‥‥。[%p]
+ZH [name]拓也[line]真是很美的秀发‥‥。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]あっ、少しだけ、笑ったぞ。[%p]
+ZH [name]拓也[line]啊，稍微有些笑容了。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]髪の毛は、金色だ‥‥。[%p]
+ZH [name]拓也[line]头发是金色的‥‥。[%p]
+
+JA [name]たくや[line]‥‥何だか、素敵な感じだけど‥‥今はそんなのを見つめている場合じゃないぜ。[%p]
+ZH [name]拓也[line]‥‥总让人觉得很漂亮‥‥可现在不是盯着这个的时候哦。[%p]
+
+JA [name]たくや[line]髪の毛は、金髪か‥‥。[%p]
+ZH [name]拓也[line]发色是金色啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥外国人、と考えるのは早計だよな。[%p]
+ZH [name]拓也[line]‥‥把她当作外国人来考虑果然还是太草率了。[%p]
+
+JA [name]たくや[line]単なる、髪の毛を脱色しすぎたお姉さんかも知れないぞ。[%p]
+ZH [name]拓也[line]可能只不过是个头发褪色太厉害的姐姐吧。[%p]
+
+JA [name]たくや[line]‥‥うーん。[%p]
+ZH [name]拓也[line]‥‥唔—嗯。[%p]
+
+JA [name]たくや[line]金色の髪の毛だ‥‥。[%p]
+ZH [name]拓也[line]一头金发‥‥。[%p]
+
+JA [name]たくや[line]金髪だな‥‥。[%p]
+ZH [name]拓也[line]是金发啊‥‥。[%p]
+
+JA [name]たくや[line]綺麗な髪の毛だぜ‥‥。[%p]
+ZH [name]拓也[line]真是很美的秀发‥‥。[%p]
+
+JA [name]目の前の女性[line]ニコッ。[%p]
+ZH [name]眼前的女性[line]微笑。[%p]
+
+JA [name]たくや[line]あっ、少しだけ、笑ったぞ。[%p]
+ZH [name]拓也[line]啊，稍微有些笑容了。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]髪の毛は、金色だ‥‥。[%p]
+ZH [name]拓也[line]头发是金色的‥‥。[%p]
+
+JA [name]たくや[line]‥‥何だか、素敵な感じだけど‥‥今はそんなのを見つめている場合じゃないぜ。[%p]
+ZH [name]拓也[line]‥‥总让人觉得很漂亮‥‥可现在不是盯着这个的时候哦。[%p]
+
+JA [name]たくや[line]髪の毛は、金髪か‥‥。[%p]
+ZH [name]拓也[line]发色是金色啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥外国人、と考えるのは早計だよな。[%p]
+ZH [name]拓也[line]‥‥把她当作外国人来考虑果然还是太草率了。[%p]
+
+JA [name]たくや[line]単に、髪を脱色しすぎたお姉さんかも知れないぞ。[%p]
+ZH [name]拓也[line]说不定只是个头发褪色太厉害的姐姐罢了。[%p]
+
+JA [name]たくや[line]‥‥うーん。[%p]
+ZH [name]拓也[line]‥‥唔—嗯。[%p]
+
+JA [name]たくや[line]太ももの泥は、もう取ったぜ‥‥。[%p]
+ZH [name]拓也[line]大腿上的泥已经擦掉了‥‥。[%p]
+
+JA [name]たくや[line]つまり、見つめる必要はないってことだ。[%p]
+ZH [name]拓也[line]就是说，没必要再盯着了。[%p]
+
+JA [name]たくや[line]白い脚だな‥‥。[%p]
+ZH [name]拓也[line]腿好白啊‥‥。[%p]
+
+JA [name]たくや[line]地面の泥が付着してる‥‥ほら、払ってあげるよ。[%p]
+ZH [name]拓也[line]地上的泥沾在上面‥‥来，我帮你擦掉吧。[%p]
+
+JA [name]セーレス[line]ビクン。[%p]
+ZH [name]塞蕾斯[line]哆嗦。[%p]
+
+JA [name]たくや[line]大丈夫、別に取って食いやしないさ。[%p]
+ZH [name]拓也[line]不要紧，我不会把它取下来吃掉。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]よし、これでいい。綺麗になったぜ。[%p]
+ZH [name]拓也[line]好，这样就行了。变得干净了。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]ぐびっ。[%p]
+ZH [name]拓也[line]咕嘟。[%p]
+
+JA [name]セーレス[line]‥‥!?[%p]
+ZH [name]塞蕾斯[line]……！？[%p]
+
+JA [name]たくや[line]警戒しちゃったじゃないか、まったく。[%p]
+ZH [name]拓也[line]她这不是开始警觉起来了，真是的。[%p]
+
+JA [name]たくや[line]ジロジロみるのはよそうぜ‥‥。[%p]
+ZH [name]拓也[line]不要再这么死盯着看了‥‥。[%p]
+
+JA [name]たくや[line]太ももの泥は、もう取ったぜ‥‥。[%p]
+ZH [name]拓也[line]大腿上的泥已经擦掉了‥‥。[%p]
+
+JA [name]たくや[line]つまり、見つめる必要はないってことだ。[%p]
+ZH [name]拓也[line]就是说，没必要再盯着了。[%p]
+
+JA [name]たくや[line]白い脚だな‥‥。[%p]
+ZH [name]拓也[line]腿好白啊‥‥。[%p]
+
+JA [name]たくや[line]地面の泥が付着してる‥‥ほら、払ってあげるよ。[%p]
+ZH [name]拓也[line]地上的泥沾在上面‥‥来，我帮你擦掉吧。[%p]
+
+JA [name]目の前の女性[line]ビクン。[%p]
+ZH [name]眼前的女性[line]哆嗦。[%p]
+
+JA [name]たくや[line]大丈夫、別に取って食いやしないさ。[%p]
+ZH [name]拓也[line]不要紧，我不会把它取下来吃掉。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]よし、これでいい。綺麗になったぜ。[%p]
+ZH [name]拓也[line]好，这样就行了。变得干净了。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ぐびっ。[%p]
+ZH [name]拓也[line]咕嘟。[%p]
+
+JA [name]目の前の女性[line]‥‥!?[%p]
+ZH [name]眼前的女性[line]……！？[%p]
+
+JA [name]たくや[line]警戒しちゃったじゃないか、まったく。[%p]
+ZH [name]拓也[line]她这不是开始警觉起来了，真是的。[%p]
+
+JA [name]たくや[line]ジロジロみるのはよそうぜ‥‥。[%p]
+ZH [name]拓也[line]不要再这么死盯着看了‥‥。[%p]
+
+JA [name]たくや[line]やめよう‥‥今はこの女性と、コミュニケーションをとろうぜ。[%p]
+ZH [name]拓也[line]算了吧‥‥眼下，想跟这女性交流完全是徒劳。[%p]
+
+JA [name]たくや[line]んなことよりも![%p]
+ZH [name]拓也[line]比起这个！[%p]
+
+JA [name]セーレス[line]ビクッ!?[%p]
+ZH [name]塞蕾斯[line]哆嗦！？[%p]
+
+JA [name]たくや[line]目の前の女の子が、ビックリしちゃったじゃないか。[%p]
+ZH [name]拓也[line]这样不是把眼前的女孩子吓一跳了吗。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]んなことよりも![%p]
+ZH [name]拓也[line]比起这个！[%p]
+
+JA [name]目の前の女性[line]ビクッ!?[%p]
+ZH [name]眼前的女性[line]哆嗦！？[%p]
+
+JA [name]たくや[line]目の前の女の子が、ビックリしちゃったじゃないか。[%p]
+ZH [name]拓也[line]这样不是把眼前的女孩子吓一跳了吗。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]しょうがないな、一度だけだぜ。[%p]
+ZH [name]拓也[line]没办法啊，只次一回哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱりイヤだ。[%p]
+ZH [name]拓也[line]果然不行。[%p]
+
+JA [name]たくや[line]死んでしまうだろう。[%p]
+ZH [name]拓也[line]已经死了吧。[%p]
+
+JA [name]たくや[line]やれる訳ないぞ。[%p]
+ZH [name]拓也[line]没理由奏效的。[%p]
+
+JA [name]たくや[line]えっ、なに、バイブ?[%p]
+ZH [name]拓也[line]诶，什么、ｂｉｖｅ？[%p]
+
+JA [name]たくや[line]‥‥わかってるよ、ダイブだろう?[%p]
+ZH [name]拓也[line]‥‥我懂啦，是ｄｉｖｅ吧？[%p]
+
+JA [name]たくや[line]言っておくが、できないぞ。[%p]
+ZH [name]拓也[line]先说一句，我可办不到啊。[%p]
+
+JA [name]たくや[line]なんて、できる訳ないだろ。[%p]
+ZH [name]拓也[line]怎么，这不可能办到啊。[%p]
+
+JA [name]たくや[line]つまり、今までの話を総合するとだ。[%p]
+ZH [name]拓也[line]就是说，需要把之前说的话统合起来。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]君はセーレスという名前で、境町という場所を知らなくて、断崖絶壁のことも知らなくて、俺のことも知らない。だよな?[%p]
+ZH [name]拓也[line]你的名字叫做塞蕾斯，不知道境町这地方，不知道悬崖峭壁的事情，也不知道我是谁。是这样吧？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥ってことは、君の名前以外、何もわからないってことか。[%p]
+ZH [name]拓也[line]‥‥就是说，你除了自己名字以外，什么都不知道吗。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]わかったよ。脅かして悪かった。俺は用事があるから、もう行くぜ。[%p]
+ZH [name]拓也[line]我知道了。刚才吓到你了实在抱歉。我还有事，要先走了。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]日が暮れないうちに、家に帰るんだな。じゃ。[%p]
+ZH [name]拓也[line]我要在日落之前，回自己家去。再见。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]問題はだ、この森がどこにあるかだ。[%p]
+ZH [name]拓也[line]问题是，这片森林究竟在什么方位。[%p]
+
+JA [name]たくや[line]山道って訳じゃないが、結構深い森みたいだよな‥‥。[%p]
+ZH [name]拓也[line]周围也没有山路，看来是处于森林很深处‥‥。[%p]
+
+JA [name]たくや[line]地図もなければ磁石もない、だいたいに於いて、ここが日本かどうかも俺にはわかっちゃいないんだ。[%p]
+ZH [name]拓也[line]既没有地图也没有磁石，大致说来，我连这里是日本还是别的哪里都不清楚。[%p]
+
+JA [name]たくや[line]日本かどうかも‥‥?[%p]
+ZH [name]拓也[line]日本还是别地方‥‥？[%p]
+
+JA [name]たくや[line]‥‥よせよ。そんな訳ないだろう。[%p]
+ZH [name]拓也[line]‥‥算了。不可能有这种事吧。[%p]
+
+JA [name]たくや[line]ここが日本じゃなきゃ、いったい‥‥。[%p]
+ZH [name]拓也[line]这里要不是日本的话，究竟是‥‥。[%p]
+
+JA ずい。[%p]
+ZH 嗖。[%p]
+
+JA [name]たくや[line]おわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]なんなの、君は。[%p]
+ZH [name]拓也[line]你想干啥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]あのな、何でついてくるんだい?[%p]
+ZH [name]拓也[line]我说啊，为什么要跟过来？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]君の家は?[%p]
+ZH [name]拓也[line]你家里不管啦？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥もういいよ。とにかく、早く自分の家に帰った方がいいぜ。[%p]
+ZH [name]拓也[line]呼‥‥好了好了。不管怎样，快点回自己家里比较好。[%p]
+
+JA [name]セーレス[line]プルンプルン‥‥。[%p]
+ZH [name]塞蕾斯[line]摇头摇头‥‥。[%p]
+
+JA [name]たくや[line]何だよ、何が言いたいんだ?[%p]
+ZH [name]拓也[line]干嘛，想说些什么吗？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]悪いが、君と遊んでる暇はないんだよ、俺はこれから‥‥。[%p]
+ZH [name]拓也[line]不好意思，没工夫陪你玩了，我这还得‥‥。[%p]
+
+JA [name]セーレス[line]クスン‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣‥‥。[%p]
+
+JA [name]たくや[line]わわっ、そ、そんな顔をすること、ないだろう?[%p]
+ZH [name]拓也[line]哇哇，你，你不要露出这么一副表情，好吧？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]だいたいな、君はいったい誰でどこから来たんだ?[%p]
+ZH [name]拓也[line]说起来，你究竟是谁，是从哪里来的？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]あのな、黙ってたんじゃ‥‥。[%p]
+ZH [name]拓也[line]我说啊，你一言不发的话‥‥。[%p]
+
+JA [name]セーレス[line]クスン‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣‥‥。[%p]
+
+JA [name]たくや[line]な、なんだよ‥‥まったく、俺がまるで悪者じゃないか。[%p]
+ZH [name]拓也[line]怎、怎么了啊‥‥实在是，搞得我就像是恶人一样。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]わかった、わかったよ。負けた、君が正しい、あんたが偉い。[%p]
+ZH [name]拓也[line]我懂了，我懂了。我认输，你是对的，你很了不起。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何なの、この子は‥‥?)[%p]
+ZH [name]拓也[line](（这孩子怎么回事啊‥‥？）)[%p]
+
+JA [name]たくや[line](俺の傍らに、くっついちまって、まぁ‥‥。)[%p]
+ZH [name]拓也[line](（靠在我身边，紧挨着我，算了‥‥）。)[%p]
+
+JA [name]たくや[line](うーん‥‥。)[%p]
+ZH [name]拓也[line](嗯——……。)[%p]
+
+JA [name]たくや[line]とにかく、さっきは真っ直ぐ歩いていって、断崖絶壁だったわけだ。[%p]
+ZH [name]拓也[line]总之，像刚才一样一直朝前走，就会遇到悬崖峭壁。[%p]
+
+JA [name]たくや[line]ってことは、後ろの方へ歩いていけば、また違った展開が訪れるかもしれないわけで‥‥。[%p]
+ZH [name]拓也[line]也就是说，往后面走的话可能会有不同的发现‥‥。[%p]
+
+JA ずいっ。[%p]
+ZH 转头。[%p]
+
+JA [name]たくや[line]おわっ‥‥なんなの。[%p]
+ZH [name]拓也[line]哇‥‥干啥啊。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥何だい、その笑顔は。[%p]
+ZH [name]拓也[line]‥‥这笑容是什么意思。[%p]
+
+JA [name]セーレス[line]ニコニコッ。[%p]
+ZH [name]塞蕾斯[line]笑眯眯。[%p]
+
+JA [name]たくや[line]後ろで、いいっていうのかい?[%p]
+ZH [name]拓也[line]你是说往后面去比较好吗？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]たくや[line]ま、俺に与えられた選択肢ってのはそう多くないからな。[%p]
+ZH [name]拓也[line]唉，提供给我的选项也没有那么丰富啦。[%p]
+
+JA [name]たくや[line]前に進むか、後ろに進むか、どちらかくらいしか無いわけだ。[%p]
+ZH [name]拓也[line]因为只有向前走还是往后走这两个选项啦。[%p]
+
+JA [name]たくや[line]とにかく、歩いていってみようぜ‥‥。[%p]
+ZH [name]拓也[line]总而言之，先走走看吧‥‥。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line](ふぅ‥‥何だか、妙な連れまでできちまって‥‥。)[%p]
+ZH [name]拓也[line](（呼‥‥怎么感觉自己结识的都是这样的怪同伴‥‥）。)[%p]
+
+JA [name]たくや[line](いったいどうなるんだろう、これから‥‥。)[%p]
+ZH [name]拓也[line](（究竟后面会如何呢‥‥）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](あの女の子は、俺の後をトボトボと付いてくるぜ‥‥。)[%p]
+ZH [name]拓也[line](（那女孩子，蹦蹦跳跳地跟在我后面‥‥）。)[%p]
+
+JA [name]たくや[line](まるで、子犬だぞ、あれじゃあ‥‥。)[%p]
+ZH [name]拓也[line](（就像小狗狗一样‥‥）。)[%p]
+
+JA [name]たくや[line](ちょっと優しい人間のあとを、どこまでも追いかけてくるんだ。)[%p]
+ZH [name]拓也[line](（跟在比较温柔的人后面，不管到哪里。）。)[%p]
+
+JA [name]たくや[line](まったく、俺の世界で妙なヤツに出会ったら、身ぐるみひっぱがされちまうぜ‥‥。)[%p]
+ZH [name]拓也[line]JF:（真是的，在我的世界里遇到奇怪的家伙的话，会被打得团团转的……）[%p]
+
+JA [name]たくや[line](世間知らずっていうか、人見知りしないっていうか‥‥。)[%p]
+ZH [name]拓也[line](（该说是不知世事呢，还是不怕生呢‥‥）。)[%p]
+
+JA [name]たくや[line](‥‥ん?)[%p]
+ZH [name]拓也[line](（……嗯？）)[%p]
+
+JA [name]たくや[line](俺の世界では‥‥だって?)[%p]
+ZH [name]拓也[line](（我刚才说‥‥我的世界？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](俺の‥‥世界‥‥。)[%p]
+ZH [name]拓也[line](（我的‥‥世界‥‥）。)[%p]
+
+JA [name]たくや[line](ここは、俺が知っている世界じゃないっていうのか‥‥?)[%p]
+ZH [name]拓也[line](（就是说这里不是我知道的那个世界吗‥‥？）)[%p]
+
+JA [name]たくや[line](そんなバカな‥‥。)[%p]
+ZH [name]拓也[line](（怎么可能啊‥‥）。)[%p]
+
+JA [name]たくや[line](‥‥ちょっと疲れてるみたいだな、俺。)[%p]
+ZH [name]拓也[line](（‥‥看来我是有些累了）。)[%p]
+
+JA チョンチョン。[%p]
+ZH 戳戳。[%p]
+
+JA [name]たくや[line]えっ、なに?[%p]
+ZH [name]拓也[line]诶，什么？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]なにさ。向こうを指さして‥‥あっ。[%p]
+ZH [name]拓也[line]什么啊。指着对面‥‥啊。[%p]
+
+JA [name]たくや[line]森が開けている‥‥明るいぞ。[%p]
+ZH [name]拓也[line]森林分开了‥‥好明亮。[%p]
+
+JA [name]たくや[line]まさか‥‥出口?[%p]
+ZH [name]拓也[line]难道是‥‥出口？[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]森を‥‥抜けられるのか?[%p]
+ZH [name]拓也[line]我们从森林里‥‥走出来了？[%p]
+
+JA [name]たくや[line]森を‥‥‥‥。[%p]
+ZH [name]拓也[line]从森林‥‥‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここは‥‥。[%p]
+ZH [name]拓也[line]这里是……。[%p]
+
+JA [name]たくや[line]‥‥さ、境町じゃないぞ![%p]
+ZH [name]拓也[line]‥‥好吧，果然不是境町！[%p]
+
+JA [name]たくや[line]いや、それどころか‥‥。[%p]
+ZH [name]拓也[line]哎呀，是感叹的时候么‥‥。[%p]
+
+JA [name]たくや[line]本当に日本なのか、ここは‥‥?[%p]
+ZH [name]拓也[line]这里，真的是日本吗‥‥？[%p]
+
+JA [name]たくや[line]どこなんだ、ここは!!?[%p]
+ZH [name]拓也[line]这里是怎么回事啊！！？[%p]
+
+JA [name]たくや[line]訊きたいことっていうのは‥‥。[%p]
+ZH [name]拓也[line]要说想问问题的话‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ここはどこだか、わかるかい?[%p]
+ZH [name]拓也[line]这是哪里，你知道吗？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]うーん‥‥じゃあ、君は女の子?[%p]
+ZH [name]拓也[line]唔—嗯‥‥那么，你是女孩子吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]よし。俺のこと恐い?[%p]
+ZH [name]拓也[line]好。那你怕我吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]すっごく恐い?[%p]
+ZH [name]拓也[line]很怕吗？[%p]
+
+JA [name]目の前の女性[line]‥‥プルンプルン。[%p]
+ZH [name]眼前的女性[line]‥‥拼命摇头。[%p]
+
+JA [name]たくや[line]少し考えて、否定か。ってことは、凄く恐いって訳じゃないが、警戒はしている。[%p]
+ZH [name]拓也[line]稍微考虑一下，是否定吗。就是说并不似乎特别害怕我，但还是保持着警惕。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]そっか‥‥とりあえず、さっきの足の親指パフォーマンスが効いたらしいな。[%p]
+ZH [name]拓也[line]这样啊‥‥刚才大脚趾的把戏姑且算是奏效了。[%p]
+
+JA [name]たくや[line]だが多用は禁物だ。鼻の穴は広がって、マウンテンゴリラみたいになっちまうからな。[%p]
+ZH [name]拓也[line]不过可不能经常使用。因为老把鼻孔撑开，到后来就会变得像山地大猩猩一样了。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]俺は君に何もしやしない。約束するよ。[%p]
+ZH [name]拓也[line]我不会对你怎么样的。我们来做约定。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]な?[%p]
+ZH [name]拓也[line]啥？[%p]
+
+JA [name]目の前の女性[line]‥‥コクン。[%p]
+ZH [name]眼前的女性[line]‥‥点头。[%p]
+
+JA [name]たくや[line]よし。いくつか、訊きたいことがあるんだ。[%p]
+ZH [name]拓也[line]好，我有几个问题需要问问你。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]君が、答えられる範囲内で構わない。いいかい?[%p]
+ZH [name]拓也[line]在你能回答的范围内就行。好吧？[%p]
+
+JA [name]目の前の女性[line]‥‥コクン。[%p]
+ZH [name]眼前的女性[line]‥‥点头。[%p]
+
+JA [name]たくや[line]よーし。じゃあまずは‥‥。[%p]
+ZH [name]拓也[line]好—嘞。那么首先‥‥。[%p]
+
+JA [name]たくや[line]‥‥な、ほら、俺の顔を見て。[%p]
+ZH [name]拓也[line]‥‥呐，好了，看着我的脸。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ぜーんぜん、恐くなんてないんだぜ。ほら、ヒョットコの顔![%p]
+ZH [name]拓也[line]完——全不会让人害怕。你看，一张丑八怪的脸！[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ゴリラの惑星、ごっほごっほ。[%p]
+ZH [name]拓也[line]JF:大猩猩的行星，乱糟糟的。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]俺の名は、りゅぴゃーん、しゃーんしぇー。[%p]
+ZH [name]拓也[line]我的名字是，柳班～桑～榭～。（注：鲁邦三世）。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]んじゃもう、究極のアレだ! 足の親指で鼻をほじるぞ! 見ろっ、ほじほじ![%p]
+ZH [name]拓也[line]下面就是那个究极的技艺了！　可以用大脚趾挖鼻孔哦！　看啊，我挖我挖！[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]これではまるで、アホではないか。[%p]
+ZH [name]拓也[line]这不完全就像个白痴吗。[%p]
+
+JA [name]たくや[line]誰かが見ていたら、嘆くぜ‥‥まったくもう。[%p]
+ZH [name]拓也[line]被谁看到了肯定会形象破灭了‥‥真是的。[%p]
+
+JA [name]目の前の女性[line]‥‥クスッ。[%p]
+ZH [name]眼前的女性[line]‥‥噗哧。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]今、一瞬だけ‥‥。[%p]
+ZH [name]拓也[line]刚才，就那么一瞬‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]よーし、もう一回足の指で、鼻をほじるぞ。ぐりぐりっと。[%p]
+ZH [name]拓也[line]好—嘞，我再用脚趾来挖鼻孔。用力转动。[%p]
+
+JA [name]たくや[line]アタタタ‥‥は、鼻の穴が広がっちまったぞ。[%p]
+ZH [name]拓也[line]啊痛痛痛‥‥鼻，鼻孔被撑大了。[%p]
+
+JA [name]目の前の女性[line]クスクスッ。[%p]
+ZH [name]眼前的女性[line]嘻嘻～。[%p]
+
+JA [name]たくや[line]おっ、いい感じ。よしっ、足の指で鼻をほじる、これがコミュニケートの足がかりって訳か。[%p]
+ZH [name]拓也[line]哦，感觉不错啊。好，用脚趾挖鼻孔，这就是我们互相交流的开端。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]なぁ、喋れないの?[%p]
+ZH [name]拓也[line]呐，说不了话吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]おっ、通じた! 今のは、うなずいたの?[%p]
+ZH [name]拓也[line]哦，传达到了！　刚才，你点头了吧？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]君は、男の子?[%p]
+ZH [name]拓也[line]你是，男孩子？[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]プルンプルンって‥‥今のは、顔を横に振った音?[%p]
+ZH [name]拓也[line]摇头是指‥‥刚才那是摇头的声音？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]プルンプルンが否定で、コクンが肯定か。[%p]
+ZH [name]拓也[line]摇头就是否定，点头就是可定吧。[%p]
+
+JA [name]たくや[line]‥‥って、いったい俺は何を言っているんだろうな。[%p]
+ZH [name]拓也[line]……呃，我到底再说些什么啊。[%p]
+
+JA [name]たくや[line]とにかく、この女性とコミュニケートする手段は得たぞ。[%p]
+ZH [name]拓也[line]总而言之，得到了跟这个女性沟通的手段。[%p]
+
+JA [name]たくや[line]君の名前は?[%p]
+ZH [name]拓也[line]你的名字叫？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]おっとそうだった。俺は、たくやって言うんだけど。[%p]
+ZH [name]拓也[line]噢，是这样的。我呢叫做拓也这个名字。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]君は?[%p]
+ZH [name]拓也[line]你呢？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫?[%p]
+ZH [name]拓也[line]没事吧？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あのなっ、何とか言ったら‥‥![%p]
+ZH [name]拓也[line]我说啊，能不能说点什么‥‥！[%p]
+
+JA [name]目の前の女性[line]ビクッ![%p]
+ZH [name]眼前的女性[line]哆嗦！[%p]
+
+JA [name]たくや[line]ど、どうどう、大丈夫、大丈夫だから。チッチッチ。[%p]
+ZH [name]拓也[line]怎、怎怎么了，不要紧、不要紧的。啧啧啧～。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]何だか、動物じみてきたよ‥‥ふぅ。[%p]
+ZH [name]拓也[line]怎么像是小动物一样‥‥呼。[%p]
+
+JA [name]たくや[line]とにかく、この女性が唯一の希望なんだ。[%p]
+ZH [name]拓也[line]总之，这个女性是我唯一的希望了。[%p]
+
+JA [name]たくや[line]よし‥‥もう少し、話してみよう。[%p]
+ZH [name]拓也[line]好‥‥再稍微跟她聊一聊。[%p]
+
+JA [name]たくや[line]ねぇ、君さ。[%p]
+ZH [name]拓也[line]我说你呀。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あの‥‥。[%p]
+ZH [name]拓也[line]那个……。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あのさ。[%p]
+ZH [name]拓也[line]那个啥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ここってさ‥‥。[%p]
+ZH [name]拓也[line]这里啊‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥場所がどこだか、わかるかい?[%p]
+ZH [name]拓也[line]‥‥是在什么地方，你知道吗？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]なまむぎ、なまごめ、なまたまごっ。[%p]
+ZH [name]拓也[line]生麦、生米、生鸡蛋。（注：这是日本的绕口令）。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]隣の客は、よく柿食う客だ![%p]
+ZH [name]拓也[line]邻桌这位客人，是爱吃柿子的客人！[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]かえるピョコピョコ、みピョコピョコ![%p]
+ZH [name]拓也[line]青蛙一只又一只，三只又一只！[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あぁ、もう! 何なんだよ!![%p]
+ZH [name]拓也[line]啊啊，受不了！　这是干嘛啊！！[%p]
+
+JA [name]目の前の女性[line]ビクッ![%p]
+ZH [name]眼前的女性[line]哆嗦！[%p]
+
+JA [name]たくや[line](いったい、何なの、この女の子は‥‥。)[%p]
+ZH [name]拓也[line](（这女孩子究竟是怎么回事啊‥‥）。)[%p]
+
+JA [name]たくや[line]ねぇ、君。[%p]
+ZH [name]拓也[line]喂，你啊。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]そんなに警戒しないでくれよ。別に何もしやしないって。[%p]
+ZH [name]拓也[line]不用那样警惕啊。我又不会对你怎么样。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫。俺は何もしない。[%p]
+ZH [name]拓也[line]没事的。我不会做什么的。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]怒鳴ったりもしないって。[%p]
+ZH [name]拓也[line]也不会大声叫嚷。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]だから、しないって言ってるじゃないか![%p]
+ZH [name]拓也[line]所以，我不是说我不会动你的吗！[%p]
+
+JA [name]目の前の女性[line]ビクッ![%p]
+ZH [name]眼前的女性[line]哆嗦！[%p]
+
+JA [name]たくや[line]っとっと‥‥まったくもう、なんだってんだ。[%p]
+ZH [name]拓也[line]就，就是说‥‥实在是受不了，这什么事儿啊。[%p]
+
+JA [name]たくや[line]とりあえず、ここは境町でないって情報は得られた訳だ‥‥。[%p]
+ZH [name]拓也[line]总之，我得到了这里应该不是境町的信息‥‥。[%p]
+
+JA [name]たくや[line]もっと他に訊いてみようぜ‥‥。[%p]
+ZH [name]拓也[line]再问点别的事情吧‥‥。[%p]
+
+JA [name]たくや[line]ここは、境町かい?[%p]
+ZH [name]拓也[line]这里是境町吗？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]境町っていう場所、知ってる?[%p]
+ZH [name]拓也[line]叫境町的地方你知道吗？[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]知らない、か‥‥じゃあ、三角山、剣ノ岬は?[%p]
+ZH [name]拓也[line]不知道啊‥‥那三角山、剑之岬呢？[%p]
+
+JA [name]目の前の女性[line]プルンプルン‥‥。[%p]
+ZH [name]眼前的女性[line]摇头摇头‥‥。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]しかし、きょうびの若者は、自国の首相の名前さえ知らない世代だもんな。[%p]
+ZH [name]拓也[line]不过，如今的这一代年轻人连自己国家首相的名字都不知道呢。[%p]
+
+JA [name]たくや[line]自分の街の名前を知らないヤツだって‥‥。[%p]
+ZH [name]拓也[line]连自己住的城市的名字都不知道的家伙‥‥。[%p]
+
+JA [name]たくや[line]‥‥いるわけないか。[%p]
+ZH [name]拓也[line]……不会有人在吧。[%p]
+
+JA [name]たくや[line]ってことは、本当に知らないって考えるのが妥当だよな‥‥。[%p]
+ZH [name]拓也[line]那意思就是，当作她真的不知道来考虑比较妥当‥‥。[%p]
+
+JA [name]たくや[line]目の前のこの女の子は、境町って場所を知らないらしい‥‥。[%p]
+ZH [name]拓也[line]眼前的这个女孩子，似乎不知道叫境町的地方‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]なぁ、ここっていったい何なんだ?[%p]
+ZH [name]拓也[line]呐，这里到底是什么地方？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥ダメだ、こんな訊き方じゃ。イエスかノー、ヤーかナインで答えられる質問じゃなくちゃ。[%p]
+ZH [name]拓也[line]‥‥这种问法不行啊。这不是能用Ｙｅｓ或Ｎｏ，Ｊａ或Ｎｅｉｎ来回答的问题。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]断崖絶壁の質問はもういいよ‥‥。[%p]
+ZH [name]拓也[line]有关悬崖峭壁的问题就算了吧‥‥。[%p]
+
+JA [name]たくや[line]向こうに見える‥‥そう、俺が落ちかかったあそこさ。[%p]
+ZH [name]拓也[line]这里能看到那边‥‥对，就是我差点掉下去的那里。[%p]
+
+JA [name]たくや[line]なんでこんな場所にあるか、わかるかい?[%p]
+ZH [name]拓也[line]为什么在这种地方有悬崖，你知道吗？[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]‥‥だよな。ここになんで山があるんだ、って質問と同じだ。あるからあるとしか、答えようないぜ。[%p]
+ZH [name]拓也[line]‥‥也是啊。和「这里为什么会有山」的问题相同，只能用「因为它就是有了」来回答。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]さっき俺が落ちそうになった、あの断崖絶壁だけど‥‥。[%p]
+ZH [name]拓也[line]刚才我快掉下去的地方就是在悬崖峭壁那里‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]何だって、あんなのがここにあるんだ‥‥?[%p]
+ZH [name]拓也[line]你究竟为什么会在这里呢‥‥？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥難しいな、質問の仕方が。[%p]
+ZH [name]拓也[line]‥‥询问的方式让人很费解吧。[%p]
+
+JA [name]たくや[line]彼女が答えられるようなフォーマットの解答用紙を、こちらで用意しなくちゃならないわけか。[%p]
+ZH [name]拓也[line]我这边得按她能回答的格式准备一张问卷。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]とりあえず、この子の名前は判明した。[%p]
+ZH [name]拓也[line]至少得弄清楚，这孩子叫什么名字。[%p]
+
+JA [name]たくや[line]セーレスだ。[%p]
+ZH [name]拓也[line]叫塞蕾斯。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥ふぅ。じゃあ、次は「さ」だ。[%p]
+ZH [name]拓也[line]‥‥呼。那么，下来是「ｓａ」。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]し。[%p]
+ZH [name]拓也[line]ｓｉ。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]す。[%p]
+ZH [name]拓也[line]ｓｕ。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]おっ‥‥「す」ってこと?[%p]
+ZH [name]拓也[line]哦‥‥是「ｓｕ」吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]じゃあ、「せーれす」?[%p]
+ZH [name]拓也[line]那么就是「ｓｅ－ｒｅｓｕ」了？[%p]
+
+JA [name]目の前の女性[line]ニコッ。[%p]
+ZH [name]眼前的女性[line]微笑。[%p]
+
+JA [name]たくや[line]せーれす‥‥セーレスか。[%p]
+ZH [name]拓也[line]ｓｅ－ｒｅｓｕ‥‥塞蕾斯吗。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]外国人みたいな名前だ‥‥セーレスか。みたいというよりは、そのものって感じだな。[%p]
+ZH [name]拓也[line]听上去像是外国人的名字‥‥塞蕾斯。不光是听上去像，感觉就是外国人啊。[%p]
+
+JA [name]たくや[line]よーし、とりあえず、名前は判明したぞ。彼女の名前は、セーレスというらしい。[%p]
+ZH [name]拓也[line]好—了，姑且算是弄清楚了名字。她的名字好像叫做塞蕾斯。[%p]
+
+JA [name]たくや[line]‥‥疲れた。[%p]
+ZH [name]拓也[line]‥‥好累啊。[%p]
+
+JA [name]たくや[line]他のことも訊いてみようぜ‥‥。[%p]
+ZH [name]拓也[line]试着问问别的事情吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥ま。[%p]
+ZH [name]拓也[line]‥‥ｍａ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]み。[%p]
+ZH [name]拓也[line]ｍｉ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]ふぅ‥‥疲れてきたな。少しハショろう。じゃあ「みむめも」の中に、あるかい?[%p]
+ZH [name]拓也[line]呼‥‥有点累了。稍微简略一下吧。那么「ｍｉ，ｍｕ，ｍｅ，ｍｏ」里面有吗？[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]じゃあ、次。「やゆよ」の中には‥‥。[%p]
+ZH [name]拓也[line]那么接下来。「ｙａｙｕｙｏ」里面呢‥‥。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]そっか。次は「らりるれろ」の中だけど‥‥。[%p]
+ZH [name]拓也[line]这样啊。接着「ｒａｒｉｒｕｒｅｒｏ」里面呢‥‥。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]えっ、ある?[%p]
+ZH [name]拓也[line]诶，有啊？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]ら?[%p]
+ZH [name]拓也[line]ｒａ？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]り?[%p]
+ZH [name]拓也[line]ｒｉ？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]る?[%p]
+ZH [name]拓也[line]ｒｕ？[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]れ?[%p]
+ZH [name]拓也[line]ｒｅ？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]「れ」か。ってことは、名前は「せれ‥‥」に続くわけだな。[%p]
+ZH [name]拓也[line]是「ｒｅ」啊。也就是说，名字打头的应该是「ｓｅｒｅ‥‥」吧。[%p]
+
+JA [name]目の前の女性[line]プルンプルン![%p]
+ZH [name]眼前的女性[line]摇头摇头！[%p]
+
+JA [name]たくや[line]‥‥何なんだよ。だって、最初の文字は「せ」だろう?[%p]
+ZH [name]拓也[line]‥‥什么意思。你不是说最开始的字是「ｓｅ」吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]2文字目は、「れ」?[%p]
+ZH [name]拓也[line]第２个字是「ｒｅ」？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]じゃあ、「せれ‥‥」。[%p]
+ZH [name]拓也[line]那么就是「ｓｅｒｅ‥‥」。[%p]
+
+JA [name]目の前の女性[line]プルンプルン![%p]
+ZH [name]眼前的女性[line]摇头摇头！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]「せーれ‥‥?」[%p]
+ZH [name]拓也[line]「ｓｅ－ｒｅ‥‥？」[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]なるほど、音引きがあったってわけか。[%p]
+ZH [name]拓也[line]原来如此，原来有个长音符号在啊。[%p]
+
+JA [name]たくや[line]‥‥しかし疲れる。[%p]
+ZH [name]拓也[line]‥‥可是好累啊。[%p]
+
+JA [name]たくや[line]とにかく、気長にやっていこうぜ。[%p]
+ZH [name]拓也[line]总之，好歹得有些耐心啊。[%p]
+
+JA [name]たくや[line]いろんな質問の合間にでも、訊いていってみよう。[%p]
+ZH [name]拓也[line]在问各种问题的间隙，试着问问这个。[%p]
+
+JA [name]たくや[line]さ、し、す‥‥ってきたから、次は「せ」か。[%p]
+ZH [name]拓也[line]ｓａ、ｓｉ、ｓｕ‥‥都过了，下面是「ｓｅ」吧。[%p]
+
+JA [name]たくや[line]せ‥‥。[%p]
+ZH [name]拓也[line]JF:让。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]せ?[%p]
+ZH [name]拓也[line]ｓｅ？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]「せ」か! 君の名前は![%p]
+ZH [name]拓也[line]你的名字是「ｓｅ」啊！[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]えっ、だって今‥‥。[%p]
+ZH [name]拓也[line]诶，可是刚才不是‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]そ、そうか。こいつは最初の1文字だった。ってことは、次の1文字もあるってことだよな。[%p]
+ZH [name]拓也[line]这、这样啊。这个是第１个字，那么就是说后面至少还有１个字。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]よーし、最初の文字は「せ」だぞ。[%p]
+ZH [name]拓也[line]好—嘞，最开始的字是「ｓｅ」。[%p]
+
+JA [name]たくや[line]絶対に、続きを見つけてやるからな。[%p]
+ZH [name]拓也[line]我一定要找出后面的字。[%p]
+
+JA [name]たくや[line]‥‥さ。[%p]
+ZH [name]拓也[line]‥‥ｓａ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]し。[%p]
+ZH [name]拓也[line]ｓｉ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]す。[%p]
+ZH [name]拓也[line]ｓｕ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]ふぅ‥‥あっ、今のは溜息だから、違うぜ。[%p]
+ZH [name]拓也[line]呼‥‥啊，不对，刚才那是叹气声。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥か。[%p]
+ZH [name]拓也[line]‥‥ｋａ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]き。[%p]
+ZH [name]拓也[line]ｋｉ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]く。[%p]
+ZH [name]拓也[line]ｋｕ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]け。[%p]
+ZH [name]拓也[line]ｋｅ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]ふぅ‥‥最初の1文字でこれだからな。[%p]
+ZH [name]拓也[line]呼‥‥最开始的字就是这个啊。[%p]
+
+JA [name]たくや[line]もしかして、数十文字の、クソ長い名前だったらどうするんだ?[%p]
+ZH [name]拓也[line]难不成，要是个数十个文字组成的又臭又长的名字的话该怎么办啊？[%p]
+
+JA [name]たくや[line]このぶんだと、名前が判明するまでに老衰死しちまうぜ‥‥ふぅ。[%p]
+ZH [name]拓也[line]光是名字这部分，等到弄清楚了估计我早都老死了‥‥呼。[%p]
+
+JA [name]たくや[line]そうだ、こちらから名前を呈示して、それで確認させれば‥‥。[%p]
+ZH [name]拓也[line]对了，我在这里举些名字的例子给她听，让她来确认的话‥‥。[%p]
+
+JA [name]たくや[line]‥‥ダメに決まってる。名前のバリエーションなんて、それこそ無限大にあるぞ。[%p]
+ZH [name]拓也[line]‥‥那肯定不行啦。人名变化万千，简直就是无穷多嘛。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]ねっ。[%p]
+ZH [name]拓也[line]喂。[%p]
+
+JA [name]目の前の女性[line]‥‥?[%p]
+ZH [name]眼前的女性[line]……？[%p]
+
+JA [name]たくや[line]君の名前は‥‥。[%p]
+ZH [name]拓也[line]你的名字是‥‥。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]名前、あるんだ?[%p]
+ZH [name]拓也[line]有名字的吗？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]何て名前‥‥はダメか。[%p]
+ZH [name]拓也[line]什么名字‥‥答不出吧。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]あっ、そうだ! 一字ずつ、当てはめていくってのはどうだ?[%p]
+ZH [name]拓也[line]啊、对了！　我一个字一个字地套用过来如何？[%p]
+
+JA [name]目の前の女性[line]‥‥?[%p]
+ZH [name]眼前的女性[line]……？[%p]
+
+JA [name]たくや[line]俺が君の名前の、最初の文字を言うから、当たっているか、或いは極めて近いときはうなずいてくれ。[%p]
+ZH [name]拓也[line]我来说你名字的第一个字，要是中了或者说极为接近的时候你就点下头。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]じゃあ、とりあえず50音でいくか。「あ」。[%p]
+ZH [name]拓也[line]那么，姑且按５０音的顺序来。「ａ」。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]い。[%p]
+ZH [name]拓也[line]ｉ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]う。[%p]
+ZH [name]拓也[line]ｕ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]え。[%p]
+ZH [name]拓也[line]ｅ。[%p]
+
+JA [name]目の前の女性[line]プルンプルン。[%p]
+ZH [name]眼前的女性[line]摇头摇头。[%p]
+
+JA [name]たくや[line]‥‥こりゃ、意外というか当然というか、ふぅ‥‥手間がかかりそうだぜ。[%p]
+ZH [name]拓也[line]‥‥这该怎么说，意想之外呢还是情理之中呢，呼‥‥相当的费功夫。[%p]
+
+JA [name]たくや[line]気長にやるか‥‥。[%p]
+ZH [name]拓也[line]耐下心慢慢来‥‥。[%p]
+
+JA [name]たくや[line]なあ、君って‥‥。[%p]
+ZH [name]拓也[line]我说，你啊‥‥。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]うーん、質問が難しいな。[%p]
+ZH [name]拓也[line]唔—嗯，问题好难啊。[%p]
+
+JA [name]たくや[line]そうだ、名前を訊いて‥‥ダメだ。[%p]
+ZH [name]拓也[line]对啊，问下名字吧‥‥不行啊。[%p]
+
+JA [name]たくや[line]コミュニケートの手段は、イエスかノー、肯定か否定だけだ。[%p]
+ZH [name]拓也[line]交流手段，只有Ｙｅｓ或Ｎｏ，肯定或否定。[%p]
+
+JA [name]たくや[line]彼女に単語を話させるような質問は、無意味だぜ‥‥。[%p]
+ZH [name]拓也[line]让她用单词来回答问题是没有意义的‥‥。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]俺のことで、この子に訊いてもしょうがないぜ‥‥。[%p]
+ZH [name]拓也[line]关于我的事情，问这孩子也没什么用吧‥‥。[%p]
+
+JA [name]たくや[line]俺のことは‥‥知ってないよな?[%p]
+ZH [name]拓也[line]JF:你不知道我的事吧？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]俺の名前も?[%p]
+ZH [name]拓也[line]我的名字也？[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]とにかく、俺を見るのが初めてってことか。[%p]
+ZH [name]拓也[line]反正，你是头一次见到我吧。[%p]
+
+JA [name]目の前の女性[line]コクン。[%p]
+ZH [name]眼前的女性[line]点头。[%p]
+
+JA [name]たくや[line]‥‥そりゃそうだ。俺だって、この女の子を見るの、初めてだもんな。[%p]
+ZH [name]拓也[line]‥‥正是如此。对我来说也是初次见到这女孩啊。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA 
+ZH 
+

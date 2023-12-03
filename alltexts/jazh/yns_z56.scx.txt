@@ -1,0 +1,195 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]見渡す限りの砂漠だな‥‥。[%p]
+ZH [name]拓也[line]一望无垠的沙漠……。[%p]
+
+JA [name]たくや[line]ふう‥‥太陽が昇っているときは、さすがにしんどいぜ‥‥。[%p]
+ZH [name]拓也[line]呼……太阳升起来的时候，实在是让人受不了……。[%p]
+
+JA [name]たくや[line]この先が、聖地ってわけか‥‥。[%p]
+ZH [name]拓也[line]这前面，就是圣地了吗……。[%p]
+
+JA [name]たくや[line]だが、神殿は何カ所にも存在するらしい‥‥俺とユーノが見た神殿は、どこにあったんだろうな。[%p]
+ZH [name]拓也[line]但是，据说神殿是有好几所的……我和优诺看到的神殿，是在什么地方呢。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]‥‥暑い‥‥‥‥。[%p]
+ZH [name]拓也[line]……好热…………。[%p]
+
+JA [name]アマンダ[line]なぁ、たくや‥‥。[%p]
+ZH [name]阿曼达[line]呐，拓也……。[%p]
+
+JA [name]たくや[line]なんだよ。[%p]
+ZH [name]拓也[line]什么啊。[%p]
+
+JA [name]アマンダ[line]やっぱり、夜まで待った方が、よくなかったか?[%p]
+ZH [name]阿曼达[line]果然，我们是不是，应该待到晚上再走比较好呢？[%p]
+
+JA [name]たくや[line]寝坊したアマンダが悪いんだろう。[%p]
+ZH [name]拓也[line]是睡懒觉的阿曼达你的错吧。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]1〜2時間休憩したら、すぐに出発するって、言ってあったはずだろう。[%p]
+ZH [name]拓也[line]JF:他应该说过休息一两个小时后马上出发。[%p]
+
+JA [name]アマンダ[line]だって‥‥。[%p]
+ZH [name]阿曼达[line]可是……。[%p]
+
+JA [name]たくや[line]だって?[%p]
+ZH [name]拓也[line]JF:因为？[%p]
+
+JA [name]アマンダ[line]なっ‥‥何だよ! たくやが悪いんだろう![%p]
+ZH [name]阿曼达[line]什……什么嘛！这是　拓也你的错吧！[%p]
+
+JA [name]たくや[line]俺?[%p]
+ZH [name]拓也[line]我？[%p]
+
+JA [name]アマンダ[line]その‥‥急に優しくなんかするから‥‥オレもつい‥‥今まで張っていたものが‥‥。[%p]
+ZH [name]阿曼达[line]JF:那个……因为突然变得温柔……我也不知不觉……至今为止贴着的东西。[%p]
+
+JA [name]たくや[line]それでグーグー寝ちまったって訳か。[%p]
+ZH [name]拓也[line]JF:所以就呼呼大睡了吗。[%p]
+
+JA [name]アマンダ[line]《なんだよ‥‥昨夜はもっと優しかったのに‥‥。》[%p]
+ZH [name]阿曼达[line]JF:“什么啊……昨晚明明更温柔……”[%p]
+
+JA [name]たくや[line]何か言ったか?[%p]
+ZH [name]拓也[line]你说什么了吗？[%p]
+
+JA [name]アマンダ[line]なにも言っちゃいないよ![%p]
+ZH [name]阿曼达[line]什么都没说啦！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何を怒ってるんだよ、あいつは。[%p]
+ZH [name]拓也[line]在生什么气啊，这家伙。[%p]
+
+JA [name]アマンダ[line]ニブい奴にはわからない、乙女心があるんだよっ。[%p]
+ZH [name]阿曼达[line]迟钝的家伙是不会懂的，我有着一颗少女心啊。[%p]
+
+JA [name]たくや[line]おとめ? 誰が?[%p]
+ZH [name]拓也[line]少女心？　谁啊？[%p]
+
+JA [name]アマンダ[line]フン。[%p]
+ZH [name]阿曼达[line]哼。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥ま、いいさ。[%p]
+ZH [name]拓也[line]……嘛，算了。[%p]
+
+JA [name]たくや[line]聖地とやらまで、もうすぐだ‥‥。[%p]
+ZH [name]拓也[line]距离圣地，已经很近了……。[%p]
+
+JA [name]たくや[line]そして、それを抜ければ‥‥帝都だ。[%p]
+ZH [name]拓也[line]然后，穿过那里之后……就是帝都了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]それにしても、静かな砂漠だな‥‥。[%p]
+ZH [name]拓也[line]话说回来，真是宁静的沙漠啊……。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line](まったく‥‥‥‥。)[%p]
+ZH [name]拓也[line](（真是的…………。）。)[%p]
+
+JA [name]たくや[line](‥‥これほどとは思わなかったぜ。)[%p]
+ZH [name]拓也[line](（……真是没想到情况会这么恶劣。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](強い陽射しに加えて‥‥。)[%p]
+ZH [name]拓也[line](（再加上炙热的阳光……。）。)[%p]
+
+JA [name]たくや[line](地面からの放射熱の強さといったら‥‥。)[%p]
+ZH [name]拓也[line](（说到来自地面的放射热强度的话……。）。)[%p]
+
+JA [name]たくや[line](‥‥まさかここまで凄いとは。)[%p]
+ZH [name]拓也[line](（……没想到居然会是这么厉害。）。)[%p]
+
+JA [name]たくや[line](くそっ‥‥。)[%p]
+ZH [name]拓也[line](（可恶……。）。)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line](‥‥もう、あれから1週間近くになるぜ。)[%p]
+ZH [name]拓也[line](（……距离出发，已经过了将近１周时间。）。)[%p]
+
+JA [name]たくや[line](水や食料は、倍の2週間分持ったっていうのに‥‥。)[%p]
+ZH [name]拓也[line](（水和食物，明明都带够了２周分量的２倍……。）。)[%p]
+
+JA [name]たくや[line](もう底をつきかけている‥‥。)[%p]
+ZH [name]拓也[line](（居然都已经见底了……。）。)[%p]
+
+JA [name]たくや[line](このままじゃ‥‥。)[%p]
+ZH [name]拓也[line](（再这样下去……。）。)[%p]
+
+JA [name]ユーノ[line]ん‥‥‥‥。[%p]
+ZH [name]优诺[line]嗯…………。[%p]
+
+JA [name]たくや[line]‥‥大丈夫か?[%p]
+ZH [name]拓也[line]‥‥不要紧吧？[%p]
+
+JA [name]ユーノ[line]ううん‥‥ユーノ、大丈夫よ‥‥。[%p]
+ZH [name]优诺[line]不要紧……优诺，没关系的……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](大丈夫の訳ないぜ‥‥。)[%p]
+ZH [name]拓也[line](（不可能没关系吧……。）。)[%p]
+
+JA [name]たくや[line](これだけの陽射しと放射熱で、かなり参っているはずなんだ‥‥。)[%p]
+ZH [name]拓也[line](（在这种程度的阳光和温度之下，她应该会觉得相当难受吧……。）。)[%p]
+
+JA [name]たくや[line](水を飲み続けないと、アッという間に脱水症状を起こしてしまう‥‥。)[%p]
+ZH [name]拓也[line](（如果不能持续饮水的话，一定会很快引起脱水症状的……。）。)[%p]
+
+JA [name]たくや[line](だけど、水の残りも、あと僅か‥‥。)[%p]
+ZH [name]拓也[line](（但是，现在，水也已经所剩无几了……。）。)[%p]
+
+JA [name]たくや[line](だけど‥‥。)[%p]
+ZH [name]拓也[line](可是……。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](歩いても歩いても、見渡す限り砂漠だ‥‥。)[%p]
+ZH [name]拓也[line](（就这么走着走着，一眼望过去全是沙漠……。）。)[%p]
+
+JA 
+ZH 
+

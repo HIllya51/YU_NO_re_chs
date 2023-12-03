@@ -1,0 +1,309 @@
+JA [name]たくや[line]三角山のふもと‥‥通称「社」だ。[%p]
+ZH [name]拓也[line]三角山的脚下……通称为［社］。[%p]
+
+JA [name]たくや[line]もう10時をまわったのにな‥‥誰もいないみたいだ。[%p]
+ZH [name]拓也[line]已经过了１０啦‥‥好像谁也没来。[%p]
+
+JA [name]たくや[line]裏手の方から声がしたぜ‥‥行ってみないか?[%p]
+ZH [name]拓也[line]后方有声音传来‥‥不去看看吗？[%p]
+
+JA [name]たくや[line]誰かいるのか‥‥?[%p]
+ZH [name]拓也[line]谁在那里啊‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]返事をしてくれ。オヤジか?[%p]
+ZH [name]拓也[line]给我回个话啊。是老头子吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]あ‥‥‥‥。[%p]
+ZH [name]声音[line]啊‥‥‥‥。[%p]
+
+JA [name]たくや[line]オヤジ! あんたなのかっ!?[%p]
+ZH [name]拓也[line]老头子！　是你吗！？[%p]
+
+JA [name]たくや[line]どうしたんだよ、返事をしてくれ![%p]
+ZH [name]拓也[line]怎么了啊，答应一声啊！[%p]
+
+JA [name]声[line]あ‥‥‥‥。[%p]
+ZH [name]声音[line]啊‥‥‥‥。[%p]
+
+JA [name]たくや[line]裏手だ‥‥山の裏側だぞ。[%p]
+ZH [name]拓也[line]这里是背侧‥‥就是山的背面。[%p]
+
+JA [name]たくや[line]確かにそっちの方から‥‥声みたいなのが聴こえてきたんだ。[%p]
+ZH [name]拓也[line]确实听到从那边‥‥传来像是人说话的声音。[%p]
+
+JA [name]たくや[line]ここの社にいるのは、今のところ俺1人だ‥‥。[%p]
+ZH [name]拓也[line]这社里眼下只有我１个人在‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]風が冷たいな‥‥。[%p]
+ZH [name]拓也[line]冷风袭来‥‥。[%p]
+
+JA [name]たくや[line]オヤジの野郎、本当に来るのか‥‥?[%p]
+ZH [name]拓也[line]老头子那家伙，真的会来吗‥‥？[%p]
+
+JA [name]たくや[line]誰もいないみたいだぜ‥‥。[%p]
+ZH [name]拓也[line]似乎谁也不在这里啊‥‥。[%p]
+
+JA [name]たくや[line]いったいどうしたんだ、オヤジの野郎は‥‥。[%p]
+ZH [name]拓也[line]老头子那家伙到底怎么回事‥‥。[%p]
+
+JA [name]たくや[line]シンと静まり返っているな‥‥。[%p]
+ZH [name]拓也[line]四下无声，万籁俱寂‥‥。[%p]
+
+JA [name]たくや[line]海のさざ波‥‥木々の音‥‥これが一層静寂を引き立てるんだ。[%p]
+ZH [name]拓也[line]海面泛起的微波‥‥风吹拂树叶的声响‥‥愈发衬托这一派静寂的景象。[%p]
+
+JA [name]たくや[line]何だろう、この寒気は‥‥。[%p]
+ZH [name]拓也[line]这股寒气是怎么回事‥‥。[%p]
+
+JA [name]たくや[line]海からの風のせいか‥‥?[%p]
+ZH [name]拓也[line]是从海上吹来凉风的缘故吗‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]岩じゃない。山の裏側から声がしたんだ‥‥。[%p]
+ZH [name]拓也[line]跟这石头没关系啦。刚才从山背面有声音传来‥‥。[%p]
+
+JA [name]たくや[line]いちおう、この街の名所らしいんだが‥‥意味は誰にもわかっていないらしい。[%p]
+ZH [name]拓也[line]这里姑且也算是这城市的名所‥‥可其中的内涵好像谁也不清楚。[%p]
+
+JA [name]たくや[line]左の岩には、文字が刻まれている‥‥。[%p]
+ZH [name]拓也[line]左边的岩石上刻着些文字‥‥。[%p]
+
+JA [name]たくや[line]いったい何の意味があるんだろうな‥‥。[%p]
+ZH [name]拓也[line]究竟写的是什么意思呢‥‥。[%p]
+
+JA [name]たくや[line]2つの岩が向かい合うように置いてある‥‥。[%p]
+ZH [name]拓也[line]２块岩石相对而立‥‥。[%p]
+
+JA [name]たくや[line]誰かが、この形に置いた訳じゃないらしいが‥‥。[%p]
+ZH [name]拓也[line]好像并不是由谁刻意放成这样的‥‥。[%p]
+
+JA [name]たくや[line]そうだよ、この山の裏側だ。[%p]
+ZH [name]拓也[line]对哦，这里是山的背面。[%p]
+
+JA [name]たくや[line]誰か、いるみたいだぞ‥‥。[%p]
+ZH [name]拓也[line]似乎有人在这儿‥‥。[%p]
+
+JA [name]たくや[line]ひっそりと、そびえ立っている‥‥。[%p]
+ZH [name]拓也[line]默默矗立于此‥‥。[%p]
+
+JA [name]たくや[line]もの凄い重圧感だな‥‥。[%p]
+ZH [name]拓也[line]让人感到相当强的压迫感‥‥。[%p]
+
+JA [name]たくや[line]剣ノ岬のふもとと言ったら、ここしかないはずだ。[%p]
+ZH [name]拓也[line]说起剑之岬的山脚，应该说的只能是这里吧。[%p]
+
+JA [name]たくや[line]手紙でいう人物は、まだ現れていないな‥‥。[%p]
+ZH [name]拓也[line]信上提到的人，还没有现身‥‥。[%p]
+
+JA [name]たくや[line]ふもとのどこに、誰がいるっていうんだ‥‥。[%p]
+ZH [name]拓也[line]说是某人会在山脚这里等的‥‥。[%p]
+
+JA [name]たくや[line]誰も現れないじゃないか。[%p]
+ZH [name]拓也[line]这不是谁也没出现吗。[%p]
+
+JA [name]たくや[line]静かにそびえ立っているな‥‥。[%p]
+ZH [name]拓也[line]默默矗立在此啊‥‥。[%p]
+
+JA [name]たくや[line]剣ノ岬のふもとだ‥‥俗称は三角山だがな。[%p]
+ZH [name]拓也[line]这里是剑之岬的山脚‥‥俗称三角山。[%p]
+
+JA [name]たくや[line]いったいここで、誰を待てばいいんだ‥‥?[%p]
+ZH [name]拓也[line]我究竟在这里等谁呢‥‥？[%p]
+
+JA [name]たくや[line]木が生い茂って、裏側へはなかなか回れないな‥‥。[%p]
+ZH [name]拓也[line]这里树木茂盛，很难绕到山背面去‥‥。[%p]
+
+JA [name]たくや[line]気を付けないと怪我をするぜ‥‥。[%p]
+ZH [name]拓也[line]一不留神就可能碰伤‥‥。[%p]
+
+JA [name]たくや[line]木は海からの風で、ざわめいているぜ‥‥。[%p]
+ZH [name]拓也[line]海风吹拂而过，树木沙沙作响‥‥。[%p]
+
+JA [name]たくや[line]木のざわめき‥‥何だか寒気がする。[%p]
+ZH [name]拓也[line]树的沙沙声‥‥不知怎的让人产生了些寒意。[%p]
+
+JA [name]たくや[line]どうしたんだ‥‥いったい‥‥。[%p]
+ZH [name]拓也[line]到底‥‥是怎么回事‥‥。[%p]
+
+JA [name]たくや[line]海からの風で、静かになびいている‥‥。[%p]
+ZH [name]拓也[line]树静静地随风飘动‥‥。[%p]
+
+JA [name]たくや[line]とりあえず、山の裏側へ回ってみないか?[%p]
+ZH [name]拓也[line]总之，先绕到山背面去吧？[%p]
+
+JA [name]たくや[line]気のせいだったのか‥‥。[%p]
+ZH [name]拓也[line]刚才是产生错觉了吧‥‥。[%p]
+
+JA [name]たくや[line]いや、確かに何か、聴こえたような感じが‥‥。[%p]
+ZH [name]拓也[line]不对，确实感觉听到了些什么声音‥‥。[%p]
+
+JA [name]たくや[line]くそっ、このままじゃ、ラチがあかないぜ。[%p]
+ZH [name]拓也[line]可恶，这样下去会毫无进展的。[%p]
+
+JA [name]たくや[line]おーーーいっ![%p]
+ZH [name]拓也[line]喂———！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今、何か聴こえたような気がする‥‥いったい何だ?[%p]
+ZH [name]拓也[line]刚刚好像听到了些什么‥‥究竟是什么呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おかしいな‥‥。[%p]
+ZH [name]拓也[line]真奇怪啊……。[%p]
+
+JA [name]たくや[line]やっぱり、誰かのイタズラ‥‥?[%p]
+ZH [name]拓也[line]果然是谁搞的恶作剧吧‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いや、手紙の文体は、確かにアイツのだ。忘れる訳がない。[%p]
+ZH [name]拓也[line]不，信里的笔迹，确实是老头子那家伙的。我不可能不认得。[%p]
+
+JA [name]たくや[line]あの野郎はロクでなしだが、約束は破らないヤツだった‥‥。[%p]
+ZH [name]拓也[line]那混蛋虽然是个草包，但可不是会失约之人‥‥。[%p]
+
+JA [name]たくや[line]誰も現れない‥‥イタズラだったのかな。[%p]
+ZH [name]拓也[line]没人现身‥‥这本来就是恶作剧吧。[%p]
+
+JA [name]たくや[line]来ない‥‥くそっ。[%p]
+ZH [name]拓也[line]没来‥‥可恶。[%p]
+
+JA [name]たくや[line]オヤジの野郎がのこのこ現れると思ったんだが‥‥。[%p]
+ZH [name]拓也[line]本想着老头子那家伙会恬不知耻地出现呢‥‥。[%p]
+
+JA [name]たくや[line]三角山のふもとと言ったら、この社を指すはずだ。[%p]
+ZH [name]拓也[line]要说三角山的山脚，就应该指的是这「社」啦。[%p]
+
+JA [name]たくや[line]場所はここに間違いないはずなんだが‥‥。[%p]
+ZH [name]拓也[line]地点在这里我应该是不会弄错的‥‥。[%p]
+
+JA [name]たくや[line]‥‥来ないな。[%p]
+ZH [name]拓也[line]‥‥但没人来啊。[%p]
+
+JA [name]たくや[line]もう10時を何分かまわっているぜ‥‥。[%p]
+ZH [name]拓也[line]已经是１０点过几分了‥‥。[%p]
+
+JA [name]たくや[line]そうだ‥‥声はどうやらそっちからしたみたいだ。[%p]
+ZH [name]拓也[line]是啊‥‥好歹从那边有声音传来。[%p]
+
+JA [name]たくや[line]オヤジの野郎だろうか‥‥。[%p]
+ZH [name]拓也[line]会是老头子那家伙吧‥‥。[%p]
+
+JA [name]たくや[line]よし、行ってみよう‥‥。[%p]
+ZH [name]拓也[line]好吧，过去看看……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]イテッ。[%p]
+ZH [name]拓也[line]痛啊。[%p]
+
+JA [name]たくや[line]‥‥ったく、木が生い茂っていて、まともに歩けないな。[%p]
+ZH [name]拓也[line]‥‥真是的，这里树木茂盛，根本迈不开步啊。[%p]
+
+JA [name]たくや[line]おまけに岩を滑り落ちたら、夜の海へドボンだ。[%p]
+ZH [name]拓也[line]要是岩石滑落下来，只能扑通跳进夜晚的大海了。[%p]
+
+JA [name]たくや[line]気を付けなくちゃならないな‥‥。[%p]
+ZH [name]拓也[line]必须要多加小心了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おーいっ、オヤジ、いるのか?[%p]
+ZH [name]拓也[line]喂——老头子，在吗？[%p]
+
+JA [name]たくや[line]いたら返事をしてくれ![%p]
+ZH [name]拓也[line]在的话回个话啊！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないのか‥‥?[%p]
+ZH [name]拓也[line]没人在吗‥‥？[%p]
+
+JA [name]たくや[line]いや、そんなはずはない。確かに声が聴こえたんだ。[%p]
+ZH [name]拓也[line]不，不可能。确实听到有声音的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あっ‥‥あそこに。[%p]
+ZH [name]拓也[line]啊……在那个方向。[%p]
+
+JA [name]たくや[line]人が‥‥倒れてる。人が倒れてるぞ。[%p]
+ZH [name]拓也[line]有人……倒在地上。有个人倒在那里。[%p]
+
+JA [name]たくや[line]‥‥女性だ‥‥‥‥。[%p]
+ZH [name]拓也[line]‥‥是个女的‥‥‥‥。[%p]
+
+JA [name]たくや[line]何だ、この女性は‥‥。[%p]
+ZH [name]拓也[line]这女人咋回事啊‥‥。[%p]
+
+JA [name]たくや[line]外傷は無いみたいだが‥‥とにかく息はまだある。[%p]
+ZH [name]拓也[line]看起来没有外伤‥‥而且好歹还在呼吸。[%p]
+
+JA [name]たくや[line]違う、海岸の方向じゃない。[%p]
+ZH [name]拓也[line]不对，不是海岸的方向。[%p]
+
+JA [name]たくや[line]俺が行きたいのは‥‥。[%p]
+ZH [name]拓也[line]我想去的地方是‥‥。[%p]
+
+JA [name]たくや[line]もう少し待ってみないか‥‥?[%p]
+ZH [name]拓也[line]在这里再稍微等等吗‥‥？[%p]
+
+JA [name]たくや[line]10時を数分過ぎただけだぜ‥‥。[%p]
+ZH [name]拓也[line]现在也就是１０点过几分而已‥‥。[%p]
+
+JA [name]たくや[line]だが、オヤジの野郎は時間にだけは几帳面だったんだ。[%p]
+ZH [name]拓也[line]不过，老头子那家伙对于时间可是一丝不苟的。[%p]
+
+JA [name]たくや[line]10分も遅刻をするようなヤツじゃなかったが‥‥。[%p]
+ZH [name]拓也[line]不是那种随便就迟到１０分钟的人‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]待てよ‥‥目的の人物に会っていないぜ。[%p]
+ZH [name]拓也[line]等等啊‥‥还没有和目标人物会面。[%p]
+
+JA 
+ZH 
+

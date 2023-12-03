@@ -1,0 +1,75 @@
+JA [name]たくや[line]家の前だ‥‥。[%p]
+ZH [name]拓也[line]家门前‥‥。[%p]
+
+JA [name]たくや[line]ユーノは、まだ支度をしているんだろうか‥‥。[%p]
+ZH [name]拓也[line]优诺还在做准备把‥‥。[%p]
+
+JA [name]たくや[line]なんだ‥‥良かった、倒れていないみたいだ。[%p]
+ZH [name]拓也[line]什么呀‥‥还好，没把它弄倒。[%p]
+
+JA [name]たくや[line]だけど、中の家具なんかは、無事じゃすまなかったかも‥‥。[%p]
+ZH [name]拓也[line]不过，里面的家具什么的，就不可能平安无事了‥‥。[%p]
+
+JA [name]声[line]《キャーーー‥‥‥‥。》[%p]
+ZH [name]声音[line]《呀———‥‥‥‥。》[%p]
+
+JA [name]たくや[line]‥‥!!!??[%p]
+ZH [name]拓也[line]JF:！！！？？[%p]
+
+JA [name]たくや[line]何だ、今の叫び声は‥‥?[%p]
+ZH [name]拓也[line]刚才的叫声是什么‥‥？[%p]
+
+JA [name]たくや[line]まさか‥‥セーレス!?[%p]
+ZH [name]拓也[line]难不成‥‥是塞蕾斯！？[%p]
+
+JA [name]たくや[line]どこだ‥‥どこから聞こえてきた!?[%p]
+ZH [name]拓也[line]在哪里‥‥从哪里传来的！？[%p]
+
+JA [name]たくや[line]家の前だ‥‥ユーノはいないぜ。[%p]
+ZH [name]拓也[line]家门前‥‥优诺并不在。[%p]
+
+JA [name]たくや[line]ユーノのヤツ、またあそこにいるのかな‥‥。[%p]
+ZH [name]拓也[line]优诺那家伙，还在那边呆着呢么‥‥。[%p]
+
+JA [name]たくや[line]まったく、1人で出歩かないように言い聞かせたのにな‥‥。[%p]
+ZH [name]拓也[line]真是的，明明告诫过她不要１个人出去乱逛‥‥。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]家の前だぜ‥‥。[%p]
+ZH [name]拓也[line]这是家门前‥‥。[%p]
+
+JA [name]たくや[line]何をやってるんだ、早く中に入ろう。[%p]
+ZH [name]拓也[line]干什么呢，快点进去咯。[%p]
+
+JA [name]たくや[line]随分と待たせてしまったな‥‥。[%p]
+ZH [name]拓也[line]让我等了好久啊‥‥。[%p]
+
+JA [name]たくや[line]今日は色々と、木の実を採ってきたから、時間がかかっちまった。[%p]
+ZH [name]拓也[line]今天也要去采集各种各样的果实，会花不少时间。[%p]
+
+JA [name]たくや[line]シビれをきらしてなきゃ、いいけどね。[%p]
+ZH [name]拓也[line]别让我等得不耐烦了就好。[%p]
+
+JA [name]たくや[line]アイリアの家の前だ‥‥。[%p]
+ZH [name]拓也[line]艾丽娅的家门前‥‥。[%p]
+
+JA [name]たくや[line]ったく、どこへ行ったんだよ‥‥。[%p]
+ZH [name]拓也[line]真是的，跑到哪里去了‥‥。[%p]
+
+JA [name]たくや[line]キョロキョロ‥‥。[%p]
+ZH [name]拓也[line]东张西望……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まったく、どこへ行ったんだよ‥‥。[%p]
+ZH [name]拓也[line]真是，跑到哪里去了、‥‥。[%p]
+
+JA [name]たくや[line]本当に、子犬みたいな女の子だな‥‥。[%p]
+ZH [name]拓也[line]真是的，这孩子简直像条小狗一样‥‥。[%p]
+
+JA 
+ZH 
+

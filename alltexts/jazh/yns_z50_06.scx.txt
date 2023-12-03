@@ -1,0 +1,714 @@
+JA [name]たくや[line]‥‥!!?[%p]
+ZH [name]拓也[line]……！！？[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line](何だ‥‥いったいこれは!?)[%p]
+ZH [name]拓也[line](（这‥‥究竟是什么！？）)[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line]シッ‥‥黙ってるんだ。[%p]
+ZH [name]拓也[line]嘘‥‥别出声。[%p]
+
+JA [name]ユーノ[line]ウ、ウン‥‥。[%p]
+ZH [name]优诺[line]（嗯、嗯‥‥）。[%p]
+
+JA [name]ユーノ[line]パパ‥‥女の人が、倒れてる。[%p]
+ZH [name]优诺[line]爸爸‥‥有个女人倒在那里。[%p]
+
+JA [name]たくや[line]ああ‥‥わかってる。[%p]
+ZH [name]拓也[line]啊啊‥‥我知道。[%p]
+
+JA [name]ユーノ[line]助けてあげないの?[%p]
+ZH [name]优诺[line]不去帮助她吗？[%p]
+
+JA [name]たくや[line]いきなりあの女性が、俺たちに襲いかかってきたらどうする?[%p]
+ZH [name]拓也[line]要是这女的突然向我们袭击过来该怎么办？[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]目の前の女性[line]《私たちは、ある場所からやってきました‥‥。》[%p]
+ZH [name]眼前的女性[line]《我们从某个地方来到这里‥‥。》[%p]
+
+JA [name]たくや[line]ある場所‥‥?[%p]
+ZH [name]拓也[line]某个地方……？[%p]
+
+JA [name]目の前の女性[line]《ここから、遠く離れた場所です。》[%p]
+ZH [name]眼前的女性[line]《离这里很远的地方。》[%p]
+
+JA [name]たくや[line]‥‥[ボーダー]の外か?[%p]
+ZH [name]拓也[line]‥‥［边沿］之外吗？[%p]
+
+JA [name]目の前の女性[line]《私たちは、あなたの言う[ボーダー]というのを知りません。その質問には答えられません。》[%p]
+ZH [name]眼前的女性[line]《我们不知道你所说的［边沿］是什么。回答不了这个问题。》[%p]
+
+JA [name]たくや[line]‥‥わかった、続けてくれ。[%p]
+ZH [name]拓也[line]‥‥我懂了，请你继续。、。[%p]
+
+JA [name]目の前の女性[line]《私は今、あの砂漠を越え、ここへやってきました‥‥。》[%p]
+ZH [name]眼前的女性[line]《我刚穿过沙漠来到这里‥‥。》[%p]
+
+JA [name]たくや[line](砂漠‥‥ラファエロのことか。)[%p]
+ZH [name]拓也[line](（沙漠‥‥拉斐尔吗）。)[%p]
+
+JA [name]目の前の女性[line]《そして、傷つき疲れ、限界にまで達しています‥‥。》[%p]
+ZH [name]眼前的女性[line]《我身上有伤并且十分疲惫，已经快到极限了‥‥。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]《私はどうなっても構いません‥‥ですがこの子を、住みやすい場所で育ててほしいのです。》[%p]
+ZH [name]眼前的女性[line]《我怎么样不要紧‥‥不过希望这孩子能在适宜居住的地方生长。》[%p]
+
+JA [name]たくや[line]この子‥‥? その、トカゲみたいなの生き物が?[%p]
+ZH [name]拓也[line]这孩子‥‥？　是那个像蜥蜴的生物吗？[%p]
+
+JA [name]目の前の女性[line]《この子は、私の子供です‥‥大切な子供です。》[%p]
+ZH [name]眼前的女性[line]《这是我的孩子‥‥是我最宝贵的孩子。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]目の前の女性[line]《お願いです‥‥。》[%p]
+ZH [name]眼前的女性[line]《拜托你们……。》[%p]
+
+JA [name]たくや[line]いいだろう‥‥ただし俺の質問に答えてくれたらだ。[%p]
+ZH [name]拓也[line]好啊‥‥可你要回答一些我的问题。[%p]
+
+JA [name]目の前の女性[line]《私が知っていることなら‥‥。》[%p]
+ZH [name]眼前的女性[line]《只要是我知道的‥‥。》[%p]
+
+JA [name]たくや[line]君は背中に羽を生やしている。いったいそれは何だ?[%p]
+ZH [name]拓也[line]你背上留着羽毛一样的东西。那到底是什么？[%p]
+
+JA [name]目の前の女性[line]《私は生まれたときから、この姿です‥‥。》[%p]
+ZH [name]眼前的女性[line]《我自出生开始就是这种外形‥‥。》[%p]
+
+JA [name]たくや[line]人間に羽が生えている訳がないだろう。いったいその身体はどういうことだよ。[%p]
+ZH [name]拓也[line]人类是不会生着羽毛的吧。这身体究竟是怎么回事。[%p]
+
+JA [name]目の前の女性[line]《神がお造り下さった身体です‥‥。》[%p]
+ZH [name]眼前的女性[line]《这是神赐予的身体‥‥。》[%p]
+
+JA [name]たくや[line]神? 神って何だ。[%p]
+ZH [name]拓也[line]神？　什么是神。[%p]
+
+JA [name]目の前の女性[line]《万物の創造主‥‥。》[%p]
+ZH [name]眼前的女性[line]《万物的创造者‥‥。》[%p]
+
+JA [name]たくや[line]そんな宗教的なことを訊いてるんじゃない。[%p]
+ZH [name]拓也[line]我不是问这种宗教方面的问题。[%p]
+
+JA [name]目の前の女性[line]《では、何と答えればよろしいのでしょうか‥‥。》[%p]
+ZH [name]眼前的女性[line]《那我该怎么回答比较好呢‥‥。》[%p]
+
+JA [name]たくや[line]‥‥じゃあ違う質問だ。君は遠く離れた場所から来たと言ったな。[%p]
+ZH [name]拓也[line]‥‥算了，换个问题。你说是从很远的地方来的吧。[%p]
+
+JA [name]目の前の女性[line]《はい‥‥。》[%p]
+ZH [name]眼前的女性[line]《好的……。》[%p]
+
+JA [name]たくや[line]その場所は、いったいどこなんだ。[%p]
+ZH [name]拓也[line]那是什么地方。[%p]
+
+JA [name]目の前の女性[line]《砂漠を越えた、場所です‥‥。》[%p]
+ZH [name]眼前的女性[line]《要穿过沙漠‥‥。》[%p]
+
+JA [name]たくや[line]砂漠を越えたら‥‥そこは帝都じゃないか。[%p]
+ZH [name]拓也[line]穿过沙漠的话‥‥那里不是帝都吗。[%p]
+
+JA [name]目の前の女性[line]《帝都という言葉を私は知りません‥‥。》[%p]
+ZH [name]眼前的女性[line]《我不清楚你所说的帝都这词语是什么‥‥。》[%p]
+
+JA [name]たくや[line]うーん‥‥八方塞がりって状態だな。[%p]
+ZH [name]拓也[line]JF:嗯……四面八方都是塞车的状态啊。[%p]
+
+JA [name]目の前の女性[line]《ん‥‥子供を‥‥。》[%p]
+ZH [name]眼前的女性[line]《唔‥‥把我的孩子‥‥。》[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]目の前の女性[line]《私は、もう‥‥。》[%p]
+ZH [name]眼前的女性[line]《我已经不‥‥。》[%p]
+
+JA [name]たくや[line]お、おいちょっとまて、まだ訊きたいことがあるぞ。[%p]
+ZH [name]拓也[line]喂、我说等等，我还没问完啊。[%p]
+
+JA [name]目の前の女性[line]《‥‥あの人と一緒に‥‥行きなさい。》[%p]
+ZH [name]眼前的女性[line]《‥‥去跟那个人一起吧‥‥。》[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥。[%p]
+
+JA [name]たくや[line]君の子供って言ったって、何だよその違いは。そんな生物がいるわけないぞ。[%p]
+ZH [name]拓也[line]JF:说是你的孩子，有什么区别。不可能有那样的生物。[%p]
+
+JA [name]目の前の女性[line]《子供を‥‥お願い‥‥。》[%p]
+ZH [name]眼前的女性[line]《孩子‥‥拜托了‥‥。》[%p]
+
+JA [name]たくや[line]‥‥おい。[%p]
+ZH [name]拓也[line]……喂。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line]おいったら。返事を‥‥はっ。[%p]
+ZH [name]拓也[line]喂我说。回个话啊‥‥哈。[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]ユーノ[line]パパ‥‥死んじゃったの?[%p]
+ZH [name]优诺[line]爸爸‥‥她死了吗？[%p]
+
+JA [name]たくや[line]ああ‥‥そうらしい。[%p]
+ZH [name]拓也[line]啊啊‥‥好象是。[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]ユーノ[line]ねぇ、パパ、どうするのこの子。[%p]
+ZH [name]优诺[line]呐，爸爸，这孩子怎么办。[%p]
+
+JA [name]たくや[line]ん、ああ‥‥そうだな。[%p]
+ZH [name]拓也[line]嗯、嗯啊‥‥也是呢。[%p]
+
+JA [name]目の前の女性[line]《子供を‥‥お願い‥‥。》[%p]
+ZH [name]眼前的女性[line]《孩子‥‥拜托了‥‥。》[%p]
+
+JA [name]たくや[line]お願いって言ったって‥‥どうしろっていうんだ。[%p]
+ZH [name]拓也[line]她说要拜托我‥‥拜托我什么呢。[%p]
+
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]な、なんだよ。[%p]
+ZH [name]拓也[line]什，什么啊。[%p]
+
+JA [name]ユーノ[line]ユーノ、パパにお話があるのっ。[%p]
+ZH [name]优诺[line]优诺有话跟爸爸说。[%p]
+
+JA [name]たくや[line](ユーノがこう言う時って、必ず何かお願いなんだよな‥‥。)[%p]
+ZH [name]拓也[line](（优诺一般这样说的时候，一定有什么请求‥‥）。)[%p]
+
+JA [name]ユーノ[line]ねぇ、パパ、お願いっ。[%p]
+ZH [name]优诺[line]我说爸爸，求你了。[%p]
+
+JA [name]たくや[line]はいはい‥‥やっぱりね。[%p]
+ZH [name]拓也[line]好好‥‥果然。[%p]
+
+JA [name]ユーノ[line]この子、うちで面倒を見よっ。[%p]
+ZH [name]优诺[line]就把这孩子带到家里照看吧。[%p]
+
+JA [name]たくや[line]面倒を見ようって‥‥んな子犬や子猫の類じゃないんだぞ。[%p]
+ZH [name]拓也[line]照看啥的‥‥又不是小猫小狗之类的东西。[%p]
+
+JA [name]ユーノ[line]だって‥‥可哀相なんですもの。[%p]
+ZH [name]优诺[line]可是‥‥多可怜的家伙。[%p]
+
+JA [name]たくや[line]可哀相とか、そういう同情心じゃ、飼うことはできないぞ。[%p]
+ZH [name]拓也[line]觉得可怜，带着这种同情心是养不好的。[%p]
+
+JA [name]ユーノ[line]なんで?[%p]
+ZH [name]优诺[line]为什么？[%p]
+
+JA [name]たくや[line]生き物を飼うというのはな、その命にまで責務を負うということなんだ。途中で飼えないから捨てるなんて訳には、いかないんだぞ。[%p]
+ZH [name]拓也[line]养动物呢，是要对其生命负责的。可不能有养到一半给扔了这种事发生。[%p]
+
+JA [name]ユーノ[line]だって、この子、このままだって死んじゃうわ。[%p]
+ZH [name]优诺[line]可这孩子，这样下去会死掉的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そっか‥‥。)[%p]
+ZH [name]拓也[line](是么……。)[%p]
+
+JA [name]たくや[line](コイツも、母親‥‥なんだろうな‥‥が死んでしまって、途方に暮れているんだろう。)[%p]
+ZH [name]拓也[line](（这家伙也是‥‥该怎么说‥‥母亲死了走投无路了吧。）。)[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]たくや[line](ダ、ダメだ、ダメだ。情に流されちゃ。)[%p]
+ZH [name]拓也[line](（不、不行，不行。不能流露出自己的感情。）。)[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]パパ‥‥可哀相![%p]
+ZH [name]优诺[line]爸爸‥‥它多可怜！[%p]
+
+JA [name]たくや[line]んなこと言ったってな‥‥俺はこんなトカゲみたいな生き物の飼い方なんて知らないぞ。[%p]
+ZH [name]拓也[line]别跟我说这个‥‥我连这种蜥蜴一样的生物该怎么饲养都不知道啊。[%p]
+
+JA [name]ユーノ[line]ユーノ、勉強するモン。[%p]
+ZH [name]优诺[line]优诺会学的。[%p]
+
+JA [name]たくや[line]勉強ったって‥‥食べ物はどうすんだ、食べ物は。[%p]
+ZH [name]拓也[line]你要学‥‥那食物怎么解决。食物。[%p]
+
+JA [name]ユーノ[line]そっか‥‥ユーノ、オッパイ出ないもの。[%p]
+ZH [name]优诺[line]也是‥‥优诺的胸部还没长出来。[%p]
+
+JA [name]たくや[line]ばっ‥‥お前に出てたまるか。[%p]
+ZH [name]拓也[line]傻‥‥你怎么可能有。[%p]
+
+JA [name]ユーノ[line]そうだっ! ママは?[%p]
+ZH [name]优诺[line]对啦！　妈妈呢？[%p]
+
+JA [name]たくや[line]あのな、あのトカゲにセーレスの胸を吸わせるってのか!?[%p]
+ZH [name]拓也[line]喂喂，你是说让那蜥蜴吸塞蕾斯的胸部！？[%p]
+
+JA [name]ユーノ[line]だって、ママはママだし、オッパイだって‥‥。[%p]
+ZH [name]优诺[line]因为妈妈就是妈妈啊，胸部也大‥‥。[%p]
+
+JA [name]たくや[line]出ない出ない。[%p]
+ZH [name]拓也[line]不会有不会有的。[%p]
+
+JA [name]ユーノ[line]うーん‥‥じゃあ、パパは?[%p]
+ZH [name]优诺[line]唔—嗯‥‥那爸爸呢？[%p]
+
+JA [name]たくや[line]なぜ俺が乳を出さにゃ、ならんのだ。[%p]
+ZH [name]拓也[line]为啥觉得我会有奶水？。[%p]
+
+JA [name]ユーノ[line]うーん、うーん‥‥。[%p]
+ZH [name]优诺[line]唔—嗯，唔—嗯‥‥。[%p]
+
+JA [name]たくや[line]食べ物だけじゃない。他にも生活環境とか、そういうのも考慮に入れてだな‥‥。[%p]
+ZH [name]拓也[line]不光是食物。其他生活环境啊，都得要考虑呢‥‥。[%p]
+
+JA [name]ユーノ[line]ねぇ、パパ。[%p]
+ZH [name]优诺[line]呐，爸爸。[%p]
+
+JA [name]たくや[line]そ、そんな目でお願いしたって‥‥。[%p]
+ZH [name]拓也[line]别、别用那种眼神求我‥‥。[%p]
+
+JA [name]ユーノ[line]パパ‥‥お願い![%p]
+ZH [name]优诺[line]爸爸‥‥求你了！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]ユーノ、一生懸命、面倒みるっ。[%p]
+ZH [name]优诺[line]优诺会努力照顾它的。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]ユーノ[line]食べ物も、一生懸命探してくる。[%p]
+ZH [name]优诺[line]也会努力寻找食物的。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]ユーノ[line]洗濯もするっ、お掃除もするっ。肩叩きもするからっ![%p]
+ZH [name]优诺[line]洗衣服啊，打扫卫生啊，还有捶肩都会做的！[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]ユーノ[line]あーン、パパっ、ユーノ死ぬ気で頑張っちゃうの![%p]
+ZH [name]优诺[line]啊啊～爸爸，优诺拼了命也会努力的！[%p]
+
+JA [name]たくや[line]‥‥ふぅ。[%p]
+ZH [name]拓也[line]‥‥呼。[%p]
+
+JA [name]ユーノ[line]‥‥ダメ?[%p]
+ZH [name]优诺[line]……不可以么？[%p]
+
+JA [name]たくや[line]わかったよ。OKだ。[%p]
+ZH [name]拓也[line]我知道了。那ＯＫ了。[%p]
+
+JA [name]ユーノ[line]ホント!?[%p]
+ZH [name]优诺[line]真的！？[%p]
+
+JA [name]たくや[line]ただし、条件がある。[%p]
+ZH [name]拓也[line]不过我有条件。[%p]
+
+JA [name]ユーノ[line]キス?[%p]
+ZH [name]优诺[line]亲你？[%p]
+
+JA [name]たくや[line]お前な、何てことを言うんだ。[%p]
+ZH [name]拓也[line]你啊，说什么呢。[%p]
+
+JA [name]ユーノ[line]だってぇ‥‥いっつもパパ、ママに言ってるモン。しょうがないなぁ、キスで許してあげるかって。[%p]
+ZH [name]优诺[line]可是‥‥爸爸总是这样跟妈妈说的。拿你没办法啊，亲我一下就原谅你啥的。[%p]
+
+JA [name]たくや[line](‥‥子供はちゃんと親のことを見てるんだよ。)[%p]
+ZH [name]拓也[line](（‥‥小孩都会把父母的事看得一清二楚啊。）。)[%p]
+
+JA [name]ユーノ[line]なになに?[%p]
+ZH [name]优诺[line]指的是什么啊？[%p]
+
+JA [name]たくや[line]条件ってのはな、ママがオーケーを出したら。[%p]
+ZH [name]拓也[line]我说的条件呢，就是妈妈得说ＯＫ才行。[%p]
+
+JA [name]ユーノ[line]ママが?[%p]
+ZH [name]优诺[line]妈妈？[%p]
+
+JA [name]たくや[line]そう。ママが反対したら、ダメ。[%p]
+ZH [name]拓也[line]对。妈妈反对就不行啦。[%p]
+
+JA [name]ユーノ[line]うん、ママを説得するっ。[%p]
+ZH [name]优诺[line]嗯，我去说服妈妈。[%p]
+
+JA [name]たくや[line]せ、説得‥‥。(どこでそんな言葉を覚えたんだか。)[%p]
+ZH [name]拓也[line]说、说服‥‥（从哪里学来这种词汇的。）。)[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]ユーノ[line]こらっ、いつまでも泣いていないのっ。[%p]
+ZH [name]优诺[line]哎呀，你不会一直在哭吧。[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥。[%p]
+
+JA [name]ユーノ[line]そうだわっ、いつもクンクン鳴いてるから、あなたの名前はクンクンよっ。[%p]
+ZH [name]优诺[line]对咯，你老是库嗯库嗯地叫，就叫你昆昆啦。[%p]
+
+JA [name]たくや[line]ズルッ‥‥そんな安直なネーミングでいいのか。[%p]
+ZH [name]拓也[line]哧溜‥‥这种简便的名字挺好啊。[%p]
+
+JA [name]ユーノ[line]クンクン! さっ、行こう。新たな生活と世界に向かって![%p]
+ZH [name]优诺[line]昆昆！　好，走吧。向新生活新世界前进！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](新たな生活と世界か‥‥。)[%p]
+ZH [name]拓也[line](（新生活新世界吗‥‥）。)[%p]
+
+JA [name]たくや[line](今の俺が、まさにそれだよな‥‥。)[%p]
+ZH [name]拓也[line](（对现在的我来说确实是如此‥‥）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ユーノは今、セーレスと交渉中らしいぜ。[%p]
+ZH [name]拓也[line]优诺好像正在和塞蕾斯交涉。[%p]
+
+JA [name]たくや[line]クンクンを立派な成人‥‥いや、成獣にしてみせるってね。[%p]
+ZH [name]拓也[line]我会把昆昆培养成出色的成年人‥‥啊不，成年兽。[%p]
+
+JA [name]たくや[line]獣‥‥か。[%p]
+ZH [name]拓也[line]兽‥‥吗。[%p]
+
+JA [name]たくや[line]いったいあのトカゲみたいな生き物は、何なんだろうな‥‥。[%p]
+ZH [name]拓也[line]那看上去像蜥蜴的生物究竟是什么呢‥‥。[%p]
+
+JA [name]たくや[line]ふぅ‥‥少し考えをまとめたいところだ。[%p]
+ZH [name]拓也[line]呼‥‥稍稍整理一下思绪吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何者だ?[%p]
+ZH [name]拓也[line]什么人？[%p]
+
+JA [name]目の前の女性[line]《私は‥‥#◇&◎$※☆%。》[%p]
+ZH [name]眼前的女性[line]JF:《我是……#◇&◎$※☆%。》[%p]
+
+JA [name]たくや[line]うわっ‥‥あ、頭に響く![%p]
+ZH [name]拓也[line]唔哇‥‥头、头在震！[%p]
+
+JA [name]ユーノ[line]パパ‥‥頭痛い。[%p]
+ZH [name]优诺[line]爸爸‥‥我头疼。[%p]
+
+JA [name]たくや[line]止めろ‥‥その言葉をやめるんだ![%p]
+ZH [name]拓也[line]JF:停止……停止那句话！[%p]
+
+JA [name]目の前の女性[line]《‥‥私の名前は、あなたがたの心に響きすぎるのです。》[%p]
+ZH [name]眼前的女性[line]《‥‥我的名字已经在你们的心中回响很多遍了。》[%p]
+
+JA [name]たくや[line]ふぅ‥‥大丈夫か、ユーノ。[%p]
+ZH [name]拓也[line]呼‥‥优诺，没事吧。[%p]
+
+JA [name]ユーノ[line]うん、もう大丈夫。[%p]
+ZH [name]优诺[line]嗯，没事了。[%p]
+
+JA [name]たくや[line]名前はいい。いったいここで何をしているんだ?[%p]
+ZH [name]拓也[line]名字倒是其次。你究竟在这里干什么？[%p]
+
+JA [name]目の前の女性[line]《選んで‥‥答えて下さい。》[%p]
+ZH [name]眼前的女性[line]《请选择‥‥然后回答。》[%p]
+
+JA [name]たくや[line]‥‥なんだって?[%p]
+ZH [name]拓也[line]……什么意思？[%p]
+
+JA [name]目の前の女性[line]《私を殺すか‥‥私の希望をあなたが受け取ってくれるか。》[%p]
+ZH [name]眼前的女性[line]《是杀了我呢‥‥还是接收我的希望。》[%p]
+
+JA [name]たくや[line]希望を‥‥受け取る?[%p]
+ZH [name]拓也[line]接收‥‥希望？[%p]
+
+JA [name]目の前の女性[line]《選んで‥‥答えて下さい。》[%p]
+ZH [name]眼前的女性[line]《请选择‥‥然后回答。》[%p]
+
+JA [name]たくや[line]‥‥よし、その希望とやらを話してみなよ。聞くだけは聞こう。[%p]
+ZH [name]拓也[line]‥‥好，你说说那希望啥的是怎么回事。我先这么听一听。[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line]ユーノ‥‥すぐに逃げられるようにしておけ。[%p]
+ZH [name]拓也[line]（优诺‥‥先找一个能迅速逃掉的位置。）。[%p]
+
+JA [name]ユーノ[line]う、うん‥‥でもパパは?[%p]
+ZH [name]优诺[line]（唔、唔嗯‥‥可是爸爸呢？）[%p]
+
+JA [name]たくや[line]自分のことだけを考えろ。まずお前が逃げ延びることだけを。[%p]
+ZH [name]拓也[line]（你就考虑自己的事情吧。先保证你能逃脱再说。）。[%p]
+
+JA [name]ユーノ[line]だ、だって‥‥。[%p]
+ZH [name]优诺[line]但，但是……。[%p]
+
+JA [name]たくや[line]父親としての命令だ。[%p]
+ZH [name]拓也[line]（这是作为父亲的命令。）。[%p]
+
+JA [name]ユーノ[line]う、うん‥‥。[%p]
+ZH [name]优诺[line]（嗯、嗯‥‥）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さてと‥‥どんなことを聞かせてくれるのかな。[%p]
+ZH [name]拓也[line]好了‥‥我能问你些什么问题呢。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]目の前の女性[line]《目の前のお方‥‥。》[%p]
+ZH [name]眼前的女性[line]《眼前的这位‥‥。》[%p]
+
+JA [name]たくや[line]おわっ! な、何だ!?[%p]
+ZH [name]拓也[line]呜哇！这、这是什么！？[%p]
+
+JA [name]ユーノ[line]ユーノ、頭痛い。[%p]
+ZH [name]优诺[line]优诺头疼。[%p]
+
+JA [name]目の前の女性[line]《目の前のお方‥‥私たちに攻撃の意志はありません。》[%p]
+ZH [name]眼前的女性[line]《眼前的这位‥‥我们没打算攻击。》[%p]
+
+JA [name]たくや[line]な、何だ‥‥どこから聴こえてくる?[%p]
+ZH [name]拓也[line]啥、是啥‥‥从哪里传来的？[%p]
+
+JA [name]目の前の女性[line]《私たちに、攻撃の意志はありません。》[%p]
+ZH [name]眼前的女性[line]《我们没打算攻击你们。》[%p]
+
+JA [name]たくや[line]あ、頭に直接‥‥?[%p]
+ZH [name]拓也[line]从、从脑袋里直接‥‥？[%p]
+
+JA [name]目の前の女性[line]《攻撃の意志はありません‥‥。》[%p]
+ZH [name]眼前的女性[line]《没打算攻击‥‥。》[%p]
+
+JA [name]たくや[line]何をしているんだ、君はここで。[%p]
+ZH [name]拓也[line]你在这里干什么呢。[%p]
+
+JA [name]目の前の女性[line]《私はあなたの心に、直接話しかけています‥‥。》[%p]
+ZH [name]眼前的女性[line]《我可以同你的内心直接进行对话‥‥。》[%p]
+
+JA [name]たくや[line]俺の‥‥心?[%p]
+ZH [name]拓也[line]我的‥‥内心？[%p]
+
+JA [name]目の前の女性[line]《その恐ろしい武器を降ろして下さい‥‥私たちに攻撃の意志はありません。》[%p]
+ZH [name]眼前的女性[line]《请放下那骇人的武器‥‥我们没打算进行攻击。》[%p]
+
+JA [name]たくや[line]それはできない。俺たちにも身を守る権利があるだろう。君が例えそう言ったとしても。[%p]
+ZH [name]拓也[line]这可不行。我们也有保护自己的权利。就算你你这样说。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]たくや[line](話すことができないのか‥‥?)[%p]
+ZH [name]拓也[line](（你说不了话吗‥‥？）)[%p]
+
+JA [name]目の前の女性[line]‥‥‥‥。[%p]
+ZH [name]眼前的女性[line]…………。[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥。[%p]
+
+JA [name]たくや[line](迷子の子犬みたいな鳴き声をあげてる‥‥。)[%p]
+ZH [name]拓也[line](（发出像是迷路小狗般的叫声‥‥）。)[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥。[%p]
+
+JA [name]たくや[line]おわっ、な、何か喋った。[%p]
+ZH [name]拓也[line]哇，它在、在说什么。[%p]
+
+JA [name]左側の生き物[line]クゥーン‥‥クゥーン‥‥。[%p]
+ZH [name]左边的生物[line]库嗯‥‥库嗯‥‥。[%p]
+
+JA [name]たくや[line]‥‥迷子の子犬みたいな鳴き声をあげるな。[%p]
+ZH [name]拓也[line]‥‥它发出像是迷路小狗般的叫声。[%p]
+
+JA [name]ユーノ[line]なにか、さびしそう‥‥。[%p]
+ZH [name]优诺[line]JF:好像很寂寞。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](もう少し、目の前のこの女性と話してみよう‥‥。)[%p]
+ZH [name]拓也[line](（再跟眼前的这女人聊聊吧‥‥）。)[%p]
+
+JA [name]目の前の女性[line]《私たちは‥‥あなたがたに危害を加えるつもりはありません。》[%p]
+ZH [name]眼前的女性[line]《我们‥‥没打算加害于你们两位。》[%p]
+
+JA [name]目の前の女性[line]《ですから、その恐ろしい武器を降ろして下さい‥‥。》[%p]
+ZH [name]眼前的女性[line]《所以，请放下那可怕的武器‥‥。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おいおい‥‥訳もわからず攻撃はできないぜ。[%p]
+ZH [name]拓也[line]喂喂‥‥我没了解情况之前是不会攻击的。[%p]
+
+JA [name]たくや[line]怪物だったら、すぐ攻撃するつもりだったが‥‥。[%p]
+ZH [name]拓也[line]是怪物的话，应该会马上发动攻击的‥‥。[%p]
+
+JA [name]たくや[line]‥‥怪物というには、やや様子がおかしいみたいだぜ。[%p]
+ZH [name]拓也[line]‥‥要说是怪物的话，感觉这外貌也有点奇怪吧。[%p]
+
+JA [name]ユーノ[line]パパ‥‥大丈夫なの?[%p]
+ZH [name]优诺[line]爸爸‥‥没事吧？[%p]
+
+JA [name]たくや[line]わからない‥‥もうちょっと様子を見よう。[%p]
+ZH [name]拓也[line]不知道‥‥我再看看情况。[%p]
+
+JA [name]たくや[line](目の前に、羽を生やした女性がいる‥‥。)[%p]
+ZH [name]拓也[line](（眼前是个长着羽毛的女人‥‥）。)[%p]
+
+JA [name]たくや[line](とりあえず、話を聞いてみようぜ‥‥。)[%p]
+ZH [name]拓也[line](（总之先听她怎么讲‥‥）。)[%p]
+
+JA [name]たくや[line]静かだ‥‥誰もいないみたいだな。[%p]
+ZH [name]拓也[line]好安静‥‥好像没人在的样子。[%p]
+
+JA [name]たくや[line]ここにいる、俺たち以外は‥‥。[%p]
+ZH [name]拓也[line]这里除了我们之外呢还有‥‥。[%p]
+
+JA [name]たくや[line]あたりって‥‥あたり一面に髪の毛が広がっている‥‥。[%p]
+ZH [name]拓也[line]你说附近吗‥‥附近都被头发所覆盖‥‥。[%p]
+
+JA [name]ユーノ[line]すごっく長い髪の毛‥‥。[%p]
+ZH [name]优诺[line]好长好长的头发‥‥。[%p]
+
+JA [name]たくや[line]こらっ、触るんじゃない。[%p]
+ZH [name]拓也[line]喂，摸什么摸。[%p]
+
+JA [name]たくや[line](いったい‥‥この目の前の女性は、何者なんだ?)[%p]
+ZH [name]拓也[line](（这眼前的女人‥‥究竟是何方神圣？）)[%p]
+
+JA [name]たくや[line](いやそれより以前に、人間‥‥なんだろうか。)[%p]
+ZH [name]拓也[line](（哎比起这个，她是人类‥‥还是别的。）。)[%p]
+
+JA [name]たくや[line](羽の生えた女性‥‥?)[%p]
+ZH [name]拓也[line](（生着羽毛的女人‥‥？）)[%p]
+
+JA [name]たくや[line](そんな人間がいるのか‥‥?)[%p]
+ZH [name]拓也[line](（有这样的人存在吗‥‥？）)[%p]
+
+JA [name]ユーノ[line]あっ、パパ。[%p]
+ZH [name]优诺[line]啊，爸爸。[%p]
+
+JA [name]たくや[line]ん?[%p]
+ZH [name]拓也[line]嗯？[%p]
+
+JA [name]ユーノ[line]お羽が生えてるぅ![%p]
+ZH [name]优诺[line]她长着羽毛呢！[%p]
+
+JA [name]たくや[line]羽?[%p]
+ZH [name]拓也[line]羽毛？[%p]
+
+JA [name]ユーノ[line]ほらっ、女の人の、背中のとこ![%p]
+ZH [name]优诺[line]你看，她背上那里！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](羽‥‥。)[%p]
+ZH [name]拓也[line](（羽毛‥‥）。)[%p]
+
+JA [name]たくや[line]女性‥‥なんだろうか?[%p]
+ZH [name]拓也[line]这女的‥‥是人类吧？[%p]
+
+JA [name]ユーノ[line]でも、何か変。[%p]
+ZH [name]优诺[line]可是，有点奇怪。[%p]
+
+JA [name]たくや[line]ああ‥‥何か変だぜ。[%p]
+ZH [name]拓也[line]啊啊‥‥确实有点奇怪。[%p]
+
+JA [name]たくや[line]いったい何なんだ‥‥?[%p]
+ZH [name]拓也[line]到底是哪里奇怪呢‥‥？[%p]
+
+JA [name]ユーノ[line]何だか可愛いね。[%p]
+ZH [name]优诺[line]总感觉好可爱啊。[%p]
+
+JA [name]たくや[line]こらこら、触ろうとするんじゃない。[%p]
+ZH [name]拓也[line]喂喂，你摸～摸什么摸。[%p]
+
+JA [name]たくや[line]何だ、あのトカゲみたいな生き物は‥‥。[%p]
+ZH [name]拓也[line]怎么，那蜥蜴一样的生物‥‥。[%p]
+
+JA [name]ユーノ[line]トカゲって、なーに?[%p]
+ZH [name]优诺[line]你说蜥蜴什么？[%p]
+
+JA [name]たくや[line]トカゲというのはだな‥‥とにかく、そんな説明は後だ。[%p]
+ZH [name]拓也[line]我说蜥蜴啊‥‥管它呢，后面再跟你说这个。[%p]
+
+JA [name]たくや[line](羽が生えてるぞ、本当に‥‥。)[%p]
+ZH [name]拓也[line](（真的长着羽毛啊‥‥）。)[%p]
+
+JA [name]たくや[line](そんなのを生やしてる人間が、いるというのか‥‥?)[%p]
+ZH [name]拓也[line](（会有长着这种东西的人存在吗‥‥？）)[%p]
+
+JA [name]たくや[line]羽だ‥‥コウモリみたいな羽が生えてる。[%p]
+ZH [name]拓也[line]是羽毛‥‥长着像蝙蝠一样的翅膀。[%p]
+
+JA [name]ユーノ[line]コウモリって、なーに?[%p]
+ZH [name]优诺[line]蝙蝠又是什～么～？[%p]
+
+JA [name]たくや[line]コウモリというのはだな‥‥今はそんな説明をしてる場合じゃなくて。[%p]
+ZH [name]拓也[line]所谓蝙蝠啊‥‥现在是来说明这个的时候吗。[%p]
+
+JA [name]ユーノ[line]つまんないの。[%p]
+ZH [name]优诺[line]真无趣。[%p]
+
+JA [name]たくや[line]つまる、つまらないの問題じゃないぞ。[%p]
+ZH [name]拓也[line]这不是有没有趣的问题。[%p]
+
+JA [name]たくや[line](危険になったら逃げればいい‥‥。)[%p]
+ZH [name]拓也[line](（要是有危险逃走就好了‥‥）。)[%p]
+
+JA [name]たくや[line](今はもう少し、この女性から話を聞いてみよう‥‥。)[%p]
+ZH [name]拓也[line](（现在再问她一些问题吧‥‥）。)[%p]
+
+JA [name]たくや[line](待てよ‥‥もうちょっと様子をみてみないか?)[%p]
+ZH [name]拓也[line](（等一下‥‥不再稍微看看情况吗？）)[%p]
+
+JA [name]たくや[line](逃げるのは‥‥根本的な解決にはならないぜ。)[%p]
+ZH [name]拓也[line](（逃走‥‥是不能解决根本问题的。）。)[%p]
+
+JA [name]たくや[line](目の前の奴等が、逃げた俺たちを追ってくるかもしれない。)[%p]
+ZH [name]拓也[line](（我们逃走以后，眼前的家伙可能会来追赶。）。)[%p]
+
+JA [name]たくや[line](いざとなったら、ユーノだけでも逃がすつもりだが‥‥。)[%p]
+ZH [name]拓也[line](（不管怎么样，只要优诺能跑掉就行了‥‥）。)[%p]
+
+JA 
+ZH 
+

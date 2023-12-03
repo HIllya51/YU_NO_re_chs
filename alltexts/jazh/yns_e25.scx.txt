@@ -1,0 +1,24 @@
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]何度、足を運んでも、俺の知っている人は‥‥ん?[%p]
+ZH [name]拓也[line]不管我进来多少遍，我认识的人都，嗯……？[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]客の入りは、中くらいって感じだが‥‥。[%p]
+ZH [name]拓也[line]进出的顾客，给人很普通的感觉……。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]俺の知っている人は、誰もいないみたいだな。[%p]
+ZH [name]拓也[line]我认识的人，貌似谁都不在啊。[%p]
+
+JA 
+ZH 
+

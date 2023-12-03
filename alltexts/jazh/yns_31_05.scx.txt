@@ -1,0 +1,105 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]荒れた土蔵が建っているだけだ‥‥。[%p]
+ZH [name]拓也[line]建造着一个荒废了的土藏……。[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]壁がかなり損壊しているな‥‥。[%p]
+ZH [name]拓也[line]墙壁损坏得相当严重……。[%p]
+
+JA [name]たくや[line]夜見ると、一層不気味だぞ‥‥。[%p]
+ZH [name]拓也[line]JF:晚上看的话，更让人毛骨悚然。[%p]
+
+JA [name]たくや[line]半壊状態の土蔵だな‥‥。[%p]
+ZH [name]拓也[line]半坏状态的土藏……。[%p]
+
+JA [name]たくや[line]雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]感觉像是杂树林……。[%p]
+
+JA [name]たくや[line]緑も、殆ど雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]植物也是，几乎就是杂树林的感觉……。[%p]
+
+JA [name]たくや[line]手入れはまるでされていないみたいだな。[%p]
+ZH [name]拓也[line]好像完全没有整修过啊。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥。[%p]
+ZH [name]拓也[line]阴暗的天空……。[%p]
+
+JA [name]たくや[line]人気はない‥‥。[%p]
+ZH [name]拓也[line]没有人气……。[%p]
+
+JA [name]たくや[line]静かなものだが‥‥‥‥。[%p]
+ZH [name]拓也[line]万籁俱寂…………。[%p]
+
+JA [name]たくや[line]この雰囲気じゃ、タタリとか言われるのもしょうがないぜ。[%p]
+ZH [name]拓也[line]这个气氛，即使被说有作祟神什么的也是没办法的呢。[%p]
+
+JA [name]たくや[line]いかにも何かが出そうじゃないか。[%p]
+ZH [name]拓也[line]确实不是好像有什么要出现的样子吗。[%p]
+
+JA [name]たくや[line]土蔵のカギは開いてる‥‥。[%p]
+ZH [name]拓也[line]土藏的锁已经打开了……。[%p]
+
+JA [name]たくや[line]しかし、中に美月さんがいるとは思えないが‥‥。[%p]
+ZH [name]拓也[line]不过，我不觉得美月会在这里面……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、中へ入ってみよう‥‥。[%p]
+ZH [name]拓也[line]总之，先进里面去看看吧……。[%p]
+
+JA [name]たくや[line]カギをどこかで手に入れないと、中には入れない‥‥。[%p]
+ZH [name]拓也[line]如果不去哪里找把钥匙来的话，里面进不去啊……。[%p]
+
+JA [name]たくや[line]カギが必要なんだ‥‥土蔵のカギだ。[%p]
+ZH [name]拓也[line]钥匙是很有必要的……土藏的钥匙。[%p]
+
+JA [name]たくや[line]くそっ、マズったな。マップを利用して、違う場所から持ってくるしか、手がないのか‥‥。[%p]
+ZH [name]拓也[line]可恶，糟糕了啊。只能利用地图，去别的地方找到之后再带过来了吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]南京錠が掛かっているぜ‥‥。[%p]
+ZH [name]拓也[line]挂着一把荷包锁……。[%p]
+
+JA [name]たくや[line]どっからか、カギを調達してこないかぎり、中へは入れない‥‥。[%p]
+ZH [name]拓也[line]不想办法去哪里把钥匙弄过来的话，就进不了里面……。[%p]
+
+JA [name]たくや[line]かといって、戻る訳にもいかないし‥‥。[%p]
+ZH [name]拓也[line]不然的话，就只能回去了……。[%p]
+
+JA [name]たくや[line]くそっ、カギをどこかで手に入れないと‥‥。[%p]
+ZH [name]拓也[line]可恶，如果不去哪里把钥匙找到的话……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]でっかい南京錠が掛かっているぜ‥‥。[%p]
+ZH [name]拓也[line]锁着一把很大的荷包锁……。[%p]
+
+JA [name]たくや[line]ダメだな、開かない‥‥。[%p]
+ZH [name]拓也[line]不行啊，打不开呢……。[%p]
+
+JA [name]たくや[line]カギでもあれば、別だが‥‥。[%p]
+ZH [name]拓也[line]要是有钥匙的话，就可以……。[%p]
+
+JA [name]たくや[line]戻ってみるか‥‥。[%p]
+ZH [name]拓也[line]回去看看吗……。[%p]
+
+JA [name]たくや[line]向こうは確か、井戸があったな‥‥。[%p]
+ZH [name]拓也[line]我记得那个地方，是有一口井的……。[%p]
+
+JA [name]たくや[line]かなりの暗がりだから、気を付けないとな‥‥。[%p]
+ZH [name]拓也[line]相当的昏暗啊，要是不小心的话……。[%p]
+
+JA [name]たくや[line]よし、行ってみよう。[%p]
+ZH [name]拓也[line]好嘞，去看看吧。[%p]
+
+JA 
+ZH 
+

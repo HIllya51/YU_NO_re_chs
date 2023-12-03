@@ -1,0 +1,144 @@
+JA [name]たくや[line]シティホテルの前だ。[%p]
+ZH [name]拓也[line]城市宾馆的前面。[%p]
+
+JA [name]たくや[line]絵里子先生は、確かにこっちに来たんだけど‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，确实到这边来了的说……。[%p]
+
+JA [name]たくや[line]今はいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]看样子现在不在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA キョロ、キョロ‥‥。[%p]
+ZH 东张，西望……。[%p]
+
+JA [name]たくや[line]確かに、こっちの方へやってきたんだが‥‥。[%p]
+ZH [name]拓也[line]我记得，应该是往这个方向去了的……。[%p]
+
+JA [name]たくや[line]絵里子先生、どこへ行ったんだ‥‥?[%p]
+ZH [name]拓也[line]绘里子老师，到哪里去了呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、龍蔵寺達も見失っちまうし‥‥手際が悪すぎるぜ。[%p]
+ZH [name]拓也[line]可恶，龙藏寺那些人也跟丢了……我的手法实在是太拙劣了。[%p]
+
+JA [name]たくや[line]ホテルの中だろうか‥‥? それとも‥‥。[%p]
+ZH [name]拓也[line]在宾馆里面吗……？　还是说……。[%p]
+
+JA [name]声[line]たくやクン!?[%p]
+ZH [name]声音[line]拓也君！？[%p]
+
+JA [name]たくや[line]‥‥この声は‥‥‥‥。[%p]
+ZH [name]拓也[line]……这个声音是…………。[%p]
+
+JA [name]たくや[line]亜由美さん!?[%p]
+ZH [name]拓也[line]亚由美小姐！？[%p]
+
+JA [name]亜由美[line]なんで、こんな所に‥‥。[%p]
+ZH [name]亚由美[line]为什么，在这种地方……。[%p]
+
+JA [name]たくや[line]それは俺のセリフだよ‥‥。[%p]
+ZH [name]拓也[line]这话是我要说的吧……。[%p]
+
+JA [name]豊富[line]主任の息子さんですか。[%p]
+ZH [name]丰富[line]是主任的儿子吗。[%p]
+
+JA [name]たくや[line]‥‥![%p]
+ZH [name]拓也[line]……！[%p]
+
+JA [name]たくや[line](豊富‥‥何でこいつが!)[%p]
+ZH [name]拓也[line](（丰富……为什么这家伙在！）)[%p]
+
+JA [name]豊富[line]ふむ、未成年が感心しないな、こんな時間に出歩くとは。[%p]
+ZH [name]丰富[line]哼嗯，我真是服了你们这些未成年人，这种时间还出来逛。[%p]
+
+JA [name]たくや[line]あんたに説教される謂れはないな。[%p]
+ZH [name]拓也[line]我没有必要接受你的说教吧。[%p]
+
+JA [name]亜由美[line]たくやクン![%p]
+ZH [name]亚由美[line]拓也君！[%p]
+
+JA [name]たくや[line]どういうことだよ、亜由美さん。こんな‥‥。[%p]
+ZH [name]拓也[line]到底怎么回事啊，亚由美小姐。这样的……。[%p]
+
+JA [name]亜由美[line]私たちは‥‥その、ここでお食事をしただけよ。[%p]
+ZH [name]亚由美[line]我们……那个，只是在这里吃饭啊。[%p]
+
+JA [name]たくや[line]お食事? このホテルで?[%p]
+ZH [name]拓也[line]吃饭？　在这个宾馆？[%p]
+
+JA [name]豊富[line]君な、無粋な詮索をするもんじゃない。大人の事情というものを考慮したまえ。[%p]
+ZH [name]丰富[line]我说你啊，别问这种不懂风趣的问题。你也要对成人之间的事情考虑一下啊。[%p]
+
+JA [name]たくや[line]なに![%p]
+ZH [name]拓也[line]什么！[%p]
+
+JA [name]亜由美[line]たくやクン、お願い、止めて。[%p]
+ZH [name]亚由美[line]JF|太好了，拜托，停下来。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]本当に‥‥お仕事関係の打ち合わせをしただけなの。[%p]
+ZH [name]亚由美[line]真的……只是因为工作关系的碰面而已。[%p]
+
+JA [name]たくや[line]言い訳をする必要はないよ。別に、気にしちゃいないさ。[%p]
+ZH [name]拓也[line]你没有跟我解释的必要。没什么，好在意的。[%p]
+
+JA [name]亜由美[line]たくやクン‥‥。[%p]
+ZH [name]亚由美[line]拓也君……。[%p]
+
+JA [name]豊富[line]さっ、主任。まだやることが残っていますよ。[%p]
+ZH [name]丰富[line]来吧，主任。我们还有事没干完呢。[%p]
+
+JA [name]亜由美[line]ええ‥‥たくやクン、私はこれから、会社へ行って、それから家に帰るね。[%p]
+ZH [name]亚由美[line]好的……拓也君，接下来，我要到公司去，之后会回家去吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]すぐだから‥‥ね?[%p]
+ZH [name]亚由美[line]很快的……嗯？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]豊富[line]さっ、行きましょう、主任。[%p]
+ZH [name]丰富[line]来吧，快走吧，主任。[%p]
+
+JA [name]亜由美[line]え、ええ‥‥じゃね、たくやクン。[%p]
+ZH [name]亚由美[line]呃，好的……再见，拓也君。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何なんだよ、くそっ![%p]
+ZH [name]拓也[line]什么啊，可恶！[%p]
+
+JA [name]たくや[line]何なんだよ、亜由美さん‥‥あんなアホと![%p]
+ZH [name]拓也[line]怎么回事啊，亚由美小姐……跟那种笨蛋！[%p]
+
+JA [name]たくや[line]イライラする‥‥なんだってんだ![%p]
+ZH [name]拓也[line]开始焦躁起来……怎么回事啊！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]絵里子先生を見失うわ、龍蔵寺はどこかへ行くわ‥‥。[%p]
+ZH [name]拓也[line]绘里子老师走丢了，龙藏寺也不知去了哪里……。[%p]
+
+JA [name]たくや[line]おまけに、亜由美さんはあのバカ野郎と‥‥。[%p]
+ZH [name]拓也[line]还有，亚由美小姐和那个混帐家伙……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

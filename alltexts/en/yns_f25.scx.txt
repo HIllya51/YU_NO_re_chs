@@ -1,0 +1,8 @@
+[name]Takuya[line]Why did I come back?[%p]
+[name]Takuya[line]Kaori isn't here.[%p]
+[name]Takuya[line]Kaori is⋯[%p]
+[name]Takuya[line]It's been over an hour. Maybe she really isn't here.[%p]
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]There's about an average amount of customers in today.[%p]
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]Doesn't seem like anyone I know is here.[%p]

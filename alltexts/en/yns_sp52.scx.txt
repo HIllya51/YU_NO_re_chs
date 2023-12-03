@@ -1,0 +1,7 @@
+[name]Takuya[line]It seems a lot quieter today than usual⋯[%p]
+[name]Takuya[line]Is it just my imagination⋯?[%p]
+[name]Takuya[line]Are you fooling around?[%p]
+[name]Takuya[line]There's only one place with water.[%p]
+[name]Takuya[line]Let's go.[%p]
+[name]Takuya[line]Water, waterrrrrr⋯*gasp*[%p]
+[name]Takuya[line]There has to be some water there.[%p]

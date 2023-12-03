@@ -1,0 +1,66 @@
+JA [name]たくや[line]次元移動装置‥‥。[%p]
+ZH [name]拓也[line]次元移动装置……。[%p]
+
+JA [name]たくや[line]そんなのがある場所といったら‥‥。[%p]
+ZH [name]拓也[line]说到会放置那种东西的地方的话……。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]なんだろう、静かだ‥‥。[%p]
+ZH [name]拓也[line]怎么了，好安静啊……。[%p]
+
+JA [name]たくや[line]明かりはともっているみたいだが‥‥。[%p]
+ZH [name]拓也[line]虽然看起来有很多照明的灯光……。[%p]
+
+JA [name]たくや[line]静かだ‥‥誰もいない。[%p]
+ZH [name]拓也[line]很安静……谁都不在。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗い廊下だな‥‥。[%p]
+ZH [name]拓也[line]昏暗的走廊……。[%p]
+
+JA [name]たくや[line]さっきまで、近衛兵が走り回っていたのに‥‥。[%p]
+ZH [name]拓也[line]明明到刚才为止，近卫兵都还在来回奔走……。[%p]
+
+JA [name]たくや[line]だから噴水の中にはいないってば。[%p]
+ZH [name]拓也[line]所以说了喷水池里面是没有的。[%p]
+
+JA [name]たくや[line]噴水の中に‥‥いるわけないな。[%p]
+ZH [name]拓也[line]喷水池里面……不可能会有啊。[%p]
+
+JA [name]たくや[line]何をやっているんだ、俺は。[%p]
+ZH [name]拓也[line]我这是在做什么啊。[%p]
+
+JA [name]たくや[line]いや‥‥俺が行きたいのはそっちじゃない。[%p]
+ZH [name]拓也[line]不对……我要去的地方不是这边。[%p]
+
+JA [name]たくや[line]そうだ、祭壇だ。[%p]
+ZH [name]拓也[line]对了，是祭坛。[%p]
+
+JA [name]たくや[line]そして、祭壇の奧には‥‥。[%p]
+ZH [name]拓也[line]而且，在祭坛的里面是……。[%p]
+
+JA [name]たくや[line]よし、とにかく行ってみよう。[%p]
+ZH [name]拓也[line]好吧，总而言之过去看看吧。[%p]
+
+JA [name]たくや[line]今そっちから来たんじゃないか。[%p]
+ZH [name]拓也[line]刚才不是才从那边走过来吗。[%p]
+
+JA [name]たくや[line]しっかりしてくれよ‥‥。[%p]
+ZH [name]拓也[line]给我振作一点啊……。[%p]
+
+JA [name]たくや[line]亜由美さんはここにはいないぜ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐不在这个地方呢……。[%p]
+
+JA [name]たくや[line]龍蔵寺に連れられて行ったんだ‥‥。[%p]
+ZH [name]拓也[line]已经被龙藏寺给带走了……。[%p]
+
+JA [name]たくや[line]そして、龍蔵寺は‥‥。[%p]
+ZH [name]拓也[line]而且，龙藏寺还……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,114 @@
+JA [name]たくや[line]高台に来たが‥‥。[%p]
+ZH [name]拓也[line]来到了高台‥‥。[%p]
+
+JA [name]たくや[line]‥‥街を一望できる場所だな。[%p]
+ZH [name]拓也[line]‥‥能将整座城市尽收眼底的地方。[%p]
+
+JA [name]たくや[line]神奈チャンはいないな‥‥。[%p]
+ZH [name]拓也[line]神奈不在啊‥‥。[%p]
+
+JA [name]たくや[line]神奈チャン![%p]
+ZH [name]拓也[line]神奈！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いなくなってしまった‥‥。[%p]
+ZH [name]拓也[line]已经不见了‥‥。[%p]
+
+JA [name]たくや[line]何なんだ、この感じは‥‥。[%p]
+ZH [name]拓也[line]怎么回事，这种感觉‥‥。[%p]
+
+JA [name]たくや[line]彼女がいなくなるって聞いた途端、胸が締めつけられたような感じがした‥‥。[%p]
+ZH [name]拓也[line]听到她不见了的时候，我的胸口猛地一紧‥‥。[%p]
+
+JA [name]たくや[line]俺の錯覚か‥‥?[%p]
+ZH [name]拓也[line]是我的错觉吗‥‥？[%p]
+
+JA [name]たくや[line]くそっ、彼女を見失うべきじゃなかったか‥‥。[%p]
+ZH [name]拓也[line]可恶，怎么会找不到她的‥‥。[%p]
+
+JA [name]たくや[line]彼女の行きそうな場所といったら‥‥。[%p]
+ZH [name]拓也[line]要说她会去什么地方的话‥‥。[%p]
+
+JA [name]たくや[line]高台だ‥‥この町が一望できる場所だな。[%p]
+ZH [name]拓也[line]高台‥‥能将这座城市尽收眼底的地方。[%p]
+
+JA [name]たくや[line]左下に公園、向こうには、神奈チャンのマンションが見えるぜ‥‥。[%p]
+ZH [name]拓也[line]左下是公园，对面的话，能看到神奈的公寓‥‥。[%p]
+
+JA [name]たくや[line]高台だ‥‥。[%p]
+ZH [name]拓也[line]是高台‥‥。[%p]
+
+JA [name]たくや[line]高台だ‥‥。[%p]
+ZH [name]拓也[line]是高台‥‥。[%p]
+
+JA [name]たくや[line]そういえば俺、解熱剤を持っているぞ‥‥。[%p]
+ZH [name]拓也[line]说起来，我带了退烧药啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥香織さんは、もういなくなってる。[%p]
+ZH [name]拓也[line]‥‥香织小姐，已经看不到了。[%p]
+
+JA [name]たくや[line]あれ、そういえば俺、何かやることがなかったか?[%p]
+ZH [name]拓也[line]啊咧，说起来，我就没有需要特地去做的事情吗？[%p]
+
+JA [name]たくや[line]何かの途中で、随分寄り道をしたような気がするが‥‥。[%p]
+ZH [name]拓也[line]一路上，我好像去了很多其它的地方啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥見失ってしまったか。[%p]
+ZH [name]拓也[line]‥‥跟丢了。[%p]
+
+JA [name]たくや[line]香織さん、確かにこっちへ来たと思ったんだが‥‥。[%p]
+ZH [name]拓也[line]香织小姐，应该是到这边来了啊‥‥。[%p]
+
+JA [name]たくや[line]どこへ行ってしまったんだ?[%p]
+ZH [name]拓也[line]到底去哪里啊？[%p]
+
+JA [name]香織[line]ほら見てよ、あそこの公園。[%p]
+ZH [name]香织[line]看到没，那边的公园。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]うはっ、飢えたカップルの、多いこと、多いこと。[%p]
+ZH [name]香织[line]唔哇，饥渴的情侣真是太多、太多了。[%p]
+
+JA [name]たくや[line]公園を見おろしながら、うきうきしないでくれ。[%p]
+ZH [name]拓也[line]香织小姐一边俯视着公园，一边在蠢蠢欲动着。[%p]
+
+JA [name]香織[line][ruby-base]明雲寺[ruby-text-start]めいうんじ[ruby-text-end]公園はこの時間、飢えた若者の巣窟よ。[%p]
+ZH [name]香织[line]JF:明云寺公园是这个时间饥饿的年轻人的巢穴。[%p]
+
+JA [name]たくや[line](何だか、変な女性だよな‥‥。)[%p]
+ZH [name]拓也[line](（总觉得，真是个奇怪的女人‥‥。）。)[%p]
+
+JA [name]香織[line]何よ、その顔。飢えた若者らしくないわね。[%p]
+ZH [name]香织[line]什么嘛，那种表情。一点都不像饥渴的年轻人。[%p]
+
+JA [name]たくや[line]飢えてないんだよ‥‥。[%p]
+ZH [name]拓也[line]本来就不饥渴‥‥。[%p]
+
+JA [name]香織[line]ここは座る場所がなくてダメね。地面に、ウンチ座りというのはどお?[%p]
+ZH [name]香织[line]这里都没有坐的地方所以不行喔。要不，蹲坐在地上？[%p]
+
+JA [name]たくや[line]う、うんちって‥‥立ったままでいいよ。[%p]
+ZH [name]拓也[line]蹲，蹲坐‥‥站着就可以了啊。[%p]
+
+JA [name]香織[line]たったまま‥‥情熱的ね。[%p]
+ZH [name]香织[line]站着就行了‥‥真有激情啊。[%p]
+
+JA [name]たくや[line]‥‥は?[%p]
+ZH [name]拓也[line]……哈？[%p]
+
+JA [name]香織[line]うふふーん。じゃ、立ったままでヤリましょう。[%p]
+ZH [name]香织[line]哼哼嗯。那么，就站着来做吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何だか、やりにくいぞ‥‥。)[%p]
+ZH [name]拓也[line](（总觉得，真难办啊‥‥。）。)[%p]
+
+JA 
+ZH 
+

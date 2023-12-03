@@ -1,0 +1,63 @@
+JA [name]たくや[line]地下道だ。[%p]
+ZH [name]拓也[line]JF:地下通道。[%p]
+
+JA [name]たくや[line]正面と左側に通路らしきものがあるぞ。[%p]
+ZH [name]拓也[line]JF:正面和左侧有类似通道的东西哦。[%p]
+
+JA [name]たくや[line]目の前のあそこだよ‥‥。[%p]
+ZH [name]拓也[line]就是眼前的那个地方……。[%p]
+
+JA [name]たくや[line]何か、明るいような‥‥。[%p]
+ZH [name]拓也[line]好像，有什么亮着……。[%p]
+
+JA [name]たくや[line]何だろう‥‥。[%p]
+ZH [name]拓也[line]（是什么……。）。[%p]
+
+JA [name]たくや[line]ほら、あれ‥‥。[%p]
+ZH [name]拓也[line]看，那是……。[%p]
+
+JA [name]たくや[line]床は湿っている‥‥。[%p]
+ZH [name]拓也[line]地上一片潮湿……。[%p]
+
+JA [name]たくや[line]いや、そんなことよりも‥‥。[%p]
+ZH [name]拓也[line]不对，比起这件事……。[%p]
+
+JA [name]たくや[line]明かりは、やや薄暗いな‥‥。[%p]
+ZH [name]拓也[line]照明，有点昏暗啊……。[%p]
+
+JA [name]たくや[line]だけど、目の前のあそこは‥‥。[%p]
+ZH [name]拓也[line]但是，眼前的那个地方是……。[%p]
+
+JA [name]たくや[line]天井じゃなくて、目の前のあれが気にならないか?[%p]
+ZH [name]拓也[line]不是天花板，难道不会对眼前的那东西感兴趣吗？[%p]
+
+JA [name]たくや[line]そうだ、目の前のあれだ。[%p]
+ZH [name]拓也[line]对了，是眼前的那个东西。[%p]
+
+JA [name]たくや[line]何だか、ボーっと明るいような気が‥‥。[%p]
+ZH [name]拓也[line]总觉得，好像一下子就亮起来了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし‥‥進んでみようぜ。[%p]
+ZH [name]拓也[line]好嘞……往前进看一下吧。[%p]
+
+JA [name]たくや[line]慎重にだ‥‥。[%p]
+ZH [name]拓也[line]要谨慎地……。[%p]
+
+JA [name]たくや[line]ちょっと待ってくれ。[%p]
+ZH [name]拓也[line]给我等一下。[%p]
+
+JA [name]たくや[line]気にならないか? あれが‥‥。[%p]
+ZH [name]拓也[line]难道不在意吗？　对那东西……。[%p]
+
+JA [name]たくや[line]えっ、戻るのか‥‥?[%p]
+ZH [name]拓也[line]诶，要回去吗……？[%p]
+
+JA [name]たくや[line]ここまできて‥‥。[%p]
+ZH [name]拓也[line]都已经到这里了……。[%p]
+
+JA 
+ZH 
+

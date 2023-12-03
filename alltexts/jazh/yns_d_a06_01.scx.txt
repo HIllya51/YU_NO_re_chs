@@ -1,0 +1,72 @@
+JA [name]たくや[line]二股に分かれている‥‥。[%p]
+ZH [name]拓也[line]分成两条路了……。[%p]
+
+JA [name]たくや[line]左へ行くと、岩が道を塞いでいる行き止まりに出る。[%p]
+ZH [name]拓也[line]往左走的话，就是被岩石封死了道路的尽头。[%p]
+
+JA [name]美月[line]右へ行くと‥‥また二股の分岐路に出るわ。[%p]
+ZH [name]美月[line]往右走的话……又会有两条岔路。[%p]
+
+JA [name]たくや[line]左へ行くと行き止まりだ‥‥。[%p]
+ZH [name]拓也[line]往左走就是尽头了……。[%p]
+
+JA [name]美月[line]岩が進路を塞いでいるあそこね。[%p]
+ZH [name]美月[line]那里已经被岩石封死道路了呢。[%p]
+
+JA [name]たくや[line]妙な絵柄のプレートがある場所だ‥‥。[%p]
+ZH [name]拓也[line]在那个有块画了奇怪图案的板的地方……。[%p]
+
+JA [name]たくや[line]右に行くと、また分かれ道になっていたな‥‥。[%p]
+ZH [name]拓也[line]往右走的话，又分成了不同的道路啊……。[%p]
+
+JA [name]たくや[line]こりゃあ、慎重に進む必要があるぜ‥‥。[%p]
+ZH [name]拓也[line]这样子的话，就必须要慎重地前进了……。[%p]
+
+JA [name]美月[line]気をつけて‥‥。[%p]
+ZH [name]美月[line]要当心一点……。[%p]
+
+JA [name]たくや[line]どっちへ行ったらいいんだろうな‥‥。[%p]
+ZH [name]拓也[line]到底应该往哪边走好啊……。[%p]
+
+JA [name]美月[line]慎重に移動しましょう。[%p]
+ZH [name]美月[line]要慎重地移动哦。[%p]
+
+JA [name]たくや[line]相変わらず湿っているな‥‥。[%p]
+ZH [name]拓也[line]还是一如既往地潮湿啊……。[%p]
+
+JA [name]美月[line]天井から水滴が落ちてくるせいね‥‥。[%p]
+ZH [name]美月[line]因为从岩壁顶上滴下水滴的缘故吧……。[%p]
+
+JA [name]たくや[line]湿っている以外は、異常がないな‥‥。[%p]
+ZH [name]拓也[line]除了潮湿以外，暂时没什么异常啊……。[%p]
+
+JA [name]たくや[line]しっとりとしているな‥‥。[%p]
+ZH [name]拓也[line]真的是太潮湿了啊……。[%p]
+
+JA [name]たくや[line]天井から落ちてくる水滴のせいだろうか‥‥。[%p]
+ZH [name]拓也[line]是因为从洞壁顶上滴下来水滴的缘故吧……。[%p]
+
+JA [name]たくや[line]右へ行ってみよう‥‥。[%p]
+ZH [name]拓也[line]到右边去看一看吧……。[%p]
+
+JA [name]たくや[line]左へ行ってみよう‥‥。[%p]
+ZH [name]拓也[line]到左边去看一看吧……。[%p]
+
+JA [name]たくや[line]後ろに戻るんだな‥‥?[%p]
+ZH [name]拓也[line]要转身回去吗……？[%p]
+
+JA [name]たくや[line]アイテムを使うときじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在不是使用道具的时候呢……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

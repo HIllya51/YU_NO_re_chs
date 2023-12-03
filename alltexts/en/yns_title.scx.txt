@@ -1,0 +1,106 @@
+ Continue
+ New Game
+ Delete Area
+ Copy Area
+ Change Name
+ Branch Map
+ Music Mode
+ Options
+ Help
+ 
+ 1
+ 2
+ 3
+ :Rate
+%
+:
+ 
+ Area 1
+ Area 2
+ Area 3
+ Keep Map and Items
+ Start with Best Equipment
+ Cancel
+ Start Game
+ Overwrite
+ From Main Story
+ From Other World
+◆Start Debug◆
+ Prologue
+ Don't Delete
+ Delete
+ 1:No Data
+ 2:No Data
+ 3:No Data
+ Copy
+Prologue   
+Main Story 
+Other World
+ 
+ 
+Resumes game from previously suspended data. 
+Please select area.
+Resumes game with previous modes. Depending on the 
+current game's status, you may only see one displayed. 
+[Continue]: Resumes game from previous 
+data. 
+[Keep Map and Items]: Carries over your previously created map 
+information and collected items while allowing you to 
+start from the part after the prologue. Your Jewel Save locations are also kept. 
+[Start with Best Equipment]: Start the main story with the best equipment. Jewels and items 
+will be in your possession as you start right after the prologue. 
+Map information will also be carried over. 
+Starts the game from the beginning. 
+Please select open area. 
+Deleting area. 
+Please select area to delete. 
+Copying area. 
+Please select area to copy. 
+Copying area. 
+Please select area to copy over. 
+Overwriting copy area. 
+If you overwrite, the existing data will be lost. 
+Changing name. 
+Displaying A.D.M.S. (branch map). 
+Select area to display. 
+Branch map of Area 1. 
+Branch map of Area 2. 
+Branch map of Area 3. 
+Reflector features are currently displayed. 
+At least one [Jewel] must be in your possession to open the map. 
+[DEBUG]本編から開始
+[DEBUG]本編からアイテム宝玉全ありで開始
+[DEBUG]異世界から開始
+[DEBUG]プロローグから開始
+[DEBUG]強制的に任意の場所からスタートさせます
+Deleting area. 
+Deleted area will be lost forever. 
+Copying area. 
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+Save changes?
+This will overwrite your previously saved data. 
+Save
+Cancel
+Saving. Please do not turn off the system. 
+Are you sure you want to delete?
+Delete
+Are you sure you want to copy?
+Copy
+If you choose to overwrite, your previous save data
+area will be lost. 
+Are you sure you want to overwrite?
+Overwrite
+Cancel
+Saving changes. 
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Return to default settings?
+Yes
+No
+Returned to default settings. 
+Saving system data. 
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 

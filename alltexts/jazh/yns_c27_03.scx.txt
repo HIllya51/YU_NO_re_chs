@@ -1,0 +1,87 @@
+JA [name]たくや[line]何だ‥‥どうした!?[%p]
+ZH [name]拓也[line]怎么了‥‥发生什么事了？[%p]
+
+JA [name]たくや[line]あの悲鳴は、どこから聴こえてきたんだっ!?[%p]
+ZH [name]拓也[line]那声惨叫，是从哪里传来的！？[%p]
+
+JA [name]たくや[line]だから電柱だ。珍しいものじゃないな‥‥。[%p]
+ZH [name]拓也[line]电线杆而已。不是什么新奇的东西‥‥。[%p]
+
+JA [name]たくや[line]電柱だな‥‥こんなのを見ていて楽しいか?[%p]
+ZH [name]拓也[line]电线杆啊‥‥盯着这个看很有趣吗？[%p]
+
+JA [name]たくや[line]違う‥‥そこは澪の家だ。[%p]
+ZH [name]拓也[line]不对‥‥那里是澪的家。[%p]
+
+JA [name]たくや[line]悲鳴はそこから聴こえてきたんじゃない。[%p]
+ZH [name]拓也[line]惨叫不是从那里传过来的。[%p]
+
+JA [name]たくや[line]そうだ、あそこだ![%p]
+ZH [name]拓也[line]对了，是那里！[%p]
+
+JA [name]たくや[line]悲鳴は公園から聴こえてきたんだ‥‥。[%p]
+ZH [name]拓也[line]惨叫似乎是从公园里传出来的‥‥。[%p]
+
+JA [name]たくや[line]よし、ガードレールを乗り越えればすぐだ。[%p]
+ZH [name]拓也[line]好，跨过栏杆马上就到了。[%p]
+
+JA [name]たくや[line]早く行ってみよう![%p]
+ZH [name]拓也[line]快点过去看看吧！[%p]
+
+JA [name]たくや[line]大きなマンションだ‥‥。[%p]
+ZH [name]拓也[line]一幢高大的公寓……。[%p]
+
+JA [name]たくや[line]だが、あんな遠い所から悲鳴が聴こえてきたんじゃないぞ。[%p]
+ZH [name]拓也[line]不过，惨叫不是从那么远的地方传过来的。[%p]
+
+JA [name]たくや[line]おいおい、あそこから声が聴こえてくるかよ‥‥。[%p]
+ZH [name]拓也[line]喂喂，声音是从那里传过来的‥‥。[%p]
+
+JA [name]たくや[line]真面目に探してくれ。[%p]
+ZH [name]拓也[line]好好找。[%p]
+
+JA [name]たくや[line]海が遠くに見えるな‥‥。[%p]
+ZH [name]拓也[line]海看起来真遥远‥‥。[%p]
+
+JA [name]たくや[line]で、早く悲鳴の主を探そうぜ。[%p]
+ZH [name]拓也[line]好啦，快找出来是谁发出的惨叫。[%p]
+
+JA [name]たくや[line]悲鳴はそこから聴こえてないぞ。[%p]
+ZH [name]拓也[line]惨叫不是从这里发出来的。[%p]
+
+JA [name]たくや[line]違う、目の前のあそこだっ。[%p]
+ZH [name]拓也[line]不对，是眼前的地方。[%p]
+
+JA [name]たくや[line]そこでもないぞ。[%p]
+ZH [name]拓也[line]也不是那里。[%p]
+
+JA [name]たくや[line]悲鳴はあそこから聴こえてきたんだ‥‥。[%p]
+ZH [name]拓也[line]惨叫是从那里传过来的‥‥。[%p]
+
+JA [name]たくや[line]違う、そこじゃない![%p]
+ZH [name]拓也[line]不对，不是那里！[%p]
+
+JA [name]たくや[line]ちょっと待ってくれ‥‥。[%p]
+ZH [name]拓也[line]再等等‥‥。[%p]
+
+JA [name]たくや[line]あの悲鳴が気にならないのか‥‥?[%p]
+ZH [name]拓也[line]不在乎那声惨叫吗‥‥？[%p]
+
+JA [name]たくや[line]違う、そうじゃない。[%p]
+ZH [name]拓也[line]（不对，不是这样。）。[%p]
+
+JA [name]たくや[line]違うだろう、そのアイテムは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]不对，这个道具使用不了‥‥。[%p]
+
+JA [name]たくや[line]それよりも、今は他にやることがあるだろう‥‥。[%p]
+ZH [name]拓也[line]相比之下，还有其他应该做的事情吧‥‥。[%p]
+
+JA [name]たくや[line]おいおい、どこに使ってるんだよ‥‥。[%p]
+ZH [name]拓也[line]喂喂，是想在哪里使用啊‥‥。[%p]
+
+JA [name]たくや[line]もうちょっと考えてくれ。[%p]
+ZH [name]拓也[line]再稍微考虑一下。[%p]
+
+JA 
+ZH 
+

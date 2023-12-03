@@ -1,0 +1,7 @@
+[name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+[name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+[name]たくや[line]何度、足を運んでも、俺の知っている人は‥‥ん?[%p]
+[name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+[name]たくや[line]客の入りは、中くらいって感じだが‥‥。[%p]
+[name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+[name]たくや[line]俺の知っている人は、誰もいないみたいだな。[%p]

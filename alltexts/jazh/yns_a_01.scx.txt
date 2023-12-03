@@ -1,0 +1,21 @@
+JA [name]たくや[line]元の入り口のところだ‥‥。[%p]
+ZH [name]拓也[line]这是原来的入口……。[%p]
+
+JA [name]たくや[line]‥‥暗いな。真っ暗闇だぜ。[%p]
+ZH [name]拓也[line]……好暗啊。完全看不见呢。[%p]
+
+JA [name]たくや[line]それに、湿気が凄いな‥‥ムッとしている。[%p]
+ZH [name]拓也[line]而且，湿气也很重啊……空气还很浑浊。[%p]
+
+JA [name]たくや[line]そうだ、懐中電灯を点けてみよう‥‥。[%p]
+ZH [name]拓也[line]对了，试着打开手电筒看看吧……。[%p]
+
+JA [name]たくや[line]穴が奧まで続いている‥‥。[%p]
+ZH [name]拓也[line]洞穴一直延伸到深处……。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ?[%p]
+ZH [name]拓也[line]……该怎么办好呢？[%p]
+
+JA 
+ZH 
+

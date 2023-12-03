@@ -1,0 +1,102 @@
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]まだ、夜の10時にはなっていないみたいだな‥‥。[%p]
+ZH [name]拓也[line]好像，还没到晚上１０点啊……。[%p]
+
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]シンと静まり返ってる‥‥。[%p]
+ZH [name]拓也[line]周围万籁俱寂……。[%p]
+
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]うわっ![%p]
+ZH [name]拓也[line]（呜哇！）[%p]
+
+JA [name]絵里子[line]‥‥なんだ、そのリアクションは。[%p]
+ZH [name]绘里子[line]……什么意思啊，你这反应。[%p]
+
+JA [name]たくや[line]だって、久々に絵里子先生に会ったような気がするから。[%p]
+ZH [name]拓也[line]因为，感觉好像是遇到了久违的绘里子老师你啊。[%p]
+
+JA [name]絵里子[line]まるで私が、いつもはいないみたいじゃないか。[%p]
+ZH [name]绘里子[line]听你的说法，简直像是我平时总是不在似的。[%p]
+
+JA [name]たくや[line]みたいじゃなくて‥‥。[%p]
+ZH [name]拓也[line]不是简直像……。[%p]
+
+JA [name]絵里子[line]フーーー‥‥。[%p]
+ZH [name]绘里子[line]呼————……。[%p]
+
+JA [name]たくや[line]ゲホゲホ、なにするんだ。[%p]
+ZH [name]拓也[line]咳咳，干什么啊。[%p]
+
+JA [name]絵里子[line]余計なことは言わなくていい。[%p]
+ZH [name]绘里子[line]别给我说些多余的话了。[%p]
+
+JA [name]たくや[line]また散歩かい?[%p]
+ZH [name]拓也[line]又出来散步吗？[%p]
+
+JA [name]絵里子[line]ちょっと、そこの武家屋敷までな‥‥。[%p]
+ZH [name]绘里子[line]稍微，到那边的武士住宅去一下……。[%p]
+
+JA [name]たくや[line]ふぅん‥‥武家屋敷ね。[%p]
+ZH [name]拓也[line]哼……武士住宅呢。[%p]
+
+JA [name]絵里子[line]昨日の話の続き、できるかな。[%p]
+ZH [name]绘里子[line]继续昨天的话题，可以吧。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]絵里子[line]波多乃君のことだよ。[%p]
+ZH [name]绘里子[line]关于波多乃同学的事啊。[%p]
+
+JA [name]たくや[line]彼女が、どうかした?[%p]
+ZH [name]拓也[line]她，怎么了吗？[%p]
+
+JA [name]絵里子[line]まぁ、色々とある。[%p]
+ZH [name]绘里子[line]嘛，各种事都有吧。[%p]
+
+JA [name]たくや[line]色々と?[%p]
+ZH [name]拓也[line]各种东西？[%p]
+
+JA [name]絵里子[line]フーー‥‥。[%p]
+ZH [name]绘里子[line]呼——‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か、いつになくマジだな‥‥。)[%p]
+ZH [name]拓也[line](（貌似，是以往都没有的认真啊……。）。)[%p]
+
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]部活の生徒の声が、中から聴こえてくるな‥‥。[%p]
+ZH [name]拓也[line]能听到社团活动那些学生的声音，从里面传出来……。[%p]
+
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]そういえば俺には、どこかに行く用事があったような‥‥。[%p]
+ZH [name]拓也[line]这么说起来，我好像是有什么事要去哪个地方的啊……。[%p]
+
+JA [name]たくや[line]なんだっけ?[%p]
+ZH [name]拓也[line]怎么回事？[%p]
+
+JA [name]たくや[line]学校前だ‥‥。[%p]
+ZH [name]拓也[line]校门口……。[%p]
+
+JA [name]たくや[line]そういえば俺には、どこかに行く用事があったような‥‥。[%p]
+ZH [name]拓也[line]这么说起来，我好像是有什么事要去哪个地方的啊……。[%p]
+
+JA [name]たくや[line]なんだっけ?[%p]
+ZH [name]拓也[line]怎么回事？[%p]
+
+JA 
+ZH 
+

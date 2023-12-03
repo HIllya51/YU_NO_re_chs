@@ -1,0 +1,1555 @@
+ 、。’.,?!〜”ー)〕]}〉》」』】☆★♪々ぁぃぅぇぉっゃゅょァィゥェォッャュョ⋯– &-,.');
+@’“(〔[{〈《「『【-‘'(
+//.,,*²⑮⑭⑬
+サインアウトされました。タイトル画面に戻ります。
+ゲームパッドが外されました。ゲームパッドを接続してください。
+ゲームを遊ぶためにはサインインしてください。
+破損データ
+No data
+プレイ時間
+セーブ日時
+/
+:
+No .
+総プレイ時間
+分
+秒
+時間
+.
+%
+/
+??/??
+??????
+エンディング数
+TIPS閲覧数
+CG収集率
+新規
+未読
+▲
+▼
+Select to synchronize message display speed 
+with character voice.
+Select whether to stop a character's voice playback 
+once the text has moved past what they say.
+セーブ
+タイトルへ戻る
+
+文字設定
+音量設定
+機能設定
+メッセージの表示速度
+オートモードの送り速度
+オートモードの維持
+スキップモードの対象
+スキップモードの維持
+BGM
+効果音
+システム効果音
+攻略補助機能
+アンチエイリアス
+タッチスクリーン
+一括
+速い
+普通
+遅い
+する
+しない
+既読のみ
+すべて
+あり
+なし
+Select message display speed.
+Select speed of Auto Mode.
+Selects whether Auto Mode is maintained after 
+a selection or when arriving at unread text.
+Select which messages are skipped using 
+Skip Mode.
+Selects whether Skip Mode is maintained after 
+a selection or when arriving at unread text.
+Adjusts BGM volume.
+Adjusts SFX volume.
+Adjusts system effects volume.
+Adjusts character voice volume.
+You can individually set each character's voice.
+Select to choose if touch screen 
+will be enabled.
+デモ開始時間
+スナップ機能
+スナップポイントの表示
+既読表示
+カーソルがスナップポイントに隣接した際の挙動を変更で
+きます
+スナップポイントを表示するか変更できます
+選択箇所に未読文章が無くなった際に色を変化させるか変
+更できます
+デモが開始されるまでの時間を変更できます
+Select Window Mode.
+Select Quality.
+Select the button name of the Game pad of DirectInput specification.
+起動しない
+※この機能はスナップ機能が有効の時のみ効果があります
+※この機能は場所移動するとリセットされます
+パズル解答表示
+Select feature to display the answer 
+on the PDA.
+スナップポイントの透明度
+スナップポイントの透明度を設定します
+BGM設定
+ORIGINAL
+REMAKE
+Changes BGM mode.
+Select to display the information window when an event occurs for a particular item's location/use, 
+or for an event location.
+
+
+
+システム
+『
+』
+SINGLE LOOP PLAY
+        ALL PLAY
+   ALL LOOP PLAY
+    SHUFFLE PLAY
+
+
+
+
+(□ Button)
+(× Button)
+(○ Button)
+(△ Button)
+(L1 Button)
+(R1 Button)
+(L2 Button)
+(R2 Button)
+(SHARE Button)
+(OPTIONS Button)
+(L3 Button)
+(R3 Button)
+(PS Button)
+(Touch Pad Button)
+
+(Enter Key)
+(Backspace Key)
+(Delete Key)
+(Insert Key)
+(Q Key)
+(Z Key)
+(E Key)
+(C Key)
+(B Key)
+ 
+(A Button)
+(B Button)
+(X Button)
+(Y Button)
+(LB)
+(RB)
+(START Button)
+(BACK Button)
+(Left Stick Button)
+(Right Stick Button)
+(LT)
+(RT)
+
+
+
+(① Button)
+(② Button)
+(③ Button)
+(④ Button)
+(⑤ Button)
+(⑥ Button)
+(⑦ Button)
+(⑧ Button)
+(⑨ Button)
+(⑩ Button)
+(⑪ Button)
+(⑫ Button)
+(⑬ Button)
+(⑭ Button)
+(⑮ Button)
+(⑯ Button)
+(⑰ Button)
+(⑱ Button)
+(⑲ Button)
+(⑳ Button)
+The first night.
+Yu-No Route
+Promise to fulfill the most important⋯
+Mitsuki Route
+Where did Ayumi, Ryuuzouji⋯and Kanna go?
+Where am I? The shrine⋯? Why am I crying?
+Where am I? What happened? Ayumi?
+Where am I? What happened? Chaos Correction?
+Huh? Isn't this the shrine? I was just underneath Triangle Mountain and died with Mitsuki⋯ It was all a dream? What's going on?
+Huh? Isn't this the shrine? I was just underneath Triangle Mountain and died with Yuuki⋯ It was all a dream? What's going on?
+Huh? I thought I met Kanna at the school infirmary. But⋯ I'm at the shrine now?
+Mio's so rich, she wouldn't know what a 1000 yen bill even looks like. Haha, what am I talking about?
+Ayumi⋯ Where are you?
+Is my bastard of a father playing a prank on me?
+Not in Father's study⋯
+Day 1
+The worst awakening.
+Ayumi is at school?
+Let's hurry to the school.
+Ryuuzouji isn't acting like himself. What's going on?
+I have to go find Ayumi!
+With Ms. Eriko, the chain-smoker.
+With Kanna, the transfer student.
+Ayumi isn't here⋯ Did we miss each other?
+I wonder what Mitsuki wants to talk about⋯ But Ayumi is more important right now. We should inspect her usual spot.
+Nobody's at the coastline⋯ Ayumi⋯
+What did I experience last night⋯?
+She's a transfer student, so maybe that's why Kanna is always alone.
+Kanna Route
+All the other girls at school are ugly on the inside⋯ I believe Kanna is different.
+Ayumi is going to the briefing now⋯
+Mitsuki⋯ It's been a while.
+I studied how the world works today.
+I wonder if Kanna went to the beach.
+Must be tough for Ayumi.
+What's going on with the construction? Isn't the geological survey underway?
+There's a plan to tear down Triangle Mountain? I can't believe it.
+The spirit of Triangle Mountain⋯
+Nurse. Noun. A person trained to care for the sick. Got it?
+I said I'd nurse Kanna back to health. So this is purely for medical purposes. *gulp*
+Did something happen while I was caring for Kanna?
+I can't believe Ayumi would resume the hauling, but⋯could the company have ordered it without her?
+They said they were throwing eggs at her. I hope Ayumi is okay⋯
+She's gorgeous. Could that be her mom?
+This is the moment of truth. Time to grow closer to Kanna.
+Walking a girl home, hoping to get lucky? Sorry, I'm too stupid to understand what that means.
+The old man's lover⋯ Nah, that's just a rumor⋯
+I just want to give back Kanna's student notebook as soon as I can.
+She'd fainted in the entrance. If I hadn't come back to return her student notebook⋯
+I'm worried about Ayumi, but I need to give Kanna the medicine for her fever.
+I heard sirens coming from the beach. Could it be an accident?
+Kaori Route
+What's the alarm for?
+The fever medicine, or breaking and entering⋯ That's an easy choice.
+I know what I heard, but I have to deliver the fever medication to Kanna.
+Can you believe it? I get the feeling I'm being taken for a ride.
+Who is this Houjou dude, and what's he got to do with Kanna?
+I guess a beauty is bound to end up with a beast, huh. There's no point thinking about it. 
+Don't tell me something happened while I was wasting time⋯
+The photo in the bankbook has me worried. But, whenever Kanna moves, I remember⋯ Aah, my nose started bleeding.
+Day 2
+I guess I'm the type that gets easily influenced.
+The homemade cooking was delicious. Plus, she looked so cute in that apron⋯ If she'd been naked⋯*gulp*
+I wonder why I'm so interested in Kanna⋯
+There's nothing dirty on my mind⋯ To be honest, it's a bit relieving.
+An accident, now? I really hope Ayumi is okay.
+Twin Boulders for lovers⋯ That sounds so sad⋯
+Ah⋯ I can't help but wander there⋯
+A mountain of problems⋯ I hope Ayumi doesn't collapse out of fatigue.
+I don't think I can get along with some dude who thinks a detective agency can look elegant.
+Well, I better work as much as I can right now.
+Kanna was expelled? Oh, I need to hurry up about that money issue too. Geez.
+The client knows about the Jewels?
+But maybe the Ryuuzouji that I met at the shrine might⋯
+Immortality? Didn’t someone say that was the focus of my father’s research? No way,sounds like a movie I saw last night⋯
+Why does Kanna remind me of my mother?
+Let's hurry to Room 1101.
+Do you remember the details of the deal?
+This is like a truce⋯but we can't let our guard down.
+With that face, the old bastard⋯ Gah, I better concentrate. Let's see how I can infiltrate the place⋯
+Should I wait quietly for Kaori?
+This is Ayumi's office.
+So, this was Kaori's destination.
+Am I sure I should hand it over?
+What do I do?
+I've already experienced this. Sorry, Kaori.
+She's gone in an instant. As expected of an industrial spy.
+Damn! She's so fast!
+Where did Kaori go?!
+Even if I told Ayumi everything that happened, she wouldn't believe me.
+Ayumi⋯ I wonder if she'll believe me.
+Kanna isn't at the coastline⋯
+Was this⋯for the best?
+Wait⋯where's Kanna?
+What's Kanna's relation to my father?
+Oh, right. I stayed over in Kanna's room last night.
+Kanna likes green⋯ Let's take this step-by-step⋯
+I hope Kanna and I are a little closer now⋯
+Ayumi is still at work⋯
+Another accident⋯ Did Kanna foresee this?
+Why would she research so much about some rocks? Yuuki sure picked a strange one.
+I wonder if Kanna is here. I miss her.
+Confidential information was leaked⋯ Well, at least thanks to that, I didn't get reprimanded for staying out so late.
+Maybe he got sent to a time where something happened to the old man.
+So Kanna and my father are⋯
+Whether to find Kanna or⋯ Wait, something was dropped before that⋯
+I heard that Kanna dropped out of school. Damn, I have to find her, fast.
+The bastard's client seems to know about the Jewels for some reason. Why?
+Not Ryuuzouji. Right now, I have to find Kanna.
+No way⋯
+She likes dogs⋯ I always want to be by her side, watching her smile.
+That woman⋯
+No matter how often I see it, she still looks amazing in that outfit⋯
+Ms. Eriko⋯ I never knew she was a skin-tight clothes enthusiast⋯
+It's 9pm⋯ There's still an hour before the meeting with the old man.
+I think he mentioned something about a rock.
+Kanna was looking for that necklace from before⋯ And the way she was treated⋯ That bastard⋯
+What a scumbag. If he does anything to Kanna, he'll never see the light of day again!
+It seems like that necklace was very important⋯ And still, she did that for me⋯
+Please open your eyes⋯ I want to hear you speak⋯ I want to see you smile⋯ Aren't we supposed to live together? Please answer me.
+It may sound like a manga or anime, but the phrase “mysterious transfer student” fits her perfectly.
+Ryuuzouji's manor is the origin of the curse?
+Too scared to go outside because of the curse?
+Yuuki's obsession with the occult is thanks to Mio.
+Ms. Asakura? What's she got to do with Ayumi?
+Ms. Eriko also likes the occult?
+Ayumi⋯ I hope she doesn't get sick.
+I picked up the phone in Ayumi's room. Has no one noticed?
+Mitsuki wanted to talk about Ryuuzouji⋯ But I know next to nothing.
+Ms. Eriko could be wandering around buck naked somewhere⋯ Nah, no way.
+That was some nonstop verbal vomiting.
+Geez⋯ Remedial classes are tiring⋯
+It's still difficult. For now, I'll be like the wind.
+I guess he's a different person than the Ryuuzouji from last night⋯
+If Triangle Mountain really disappears⋯
+Kanna looks great in her regular clothes, all I ever see is her uniform⋯ Whoops, it's time for my meeting with Mitsuki.
+Speaking of which, why is Mio attending remedial classes? Is it some weird thing her hyper-student brain wants to do?
+Let's just enjoy this alone time with Mitsuki.
+Since Mitsuki asked me, I better check up on Ryuuzouji.
+Advice? We should ask Mitsuki.
+I don't have any real purpose, but I should head downtown.
+A healthy young man would obviously prioritize that hot lady.
+How did a hot lady turn into some old dude?! Please tell me this is a nightmare!
+Are you kidding me?! You chose some dude over the hot lady?!
+I think I should have asked for more details. In any case, I need to be careful about this Toyotomi guy. 
+She can't even speak her thoughts⋯ Is her work really that overwhelming?
+Who knows what might come out next⋯ Just do or die.
+Ryuuzouji knows something. There must be a way to find out.
+Ms. Eriko was trying to break into Ryuuzouji's home?
+Ayumi! Your clothes! Hey, cover your eyes! Wait, who am I talking to?
+I got sent to the time when Ayumi thought I was some creep.
+Who are you? What do you have to do with my father?
+Did lightning strike again while I was asleep?
+Someone saw me arrive. Not being considerate like that makes it feel less like a dream.
+Is Kanna sick?
+I got sent to the time when I met Kanna outside the school infirmary.
+Ms. Eriko knows something about Mitsuki⋯
+Another dilapidated storehouse⋯
+The inside and outside are equally ruined⋯
+That sound⋯ I have a bad feeling about this⋯
+There's no way I'll appear stuck in a wall⋯ That'd be game over. Now, let's see what time I've arrived at.
+Please, don't let me starve to death in the storehouse⋯
+No, my life isn't flashing before my eyes⋯ I'm dreaming because these old books are too boring.
+I dropped the rope into the well and found a medal. Also, a piece of a diary told me to open a door somewhere.
+A mature kiss⋯ That was amazing⋯
+W-What was that sound? This place is rumored to be cursed, so I'm kinda⋯
+Well, if she's offering, I'm obligated as a healthy young man to⋯
+For a teacher at school, Ms. Eriko takes way too many walks! (Maybe she dropped the lipstick.)
+It's not just the lipstick, but her fragrance as well! That was close⋯
+Ryuuzouji's garden seen from the rooftop⋯ I can see everything⋯ No way⋯ Haha⋯ Must be my imagination.
+It was Mio and Yuuki at the shrine⋯ If they're on a date, why not go somewhere with a better atmosphere?
+I wonder what would've happened if I got caught inside the locker⋯ Heh.
+The hot lady was actually Ms. Eriko?!
+I saw something I never wanted to see⋯ Ayumi⋯
+Is there something mysterious inside this dilapidated storehouse? Like some ancient texts?
+Just a bit more⋯ I wonder if⋯
+Ayumi⋯ Damn it, I gotta do something!
+It looks like Mitsuki was also worried.
+Monsters in modern day Japan⋯ What's going on?!
+Ryuuzouji's mother⋯ What's going on?!
+Not normal⋯? But you're a teacher⋯shouldn't you be giving me a few more details?
+If I said everything, she might get mad⋯ I should think about this seriously⋯
+I'm so sorry⋯ I guess this isn't normal⋯
+Ayumi Route
+Mio, the stuck-up princess⋯
+Not bad for a nobody⋯ Let's hurry to the coast.
+Not bad for a nobody⋯ You know where to go for the inspection⋯
+Mio went to the shrine⋯ Is Ayumi at the company building?
+According to the guard, Ayumi already went home⋯
+Why is Mio bothering to check the shrine anyway?
+Ayumi doesn't remember anything.
+He pisses me off⋯ To think he's Ayumi's underling. I feel bad for her.
+Kanna is immoral? What is Mio talking about?
+What did Mitsuki want to talk about?
+I wonder what's the briefing about in the afternoon.
+There could be more victims today or tomorrow⋯
+Apologize to Mio? Ms. Eriko can be so nosy⋯
+Being told to apologize makes you not want to. Right?
+I'm supposed to watch News Presence?
+Lightning on a sunny day? You gotta be kidding.
+Yuuki must be serious⋯
+The stuck-up princess is actually feeling down.
+Mio Route
+Me, jealous of Yuuki? I'm speechless.
+The stuck-up princess would look cute if she kept quiet and just smiled.
+Ayumi⋯ I hope she's not hurt. I'm worried⋯
+What's this rumor about Kanna?
+What's Mr. Porno Director up to? Pinning all the blame on Ayumi⋯
+It's been a while since we were alone. You're as beautiful as ever, Mitsuki.
+Find the “LEGACY” that Mio left behind by going to the laboratory at school.
+You found the “LEGACY,” so hurry to the caf⑮.
+I wonder what's the deal with those two⋯ I better just go and hand this over. I haven't forgotten where to go, I think.
+You didn't have to sleep under the bed⋯ Is this Abel guy she's muttering about her boyfriend?
+I managed to return that lost item, so I better pray that she doesn't get irritated all of a sudden⋯
+Beige, huh⋯? Hmm?
+It's Mio's room.
+I'm sure her father is pleased to see Mio turn out like this.
+I was sent to the time period when I was in Mio's room asking about Sword Cape.
+I'll head to the coast later⋯ Right now, I have to see Mio.
+The moonlight only makes you more beautiful, Mio⋯ Hah! You thought I'd actually say that?
+It's better than not doing first aid.
+Even if I'm getting something out of it⋯ I better focus!
+Ugh⋯ My arms feel like they're gonna fall off⋯
+I desperately carried his injured daughter all the way here, and for that I'm nearly pumped full of holes! What kind of family is this?!
+Sharing a bed with Mio⋯ Remember⋯ Remember⋯ Gah! I can't remember anything!
+I could have figured it out if I thought about it⋯ Like father like son⋯ I should stop jumping to conclusions all the time.
+Yuuki⋯seems pretty upset about what happened to Mio.
+Mio is moving overseas. I don't like how this is ending.
+After talking to Mitsuki, I think I'm able to put my thoughts together.
+Ayumi⋯ I'm sorry I lied to you⋯ But I didn't mean any harm⋯ Although I don't remember it⋯
+Even Yuuki can't find Mio⋯ Where did she go?
+If he's an underling, the least he could do is not give Ayumi any trouble.
+Things look busy at Mio's place⋯
+Maybe Yuuki knows something⋯
+Kaori Asakura and Ryuuzouji⋯ A newscaster and the headmaster⋯ Hmm⋯ How are these two related?
+I don't think it's wise to ignore Kanna by calling her crazy⋯
+According to Ms. Eriko, Mio went to the coastline.
+I managed to schedule a meeting with Ryuuzouji so he can show me the tapestry.
+This place is so big, I can't see it all from the outside⋯
+Did something happen a month ago?
+Let's check out the tapestry.
+The three of us should work together and find Mio before things get more serious.
+I found the bag at Triangle Mountain.
+Kanna again⋯ There must be something here.
+He's going to be my rival for love? You never know what happens in life.
+Did I choose the wrong person?
+Mitsuki⋯ I'll probably be killed by her⋯
+I feel so⋯tired⋯
+I got separated from Yuuki⋯
+Should I reunite with Yuuki⋯? Eh, maybe not⋯ Just kidding.
+What item can I use to break down this door?
+Yuuki! Answer me! Yuuki!!
+I didn't know there was a burial chamber like this under Triangle Mountain⋯
+An underground lake? Where am I⋯? I must be dreaming!
+Mio⋯ I'm so glad you're safe⋯ I-I'm not crying⋯*sniff*
+Yes⋯ It all started with that woman⋯ Just who is she?
+Mio⋯
+Day 3
+Mom⋯?
+A woman guided me to this giant device⋯
+Damn! Another door is blocking my path, and after coming all this way too!
+I didn't know the medal could be used this way⋯
+I didn't know Triangle Mountain and the well at Ryuuzouji's manor were connected⋯
+Sorry, Mio⋯ But I did promise to go back and rescue⋯
+To think that Yuki would be my rival for love⋯ You never know what happens in life⋯
+This cave was probably man-made.
+I heard something from far away⋯ Did I make a mistake?
+Looks like the door opened⋯
+The door is open, but the lights are⋯ I better go and find Mio for Mitsuki's sake. Then I should get out of here.
+Damn! The door separated me from Mitsuki.
+I have to go and rescue Mitsuki!
+Mitsuki is right in front of me! Is there an item I can use to break down the door?
+Mitsuki! Please answer me! Mitsuki!
+It's⋯a small, underground room?
+It must be nice to be unconscious right now. Fine, I'll check it out myself⋯
+Why is Mitsuki pointing a gun at me?
+Is Ryuuzouji ordering Mitsuki to do this? How is that even possible?
+What should I do? In order to escape the electrical discharge⋯
+Mitsuki⋯ Ryuuzouji, I will make you pay for this!
+A briefing⋯ I hope Ayumi is all right.
+I-It's a coincidence⋯ That's right! It's all about the feeling! *gulp*
+Pinning the blame for the lightning on Ayumi⋯ I'll get back at that underling someday⋯
+Right now, I'm more concerned about the lightning than Mio⋯
+Maybe Kanna knows something about this⋯
+It's for that cute nobody⋯ Guess I'll go and get yelled at for her sake.
+The school at night⋯ Now, let's go get scolded⋯
+All this for some cute nobody. I'll go say farewell to the stuck-up princess.
+It's either Mio or the idiot⋯ Is this the ultimate choice?
+The school infirmary's light is on⋯ No way⋯
+I was wondering why there were clothes strewn about except for her bra⋯ She's so weird⋯
+That idiot has Ayumi's photo⋯ He's up to no good⋯
+This looks dangerous⋯
+An idiot talking to yakuza while a woman takes secret pictures of them⋯ Obviously, something's up.
+Kaori⋯ Asakura.
+I've never seen Ayumi so drunk.
+There's a lotta stuff bothering me, but right now I need to get medicine for Ayumi.
+There's no way she'll be fine in that state! I should go to her office.
+I have a bad feeling about this. Ayumi, please be safe!
+Damn it! I won't let Ayumi feel this miserable ever again!
+My father⋯ Why can't that idiot be here when he's needed?!
+I was supposed to feel happy now that we can be a real family⋯ But something feels wrong⋯
+He's always weird, so I shouldn't be surprised⋯ But something feels wrong.
+*gulp* *gulp* *gulp*⋯ I'll expose that porno director⋯
+What were they doing inside the company building?
+I managed to get inside the company building, but where is Ayumi?
+This reminds me old times⋯ It might seem like a bad idea, but I know I can tell Mitsuki anything.
+Ayumi⋯ Damn! Of all places, I was sent to this moment⋯
+Mitsuki⋯ Thank you⋯
+I don't have any business with Yuuki⋯
+The board of directors meeting⋯ I wonder if Ayumi is all right.
+I have to talk with Ayumi⋯ After all, we're family⋯
+I'm sure we can come to an understanding if we talk.
+Ayumi⋯ She'll understand if we talk.
+She didn't understand⋯ We just argued⋯
+Yuuki⋯ If he wants something, why didn't he just say so?
+Kaori Asakura⋯ Who is she⋯?
+Mio is gone? Oh, well⋯ I guess I'll try to look for her on the way⋯
+The gym bag with panties inside was behind the Twin Boulders⋯ No way⋯ Wait, there aren't any panties inside⋯
+I didn't understand what they were saying⋯ But is Kaori Asakura a spy?
+Ayumi is either in town or at the company building⋯
+I wonder who's on a date with Ms. Eriko⋯ Maybe it's that Abel guy she mentioned while she was sleeping.
+The company seems to be in an uproar about something⋯
+Is it really okay to take the deal? Who cares, just do it!
+With these secret documents, I think I can save Ayumi⋯
+I should have agreed to the deal.
+Eat this, you bastard!
+Damn! If only I had proof!
+I see⋯ So since then, Kaori was⋯
+Ayumi! Please don't be rash!
+Ayumi! Don't do anything rash!
+I didn't think I'd end up like this with Ayumi⋯ I would never have believed it⋯
+How long has it been since I relaxed? A long time, if you ask me⋯
+Other World Route
+That old bastard⋯ Why did he hide it here?
+Damn that old bastard⋯ Just you wait⋯
+I'll make the old bastard explain what's happening. Even if I have to beat it out of him!
+What is the name of the God-Monarch?
+Yu-No⋯
+Ryuuzouji⋯ Where did you go?
+I better go obtain something related to the company⋯ You know what I mean, right? You gotta do that thing.
+Should I have shown the card to that security guard?
+Mitsuki⋯ I'm going now⋯ I'll do the best I can⋯
+Yuuki⋯ Your sacrifice won't go to waste⋯ Damn, I can't think of a clever joke⋯ Yuuki⋯
+I've been had! But I'll learn from this, Kaori Asakura!
+I know it might be a trap, but still⋯ Damn it!
+I'll try to get back our time together for the three of us⋯ Ayumi⋯
+Ayumi, I'm sorry I couldn't take care of everything⋯
+I'll go and find my father. Please wait for me, Ayumi⋯
+Ayumi⋯ I'm sorry I caused so much trouble for you⋯
+I'll end everything⋯and come back to you.
+I don't know when to give up⋯ This is a temporary separation. I'll bring the stone and come back. I promise⋯
+Ms. Eriko⋯ Dammit! Mitsuki, please don't do this. I can't accept this ending⋯
+Mitsuki⋯ I'll try⋯to change your fate. I won't accept this.
+I passed out at Ryuuzouji's manor and⋯ I'm at the school infirmary now?
+Whoa! It's so bright!
+Kanna?
+Mio⋯ I don't want to vanish⋯ Mio⋯
+Please open your eyes, Ayumi⋯ Come on, Ayumi⋯ I can't accept this!
+Ayumi⋯please respond.
+Looks like that was the correct answer, but⋯what's going on?
+Maybe it's a different person from Ryuuzouji? And Kanna⋯ You must know something!
+Ryuuzouji!
+I have to get out of here! You should know what to do!
+I will never forget this pain!
+I was so close to getting cursed⋯
+Ayumi
+Ayumi
+Expression
+Hair
+Documents
+Skirt
+Leg
+Look Around
+Around Here
+There
+Mitsuki
+Mitsuki
+Chest
+Blouse
+Memo Board
+Thigh
+Leg
+Book
+Desk
+Journal
+Father
+Ryuuzouji
+Curse
+Underwear
+Butt
+Branch
+Eaves
+×
+Sky
+White Coat
+Mouth
+Face
+Hand
+Bath Towel
+Waist
+Well
+Trees
+Tree
+Grassy Area
+Well
+Trunk
+Back
+Darkness
+Hem
+Clothes
+Garter Belt
+Stockings
+Eriko
+Eriko
+Cigarette
+Bustier
+Skin
+Seasoning
+Ashtray
+Table
+Plants
+Houseplant
+Coffee Cup
+Chains
+Ume
+Head
+Old Lady
+Sash
+Device
+Ground
+Door
+Wall
+Lips
+Bandage
+Pillow
+Bed
+Knife
+Arm
+Glasses
+Suit
+Handrail
+Sea
+Toyotomi
+Man
+Him
+Man
+Silhouette
+Shoes
+Sneakers
+Droplet
+Chair
+Shadow
+Faucet
+Kitchen Sink
+Counter
+Shoulder
+Me
+Cushion
+Sofa
+Ear
+Kaori
+Kaori
+Belly
+Sunglasses
+Sheets
+Water
+Bathtub
+Body
+Inner Thigh
+Light
+Roof
+Mio
+Ribbon
+Crotch
+Uniform
+Twin Boulders
+Notepad
+Materials
+Teapot
+Teacup
+Door
+Dress
+Seawall
+△
+Affected Area
+Outdoors
+Go Deeper
+Bare Rock
+Rock
+Move
+Button
+Right
+Left
+Sign
+Indent
+Medal
+Yuuki
+Sword
+Passage
+Spear
+Skeleton
+Shelf
+Sarcophagus
+Box
+Lid
+Floor
+Sharp Stone
+Mummy
+Satchel
+Bag
+Fanny Pack
+Notepad
+PDA
+Mouth
+Eye
+Water Surface
+Ceiling
+Other Side
+Disc
+Handgun
+Headband
+Kanna
+Curtains
+Bra
+Kanna
+Necklace
+Cup
+Nape
+Frying Pan
+Apron
+Floor Cabinet
+Photo
+Woman
+Finger
+Family
+Them
+Fence
+Man
+Chin
+This One
+Houjou
+Head
+Cheek
+Nose
+Grass
+Glass
+Clock
+Gap
+Dial
+Study
+Numbers
+Letters
+Hole
+Short Hand
+Pedestal
+Choker
+Bracelet
+Hairpin
+Sweater
+Necktie
+Cigar
+Female Guard
+Guard
+Emblem
+Gloves
+Baton
+Radio
+Belt
+Shirt
+Wall Storage
+Living Room
+Outside My House
+Window
+Bookshelf
+Painting
+Phone
+Boombox
+Storage
+Lamp
+Letter
+Plants
+TV Stand
+TV
+Sofa
+Dinnerware
+Glasses
+Refrigerator
+Calendar
+Kitchenware
+Stairs
+Cupboard
+Entrance
+My Room
+Outside Father's Study
+Ayumi's Room
+Note
+Dish
+Bathroom
+Skylight
+Candle
+Stuffed Animal
+Artificial Flower
+Closet
+Vent
+Mirror
+Side Table
+Vase
+Garbage Can
+Vanity
+Rug
+Wooden sword
+City
+Building
+School Gate
+Road
+Coastline
+Poster
+Doorbell
+Mailbox
+Antenna
+House
+Telephone Pole
+Sign
+Main Hall
+Entrance
+Guardrail
+Manor
+Electrical Wire
+Slope
+School Building
+Mansion Entrance
+Object
+Hanging Art
+Bulletin Board
+Student
+Female Student
+Her
+Students
+Directory
+Corridor
+School Infirmary
+Mural
+Crowd
+Go Inside
+Bench
+Emergency Exit
+Fire Suppression System
+Sticker
+Rooftop
+Laboratory
+Handle
+Blinds
+Locker
+Bookcase
+Schedule
+Desk
+Air Conditioner
+Medicine Cabinet
+Medicine Box
+Long Gloves
+Skin-Tight Clothing
+Bar
+Pillow
+Wheel
+Fence
+Heights
+Gate
+Outside Kanna's Room
+Apartment Building
+Cardboard Box
+Empty Cans
+Kitchen
+Empty Bottle
+Cupboard
+Bankbook
+Courtyard
+Sliding Door
+Pine Tree
+Art
+Transom
+Pillar
+Beam
+Drawers
+Tapestry
+People
+Light
+Small Tower
+Entrance
+Structure
+Hanging Scroll
+Greenery
+Operator
+Truck
+Shrine
+Triangle Mountain
+Outside Company Building
+Construction Site
+Beach
+Company Building
+Sign
+Hotel
+Front Desk
+Coat Hanger
+Roadside Tree
+Boutique
+Bank
+Outside Hotel
+Caf⑮
+Building
+Bag
+Where Kanna Was
+Flower
+Outside Apartment Building
+Peephole
+Streetlight
+Gate
+Guard Station
+Dome
+Inside Company Building
+Sash
+Placard
+Groupie
+Couple
+Jukebox
+Table Seat
+Exit
+Office
+Entrance/Exit
+Park
+Neighboring Town
+Foliage
+House
+Fountain
+Stone
+Stream
+Bridge
+Storehouse
+Storehouse Entrance
+Inside Well
+Lid
+Bottom
+Padlock
+Outside Well
+Garden
+Grove
+Woven Basket
+Hoe
+Rope
+Map
+Bookshelf
+Drafting Table
+Computer
+Pot
+Magazine
+Drawer
+Water Tank
+Tube
+Projector
+Equipment
+ 
+ 
+ 
+ 
+ 
+ 
+Woman
+Her
+Expression
+Earrings
+Cigarette
+Hair
+Chest
+Underwear
+Leg
+Disc
+Darkness
+There
+Where There was a Rope
+Where There was a Note
+Bare Rock
+Pillar
+Table Seat
+Indent
+PDA
+Number
+Clock
+Near Top
+Near Bottom
+???
+Use Item
+Manor
+Inside Mansion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Look Around
+Eriko
+Cigarette
+Hair
+Leave
+Chest
+Butt
+Bed
+Window
+Painting
+Living Room
+About Ayumi
+About Father
+From Now On
+Ceiling
+Yuuki
+Mio
+Mitsuki
+Ryuuzouji
+Snoring
+Snoozing
+Round Mirror
+Object with Beads
+Inside Parcel
+Letter
+My House Entrance
+Outside Father's Study
+Second Floor Doors
+TV
+Counter
+Phone
+Delivery Menu
+My Room
+Ayumi's Room
+Ayumi
+Cooking
+Thigh
+Vanity
+Stuffed Animal
+Key to Study
+Sea
+School Gate
+Coastline
+House
+School Building
+Manor
+Main Hall
+Hallway
+Students
+Object
+Corridor
+School Infirmary
+Student
+Couple
+Where Students Were
+Where Student Was
+Where the Couple Were
+Female Student
+Sweater
+Stairs
+Door
+Rooftop
+Laboratory
+Inside Skirt
+Locker
+Cigar
+In the locker
+Dance Gracefully
+Dance Fiercely
+Cleavage
+Beyond the Handrail
+Triangle Mountain
+Building
+Shrine
+In the Ocean
+Operators
+Twin Boulders
+Trees
+Father
+Other Side of The Mountain
+Woman
+Door
+Somewhere
+Stream
+Tree
+Trail
+Current Situation
+Go Deeper
+Jump Off Cliff
+About this Place
+About the Cliff
+About You
+About Me
+Celes
+Forest
+Woods
+Desert
+Stone
+Plant
+Hill
+My Head
+Kitchen
+Table
+Shelf
+Go Outside
+On Table
+Room
+Outside House
+Illia
+Ear
+In Bed
+About this World
+About Illia
+Measurements
+About Dela Grante
+About The Border
+Cliff
+Nuts
+Bug
+Yu-No
+In the River
+Rock pillar
+Creature
+Wing
+Bad Feeling
+Celes's Grave
+Monster
+Illia's Sword
+End of Cliff
+Rock Pillar
+Grass
+House
+About Celes
+On the Grass
+On the Tree
+Sky
+About the Imperial Capital
+About that Woman
+About Kun-Kun
+Bedroom
+Men
+White Leg
+Man
+Mask
+Armor
+Emblem
+Leave Room
+Sand
+Move Forward
+Stop
+Move Right
+Move Left
+Amanda
+Horizon
+Head to Imperial Capital
+Return
+Woman
+In Water
+Clothes
+Approach
+Sala
+Bonfire
+Water Source
+Pillow
+Stone Statue
+Move Forward
+Depiction
+Rock Formation
+Entrance
+Two Pillars
+Wall
+Pedestal
+Light
+Workers
+People Digging
+People Moving Soil
+Tower
+Outside Mining Site
+Ground
+Gravel
+Gathered People
+Wound
+Leave Prison Cell
+Upper Body
+Underwear
+Body
+Lower Body
+Bandage
+Collapsed Building
+Where the Tower Was
+Kun-Kun
+Walk to Imperial Capital
+What to Do
+Shackles
+In Bonfire
+Plants
+Move Forward
+Imperial Capital Dwellers
+Emperor
+Castle
+Sword
+Advance・Charge
+Royal Guards
+Floor
+Light
+Left
+City
+About Priestess
+About Amanda
+Right
+Move
+In Castle
+Underground Passage
+Pillar
+Hand
+Restraints
+Why He Aimed a Handgun at Me
+Why is He in Restraints
+About the God-Monarch
+Garden
+Light
+Fountain
+Altar
+Underground Jail
+In Fountain
+Outfit
+Knee
+Desk
+Yu-No's Bedroom
+Various Things
+Leave Through the Main Gate
+Back
+Red Orb
+Wall
+Walk Around
+Room of the God-Monarch
+Sleep
+Grr⋯ Hmph!
+You idiot!
+You call yourself a soldier?!
+Water
+Food
+ 
+Opening
+Ryu Umemoto/Keishi Yonao
+Prologue (Introduction)
+Ryu Umemoto/Keishi Yonao
+Prologue - Flashback (Dream)
+Ryu Umemoto/Keishi Yonao
+Memories (Waking)
+Ryu Umemoto/Keishi Yonao
+Prologue - Moving
+Ryu Umemoto/Keishi Yonao
+Ayumi Arima
+Ryu Takami/Keishi Yonao
+Suspicion 1
+Ryu Umemoto/Keishi Yonao
+Mitsuki Ichijou
+Ryu Umemoto/Keishi Yonao
+Tsurugi-no-Misaki
+Ryu Umemoto/Keishi Yonao
+Home (Relief)
+Ryu Umemoto/Keishi Yonao
+Exploration
+Ryu Umemoto/Keishi Yonao
+Having Company (Meal)
+Ryu Umemoto/Keishi Yonao
+Mio Shimazu
+Ryu Umemoto/Keishi Yonao
+Masakatsu Yuuki
+Ryu Umemoto/Keishi Yonao
+In the School
+Ryu Umemoto/Keishi Yonao
+Fate 2 (Karma Version. B)
+Ryu Umemoto/Keishi Yonao
+Quiet
+Ryu Umemoto/Keishi Yonao
+Omen (Impending)
+Ryu Umemoto/Keishi Yonao
+Girl (Other World 1)
+Ryu Umemoto/Keishi Yonao
+Star (Danger)
+Ryu Umemoto/Keishi Yonao
+Ruins
+Ryu Umemoto/Keishi Yonao
+Mystery
+Ryu Umemoto/Keishi Yonao
+Movement 2 (Daytime)
+Ryu Umemoto/Keishi Yonao
+Movement 3
+Ryu Umemoto/Keishi Yonao
+Movement 2 (Night)
+Ryu Umemoto/Keishi Yonao
+Bond
+Ryu Umemoto/Keishi Yonao
+Run Away! Run Away!
+Ryu Umemoto/Keishi Yonao
+Love 1
+Ryu Umemoto/Keishi Yonao
+Simple Thoughts
+Keishi Yonao
+Intrusion
+Ryu Umemoto/Keishi Yonao
+?!
+Ryu Umemoto/Keishi Yonao
+Phantom
+Ryu Umemoto/Keishi Yonao
+Love
+Ryu Umemoto/Keishi Yonao
+Voyeur
+Ryu Umemoto/Keishi Yonao
+Fanky-Tang
+Ryu Umemoto/Keishi Yonao
+Fear
+Ryu Umemoto/Keishi Yonao
+Appearance
+Ryu Umemoto/Keishi Yonao
+Fret 2
+Ryu Umemoto/Keishi Yonao
+Sudden Development
+Ryu Umemoto/Keishi Yonao
+Solving Mysteries
+Ryu Umemoto/Keishi Yonao
+Elie
+Ryu Umemoto/Keishi Yonao
+Passed
+Ryu Umemoto/Keishi Yonao
+Fate (Karma)
+Ryu Umemoto/Keishi Yonao
+Burial Chamber
+Ryu Umemoto/Keishi Yonao
+Fret 1
+Ryu Umemoto/Keishi Yonao
+Danger
+Ryu Umemoto/Keishi Yonao
+Kanna Hatano
+Ryu Umemoto/Keishi Yonao
+Suspicious 2
+Ryu Umemoto/Keishi Yonao
+Rare Metal
+Ryu Umemoto/Keishi Yonao
+Contact
+Ryu Umemoto/Keishi Yonao
+Handbook
+Ryu Umemoto/Keishi Yonao
+Love 2
+Ryu Umemoto/Keishi Yonao
+Girl by the Lake
+Ryu Umemoto/Keishi Yonao
+Signs of Life
+Ryu Umemoto/Keishi Yonao
+Retrospection
+Ryu Umemoto/Keishi Yonao
+Other World 2
+Ryu Umemoto/Keishi Yonao
+Celes
+Ryu Umemoto/Keishi Yonao
+Other World 3
+Ryu Umemoto/Keishi Yonao
+Solitary Levee
+Keishi Yonao
+Yu-No 1
+Ryu Umemoto/Keishi Yonao
+Growth
+Ryu Umemoto/Keishi Yonao
+Wanpaku
+Ryu Umemoto/Keishi Yonao
+Departure
+Ryu Umemoto/Keishi Yonao
+Time for Whom
+Keishi Yonao
+Farewell
+Ryu Umemoto/Keishi Yonao
+Traverse
+Ryu Umemoto/Keishi Yonao
+Coffin
+Ryu Umemoto/Keishi Yonao
+Temple
+Ryu Umemoto/Keishi Yonao
+By Absurdity⋯
+Keishi Yonao
+Matter of Fact
+Keishi Yonao
+Secret Flow of Time
+Keishi Yonao
+Imperial Capital
+Ryu Takami/Keishi Yonao
+Labyrinth of the Mind
+Keishi Yonao
+Creeping Resignation
+Keishi Yonao
+Green Karma
+Keishi Yonao
+Tension
+Ryu Takami/Keishi Yonao
+Sorrow
+Ryu Umemoto/Keishi Yonao
+Ending
+Ryu Takami
+Recalling
+Eri Sasaki
+Movement 1 (Prologue) [Unused]
+Ryu Umemoto/Keishi Yonao
+Yu-No 2 [Unused]
+Ryu Umemoto/Keishi Yonao
+Other World 1 [Unused]
+Ryu Umemoto/Keishi Yonao
+Opening
+Ryu Umemoto
+Prologue (Introduction)
+Ryu Umemoto
+Prologue - Flashback (Dream)
+Ryu Umemoto
+Memories (Waking)
+Ryu Umemoto
+Prologue - Moving
+Ryu Umemoto
+Ayumi Arima
+Ryu Takami
+Suspicion 1
+Ryu Umemoto
+Mitsuki Ichijou
+Ryu Umemoto
+Tsurugi-no-Misaki
+Ryu Umemoto
+Home (Relief)
+Ryu Umemoto
+Exploration
+Ryu Umemoto
+Having Company (Meal)
+Ryu Umemoto
+Mio Shimazu
+Ryu Umemoto
+Masakatsu Yuuki
+Ryu Umemoto
+In the School
+Ryu Umemoto
+Fate 2 (Karma Version. B)
+Ryu Umemoto
+Quiet
+Ryu Umemoto
+Omen (Impending)
+Ryu Umemoto
+Girl (Other World 1)
+Ryu Umemoto
+Star (Danger)
+Ryu Umemoto
+Ruins
+Ryu Umemoto
+Mystery
+Ryu Umemoto
+Movement 2 (Daytime)
+Ryu Umemoto
+Movement 3
+Ryu Umemoto
+Movement 2 (Night)
+Ryu Umemoto
+Bond
+Ryu Umemoto
+Run Away! Run Away!
+Ryu Umemoto
+Love 1
+Ryu Umemoto
+Caf⑮ (Clair de Lune)
+Claude Achille Debussy/Ryu Umemoto
+Yui Narusawa
+Manabu Kunieda/Ryu Umemoto
+Lower Class Lady
+Manabu Kunieda/Ryu Umemoto
+Intrusion
+Ryu Umemoto
+?!
+Ryu Umemoto
+Phantom
+Ryu Umemoto
+Love
+Ryu Umemoto
+Voyeur
+Ryu Umemoto
+Fanky-Tang
+Ryu Umemoto
+Fear
+Ryu Umemoto
+Appearance
+Ryu Umemoto
+Fret 2
+Ryu Umemoto
+Sudden Development
+Ryu Umemoto
+Solving Mysteries
+Ryu Umemoto
+Elie
+Ryu Umemoto
+Passed
+Ryu Umemoto
+Fate (Karma)
+Ryu Umemoto
+Burial Chamber
+Ryu Umemoto
+Fret 1
+Ryu Umemoto
+Danger
+Ryu Umemoto
+Kanna Hatano
+Ryu Umemoto
+Suspicious 2
+Ryu Umemoto
+Rare Metal
+Ryu Umemoto
+Contact
+Ryu Umemoto
+Handbook
+Ryu Umemoto
+Love 2
+Ryu Umemoto
+Girl by the Lake
+Ryu Umemoto
+Signs of Life
+Ryu Umemoto
+Retrospection
+Ryu Umemoto
+Other World 2
+Ryu Umemoto
+Celes
+Ryu Umemoto
+Other World 3
+Ryu Umemoto
+Spring
+Kazuhiro Kanae
+Yu-No 1
+Ryu Umemoto
+Growth
+Ryu Umemoto
+Wanpaku
+Ryu Umemoto
+Departure
+Ryu Umemoto
+Clocktower
+Kazuhiro Kanae
+Farewell
+Ryu Umemoto
+Traverse
+Ryu Umemoto
+Coffin
+Ryu Umemoto
+Temple
+Ryu Umemoto
+Debu
+Kazuhiro Kanae
+Collapse
+Kazuhiro Kanae
+Wrecked Building
+Kazuhiro Kanae
+Imperial Capital
+Ryu Takami
+Underground Maze
+Kazuhiro Kanae
+Prisoner
+Kazuhiro Kanae
+Reunited
+Kazuhiro Kanae
+Tension
+Ryu Takami
+Sorrow
+Ryu Umemoto
+Ending
+Ryu Takami
+Movement 1 (Prologue) [Unused]
+Ryu Umemoto
+Yu-No 2 [Unused]
+Ryu Umemoto
+Other World 1 [Unused]
+Ryu Umemoto
+りりす・Aエンド

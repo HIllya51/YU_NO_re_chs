@@ -1,0 +1,153 @@
+JA [name]たくや[line]静かだ‥‥誰もいないぜ。[%p]
+ZH [name]拓也[line]好安静……谁都不在呢。[%p]
+
+JA [name]たくや[line]廊下に人はいないみたいだ‥‥‥。[%p]
+ZH [name]拓也[line]走廊里看上去没人在的样子……。[%p]
+
+JA [name]たくや[line]廊下に人はいないみたいだ‥‥‥。[%p]
+ZH [name]拓也[line]走廊里看上去没人在的样子……。[%p]
+
+JA [name]たくや[line]補習授業って、どこでやっているのかな‥‥‥。[%p]
+ZH [name]拓也[line]说到补课，到底是在哪里呢……。[%p]
+
+JA [name]女性の声[line]たくや![%p]
+ZH [name]女性的声音[line]这是拓也！[%p]
+
+JA [name]たくや[line]美月さんじゃないか‥‥。[%p]
+ZH [name]拓也[line]这不是美月吗……。[%p]
+
+JA [name]美月[line]お久しぶり、かしらね、たくや。[%p]
+ZH [name]美月[line]好久不见，是吧，拓也。[%p]
+
+JA [name]たくや[line]その呼び方は、ちょっと‥‥。[%p]
+ZH [name]拓也[line]这个称呼，有点……。[%p]
+
+JA [name]美月[line]大丈夫よ、廊下に生徒さんはいないわ。[%p]
+ZH [name]美月[line]没事的，走廊里没有学生。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何だか元気がなさそうだな‥‥。)[%p]
+ZH [name]拓也[line](（总觉得看起来没什么精神啊……。）。)[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月・たくや[line]あのっ。[%p]
+ZH [name]JF|美丽的月亮[line]那个。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥お、お先にどうぞ。[%p]
+ZH [name]拓也[line]……你，你先说吧。[%p]
+
+JA [name]美月[line]そ、その‥‥たくや。私、少し相談に乗って欲しいことがあるの。[%p]
+ZH [name]美月[line]那，那个……拓也。我，稍微有点事想跟你商量一下。[%p]
+
+JA [name]たくや[line]相談‥‥?[%p]
+ZH [name]拓也[line]聊聊……？[%p]
+
+JA [name]美月[line]ええ。実は龍蔵寺先生のことで‥‥。[%p]
+ZH [name]美月[line]是的。其实是关于龙藏寺老师……。[%p]
+
+JA [name]声[line]一条君。[%p]
+ZH [name]声音[line]一条君。[%p]
+
+JA [name]たくや[line](‥‥龍蔵寺!?)[%p]
+ZH [name]拓也[line](（……龙藏寺！？）)[%p]
+
+JA [name]龍蔵寺[line]おや、広大の息子の‥‥たくや君だね。[%p]
+ZH [name]龙藏寺[line]哦哟，是广大的儿子……拓也君吧。[%p]
+
+JA [name]たくや[line]ど、どうも‥‥。[%p]
+ZH [name]拓也[line]你，你好……。[%p]
+
+JA [name]龍蔵寺[line]ふむ、補習にちゃんと出ているようだね。感心だ。[%p]
+ZH [name]龙藏寺[line]呼姆，看样子有好好地来补课啊。了不起。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]一条君、では行くよ。私の次のスケジュールは?[%p]
+ZH [name]龙藏寺[line]一条君，我们先走吧。我的下一个行程是什么？[%p]
+
+JA [name]美月[line]は、はい。この後でシティホテルへ向かい‥‥。[%p]
+ZH [name]美月[line]是，是的。接下来要到城市宾馆去……。[%p]
+
+JA [name]たくや[line](龍蔵寺‥‥何なんだ、あの落ち着きようは‥‥。)[%p]
+ZH [name]拓也[line](（龙藏寺……怎么回事，看上去这么平静……。）。)[%p]
+
+JA [name]たくや[line](俺はあの夜の社のことを覚えている‥‥。)[%p]
+ZH [name]拓也[line](（我可是还记得那晚在社发生的事……。）。)[%p]
+
+JA [name]たくや[line](だが、目の前の龍蔵寺は、そのことを全く知らないようだ‥‥。)[%p]
+ZH [name]拓也[line](（但是，眼前的龙藏寺，好像完全不记得那件事了呢……。）。)[%p]
+
+JA [name]たくや[line](この龍蔵寺は、俺の知っているあの龍蔵寺じゃないっていうのか‥‥。)[%p]
+ZH [name]拓也[line](（这个龙藏寺，不是我所知道的那个龙藏寺吗……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]‥‥‥君。[%p]
+ZH [name]龙藏寺[line]JF:……你。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]たくや君。[%p]
+ZH [name]龙藏寺[line]拓也你。[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]龍蔵寺[line]ボーっとしているな。疲れでもたまっているのかね?[%p]
+ZH [name]龙藏寺[line]怎么发起呆来了。是不是太累了啊？[%p]
+
+JA [name]たくや[line]べ、別に‥‥。[%p]
+ZH [name]拓也[line]没，没有……。[%p]
+
+JA [name]龍蔵寺[line]ふむ、では頑張ってくれたまえ。広大も期待していることだろう。[%p]
+ZH [name]龙藏寺[line]呼姆，那么就请加油了。广大也对你有很大的期望吧。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](今、何て言ったんだ‥‥? 聞き逃してしまった。)[%p]
+ZH [name]拓也[line](（刚才，他说什么了……？　听漏了。）。)[%p]
+
+JA [name]たくや[line](オヤジが‥‥なんだって?)[%p]
+ZH [name]拓也[line](（老头子……怎么了？）)[%p]
+
+JA [name]美月[line]たくや‥‥急ぐから、じゃね。[%p]
+ZH [name]美月[line]这是拓也……有点急，再见了。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さん、何か言いたかったみたいだけど‥‥。[%p]
+ZH [name]拓也[line]美月，好像想跟我说些什么话……。[%p]
+
+JA [name]たくや[line]‥‥静かな廊下だな。補習授業は行われているんだろうか。[%p]
+ZH [name]拓也[line]……宁静的走廊。现在正在进行补课吧。[%p]
+
+JA [name]たくや[line]結城のやつ、代返上手くやっているのかな‥‥‥。[%p]
+ZH [name]拓也[line]结城那家伙，有帮我好好地代签吗……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,117 @@
+JA [name]美月[line]どうするの、これから‥‥。[%p]
+ZH [name]美月[line]接下来，该怎么办呢……。[%p]
+
+JA [name]たくや[line]どうするって‥‥。[%p]
+ZH [name]拓也[line]什么怎么办……。[%p]
+
+JA [name]たくや[line](どうすりゃいいんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（到底该怎么办好啊……。）。)[%p]
+
+JA [name]たくや[line](俺が誰かに訊きたいぜ‥‥。)[%p]
+ZH [name]拓也[line](（我真想找个人来问问呢……。）。)[%p]
+
+JA [name]たくや[line]堅くて重い岩だ‥‥。[%p]
+ZH [name]拓也[line]坚固厚重的岩石……。[%p]
+
+JA [name]美月[line]無理よ‥‥私たちがどうやっても、その岩は動かせないわ。[%p]
+ZH [name]美月[line]不行啊……不管我们怎么做，这块岩石还是一动都不动啊。[%p]
+
+JA [name]たくや[line]ダメだな‥‥これは。俺ごときじゃ、ビクともしないぜ。[%p]
+ZH [name]拓也[line]不行啊……这样子。像我这样子推的话，完全纹丝不动呢。[%p]
+
+JA [name]たくや[line]結城のヤツはどうしたんだろう‥‥外にいるんだろうか?[%p]
+ZH [name]拓也[line]结城那家伙不知道怎么样了……应该是在外面吧？[%p]
+
+JA [name]たくや[line]おーーーーーいっっ!![%p]
+ZH [name]拓也[line]喂————————！！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]ゆーーきーーーーーっ!!![%p]
+ZH [name]拓也[line]结——城——————！！！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]美月[line]誰かを呼びに行ったのかも知れないわ。[%p]
+ZH [name]美月[line]或许他已经跑去叫人了吧。[%p]
+
+JA [name]たくや[line]かもな。[%p]
+ZH [name]拓也[line]也许吧。[%p]
+
+JA [name]美月[line]ここで待つのも、1つの手よ。[%p]
+ZH [name]美月[line]待在这个地方，也是１种办法。[%p]
+
+JA [name]たくや[line]澪を放っておいてか?[%p]
+ZH [name]拓也[line]就这样丢着澪不管吗？[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]何だったら、美月さん‥‥。[%p]
+ZH [name]拓也[line]万一有事的话，美月……。[%p]
+
+JA [name]美月[line]止めてよ‥‥1人で残るなんて、絶対に嫌よ。一緒に行くわ。[%p]
+ZH [name]美月[line]JF:停下来……一个人留下，绝对讨厌。我跟你一起去。[%p]
+
+JA [name]たくや[line]ふぅ‥‥しょうがないな。[%p]
+ZH [name]拓也[line]呼……真拿你没办法啊。[%p]
+
+JA [name]たくや[line]今はこの岩を見ているときだろうか‥‥?[%p]
+ZH [name]拓也[line]现在是盯住这块岩石看的时候吗……？[%p]
+
+JA [name]たくや[line]ゴツゴツした岩だ‥‥。[%p]
+ZH [name]拓也[line]一块凹凸不平的岩石……。[%p]
+
+JA [name]美月[line]どうしたのよ‥‥岩をマジマジと見つめて。[%p]
+ZH [name]美月[line]你怎么了……这样一直盯着岩石看。[%p]
+
+JA [name]たくや[line]そうだな、戻るしかないか。[%p]
+ZH [name]拓也[line]对啊，只能回去了吧。[%p]
+
+JA [name]美月[line]ええ‥‥。[%p]
+ZH [name]美月[line]诶诶……。[%p]
+
+JA [name]美月[line]えっ、中に戻るの‥‥?[%p]
+ZH [name]美月[line]诶，要回里面去吗……？[%p]
+
+JA [name]たくや[line]うん。何となく戻りたい。[%p]
+ZH [name]拓也[line]嗯。不知怎么就是想回去。[%p]
+
+JA [name]美月[line]んもう‥‥しっかりしてね。[%p]
+ZH [name]美月[line]真是的……拜托你认真点啊。[%p]
+
+JA [name]たくや[line]だから、アイテムを使うときじゃないってば。[%p]
+ZH [name]拓也[line]所以说，现在不是使用道具的时候啊。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

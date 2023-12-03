@@ -1,0 +1,162 @@
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]夜になると、活気が出てくる街だな‥‥。[%p]
+ZH [name]拓也[line]一到了晚上，就充满活力的街道啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]まだ夜じゃないからな‥‥活気はないぜ。[%p]
+ZH [name]拓也[line]因为还没到晚上……也没什么活力呢。[%p]
+
+JA [name]声[line]おや、たくや君か‥‥。[%p]
+ZH [name]声音[line]哦呀，拓也君吗……。[%p]
+
+JA [name]たくや[line](龍蔵寺‥‥?)[%p]
+ZH [name]拓也[line](（龙藏寺……？）)[%p]
+
+JA [name]龍蔵寺[line]こんな時間から、繁華街をうろつくのは感心しないな。[%p]
+ZH [name]龙藏寺[line]从这种时候开始，就在繁华街上乱逛可不值得称赞啊。[%p]
+
+JA [name]たくや[line]龍蔵寺学長も、息抜きですか?[%p]
+ZH [name]拓也[line]龙藏寺学长也是，来散心的吗？[%p]
+
+JA [name]龍蔵寺[line]私は仕事だよ‥‥人と会う約束があってね。[%p]
+ZH [name]龙藏寺[line]我是来工作的……跟人家约好了见面。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]では、失礼するよ‥‥。[%p]
+ZH [name]龙藏寺[line]那么，先失陪了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いったい、誰と会うんだろうな‥‥。[%p]
+ZH [name]拓也[line]到底，是跟谁见面呢……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]昼間の方が活気がないってのも、珍しいよな‥‥。[%p]
+ZH [name]拓也[line]白天的时候比较没活力这一点，也很少见啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]もう、あのアル中野郎はいないみたいだな‥‥‥。[%p]
+ZH [name]拓也[line]貌似，那个酗酒的混蛋已经不见了啊……。[%p]
+
+JA [name]男の声[line]おい、お前。[%p]
+ZH [name]男人的声音[line]喂，你。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]たくや[line](あっ、こいつ‥‥。)[%p]
+ZH [name]拓也[line](（啊，这家伙‥‥。）。)[%p]
+
+JA [name]たくや[line](確か、北条とかいう男だったか‥‥。)[%p]
+ZH [name]拓也[line](（记得，是一个叫北条的男人‥‥。）。)[%p]
+
+JA [name]北条[line]フゥーー‥‥奇遇だな、こんなところで。[%p]
+ZH [name]北条[line]呼——……真巧啊，在这种地方遇到。[%p]
+
+JA [name]たくや[line](うわっ、酒臭いぞ‥‥‥。)[%p]
+ZH [name]拓也[line](（唔哇，酒味好臭……。）。)[%p]
+
+JA [name]北条[line]ちょいと、話があるんだが、いいか?[%p]
+ZH [name]北条[line]稍微，有点事想跟你说，有空吗？[%p]
+
+JA [name]たくや[line](こいつ‥‥‥。)[%p]
+ZH [name]拓也[line](（这家伙……。）。)[%p]
+
+JA [name]たくや[line]夜の方が活気のある街‥‥セントラル街だ。[%p]
+ZH [name]拓也[line]晚上比较有活力的街道……中央街。[%p]
+
+JA [name]たくや[line]夜の方が活気のある街だ‥‥。[%p]
+ZH [name]拓也[line]晚上比较有活力的街道……。[%p]
+
+JA [name]たくや[line]相変わらず活気に満ちた街だな‥‥。[%p]
+ZH [name]拓也[line]还是一如既往充满活力的街道啊……。[%p]
+
+JA [name]酔っぱらい[line]こらぁ、気をつけ‥‥んあっ、さっきの用心棒![%p]
+ZH [name]醉汉[line]喂，小心点……嗯啊、刚才那个保镖啊！[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]酔っぱらい[line]すみませんーーっ! さっきの女の子の生徒手帳を、拾っただけなんですよう。[%p]
+ZH [name]醉汉[line]对不起——！　刚才那个女孩子的学生手册，被我捡到了哦。[%p]
+
+JA [name]酔っぱらい[line]ほら、見て下さい‥‥と思ったら、あなた、いつの間に持っていったんですか、手の早い。[%p]
+ZH [name]醉汉[line]来，你看……还在想，你什么时候拿回去的啊，出手真快。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]酔っぱらい[line]じゃあ、返しましたからね。失礼しますーーっ。[%p]
+ZH [name]醉汉[line]那么，已经还给你了哦。失陪了——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]酔っぱらいは行ってしまった‥‥‥。[%p]
+ZH [name]拓也[line]醉汉已经走掉了……。[%p]
+
+JA [name]たくや[line]生徒手帳がどうとか言っていたよな‥‥。[%p]
+ZH [name]拓也[line]好像说了学生手册还是什么的话啊……。[%p]
+
+JA [name]たくや[line]そうだ、俺の手の中には、神奈チャンの生徒手帳があるぞ。[%p]
+ZH [name]拓也[line]对了，现在我手上，有神奈的学生手册呢。[%p]
+
+JA [name]たくや[line]やっぱりこれ、返さなくちゃならないんじゃないか?[%p]
+ZH [name]拓也[line]果然，一定要把这个还回去吧？[%p]
+
+JA [name]酔っぱらい[line]すみませんーーっ、拾っただけなんですよう、これ返します![%p]
+ZH [name]醉汉[line]对不起——，我捡到这个了哦，把它还给你吧！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何が何だかわからないうちに、手帳みたいのを手渡されたぜ。[%p]
+ZH [name]拓也[line]还不知道发生什么情况了呢，就把手册之类的东西交给我了。[%p]
+
+JA [name]たくや[line]なんだろう‥‥?[%p]
+ZH [name]拓也[line]怎么了……？[%p]
+
+JA [name]たくや[line]あれ、これは‥‥。[%p]
+ZH [name]拓也[line]咦，这个是……。[%p]
+
+JA [name]たくや[line]神奈チャンの生徒手帳じゃないか。[%p]
+ZH [name]拓也[line]这不是神奈的学生手册吗。[%p]
+
+JA [name]たくや[line]そうか、ぶつかった拍子に、また落としてしまったってことか。[%p]
+ZH [name]拓也[line]对了，刚才撞到的时候，又掉了吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][生徒手帳][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[学生手册][color index="800000"]JF:得到了。
+
+JA [color index="840000"][生徒手帳][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[学生手册][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]どうするんだ、これから‥‥。[%p]
+ZH [name]拓也[line]怎么办好呢，接下来……。[%p]
+
+JA [name]たくや[line]セントラル街へ戻ってきてしまった。[%p]
+ZH [name]拓也[line]又回到中央街来了。[%p]
+
+JA [name]たくや[line]‥‥しかし、俺はいったい何で戻ってきたんだ?[%p]
+ZH [name]拓也[line]……但是，我究竟是为什么又回来的呢？[%p]
+
+JA [name]神奈[line]大丈夫ですか、有馬さん。[%p]
+ZH [name]神奈[line]没事吧，有马同学。[%p]
+
+JA 
+ZH 
+

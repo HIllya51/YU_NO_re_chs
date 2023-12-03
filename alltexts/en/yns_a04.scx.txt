@@ -1,0 +1,3 @@
+[name]Takuya[line]I'm at my front door. It's chilly.[%p]
+[name]Takuya[line]I'm outside. It's chilly.[%p]
+[name]Takuya[line]So, I'm going⋯there?[%p]

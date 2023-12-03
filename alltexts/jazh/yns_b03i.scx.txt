@@ -1,0 +1,129 @@
+JA [name]澪[line]さっきから何なのよ‥‥。[%p]
+ZH [name]澪[line]从刚才开始怎么了啊……。[%p]
+
+JA [name]澪[line]なんなの、その封書は‥‥。[%p]
+ZH [name]澪[line]怎么了，这封信是……。[%p]
+
+JA [name]澪[line]わ、私はそういう手紙、受け取らないようにしてるの。[%p]
+ZH [name]澪[line]这，这样的信，我才不想要呢。[%p]
+
+JA [name]澪[line]その‥‥どうしてもっていうなら、見てあげないこともないけど‥‥。[%p]
+ZH [name]澪[line]那个……要是你无论如何都要给我看的话，我也不是说不能看……。[%p]
+
+JA [name]澪[line]なによ、また隠したりして‥‥変な人っ。[%p]
+ZH [name]澪[line]什么啊，又藏起来了啊……真是个怪人。[%p]
+
+JA [name]澪[line]キャッシュカード?[%p]
+ZH [name]澪[line]是银行取款卡吗？[%p]
+
+JA [name]澪[line]クレジットカードも含めて、私は20枚くらい持ってるわ。[%p]
+ZH [name]澪[line]包括信用卡在内，我差不多有２０张左右吧。[%p]
+
+JA [name]澪[line]なによ、そんなにショボンとして‥‥。[%p]
+ZH [name]澪[line]什么啊，怎么这么无精打采的……。[%p]
+
+JA [name]澪[line]綺麗なメダルね‥‥まさか私にくれる訳じゃないでしょ?[%p]
+ZH [name]澪[line]好漂亮的徽章啊……你应该不是要把这个送给我吧？[%p]
+
+JA [name]澪[line]誰の‥‥?[%p]
+ZH [name]澪[line]谁的……？[%p]
+
+JA [name]澪[line]そのカギが‥‥どうかしたの?[%p]
+ZH [name]澪[line]这把钥匙……怎么了吗？[%p]
+
+JA [name]澪[line]ちょっとなによ、話があるんじゃないの?[%p]
+ZH [name]澪[line]等一下，怎么了啊，不是还有话说吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](今は話すのが先‥‥かな?)[%p]
+ZH [name]拓也[line](（现在还是先来谈话……吧？）)[%p]
+
+JA [name]澪[line]あっ! それって、私の大切な‥‥。[%p]
+ZH [name]澪[line]啊！　这东西，是我很重要的……。[%p]
+
+JA [name]澪[line]んもう、返してもらいますからね。[%p]
+ZH [name]澪[line]真是的，快把它还给我吧。[%p]
+
+JA [name]澪[line]何で有馬君が持っているのよ‥‥もう。[%p]
+ZH [name]澪[line]为什么有马君会有这东西的……真是的。[%p]
+
+JA [name]澪[line]陸上部の備品を持ってきたらダメじゃない。[%p]
+ZH [name]澪[line]不是说不能把田径的备件带出来的吗。[%p]
+
+JA [name]澪[line]えっ‥‥これって違うの?[%p]
+ZH [name]澪[line]诶……这个不是的吗？[%p]
+
+JA [name]澪[line]ちょっ‥‥何よそれ。[%p]
+ZH [name]澪[line]等……这是什么啊。[%p]
+
+JA [name]澪[line]刃物を持ち歩くなんて、やめなさい。[%p]
+ZH [name]澪[line]拿着利器在街上走，你别做这种事啊。[%p]
+
+JA [name]澪[line]‥‥また部活に復帰するの?[%p]
+ZH [name]澪[line]……又回来参加社团活动了？[%p]
+
+JA [name]澪[line]やらしいわねっ。[%p]
+ZH [name]澪[line]真是太讨厌了。[%p]
+
+JA [name]澪[line]えっ、そういう目的じゃない?[%p]
+ZH [name]澪[line]诶，你不是为了这种目的吗？[%p]
+
+JA [name]澪[line]‥‥何なのよっ、そういう目的って![%p]
+ZH [name]澪[line]……什么啊，这种目的是什么意思！[%p]
+
+JA [name]澪[line]‥‥なに、その紙は。[%p]
+ZH [name]澪[line]……这张纸是什么。[%p]
+
+JA [name]澪[line]書類‥‥ね。それがどうかしたの?[%p]
+ZH [name]澪[line]是文件……吧。这个怎么了吗？[%p]
+
+JA [name]澪[line]豊富さんね‥‥その写真がどうかしたの。[%p]
+ZH [name]澪[line]丰富先生啊……这张照片怎么了吗。[%p]
+
+JA [name]澪[line]だいたい、有馬君がなんで豊富さんの写真を持っているのよ。[%p]
+ZH [name]澪[line]大致上说来，有马君你身上为什么会带着丰富先生的照片啊。[%p]
+
+JA [name]澪[line]‥‥不潔。[%p]
+ZH [name]澪[line]……不洁。[%p]
+
+JA [name]澪[line]白いメダルね‥‥。[%p]
+ZH [name]澪[line]白色徽章啊……。[%p]
+
+JA [name]澪[line]黒いメダルね‥‥。[%p]
+ZH [name]澪[line]黑色徽章啊……。[%p]
+
+JA [name]澪[line]今川教授のじゃない‥‥。[%p]
+ZH [name]澪[line]这不是今川教授的……。[%p]
+
+JA [name]澪[line]あっきれた、持ってきちゃったの?[%p]
+ZH [name]澪[line]真受不了你，你居然把它带出来了？[%p]
+
+JA [name]澪[line]流行のモバイルユーザーってところ?[%p]
+ZH [name]澪[line]是现在流行的携带型啊？[%p]
+
+JA [name]澪[line]見せびらかさなくても、いいわよ。[%p]
+ZH [name]澪[line]就算你不拿出来卖弄，也没关系啊。[%p]
+
+JA [name]澪[line]青いカードね‥‥クレジットカード?[%p]
+ZH [name]澪[line]蓝色的卡片啊……是信用卡吗？[%p]
+
+JA [name]澪[line]綺麗な石ね‥‥青白く光ってるわ。[%p]
+ZH [name]澪[line]好漂亮的石头……发出蓝白色的光。[%p]
+
+JA [name]澪[line]も、もしかして私に‥‥。[%p]
+ZH [name]澪[line]难，难道是要给我的……。[%p]
+
+JA [name]澪[line]顔を思いっきり横に振ること、ないじゃない![%p]
+ZH [name]澪[line]你不要再使劲地摇脑袋了！[%p]
+
+JA [name]澪[line]ま、まさか、有馬君の自室のカギ‥‥?[%p]
+ZH [name]澪[line]难，难道，这是有马君你家的钥匙……？[%p]
+
+JA [name]澪[line]ダ、ダメよ‥‥そんな。[%p]
+ZH [name]澪[line]不，不行啊……这东西。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,561 @@
+JA [name]たくや[line]亜由美さんは自宅にいるはずだ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐现在应该在自宅里吧……。[%p]
+
+JA [name]たくや[line]何だか、嫌な胸騒ぎがするんだ‥‥。[%p]
+ZH [name]拓也[line]感觉，有股很讨厌的预感……。[%p]
+
+JA [name]たくや[line]とにかく、早く中に入ろう![%p]
+ZH [name]拓也[line]总而言之，先进里面去吧！[%p]
+
+JA [name]たくや[line]自宅前だぜ‥‥。[%p]
+ZH [name]拓也[line]这是自宅前……。[%p]
+
+JA [name]たくや[line]もう夜も遅い‥‥亜由美さん、どこへ行ったんだろう?[%p]
+ZH [name]拓也[line]夜已经很深了……亚由美小姐，到底去哪里了呢？[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了呢……。[%p]
+
+JA [name]たくや[line]もう夜も遅い‥‥亜由美さん、どこへ行ったんだろう?[%p]
+ZH [name]拓也[line]夜已经很深了……亚由美小姐，到底去哪里了呢？[%p]
+
+JA [name]たくや[line]自宅前だ‥‥。[%p]
+ZH [name]拓也[line]自宅前面……。[%p]
+
+JA [name]たくや[line]亜由美さん、どこへ行ったんだろうな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，到底去哪里了啊……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面了……。[%p]
+
+JA [name]たくや[line]自宅でじっと待っているのは性に合わないからな‥‥。[%p]
+ZH [name]拓也[line]一直在自宅等着不符合我的性格啊……。[%p]
+
+JA [name]たくや[line]かといって、どこを探せばいいのか‥‥。[%p]
+ZH [name]拓也[line]虽说如此，还是去哪里找找比较好吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了呢……。[%p]
+
+JA [name]たくや[line]亜由美さん、帰ってきているかな‥‥早く会って話をした方がいいような気がする。[%p]
+ZH [name]拓也[line]亚由美小姐，已经回来了吗……我应该赶紧跟她见个面好好谈谈比较好吧。[%p]
+
+JA [name]たくや[line]自宅前だ‥‥。[%p]
+ZH [name]拓也[line]自宅前面……。[%p]
+
+JA [name]たくや[line]早く亜由美さんと話をした方がいい‥‥。[%p]
+ZH [name]拓也[line]还是快点跟亚由美小姐谈谈比较好吧……。[%p]
+
+JA [name]たくや[line]自宅前だ‥‥。[%p]
+ZH [name]拓也[line]自宅前面……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]まだだ。[%p]
+ZH [name]拓也[line]又来了。[%p]
+
+JA [name]結城[line]そ、そうですか‥‥。[%p]
+ZH [name]结城[line]是，是吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥澪が行きそうな場所、か。[%p]
+ZH [name]拓也[line]呼……澪有可能会去的地方，吗。[%p]
+
+JA [name]たくや[line]やっぱりあの場所しか、考えられないよな‥‥。[%p]
+ZH [name]拓也[line]果然，除了那个地方想不出别的了啊……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]お前、わざと言っていないか?[%p]
+ZH [name]拓也[line]你啊，不会是故意这么叫的吧？[%p]
+
+JA [name]結城[line]なにが、でしょう?[%p]
+ZH [name]结城[line]什么意思？[%p]
+
+JA [name]たくや[line]‥‥もういい。[%p]
+ZH [name]拓也[line]‥‥够了。[%p]
+
+JA [name]結城[line]セントラル街付近は、いませんねぇ‥‥色々、お店なんかも探したんですが。[%p]
+ZH [name]结城[line]中央街附近，好像没有在呢……我已经，找过很多店了。[%p]
+
+JA [name]たくや[line]そっか。[%p]
+ZH [name]拓也[line]是吗。[%p]
+
+JA [name]結城[line]もう少し、色々な場所を探してみますね。[%p]
+ZH [name]结城[line]稍微，再去一些地方找找看吧。[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、澪が行きそうなところ、か‥‥。[%p]
+ZH [name]拓也[line]话说回来，澪可能回去的地方吗‥‥。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]だから、そのオヤビンってのをいい加減止めろって。[%p]
+ZH [name]拓也[line]JF:所以，让我适可而止地停止那个大叔。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]どうもこうも、さっき会ったばかりだろう?[%p]
+ZH [name]拓也[line]话说刚才见到了的吧？[%p]
+
+JA [name]結城[line]でも、見つけるときは一瞬じゃないですか。[%p]
+ZH [name]结城[line]可是，发现不也是一瞬间的事吗。[%p]
+
+JA [name]たくや[line](たまに、正論を言いやがる。)[%p]
+ZH [name]拓也[line](（偶尔，也会说些正论呢。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]結城[line]しっかりしてください。オヤビンだけが頼りなんですよう。[%p]
+ZH [name]结城[line]请你振作起来啊。现在只能靠头目你了。[%p]
+
+JA [name]たくや[line]わかったって‥‥何とか探してみるよ。[%p]
+ZH [name]拓也[line]我知道的‥‥会努力找找看的。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、あいつどこを探しているんだろうな‥‥。[%p]
+ZH [name]拓也[line]不过，那家伙到底去什么地方找了呢……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]そのオヤビンっての、止めろって。[%p]
+ZH [name]拓也[line]JF:那个大叔叫我停下来。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥ど、どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎，怎么了？[%p]
+
+JA [name]たくや[line]おう、見つけたぜ。[%p]
+ZH [name]拓也[line]哦，我找到了。[%p]
+
+JA [name]結城[line]ほ、本当ですかっ。[%p]
+ZH [name]结城[line]真，真的吗。[%p]
+
+JA [name]たくや[line]ほら、北の空に、一番星。[%p]
+ZH [name]拓也[line]你看，北边的天空，金星。[%p]
+
+JA [name]結城[line]‥‥‥‥それじゃ、失礼します。[%p]
+ZH [name]结城[line]…………那么，我失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]心が和むジョークだと、思ったんだけどなぁ。[%p]
+ZH [name]拓也[line]只是让心情平静下来的玩笑而已，我是这么想的。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]いや、俺の方はまだ‥‥。[%p]
+ZH [name]拓也[line]不，我这边还没‥‥。[%p]
+
+JA [name]結城[line]今、手当たり次第に調べているところです。何かありましたら、高台の方まで来てください。[%p]
+ZH [name]结城[line]现在，我是按照线索的顺序在调查。要是有什么发现的话，请到高台方向来吧。[%p]
+
+JA [name]たくや[line]ああ‥‥わかった。[%p]
+ZH [name]拓也[line]啊啊‥‥知道了。[%p]
+
+JA [name]結城[line]それじゃ、オヤビンも頑張って。[%p]
+ZH [name]结城[line]那么，头目也请加油。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オヤビンじゃないって、言ってるのに。[%p]
+ZH [name]拓也[line]不要叫我头目，我明明说过了。[%p]
+
+JA [name]たくや[line]自宅前だ‥‥。[%p]
+ZH [name]拓也[line]自宅前面……。[%p]
+
+JA [name]たくや[line]シンと静まり返っている‥‥。[%p]
+ZH [name]拓也[line]周围万籁俱寂……。[%p]
+
+JA [name]たくや[line]そういえば、亜由美さんもどこへ行ったんだろうな‥‥。[%p]
+ZH [name]拓也[line]这么说起来，亚由美小姐也到什么地方去了呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]自宅前へ戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]亜由美さん、どうせ帰っていないだろうな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，看样子还没有回来啊……。[%p]
+
+JA [name]たくや[line]外に出てきたが‥‥。[%p]
+ZH [name]拓也[line]走到外面来了……。[%p]
+
+JA [name]たくや[line]自宅前へ戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]外に出たが‥‥。[%p]
+ZH [name]拓也[line]走出外面了……。[%p]
+
+JA [name]たくや[line]亜由美さんはいないし‥‥どうしたらいいんだ。[%p]
+ZH [name]拓也[line]亚由美小姐也不在家……接下来该怎么办好呢。[%p]
+
+JA [name]たくや[line]亜由美さんは豊富に呼ばれて、ジオ・テクニクスへ行ったんだ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐被丰富叫出去，到Ｇｅｏ·ｔｅｃｈｎｉｃｓ去了……。[%p]
+
+JA [name]たくや[line]何だか気になる‥‥嫌な予感といってもいい。[%p]
+ZH [name]拓也[line]总觉得有些在意……应该说是很讨厌的预感吧。[%p]
+
+JA [name]たくや[line]亜由美さんを1人で行かすべきじゃなかったか‥‥?[%p]
+ZH [name]拓也[line]难道不应该让亚由美小姐１个人过去吗……？[%p]
+
+JA [name]たくや[line]かといって、ジオ・テクニクスには入ることはできない‥‥。[%p]
+ZH [name]拓也[line]话虽如此，不过Ｇｅｏ·ｔｅｃｈｎｉｃｓ我也进不去……。[%p]
+
+JA [name]たくや[line]中に入るための何かを持っていれば、いいのかな‥‥。[%p]
+ZH [name]拓也[line]要是想进里面去的话，拿出什么才可以呢……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたが‥‥。[%p]
+ZH [name]拓也[line]又走回自宅前面了……。[%p]
+
+JA [name]たくや[line]外はあいかわらず、眩しい‥‥。[%p]
+ZH [name]拓也[line]外面还是老样子，好刺眼啊……。[%p]
+
+JA [name]たくや[line]さっ、これからどこへ行くんだ?[%p]
+ZH [name]拓也[line]好了，接下来我该往哪里走呢？[%p]
+
+JA [name]たくや[line]‥‥眩しいな。[%p]
+ZH [name]拓也[line]……好刺眼啊。[%p]
+
+JA [name]たくや[line]今日も天気は快晴か‥‥落雷騒動が嘘みたいじゃないか。[%p]
+ZH [name]拓也[line]今天的天气也很晴朗……落雷骚动简直像是骗人的一样。[%p]
+
+JA [name]たくや[line]とにかく、あの野郎に会って事情を訊かないことには、気が済まないぜ。[%p]
+ZH [name]拓也[line]总而言之，不去找那个混蛋把事情问清楚，我实在咽不下这口气啊。[%p]
+
+JA [name]たくや[line]もしも、俺が考えるようなことがあったら‥‥。[%p]
+ZH [name]拓也[line]万一，要是事情真像我想象那样的话……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、あいつを早く探そうぜ。[%p]
+ZH [name]拓也[line]总而言之，先去把那家伙找出来吧。[%p]
+
+JA [name]たくや[line]差し当たって、どこへ行くのがいいかな‥‥?[%p]
+ZH [name]拓也[line]说要找人，究竟到什么地方找比较好呢……？[%p]
+
+JA [name]たくや[line]何だか胸騒ぎがする‥‥。[%p]
+ZH [name]拓也[line]总觉得有种不祥之兆……。[%p]
+
+JA [name]たくや[line]いったい亜由美さんは、どこに呼び出されたんだ‥‥?[%p]
+ZH [name]拓也[line]亚由美小姐，究竟被叫到哪里去了呢……？[%p]
+
+JA [name]たくや[line]外は冷え込んでいるな‥‥。[%p]
+ZH [name]拓也[line]外面实在是太冷了啊……。[%p]
+
+JA [name]たくや[line]亜由美さんはどこに行ったんだろう‥‥?[%p]
+ZH [name]拓也[line]亚由美小姐究竟到哪里去了呢……？[%p]
+
+JA [name]たくや[line]自宅前に戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]亜由美さん、帰ってるかな‥‥?[%p]
+ZH [name]拓也[line]亚由美小姐，已经回来了吧……？[%p]
+
+JA [name]たくや[line]ふぅ‥‥外は相変わらず冷え込むな。[%p]
+ZH [name]拓也[line]呼……外面还是一如既往地冷啊。[%p]
+
+JA [name]たくや[line]どこへ行ったんだろうな、亜由美さん。[%p]
+ZH [name]拓也[line]究竟到哪里去了呢，亚由美小姐。[%p]
+
+JA [name]たくや[line]用事ってことは、誰かに呼び出されたってことだ。[%p]
+ZH [name]拓也[line]说是有事出去，究竟是被谁给叫出去的呢。[%p]
+
+JA [name]たくや[line]会社だろうか‥‥?[%p]
+ZH [name]拓也[line]是公司吗……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何なんだろう、この胸騒ぎは‥‥。[%p]
+ZH [name]拓也[line]怎么回事，这种不安的感觉……。[%p]
+
+JA [name]たくや[line]自宅に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到自宅了呢……。[%p]
+
+JA [name]たくや[line]さっ、この薬を早く亜由美さんに渡そう。[%p]
+ZH [name]拓也[line]好了，快点把这个药交给亚由美小姐吧。[%p]
+
+JA [name]たくや[line]ふぅ‥‥外はやっぱり冷えるな‥‥。[%p]
+ZH [name]拓也[line]呼……外面果然好冷啊……。[%p]
+
+JA [name]たくや[line]さて、頭痛薬を売っているところといったら‥‥。[%p]
+ZH [name]拓也[line]那么，说到卖头痛药的地方……。[%p]
+
+JA [name]たくや[line]あそこに行くしかないぜ‥‥。[%p]
+ZH [name]拓也[line]也只有那个地方了吧……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了呢……。[%p]
+
+JA [name]たくや[line]そろそろ、家に帰らないか? 亜由美さんが心配するぜ。[%p]
+ZH [name]拓也[line]还不快点回家来吗？　亚由美小姐真让人担心呢。[%p]
+
+JA [name]たくや[line]外は冷え込んでいるな‥‥。[%p]
+ZH [name]拓也[line]外面实在是太冷了啊……。[%p]
+
+JA [name]たくや[line]なんで俺は外に出たんだろう?[%p]
+ZH [name]拓也[line]为什么我要到外面来呢？[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了呢……。[%p]
+
+JA [name]たくや[line]もう夜も遅くなってきた‥‥亜由美さん、帰ってるかな。[%p]
+ZH [name]拓也[line]夜已经很深了……亚由美小姐，应该回来了吧。[%p]
+
+JA [name]たくや[line]そうだ、確か早く帰っていてくれって、言われていたんだ。[%p]
+ZH [name]拓也[line]对了，我记得她好像说过，让我快点回家来的。[%p]
+
+JA [name]たくや[line]思いっきり約束を破ってしまってるぞ‥‥。[%p]
+ZH [name]拓也[line]没想到我破坏了约定……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたが‥‥。[%p]
+ZH [name]拓也[line]又走回自宅前面了……。[%p]
+
+JA [name]たくや[line]外は少し冷えるな‥‥。[%p]
+ZH [name]拓也[line]外面稍微有点冷啊……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきたが‥‥あれ?[%p]
+ZH [name]拓也[line]回到自宅前面来了……咦？[%p]
+
+JA [name]たくや[line]あそこにいるの‥‥バカじゃないか?[%p]
+ZH [name]拓也[line]JF:在那里……不是笨蛋吗？[%p]
+
+JA [name]豊富[line]誰がバカだ‥‥
+ZH [name]丰富[line]JF:谁是笨蛋
+
+JA こら、人を指さすんじゃない。[%p]
+ZH 喂，不要用手指着人啊。[%p]
+
+JA [name]豊富[line]誰がバカだ‥‥こら、人を指さすんじゃない。
+ZH [name]丰富[line]JF:谁是笨蛋……喂，不要指着别人。
+
+JA [name]たくや[line]何であんたがここにいるんだ?[%p]
+ZH [name]拓也[line]为什么你会在这个地方啊？[%p]
+
+JA [name]豊富[line]それは僕のセリフだな。なぜ君がここに、しかも主任の家の所にいるんだ?[%p]
+ZH [name]丰富[line]这是我要说的话吧。为什么你会在这里，而且这是主任的家吧？[%p]
+
+JA [name]たくや[line]答えよう、それはここが俺の家だからだ。[%p]
+ZH [name]拓也[line]那我告诉你吧，因为这里是我的家啊。[%p]
+
+JA [name]豊富[line]なぜ、ここが君の家なんだ?[%p]
+ZH [name]丰富[line]为什么，这里会是你的家？[%p]
+
+JA [name]たくや[line]それはその‥‥うーん。[%p]
+ZH [name]拓也[line]JF:那就是那个……嗯。[%p]
+
+JA [name]豊富[line]はっはっは、勝ったな。[%p]
+ZH [name]丰富[line]哈，哈，哈，我赢了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](こいつ、バカ?)[%p]
+ZH [name]拓也[line](（这家伙，是傻瓜吗？）)[%p]
+
+JA [name]豊富[line]主任はまだ帰っていないようだな‥‥。[%p]
+ZH [name]丰富[line]主任好像还没有回来啊……。[%p]
+
+JA [name]たくや[line]テレビ局とか何とかって、言っていただろう?[%p]
+ZH [name]拓也[line]是去了电视台还是什么地方吧，她应该说过吧？[%p]
+
+JA [name]豊富[line]僕はテレビ局まで彼女を連れていっただけだ。その他のことはまるで知らん。[%p]
+ZH [name]丰富[line]虽然是我把她送到电视台去的。不过其他事情我就一概不知了。[%p]
+
+JA [name]たくや[line](自慢するなよ‥‥。)[%p]
+ZH [name]拓也[line](（别太自傲了啊……。）。)[%p]
+
+JA [name]豊富[line]まぁいい、用事は後で伝えればいいからな。[%p]
+ZH [name]丰富[line]那算了，事情还是以后再转告她好了。[%p]
+
+JA [name]たくや[line]‥‥用事?[%p]
+ZH [name]拓也[line]……事情？[%p]
+
+JA [name]豊富[line]ではな‥‥。[%p]
+ZH [name]丰富[line]再见了……。[%p]
+
+JA [name]たくや[line]あっ、ちょっと‥‥。[%p]
+ZH [name]拓也[line]啊、等一下……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]豊富はセントラル街の方へ、行っちまったぜ‥‥。[%p]
+ZH [name]拓也[line]丰富向着中央街的方向，走过去了……。[%p]
+
+JA [name]たくや[line]しかし、何で亜由美さんがテレビ局へ行ったのか、聞きたかったんだけどな‥‥。[%p]
+ZH [name]拓也[line]不过，为什么亚由美小姐要到电视台去呢，虽然我是知道了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、これは‥‥。[%p]
+ZH [name]拓也[line]咦，这个是……。[%p]
+
+JA [name]たくや[line]‥‥亜由美さんの写真だ。何でこんな所に落ちているんだ?[%p]
+ZH [name]拓也[line]……亚由美小姐的照片。为什么会掉在这种地方呢？[%p]
+
+JA [name]たくや[line]豊富が落としていったのかな‥‥。[%p]
+ZH [name]拓也[line]是丰富掉的吗‥‥。[%p]
+
+JA [name]たくや[line]だけど、何だってあの野郎が亜由美さんの写真を持ってるんだろう。[%p]
+ZH [name]拓也[line]不过，为什么那混蛋会有亚由美的照片。[%p]
+
+JA [name]たくや[line]意外にミーハーなところがあるんだな、あいつは。[%p]
+ZH [name]拓也[line]出人意料地缠人啊，那个家伙。[%p]
+
+JA [name]たくや[line]これを持っていてもしょうがないし、豊富はさっさと行っちまうし‥‥ったく、どうしようか。[%p]
+ZH [name]拓也[line]就算拿着这种东西也没什么用，丰富已经走掉了……可恶，该怎么办好呢。[%p]
+
+JA [name]たくや[line]外は少し冷えるな‥‥。[%p]
+ZH [name]拓也[line]外面稍微有点冷啊……。[%p]
+
+JA [name]たくや[line]亜由美さんは、早く家に帰りなさいって、言っていたけど‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐说过，让我早点回家来的……。[%p]
+
+JA [name]たくや[line]自宅前に戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]どうするんだ、これから‥‥。[%p]
+ZH [name]拓也[line]怎么办好呢，接下来……。[%p]
+
+JA [name]たくや[line]外に出たぜ‥‥どうするんだ?[%p]
+ZH [name]拓也[line]走到外面了……该怎么办呢？[%p]
+
+JA [name]たくや[line]自宅前に戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]どわっ![%p]
+ZH [name]拓也[line]呃哇！[%p]
+
+JA [name]たくや[line](豊富ってヤツだ‥‥。)[%p]
+ZH [name]拓也[line](（是那个叫丰富的……。）。)[%p]
+
+JA [name]たくや[line](亜由美さんの手下A。)[%p]
+ZH [name]拓也[line](（亚由美小姐的手下Ａ。）。)[%p]
+
+JA [name]豊富[line]なんだ、そのリアクションは。ヤマしいことでもあるのかね?[%p]
+ZH [name]丰富[line]什么啊，那种反应。你是做了什么亏心事吗？[%p]
+
+JA [name]たくや[line]じゃあ‥‥おえっ。[%p]
+ZH [name]拓也[line]那么……哦哎。[%p]
+
+JA [name]豊富[line]‥‥ピク。[%p]
+ZH [name]丰富[line]……一惊。[%p]
+
+JA [name]たくや[line]いやぁ、俺ってほら、正直じゃん。[%p]
+ZH [name]拓也[line]没事，我呢，实在太正直了啊。[%p]
+
+JA [name]豊富[line]気安く肩を叩かないで戴こう。ときに、主任さんはご在宅かな。[%p]
+ZH [name]丰富[line]不要随随便便地敲我肩膀好吗。现在，主任她在家吗。[%p]
+
+JA [name]たくや[line]主任さん?[%p]
+ZH [name]拓也[line]主任？[%p]
+
+JA [name]豊富[line]‥‥有馬主任だ。君の遠縁の親戚だ。[%p]
+ZH [name]丰富[line]……有马主任啊。你的远房亲戚。[%p]
+
+JA [name]たくや[line]母親だよ。[%p]
+ZH [name]拓也[line]是母亲。[%p]
+
+JA [name]豊富[line]そうか、ちっ。[%p]
+ZH [name]丰富[line]是吗，切。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か、頭に来る奴だな。)[%p]
+ZH [name]拓也[line](（这家伙，真让人火大啊。）。)[%p]
+
+JA [name]豊富[line]どこへ行ったのか、わからないかね?[%p]
+ZH [name]丰富[line]她到哪里去了，你知不知道啊？[%p]
+
+JA [name]たくや[line]知らない。(ついでに言えば、お前に教えることなど何もない。)[%p]
+ZH [name]拓也[line]我不知道。（顺便说一下，对你这种家伙我什么都不会说的。）。)[%p]
+
+JA [name]豊富[line]そうか‥‥ふむ、主任の心は僕が癒す![%p]
+ZH [name]丰富[line]是吗……呼，主任的痛苦就由我来治愈吧！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫か、あいつ。[%p]
+ZH [name]拓也[line]没病吧，那家伙。[%p]
+
+JA [name]たくや[line]この装置を使って、俺はオヤジを探す‥‥。[%p]
+ZH [name]拓也[line]我要使用这个装置，把老头子找回来……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]だけど、いったいどこを探せばいいんだ‥‥?[%p]
+ZH [name]拓也[line]不过，到底要到哪里去找他比较好呢……？[%p]
+
+JA [name]たくや[line]無限に存在する並列世界を探索するのか?[%p]
+ZH [name]拓也[line]要去探索无限存在着的平行世界吗？[%p]
+
+JA [name]たくや[line]何か‥‥何か手がかりがあるはずなんだ。[%p]
+ZH [name]拓也[line]有什么……应该会有什么线索在的吧。[%p]
+
+JA [name]たくや[line]オヤジ‥‥きっと見つけ出してやるぜ。[%p]
+ZH [name]拓也[line]老头子……我一定要把他找回来。[%p]
+
+JA [name]たくや[line]自宅前だ‥‥。[%p]
+ZH [name]拓也[line]自宅前面……。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥戻っているだろうか?[%p]
+ZH [name]拓也[line]亚由美小姐……应该回来了吧？[%p]
+
+JA [name]たくや[line]外はまだ明るいな‥‥。[%p]
+ZH [name]拓也[line]现在外面还很亮啊……。[%p]
+
+JA [name]たくや[line]どうするんだ、これから‥‥。[%p]
+ZH [name]拓也[line]怎么办好呢，接下来……。[%p]
+
+JA [name]たくや[line]自宅前だ‥‥どうするんだ?[%p]
+ZH [name]拓也[line]自宅前面……要做什么呢？[%p]
+
+JA [name]たくや[line]自宅へ戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自宅前面来了……。[%p]
+
+JA [name]たくや[line]あれ、俺はジオ・テクニクスへ行って確かめるつもりだったんじゃ‥‥。[%p]
+ZH [name]拓也[line]咦，我是打算到Ｇｅｏ·ｔｅｃｈｎｉｃｓ去确认一下的吧……。[%p]
+
+JA 
+ZH 
+

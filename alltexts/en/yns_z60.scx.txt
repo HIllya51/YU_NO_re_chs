@@ -1,0 +1,4 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]The interior is way different from what you'd expect⋯[%p]
+[name]Takuya[line]It looks like everything is made of glass.[%p]
+[name]Takuya[line]What is this place?[%p]

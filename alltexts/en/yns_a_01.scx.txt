@@ -1,0 +1,6 @@
+[name]Takuya[line]I'm back at the original entrance⋯[%p]
+[name]Takuya[line]It's so dark⋯ I can't see a thing.[%p]
+[name]Takuya[line]And it's really muggy in here⋯ I can almost taste the humidity.[%p]
+[name]Takuya[line]I know, I'll turn my flashlight on⋯[%p]
+[name]Takuya[line]Seems the hole leads deeper ahead⋯[%p]
+[name]Takuya[line]What do I do⋯?[%p]

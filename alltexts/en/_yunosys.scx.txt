@@ -1,0 +1,447 @@
+Takuya
+Look・Inspect
+Talk
+Hit・Strike
+Push
+Open
+Take
+Kiss
+Touch
+Squeeze
+Lick
+Bite
+  
+???
+Move
+Father's Letter
+Magnetic Card
+Silver Medal
+Student Notebook
+Golden Key
+Mio's Notebook
+Disc
+Iron Sword
+Wooden Sword
+Rope
+20th Document Page
+Secret Documents
+Secret Meeting Photo
+White Medal
+Black Medal
+PDA
+Blue Card
+Hypersense Stone
+  
+Key to Study
+Jewel
+There
+Jewel 1
+Jewel 2
+Jewel 3
+Jewel 4
+Jewel 5
+Jewel 6
+Jewel 7
+Jewel 8
+Move/Office
+Move/Forward
+Move/Back
+Move/Go Inside
+Move/Right
+Move/Left
+Use/Father's Letter
+Use/Magnetic Card
+Use/Silver Medal
+Use/Student Notebook
+Use/Golden Key
+Use/Mio's Notebook
+Use/Disc
+Use/Iron Sword
+Use/Wooden Sword
+Use/Rope
+Use/20th Document Page
+Use/Secret Documents
+Use/Secret Meeting Photo
+Use/White Medal
+Use/Black Medal
+Use/PDA
+Use/Blue Card
+Use/Hypersense Stone
+  
+Use/Key to Study
+Use/Jewel
+◆Use/Father's Letter◆
+◆Use/Magnetic Card◆
+◆Use/Silver Medal◆
+◆Use/Student Notebook◆
+◆Use/Golden Key◆
+◆Use/Mio's Notebook◆
+◆Use/Disc◆
+◆Use/Iron Sword◆
+◆Use/Wooden Sword◆
+◆Use/Rope◆
+◆Use/20th Document Page◆
+◆Use/Secret Documents◆
+◆Use/Secret Meeting Photo◆
+◆Use/White Medal◆
+◆Use/Black Medal◆
+◆Use/PDA◆
+◆Use/Blue Card◆
+◆Use/Hypersense Stone◆
+  
+◆Use/Key to Study◆
+◆Use/Jewel◆
+Jewel 1
+Jewel 2
+Jewel 3
+Jewel 4
+Jewel 5
+Jewel 6
+Jewel 7
+Jewel 8
+Jewel 9
+Jewel 10
+ Current Spot 
+Jewel Save 1
+Jewel Save 2
+Jewel Save 3
+Jewel Save 4
+Jewel Save 5
+Jewel Save 6
+Jewel Save 7
+Jewel Save 8
+Jewel Save 9
+Jewel Save 10
+Whirlpool
+???
+Captured Ending
+Conspirator Ending
+Truth Ending
+Survival Ending
+Death Ending
+Despair Ending
+Fate Ending
+Escape Ending
+Solitude Ending
+Destruction Ending
+Suicide Ending
+Lust Ending
+ Rate 
+%
+Spot 
+Look・Inspect
+Talk
+Hit・Strike
+Push
+Open
+Take
+Kiss
+Touch
+Squeeze
+Lick
+Bite
+  
+???
+Move
+Sleep
+Think
+Ask
+Search
+Hug
+Wipe
+Dig
+Eat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Room
+Living Room
+Ayumi's Room
+My House Entrance
+School Gate
+Main Hall
+Corridor
+Laboratory
+School Infirmary
+Rooftop
+Mansion Entrance
+Mio's Room
+Outside Apartment Building
+Kanna's Room
+Mansion Entrance
+Inside Mansion
+Coastline
+Outside Hotel
+Hotel Room
+Downtown
+Shrine
+Outside Kanna's Room
+Company Building
+Evening Caf⑮
+Inside Company Building
+Heights
+Park
+Courtyard
+Well
+Storehouse Entrance
+Storehouse
+Outside Father's Study
+Father's Study
+Father's Study
+Office
+Laboratory
+Inaccessible Area
+???
+Shrine
+Entrance
+Courtyard
+Company Building
+Inside Company Building
+Office
+Laboratory
+Storehouse Entrance
+Outside Well
+Storehouse
+Forest
+Cliff
+Hill
+House
+Kitchen
+Bedroom
+Desert
+Oasis
+Desert
+Temple
+Inside Temple
+Workplace
+Bedroom
+Tower
+Prison Cell
+Collapsed Workplace
+Imperial Capital
+Back Alley
+Underground
+Dungeon
+Garden
+Altar
+Mysterious Device
+Path to Cliff
+Road Up Ahead
+Faraway House
+Inside House
+Back Room
+Inside Temple
+Altar
+Distant Tower
+Move Forward
+Head to Imperial Capital
+Faraway Castle
+Underground Passage
+Return
+Path to the Right
+Distant Corridor
+Move Back
+Distant Corridor
+Pedestal
+Distant Corridor
+Corridor
+Head to Altar
+Behind the Altar
+Return Underground
+In Water
+Save Celes
+On Celes's Lap
+Left Passage
+Inside Company Building
+Front Desk
+Bathroom
+Outside Well
+Inside Mansion
+Move Forward
+Move Back
+Move Forward
+Cave
+Move to the Right
+Move to the Left
+Cave
+Near Door
+Move Forward
+Near Door
+Small Room
+Move Back
+Near Door
+Move Forward
+Small Room
+Next to Corpse
+Move Back
+Move Forward
+Water
+Near the Door
+Move Forward
+Eriko's Hideout
+God-Monarch's Room
+Tower
+Tower
+Move Forward
+Small Room
+Locked Room
+Other Side of the Mountain
+Underground Jail
+
+
+
+
+
+
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]The map can't be opened.[%p]
+[name]Takuya[line]Huh?[%p]
+[name]Takuya[line]That's weird. I can't open the map.[%p]
+[name]Takuya[line]I see⋯ I don't have a single Jewel on me right now.[%p]
+[name]Takuya[line]Damn, I messed up⋯ What do I do now⋯?[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]I can't open the map anymore.[%p]
+[name]Takuya[line]Wait⋯[%p]
+[name]Takuya[line]That's odd⋯ I can't open the map⋯[%p]
+[name]Takuya[line]It's like with the flashlight. Something's weird about this place.[%p]
+[name]Takuya[line]Huh⋯?[%p]
+[name]Takuya[line]That's odd. I can't see the map.[%p]
+[name]Takuya[line]It's just like the flashlight. Something's wrong⋯[%p]
+At that moment, the <Hypersense Stone> started to shine in my hand⋯[%p]
+Load
+Cancel
+Load
+Cancel
+[color index="840000"][Jewel 1][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 1][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 2][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 2][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 3][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 3][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 4][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 4][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 5][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 5][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 6][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 6][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 7][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 7][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 8][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 8][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 9][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 9][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel 10][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[center][color index="840000"][Jewel 10][color index="800000"] loaded.[%p]
+–––––––––––––––––––––––––––
+[color index="840000"][Jewel][color index="800000"] has returned.[%p]
+[color index="840000"][Jewel][color index="800000"] has returned.
+[color index="840000"]Congratulations. Your completion rate is at 100%.[linebreak]The door to the Music Room has been unlocked, so try to find it.[%p]
+[color index="840000"]Hint: It can be found in the school at night. However, this it not the right time to open it.[%p]
+[color index="840000"][Father's Letter][color index="800000"] has been lost.
+[color index="840000"][Father's Letter][color index="800000"] has been lost.
+[color index="840000"][Magnetic Card][color index="800000"] has been lost.
+[color index="840000"][Magnetic Card][color index="800000"] has been lost.
+[color index="840000"][Silver Medal][color index="800000"] has been lost.
+[color index="840000"][Silver Medal][color index="800000"] has been lost.
+[color index="840000"][Student Notebook][color index="800000"] has been lost.
+[color index="840000"][Student Notebook][color index="800000"] has been lost.
+[color index="840000"][Golden Key][color index="800000"] has been lost.
+[color index="840000"][Golden Key][color index="800000"] has been lost.
+[color index="840000"][Mio's Notebook][color index="800000"] has been lost.
+[color index="840000"][Mio's Notebook][color index="800000"] has been lost.
+[color index="840000"][Disc][color index="800000"] has been lost.
+[color index="840000"][Disc][color index="800000"] has been lost.
+[color index="840000"][Iron Sword][color index="800000"] has been lost.
+[color index="840000"][Iron Sword][color index="800000"] has been lost.
+[color index="840000"][Wooden Sword][color index="800000"] has been lost.
+[color index="840000"][Wooden Sword][color index="800000"] has been lost.
+[color index="840000"][Rope][color index="800000"] has been lost.
+[color index="840000"][Rope][color index="800000"] has been lost.
+[color index="840000"][20th Document Page][color index="800000"] has been lost.
+[color index="840000"][20th Document Page][color index="800000"] has been lost.
+[color index="840000"][Secret Documents][color index="800000"] have been lost.
+[color index="840000"][Secret Documents][color index="800000"] have been lost.
+[color index="840000"][Secret Meeting Photo][color index="800000"] has been lost.
+[color index="840000"][Secret Meeting Photo][color index="800000"] has been lost.
+[color index="840000"][White Medal][color index="800000"] has been lost.
+[color index="840000"][White Medal][color index="800000"] has been lost.
+[color index="840000"][Black Medal][color index="800000"] has been lost.
+[color index="840000"][Black Medal][color index="800000"] has been lost.
+[color index="840000"][PDA][color index="800000"] has been lost.
+[color index="840000"][PDA][color index="800000"] has been lost.
+[color index="840000"][Blue Card][color index="800000"] has been lost.
+[color index="840000"][Blue Card][color index="800000"] has been lost.
+[color index="840000"][Hypersense Stone][color index="800000"] has been lost.
+[color index="840000"][Hypersense Stone][color index="800000"] has been lost.
+[color index="840000"][Key to Study][color index="800000"] has been lost.
+[color index="840000"][Key to Study][color index="800000"] has been lost.
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving. Please do not turn off the system.
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving. Please do not turn off the system.
+Return to Title Menu?
+Yes
+No
+You have not saved, so your progress will be lost.
+Return to Title Menu?
+Yes
+No
+Load [color index="840000"][Jewel 1][color index="800000"]?
+Load [color index="840000"][Jewel 2][color index="800000"]?
+Load [color index="840000"][Jewel 3][color index="800000"]?
+Load [color index="840000"][Jewel 4][color index="800000"]?
+Load [color index="840000"][Jewel 5][color index="800000"]?
+Load [color index="840000"][Jewel 6][color index="800000"]?
+Load [color index="840000"][Jewel 7][color index="800000"]?
+Load [color index="840000"][Jewel 8][color index="800000"]?
+Load [color index="840000"][Jewel 9][color index="800000"]?
+Load [color index="840000"][Jewel 10][color index="800000"]?
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving. Please do not turn off the system.
+You have not saved, so your progress will be lost.
+Continue without saving?
+Yes
+No
+SOUND LIBRARY has been added to Title Menu.

@@ -1,0 +1,72 @@
+JA [name]たくや[line]さぁ、補習も終わって夏休み‥‥。[%p]
+ZH [name]拓也[line]啊，补课也结束了，暑假要开始了‥‥。[%p]
+
+JA [name]たくや[line]と言いたいところだが、俺は明日も学校か‥‥。[%p]
+ZH [name]拓也[line]虽然想这么说，可明天还得去学校啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、あのド派手な女性は‥‥。[%p]
+ZH [name]拓也[line]谁啊，那个穿得超花哨的女性‥‥。[%p]
+
+JA [name]たくや[line]学校の中から出てくるぞ。[%p]
+ZH [name]拓也[line]她从学校里出来的。[%p]
+
+JA [name]たくや[line](すげぇ‥‥昔の言葉で、イケイケってやつか。)[%p]
+ZH [name]拓也[line](（厉害啊‥‥用以前的话讲，就跟荡妇一样啊。）。)[%p]
+
+JA [name]女性[line]失礼‥‥。[%p]
+ZH [name]女性[line]借过……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まさか、美月さんの後任の講師‥‥だったら、少し嬉しいな。[%p]
+ZH [name]拓也[line]难道是美月的继任讲师‥‥要真是的话，让人有些高兴呢。[%p]
+
+JA [name]たくや[line]‥‥海の方へ行ったみたいだけど‥‥‥‥。[%p]
+ZH [name]拓也[line]‥‥好像往海的方向走去‥‥‥‥。[%p]
+
+JA [name]たくや[line]ここが、我らが境町学園の正門前だ‥‥。[%p]
+ZH [name]拓也[line]这里是，我们境町学园的正门前‥‥。[%p]
+
+JA [name]たくや[line]もう、生徒たちは殆どいないな‥‥。[%p]
+ZH [name]拓也[line]唉，基本没几个学生在‥‥。[%p]
+
+JA [name]たくや[line]ここが、我らが[ruby-base]境町[ruby-text-start]さかいまち[ruby-text-end]学園の正門前だ‥‥。[%p]
+ZH [name]拓也[line]这里是，我们境町（ｊｉｎｇｔｉｎｇ）学园的正门前‥‥。[%p]
+
+JA [name]たくや[line]明日から晴れて休みか‥‥何だかウキウキしてくるな。[%p]
+ZH [name]拓也[line]JF:从明天开始放晴休息吗……总觉得很高兴啊。[%p]
+
+JA [name]たくや[line]ま、俺は補習で始まるんだけど‥‥。[%p]
+ZH [name]拓也[line]啊，补课要开始了‥‥。[%p]
+
+JA [name]女性の声[line]キャッ。[%p]
+ZH [name]女性的声音[line]呀。[%p]
+
+JA [name]女性[line]いったーい。[%p]
+ZH [name]女性[line]好—痛哦。[%p]
+
+JA [name]たくや[line]ご、ごめん‥‥大丈夫だった?[%p]
+ZH [name]拓也[line]对、对不起‥‥没事吧？[%p]
+
+JA [name]女性[line]んもう、気を付けてね。[%p]
+ZH [name]女性[line]真是的，你小心点啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]綺麗な女性だったな‥‥学校内に入っていったぞ。[%p]
+ZH [name]拓也[line]真是个漂亮的女性‥‥进学校里面去了。[%p]
+
+JA [name]たくや[line]誰だろう、海の方から来たみたいだが。[%p]
+ZH [name]拓也[line]是谁呢，像是从海那边过来的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

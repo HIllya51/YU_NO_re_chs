@@ -1,0 +1,135 @@
+JA [name]たくや[line]セーレスがいない‥‥。[%p]
+ZH [name]拓也[line]JF:没有塞雷斯。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥今は考えても仕方がないな。まずは、飲み水の準備だ。[%p]
+ZH [name]拓也[line]JF:现在想也没办法啊。首先是准备饮用水。[%p]
+
+JA [name]たくや[line]タンクが壊されている。[%p]
+ZH [name]拓也[line]JF:水箱被损坏了。[%p]
+
+JA [name]たくや[line]セーレスがやったのだろうか?[%p]
+ZH [name]拓也[line]JF:是塞雷斯做的吗？[%p]
+
+JA [name]たくや[line]セーレスはいないようだ‥‥怒って外へ行ってしまったのかな。[%p]
+ZH [name]拓也[line]塞蕾斯好像不在……生气地跑去外面了么。[%p]
+
+JA [name]たくや[line]セーレスがいない‥‥どこへ行ったんだろう。[%p]
+ZH [name]拓也[line]塞蕾斯不在……去了哪里呢。[%p]
+
+JA [name]たくや[line]さっきまで、ここにいたんだけど‥‥。[%p]
+ZH [name]拓也[line]直到刚才，还在这里……。[%p]
+
+JA [name]たくや[line]‥‥もっとも、ここでイヤイヤをされるよりはマシか。[%p]
+ZH [name]拓也[line]……可是，在这里。[%p]
+
+JA [name]たくや[line]何も載っていないぜ‥‥。[%p]
+ZH [name]拓也[line]什么都没盛……。[%p]
+
+JA [name]たくや[line]もう、料理は片づけられている‥‥。[%p]
+ZH [name]拓也[line]料理，已经收拾好了……。[%p]
+
+JA [name]たくや[line]セーレスが片づけていったのかな‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯收拾的么……。[%p]
+
+JA [name]たくや[line]飲み水用の木製タンクが壊れている‥‥。[%p]
+ZH [name]拓也[line]饮用水使用的木桶被破坏了……。[%p]
+
+JA [name]たくや[line]いったい、どういうことなんだ‥‥?[%p]
+ZH [name]拓也[line]到底，怎么回事……？[%p]
+
+JA [name]たくや[line]まさか‥‥‥‥。[%p]
+ZH [name]拓也[line]难道…………。[%p]
+
+JA [name]たくや[line]だから、そこに水が蓄えられているはずなんだ。[%p]
+ZH [name]拓也[line]所以说，那里应该储蓄着大量的水。[%p]
+
+JA [name]たくや[line]早く用意をしようぜ。[%p]
+ZH [name]拓也[line]快点准备吧。[%p]
+
+JA [name]たくや[line]水はキッチンのところに蓄えられている。[%p]
+ZH [name]拓也[line]水储蓄在厨房。[%p]
+
+JA [name]たくや[line]水道なんてシャレたもんは、この世界にはないからな‥‥基本的に雨水かな。[%p]
+ZH [name]拓也[line]这个世界，应该没有自来水管这么时髦的东西……基本都是雨水。[%p]
+
+JA [name]たくや[line]川の水は、まだちゃんと調べていないから、飲料水としては利用していないんだ‥‥。[%p]
+ZH [name]拓也[line]河水，还没好好调查过，不能作为饮用水来利用……。[%p]
+
+JA [name]たくや[line]そうだ‥‥外の貯水用タンクはどうなってる。[%p]
+ZH [name]拓也[line]对了……外面的贮水用木桶怎么样。[%p]
+
+JA [name]たくや[line]外に出てみよう。[%p]
+ZH [name]拓也[line]出去外面吧。[%p]
+
+JA [name]たくや[line]だから「用意」だってば。[%p]
+ZH [name]拓也[line]所以说快点［准备］啊。[%p]
+
+JA [name]たくや[line]まだ、砂漠へ出かける用意は整っていない‥‥。[%p]
+ZH [name]拓也[line]前往沙漠的准备，还没完成……。[%p]
+
+JA [name]たくや[line]寝室は関係ない‥‥。[%p]
+ZH [name]拓也[line]和寝室没有关系……。[%p]
+
+JA [name]たくや[line]貯水用の木製タンクは外にある。[%p]
+ZH [name]拓也[line]贮水用的米桶在外面。[%p]
+
+JA [name]たくや[line]もう寝室でやるべきことはやったはずだろう。[%p]
+ZH [name]拓也[line]寝室内应做的事情已经做好了。[%p]
+
+JA [name]たくや[line]今は用意が先だ。[%p]
+ZH [name]拓也[line]现在准备才是优先。[%p]
+
+JA [name]たくや[line]今そこから来たんじゃないか‥‥しょうがないな。[%p]
+ZH [name]拓也[line]不是刚从那里过来么……真没办法。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]寝室で用意すべきことはもう行ったはずだ。[%p]
+ZH [name]拓也[line]寝室内应该准备的事情已经做好了。[%p]
+
+JA [name]たくや[line]‥‥戻ろう。[%p]
+ZH [name]拓也[line]……回去吧。[%p]
+
+JA [name]たくや[line]さっ、早く用意をしちまおうぜ。[%p]
+ZH [name]拓也[line]那么，快点开始准备吧。[%p]
+
+JA [name]たくや[line]これじゃあ、水は用意できないぜ。[%p]
+ZH [name]拓也[line]这样下去，没法准备水。[%p]
+
+JA [name]たくや[line]貯水していたのに‥‥全く何もなくなってしまった。[%p]
+ZH [name]拓也[line]明明有贮水……完全空无一物啊。[%p]
+
+JA [name]たくや[line]いったいなぜ‥‥。[%p]
+ZH [name]拓也[line]到底为什么……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだ、外にも確か雨を蓄えておく貯水用の木製タンクがあったはずだ。[%p]
+ZH [name]拓也[line]对了，外面应该有用于储存雨水用的木桶才对。[%p]
+
+JA [name]たくや[line]そうだな‥‥食料はともかく、水がなければ恐らく1日で干上がっちまう。[%p]
+ZH [name]拓也[line]对了……食粮姑且不论，没有水的话恐怕不出一天就是渴死。[%p]
+
+JA [name]たくや[line]確かキッチンに、1週間分くらいの水は蓄えて‥‥。[%p]
+ZH [name]拓也[line]确实在厨房里，储存着一周分量的水……。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]壊れてる‥‥水が無い![%p]
+ZH [name]拓也[line]被弄坏了……没有水了！[%p]
+
+JA [name]たくや[line]どういうことだ‥‥?[%p]
+ZH [name]拓也[line]这是怎么回事……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

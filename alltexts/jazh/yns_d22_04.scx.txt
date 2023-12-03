@@ -1,0 +1,294 @@
+JA [name]たくや[line]バッグが置いてある‥‥。[%p]
+ZH [name]拓也[line]放着一个背包……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥おかしいな。誰もいないぜ。[%p]
+ZH [name]拓也[line]……真奇怪啊。谁也不在呢。[%p]
+
+JA [name]たくや[line]読み違えたか‥‥?[%p]
+ZH [name]拓也[line]（估错形势了吗……？）[%p]
+
+JA [name]たくや[line]確かにここに、いると思ったんだけど‥‥。[%p]
+ZH [name]拓也[line]虽然我觉得，确实应该是在这里……。[%p]
+
+JA [name]たくや[line]‥‥そうだな。気になるぞ。[%p]
+ZH [name]拓也[line]……是啊。有点在意呢。[%p]
+
+JA [name]たくや[line]彼女はここで、いったい何をしていたんだ‥‥?[%p]
+ZH [name]拓也[line]她到底，是在这里干什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]昨夜は、ここで澪と2人で隠れて見ていたんだ‥‥。[%p]
+ZH [name]拓也[line]昨天晚上，我跟澪２个人藏在这里看到了……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥素行が謎の女の子だな。[%p]
+ZH [name]拓也[line]神奈……行踪成谜的女孩子啊。[%p]
+
+JA [name]たくや[line]そうだな‥‥ここは確か、昨夜神奈チャンが調べていた場所だ。[%p]
+ZH [name]拓也[line]对了……我记得是在这里，昨天晚上神奈在调查的地方。[%p]
+
+JA [name]たくや[line]澪も、やけに気にかけていた‥‥。[%p]
+ZH [name]拓也[line]澪也，实在是担心呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥何か意味があるんだろうか。[%p]
+ZH [name]拓也[line]……应该是有某种意义在的吧。[%p]
+
+JA [name]たくや[line]海からの風で、ざわめいているみたいだ‥‥。[%p]
+ZH [name]拓也[line]大海因为起风，而沙沙作响……。[%p]
+
+JA [name]たくや[line]寂しげに揺れている‥‥誰もいないようだ。[%p]
+ZH [name]拓也[line]寂寞地晃动着……好像谁都不在啊。[%p]
+
+JA [name]たくや[line]ここにいったい何があるっていうんだろう‥‥。[%p]
+ZH [name]拓也[line]应该说这里究竟发生什么事了吧……。[%p]
+
+JA [name]たくや[line]澪のヤツは、随分熱心に調べていた‥‥。[%p]
+ZH [name]拓也[line]澪那家伙，相当热情地做了调查……。[%p]
+
+JA [name]たくや[line]いったい、こいつに何があるっていうんだろう。[%p]
+ZH [name]拓也[line]应该说，这家伙到底发生什么事了吧。[%p]
+
+JA [name]たくや[line]この文字は読もうとするからいけない、か‥‥。[%p]
+ZH [name]拓也[line]这个文字辨认不出来，吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪が調べていた石板か‥‥。[%p]
+ZH [name]拓也[line]澪调查过的石板吗……。[%p]
+
+JA [name]たくや[line]いや、石板というよりは、岩を平たくけずって彫ったような感じだな‥‥。[%p]
+ZH [name]拓也[line]不对，与其说是石板，倒不如说是将岩石磨平之后雕刻上去的感觉……。[%p]
+
+JA [name]たくや[line]一昨日の夜だったか‥‥。[%p]
+ZH [name]拓也[line]是前天晚上吗……。[%p]
+
+JA [name]たくや[line]ここに女性が倒れていたんだ‥‥。[%p]
+ZH [name]拓也[line]有个女性倒在这里……。[%p]
+
+JA [name]たくや[line]何もないな‥‥。[%p]
+ZH [name]拓也[line]什么也没有……。[%p]
+
+JA [name]たくや[line]そういえば、時間的には一昨日だったか‥‥。[%p]
+ZH [name]拓也[line]这么说起来，时间应该是在前天晚上吗……。[%p]
+
+JA [name]たくや[line]あの女性‥‥。[%p]
+ZH [name]拓也[line]那位女性……。[%p]
+
+JA [name]たくや[line]そうだ‥‥あの女性と出会ったのも、ここだった。[%p]
+ZH [name]拓也[line]对了……跟那位女性相遇，也是在这里。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、ここに何かあるんだろうか‥‥?[%p]
+ZH [name]拓也[line]果然，这里应该有些什么吧……？[%p]
+
+JA [name]たくや[line]そうだな、とりあえず開けてみよう‥‥。[%p]
+ZH [name]拓也[line]对了，首先打开看看吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、これ‥‥。[%p]
+ZH [name]拓也[line]什么啊，这个……。[%p]
+
+JA [name]たくや[line]タオルに着替え‥‥それに、懐中電灯に方位磁石‥‥。[%p]
+ZH [name]拓也[line]毛巾和换洗的衣物……还有，手电筒和指南针……。[%p]
+
+JA [name]たくや[line]どこかに旅行か‥‥?[%p]
+ZH [name]拓也[line]要去哪里旅行吗……？[%p]
+
+JA [name]たくや[line]いや、旅行というよりは、むしろ探検かそういった類の‥‥
+ZH [name]拓也[line]不对，与其说旅行，倒不如说更像是探险之类的……
+
+JA 探検?[%p]
+ZH 探险？[%p]
+
+JA [name]たくや[line]いや、旅行というよりは、むしろ探検かそういった類の‥‥探検?
+ZH [name]拓也[line]不对，与其说旅行，倒不如说更像是探险之类的……探险？
+
+JA [name]たくや[line]まさかこれ‥‥澪のか?[%p]
+ZH [name]拓也[line]难道这个是……澪的吗？[%p]
+
+JA [name]たくや[line]何だって、バッグが、こんな所に‥‥。[%p]
+ZH [name]拓也[line]为什么，背包，在这个地方……。[%p]
+
+JA [name]たくや[line]しかもバッグを置いて、いったいどこへ行ったんだ?[%p]
+ZH [name]拓也[line]而且还把背包丢下来，究竟去哪里了呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだな、即断は禁物だぜ。[%p]
+ZH [name]拓也[line]是啊，不能马上下判断呢。[%p]
+
+JA [name]たくや[line]これが澪のバッグだと断定された訳じゃない。[%p]
+ZH [name]拓也[line]也不能断定这个就一定是澪的背包。[%p]
+
+JA [name]たくや[line]いまわかってるのは、ここに誰かのバッグがあって、その中身は旅行にでも出かけるようなもの‥‥。[%p]
+ZH [name]拓也[line]现在知道的是，这里放着不知道是谁的背包，里面装的是出去旅行用的物品……。[%p]
+
+JA [name]たくや[line]それだけだ。[%p]
+ZH [name]拓也[line]只是这样而已。[%p]
+
+JA [name]たくや[line]ふぅ‥‥とにかく、これはここに置いていこう。[%p]
+ZH [name]拓也[line]呼……总而言之，就先把这个放在这里吧。[%p]
+
+JA [name]たくや[line]文字通り、誰かが置いていっただけなのかもしれないしな‥‥。[%p]
+ZH [name]拓也[line]就如所说的，也许只是有人放在这里而已……。[%p]
+
+JA [name]たくや[line]だけど‥‥‥‥。[%p]
+ZH [name]拓也[line]只是…………。[%p]
+
+JA [name]たくや[line]バッグが、この岩の陰にある‥‥。[%p]
+ZH [name]拓也[line]背包，放在这个岩的暗处……。[%p]
+
+JA [name]たくや[line]いったい、どういうことなんだろう‥‥?[%p]
+ZH [name]拓也[line]究竟，是怎么回事呢……？[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]岩の陰に何かある‥‥。[%p]
+ZH [name]拓也[line]岩的背面有东西……。[%p]
+
+JA [name]たくや[line]‥‥何だろう、これ。[%p]
+ZH [name]拓也[line]……这个，是什么。[%p]
+
+JA [name]たくや[line]そりゃあ、バッグに決まってるけど‥‥。[%p]
+ZH [name]拓也[line]虽然说，肯定是背包没错……。[%p]
+
+JA [name]たくや[line]問題は、なぜこれがここにあるのかってことで‥‥‥。[%p]
+ZH [name]拓也[line]问题是，为什么这里会放着这样的东西呢……。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]たくや[line]不思議な岩だよな‥‥何かを感じるんだ。[%p]
+ZH [name]拓也[line]不可思议的石头……总觉得有些什么。[%p]
+
+JA [name]たくや[line]自然にできたにしては、作為的過ぎる岩だ‥‥。[%p]
+ZH [name]拓也[line]说是自然形成的，倒更像是人工物的岩……。[%p]
+
+JA [name]たくや[line]もっとも、人工物である証拠は何もないみたいだが‥‥。[%p]
+ZH [name]拓也[line]话虽如此，但好像没什么证据能证明是人工物……。[%p]
+
+JA [name]たくや[line]やっぱり、澪じゃなくても、好奇心はわくよな‥‥。[%p]
+ZH [name]拓也[line]果然，即使不是澪，我也禁不住会有好奇心……。[%p]
+
+JA [name]たくや[line]‥‥こんな社で、神奈チャン、何をやっていたんだ。[%p]
+ZH [name]拓也[line]……在这个社，神奈，是在做什么呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]誰だ‥‥!? 澪か?[%p]
+ZH [name]拓也[line]是谁……！？　澪吗？[%p]
+
+JA [name]たくや[line]‥‥か、神奈チャン?[%p]
+ZH [name]拓也[line]……神，神奈？[%p]
+
+JA [name]神奈[line]ここにいては、危険です‥‥すぐに立ち去ってください。[%p]
+ZH [name]神奈[line]待在这里，很危险……请你马上离开吧。[%p]
+
+JA [name]たくや[line]危険って‥‥どういうことだい?[%p]
+ZH [name]拓也[line]危险……你说的是什么意思？[%p]
+
+JA [name]神奈[line]海岸付近は、落雷の危険があります。そういう意味です。[%p]
+ZH [name]神奈[line]海岸附近，有落雷的危险。就是这个意思。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、彼女はここで何をしていたんだ‥‥?)[%p]
+ZH [name]拓也[line](（究竟，她在这里干什么呢……？）)[%p]
+
+JA [name]神奈[line]お願いです。有馬さん‥‥すぐに立ち去ってください。[%p]
+ZH [name]神奈[line]拜托你了。有马同学……请你马上离开吧。[%p]
+
+JA [name]たくや[line]澪か‥‥?[%p]
+ZH [name]拓也[line]澪……？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]澪を見たんだな? 澪はどこへ行ったんだ?[%p]
+ZH [name]拓也[line]你有看到过澪吗？　澪去哪里了呢？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]あそこにあったバッグ、あれはやっぱり澪のなのか?[%p]
+ZH [name]拓也[line]在那边的背包，果然是澪的吗？[%p]
+
+JA [name]神奈[line]すぐに‥‥立ち去って下さい。[%p]
+ZH [name]神奈[line]请你……马上离开吧。[%p]
+
+JA [name]たくや[line]あっ、ちょっと待ってくれ。[%p]
+ZH [name]拓也[line]啊、稍微等一下。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]空気のような女の子だな‥‥神奈チャンは。[%p]
+ZH [name]拓也[line]跟空气一样的女孩子啊……神奈。[%p]
+
+JA [name]たくや[line]また、あそこで何かをしていたんだろうか‥‥?[%p]
+ZH [name]拓也[line]还有，是在那个地方做什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪はいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]澪好像不在这里啊……。[%p]
+
+JA [name]たくや[line]誰もいない三角山‥‥。[%p]
+ZH [name]拓也[line]没有人的三角山……。[%p]
+
+JA [name]たくや[line]オヤジの野郎を待っていた、あのときを思い出すな‥‥。[%p]
+ZH [name]拓也[line]等待着老头子的到来，想起了那时候的事……。[%p]
+
+JA [name]たくや[line]誰もいない‥‥少し寒いな‥‥。[%p]
+ZH [name]拓也[line]谁也不在……有点冷啊……。[%p]
+
+JA [name]たくや[line]夜の三角山か‥‥。[%p]
+ZH [name]拓也[line]夜晚的三角山吗……。[%p]
+
+JA [name]たくや[line]少し寒気がするのは、気のせいか‥‥?[%p]
+ZH [name]拓也[line]感觉稍微有点寒意，是我的错觉吗……？[%p]
+
+JA [name]たくや[line]あそこの場所を調べてからだ‥‥。[%p]
+ZH [name]拓也[line]因为调查了那个地方的缘故……。[%p]
+
+JA [name]たくや[line]‥‥ちょっと待ってくれ。[%p]
+ZH [name]拓也[line]……稍等一下。[%p]
+
+JA [name]たくや[line]あそこの場所を調べてみようぜ‥‥。[%p]
+ZH [name]拓也[line]去调查那边的地方看看吧……。[%p]
+
+JA [name]たくや[line]何か、気になるんだ‥‥。[%p]
+ZH [name]拓也[line]感觉，有点在意啊……。[%p]
+
+JA [name]たくや[line]他に‥‥何か、手がかりと言えるものはないかな。[%p]
+ZH [name]拓也[line]没什么……其他，能称得上是线索的东西了。[%p]
+
+JA [name]たくや[line]もう少し、調べてみないか‥‥?[%p]
+ZH [name]拓也[line]稍微，再调查看看吗……？[%p]
+
+JA [name]たくや[line]海岸に戻るか‥‥。[%p]
+ZH [name]拓也[line]回海岸去吗……。[%p]
+
+JA 
+ZH 
+

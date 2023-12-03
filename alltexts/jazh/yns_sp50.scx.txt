@@ -1,0 +1,60 @@
+JA [name]たくや[line]森だ‥‥もう水は飲んだぜ。[%p]
+ZH [name]拓也[line]森林……已经喝过水了。[%p]
+
+JA [name]たくや[line]つまり、ここにいつまでもいる必要は無いってことだ。[%p]
+ZH [name]拓也[line]也就是说，没有必要待在这里。[%p]
+
+JA [name]たくや[line]水だ! 水ーーーっ![%p]
+ZH [name]拓也[line]水！水～～～！[%p]
+
+JA [name]たくや[line]とう![%p]
+ZH [name]拓也[line]咕噜！[%p]
+
+JA [name]たくや[line]ごくごく‥‥
+ZH [name]拓也[line]咕嘟咕嘟……
+
+JA ごくごくごくっ![%p]
+ZH 咕嘟咕嘟咕嘟！[%p]
+
+JA [name]たくや[line]ごくごく‥‥ごくごくごくっ!
+ZH [name]拓也[line]咕嘟咕嘟……咕嘟咕嘟咕嘟！
+
+JA [name]たくや[line]ごくごくごくごく、ごくごくごくごくごくごく!!![%p]
+ZH [name]拓也[line]咕嘟咕嘟咕嘟咕嘟，咕嘟咕嘟咕嘟咕嘟咕嘟咕嘟！！！[%p]
+
+JA [name]たくや[line]ぷっ‥‥
+ZH [name]拓也[line]呼……
+
+JA はぁぁぁぁっ!!![%p]
+ZH 哈啊啊啊啊！！！[%p]
+
+JA [name]たくや[line]ぷっ‥‥はぁぁぁぁっ!!!
+ZH [name]拓也[line]呼……哈啊啊啊啊！！！
+
+JA [name]たくや[line]いぎがえるーーー‥‥。[%p]
+ZH [name]拓也[line]复活了———……。[%p]
+
+JA [name]たくや[line]水がこんなにおいしいものだなんて‥‥。[%p]
+ZH [name]拓也[line]没想到水竟然这么好喝……。[%p]
+
+JA [name]たくや[line]水、か‥‥。[%p]
+ZH [name]拓也[line]水，么……。[%p]
+
+JA [name]たくや[line]体力には多少なりとも自信があったが‥‥。[%p]
+ZH [name]拓也[line]虽然对体力多少有些自信……。[%p]
+
+JA [name]たくや[line]この俺でさえ、ほんの数時間、砂漠を散歩してきてこれだ。[%p]
+ZH [name]拓也[line]即使是我，不过是数个小时，在沙漠中散步都成了这幅惨样。[%p]
+
+JA [name]たくや[line]華奢で、線の細い女の子なんて‥‥。
+ZH [name]拓也[line]柔弱，纤细的女孩子的话……。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そういえば、セーレス‥‥どうしたんだろう。[%p]
+ZH [name]拓也[line]这么说起来，塞蕾斯……她怎么样了。[%p]
+
+JA 
+ZH 
+

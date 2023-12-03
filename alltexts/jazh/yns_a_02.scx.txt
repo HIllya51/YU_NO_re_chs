@@ -1,0 +1,9 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗い道が、どこまでも続いている‥‥。[%p]
+ZH [name]拓也[line]昏暗的路，要一直延伸到哪里去呢……。[%p]
+
+JA 
+ZH 
+

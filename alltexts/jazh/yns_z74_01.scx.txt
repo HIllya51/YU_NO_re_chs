@@ -1,0 +1,420 @@
+JA [name]たくや[line]祭壇だ‥‥。[%p]
+ZH [name]拓也[line]是祭坛……。[%p]
+
+JA [name]ユーノ[line]誰もいないね‥‥。[%p]
+ZH [name]优诺[line]没有人在呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](亜由美さんはいないみたいだが‥‥。)[%p]
+ZH [name]拓也[line](亚由美小姐好像不在这里……。)[%p]
+
+JA [name]たくや[line](シンと静まり返っている‥‥。)[%p]
+ZH [name]拓也[line](周围万籁俱寂……。)[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]ユーノ[line]ユーノがいるわ。[%p]
+ZH [name]优诺[line]优诺在这里哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ユーノを見てもしょうがない‥‥。[%p]
+ZH [name]拓也[line]就算看着优诺也没什么用……。[%p]
+
+JA [name]ユーノ[line]しょうがなくないモン。[%p]
+ZH [name]优诺[line]才不是没什么用呢。[%p]
+
+JA [name]ユーノ[line]なに?[%p]
+ZH [name]优诺[line]什么？[%p]
+
+JA [name]たくや[line]‥‥なんでもない。[%p]
+ZH [name]拓也[line]……没什么。[%p]
+
+JA [name]ユーノ[line]たまに呼んでくれると、そうなんだモン‥‥もう。[%p]
+ZH [name]优诺[line]偶尔叫了我一下，结果又这样子……爸爸真是的。[%p]
+
+JA [name]たくや[line]祭壇だ‥‥。[%p]
+ZH [name]拓也[line]是祭坛……。[%p]
+
+JA [name]たくや[line]あそこの奧に、確か通路があったな‥‥。[%p]
+ZH [name]拓也[line]我记得，那边的最里面有一条通道……。[%p]
+
+JA [name]たくや[line]あそこに、ユーノが裸で寝ていた‥‥。[%p]
+ZH [name]拓也[line]优诺全裸着，睡在那个地方……。[%p]
+
+JA [name]たくや[line]いたっ。[%p]
+ZH [name]拓也[line]好痛。[%p]
+
+JA [name]ユーノ[line]ンもう、パパったら。[%p]
+ZH [name]优诺[line]真是的，爸爸。[%p]
+
+JA [name]たくや[line]頭をぶつな、頭を。[%p]
+ZH [name]拓也[line]别敲我的头啊。[%p]
+
+JA [name]ユーノ[line]だって‥‥んもう、恥ずかしいんだから。[%p]
+ZH [name]优诺[line]可是……真是的，实在是太难为情了。[%p]
+
+JA [name]たくや[line]何を赤くなってる。[%p]
+ZH [name]拓也[line]有什么好脸红的。[%p]
+
+JA [name]たくや[line]訳のわからないヤツだな‥‥。[%p]
+ZH [name]拓也[line]真搞不懂那家伙在想什么……。[%p]
+
+JA [name]ユーノ[line]えっ、庭園に戻っちゃうの?[%p]
+ZH [name]优诺[line]诶，又要回庭园去吗？[%p]
+
+JA [name]たくや[line]ああ‥‥何となくそうした方がいい。[%p]
+ZH [name]拓也[line]啊啊……总觉得这样做比较好呢。[%p]
+
+JA [name]ユーノ[line]うん。[%p]
+ZH [name]优诺[line]唔嗯。[%p]
+
+JA [name]たくや[line](そうだ‥‥確かこの祭壇の先に‥‥。)[%p]
+ZH [name]拓也[line](对了……我记得这个祭坛的前方……。)[%p]
+
+JA [name]たくや[line](妙なマシンルームみたいのがあった。)[%p]
+ZH [name]拓也[line](好像是有一间奇怪的机械房。)[%p]
+
+JA [name]たくや[line](‥‥行ってみるか。)[%p]
+ZH [name]拓也[line](……要过去看看吗。)[%p]
+
+JA [name]たくや[line]相変わらず、ムッとした熱気が伝わってくるな‥‥。[%p]
+ZH [name]拓也[line]还是老样子，一股沉闷的热气迎面扑来……。[%p]
+
+JA [name]たくや[line]‥‥重々しい稼働音が聴こえてくる。[%p]
+ZH [name]拓也[line]……可以听到沉重的运转声。[%p]
+
+JA [name]たくや[line]いったいここは‥‥何なんだろう。[%p]
+ZH [name]拓也[line]这里……到底是怎么回事呢。[%p]
+
+JA [name]ユーノ[line]儀式の間と呼ばれているみたい。[%p]
+ZH [name]优诺[line]这里好像是被称为仪式之间。[%p]
+
+JA [name]たくや[line]儀式の‥‥間?[%p]
+ZH [name]拓也[line]仪式……之间？[%p]
+
+JA [name]ユーノ[line]うん。私が神帝さまから聞いた話だと、何人もの巫女がここで儀式をしたのだと。[%p]
+ZH [name]优诺[line]嗯。神帝大人告诉我说，好多巫女都是在这里进行过仪式的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ここで、何人もの巫女が、儀式を‥‥。)[%p]
+ZH [name]拓也[line](（好多巫女，都在这里，进行过仪式……。）。)[%p]
+
+JA [name]たくや[line](じゃあ、このメカメカしい機械類ってのは‥‥。)[%p]
+ZH [name]拓也[line](（那么，这个好像是机械发出来的运转声是……。）。)[%p]
+
+JA [name]声[line]《チェック‥‥。》[%p]
+ZH [name]声音[line]《检查……。》[%p]
+
+JA [name]たくや[line]おわっ![%p]
+ZH [name]拓也[line]（哦哇！）[%p]
+
+JA [name]ユーノ[line]あっ、大丈夫よ。[%p]
+ZH [name]优诺[line]啊、没关系的。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]ユーノ[line]あれは、儀式の準備をしている人の声‥‥って聞いたわ。[%p]
+ZH [name]优诺[line]那个，是正在为仪式做准备的人的声音……我听说是这样的。[%p]
+
+JA [name]たくや[line]儀式の‥‥準備?[%p]
+ZH [name]拓也[line]为仪式……准备？[%p]
+
+JA [name]たくや[line]儀式‥‥巫女が行う、あれか。[%p]
+ZH [name]拓也[line]仪式……是巫女做的，那个吗。[%p]
+
+JA [name]たくや[line]いったい、ここで‥‥。[%p]
+ZH [name]拓也[line]这里，到底是……。[%p]
+
+JA [name]声[line]《チェック‥‥。》[%p]
+ZH [name]声音[line]《检查……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]《酸素供給システム‥‥オールグリーン。》[%p]
+ZH [name]声音[line]《氧气供给系统……全部准备就绪。》[%p]
+
+JA [name]声[line]《メルギオ‥‥重核融合、スタン・バイ。》[%p]
+ZH [name]声音[line]《梅路吉奥……重核融合，准备·启动。》[%p]
+
+JA [name]声[line]《グランティア、シンクロナイズまで、あと9万1002秒‥‥。》[%p]
+ZH [name]声音[line]《距离与格兰提亚，同步化，还有９万１００２秒……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥どうやら、あまりまっとうな儀式じゃないらしい。[%p]
+ZH [name]拓也[line]……看起来，应该不是什么正儿八经的仪式呢。[%p]
+
+JA [name]たくや[line]俺が考えていたよりも、ずっと深い何かが、この《デラ=グラント》にはあるというのか‥‥。[%p]
+ZH [name]拓也[line]比起我现在思考的，应该要注意的是，在最深处存在于《德拉＝格兰特》的某样东西吗……。[%p]
+
+JA [name]たくや[line]これはもしかすると‥‥。[%p]
+ZH [name]拓也[line]这个莫非就是……。[%p]
+
+JA [name]女性の声[line]そうよ‥‥。[%p]
+ZH [name]女性的声音[line]是啊……。[%p]
+
+JA [name]たくや[line]‥‥!![%p]
+ZH [name]拓也[line]……！！[%p]
+
+JA [name]たくや[line]あ、亜由美さん![%p]
+ZH [name]拓也[line]亚，亚由美小姐！[%p]
+
+JA [name]亜由美[line]ごめんなさい、近衛兵の方々を説得するのに時間がかかってしまったの。[%p]
+ZH [name]亚由美[line]对不起，因为要说服那些近卫兵花了我不少时间。[%p]
+
+JA [name]たくや[line]説得?[%p]
+ZH [name]拓也[line]说服？[%p]
+
+JA [name]亜由美[line]ええ‥‥犠牲者をこれ以上出さないために。[%p]
+ZH [name]亚由美[line]是啊……为了不再让更多的牺牲者出现了。[%p]
+
+JA [name]たくや[line]どういうことだよ。[%p]
+ZH [name]拓也[line]那是怎么回事。[%p]
+
+JA [name]声[line]たくやーーっ!![%p]
+ZH [name]声音[line]拓也——！！[%p]
+
+JA [name]たくや[line]あっ‥‥この声は‥‥。[%p]
+ZH [name]拓也[line]啊……这个声音是……。[%p]
+
+JA [name]アマンダ[line]たくや‥‥。[%p]
+ZH [name]阿曼达[line]这是拓也……。[%p]
+
+JA [name]たくや[line]アマンダ‥‥無事だったのかっ!?[%p]
+ZH [name]拓也[line]阿曼达……你没事了吗！？[%p]
+
+JA [name]アマンダ[line]ああ‥‥とっ捕まって、死刑宣告数分前だったけどね。[%p]
+ZH [name]阿曼达[line]是啊……只不过刚好赶在被抓起来，宣告死刑的几分钟前。[%p]
+
+JA [name]たくや[line]亜由美さんに‥‥?[%p]
+ZH [name]拓也[line]是亚由美小姐……？[%p]
+
+JA [name]アマンダ[line]そう。そこの女性に助けられた‥‥。[%p]
+ZH [name]阿曼达[line]是的。是被这位女性救下来了……。[%p]
+
+JA [name]たくや[line]そうか‥‥とにかく無事でなによりだったよ。[%p]
+ZH [name]拓也[line]是吗……总而言之只要你平安无事就一切都好。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]どうしたんだ。[%p]
+ZH [name]拓也[line]你怎么了。[%p]
+
+JA [name]アマンダ[line]そこの女性‥‥神帝から、全てを聞いた。[%p]
+ZH [name]阿曼达[line]俺从这位女性……神帝嘴里，全都听说了。[%p]
+
+JA [name]たくや[line]全てを‥‥聞いた?[%p]
+ZH [name]拓也[line]全都……听说了？[%p]
+
+JA [name]アマンダ[line]ああ‥‥信じられないけど、助けてもらって、証拠まで見せられたら、信じない訳にいかないんだ。[%p]
+ZH [name]阿曼达[line]啊啊……虽然让俺难以置信，但是不但受到她的帮助，连证据都让俺看到了，想不相信也不行了吧。[%p]
+
+JA [name]たくや[line]いったい、何を‥‥。[%p]
+ZH [name]拓也[line]到底，把什么……。[%p]
+
+JA [name]亜由美[line]そのあとは、私が説明しましょう。[%p]
+ZH [name]亚由美[line]后面的话，就由我来给你说明吧。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐……。[%p]
+
+JA [name]亜由美[line]そこのアマンダさんには、私から説明をしたわ。[%p]
+ZH [name]亚由美[line]这位阿曼达小姐，我已经对她详细说明过了。[%p]
+
+JA [name]たくや[line]‥‥ここはいったい何なんだ?[%p]
+ZH [name]拓也[line]……这里到底是怎么回事啊？[%p]
+
+JA [name]亜由美[line]ここは、儀式の間と呼ばれる場所よ‥‥。[%p]
+ZH [name]亚由美[line]这里，是被称为仪式之间的地方……。[%p]
+
+JA [name]たくや[line]儀式の間‥‥巫女の儀式をするところか。[%p]
+ZH [name]拓也[line]仪式之间……就是进行巫女的仪式的地方吗。[%p]
+
+JA [name]亜由美[line]ええ‥‥。[%p]
+ZH [name]亚由美[line]诶诶……。[%p]
+
+JA [name]たくや[line]それにしても、この凄い機械類は、いったい何なんだよ?[%p]
+ZH [name]拓也[line]就算是这样，这个看起来很壮观的机械，究竟又是什么呢？[%p]
+
+JA [name]亜由美[line]これが、《デラ=グラント》の秘密、そして正体。[%p]
+ZH [name]亚由美[line]这个，是《德拉＝格兰特》的秘密，也是它的正体。[%p]
+
+JA [name]たくや[line]‥‥? どういうことだ。[%p]
+ZH [name]拓也[line]……？　到底怎么回事。[%p]
+
+JA [name]亜由美[line]全てを話す必要があるわ‥‥聞いてくれるのでしょう?[%p]
+ZH [name]亚由美[line]有必要把所有的事情都说出来……你确定要听完吗？[%p]
+
+JA [name]たくや[line]そのために、俺はここへ来た。[%p]
+ZH [name]拓也[line]就是为此，我才会到这里来的。[%p]
+
+JA [name]亜由美[line]ええ‥‥ユーノ。[%p]
+ZH [name]亚由美[line]好的……优诺。[%p]
+
+JA [name]ユーノ[line]はい。[%p]
+ZH [name]优诺[line]是啊。[%p]
+
+JA [name]亜由美[line]パパを借りるわね。あなたは庭園で遊んでいらっしゃい。[%p]
+ZH [name]亚由美[line]我要借用一下你的爸爸。请你到庭园里去玩吧。[%p]
+
+JA [name]ユーノ[line]えっ、でも‥‥。[%p]
+ZH [name]优诺[line]呃，可是……。[%p]
+
+JA [name]アマンダ[line]へぇ、君がユーノか。[%p]
+ZH [name]阿曼达[line]诶，你就是优诺吗。[%p]
+
+JA [name]ユーノ[line]パパ‥‥誰?[%p]
+ZH [name]优诺[line]爸爸……这是谁？[%p]
+
+JA [name]アマンダ[line]えへん、ユーノのお母さんになるアマンダだ。[%p]
+ZH [name]阿曼达[line]嗯哼，俺是将会成为优诺母亲的阿曼达。[%p]
+
+JA [name]たくや[line]違うっ![%p]
+ZH [name]拓也[line]不是的！[%p]
+
+JA [name]アマンダ[line]彼女はオレが面倒をみておくよ。城の中とはいえ、危険な奴等が侵入してこないとも限らないからな。[%p]
+ZH [name]阿曼达[line]她就由俺来照看吧。既然是城堡里面，那就应该不会有什么危险分子侵入进来的吧。[%p]
+
+JA [name]たくや[line]よく言うぜ。その筆頭だったくせに。[%p]
+ZH [name]拓也[line]还真敢说。明明你就是头号危险分子。[%p]
+
+JA [name]アマンダ[line]へへ‥‥それはそうだ。[%p]
+ZH [name]阿曼达[line]嘿嘿……话是这么说啦。[%p]
+
+JA [name]たくや[line]ユーノ、言うとおりにするんだ。俺は大丈夫だ。[%p]
+ZH [name]拓也[line]优诺，就按她说的办吧。我没问题的。[%p]
+
+JA [name]ユーノ[line]うん‥‥何かあったら、呼んでね。[%p]
+ZH [name]优诺[line]嗯……要是有什么事的话，就叫我吧。[%p]
+
+JA [name]アマンダ[line]よし、じゃあオレと君のパパとの恋愛談を聞かせてやるぜ‥‥。[%p]
+ZH [name]阿曼达[line]好了，那么就让俺来告诉你关于俺和你爸爸之间的恋爱谈吧……。[%p]
+
+JA [name]たくや[line]妙なことを、吹き込んでいなきゃいいが‥‥。[%p]
+ZH [name]拓也[line]那些不知所谓的事，你可不要灌输给她哦……。[%p]
+
+JA [name]亜由美[line]ウフフ‥‥本当にいい子ね。[%p]
+ZH [name]亚由美[line]嗯呵呵……真是个好孩子呢。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]亜由美[line]アマンダさんも、いい女性だわ。あなたのことを、本当に心配している。[%p]
+ZH [name]亚由美[line]阿曼达小姐也是一个很好的女性。她是真心地替你担心呢。[%p]
+
+JA [name]たくや[line]だからこそ、みんな死なせたくない。[%p]
+ZH [name]拓也[line]正因为如此，我才不希望大家死了。[%p]
+
+JA [name]亜由美[line]‥‥そうね。私もそう思う。[%p]
+ZH [name]亚由美[line]……是呢。我也是这么想的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]‥‥どうしたの?[%p]
+ZH [name]亚由美[line]……怎么了？[%p]
+
+JA [name]たくや[line]言ってることと、やっていることが、違うじゃないか。神帝は何人もの巫女たちを‥‥。[%p]
+ZH [name]拓也[line]你说的话，和你做的事，不是完全不一样吗。神帝都已经把好几个巫女给……。[%p]
+
+JA [name]亜由美[line]そうね‥‥その通りだわ。[%p]
+ZH [name]亚由美[line]是呢……你说的没错啊。[%p]
+
+JA [name]たくや[line]なぜ‥‥そうも平然としていられるのか、俺には理解できない。[%p]
+ZH [name]拓也[line]为什么……你还能这么平心静气地说出来，我实在没办法理解。[%p]
+
+JA [name]亜由美[line]全てをたくやクンに話すわ‥‥事情も、全て。[%p]
+ZH [name]亚由美[line]我告诉拓也君你所有的事吧……所有的，事。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]私の部屋に来て。ここでは何だから。[%p]
+ZH [name]亚由美[line]请到我的房间来吧。在这里不太好。[%p]
+
+JA [name]たくや[line]わかった‥‥。[%p]
+ZH [name]拓也[line]俺明白了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](あの部屋が、《デラ=グラント》の正体‥‥?)[%p]
+ZH [name]拓也[line](（那个房间，是《德拉＝格兰特》的正体……？）)[%p]
+
+JA [name]たくや[line](いったい、何のことだろう‥‥。)[%p]
+ZH [name]拓也[line](到底，有什么事呢‥‥。)[%p]
+
+JA [name]たくや[line](亜由美さんの話を聞けば、全ての謎が氷解するのだろうか‥‥?)[%p]
+ZH [name]拓也[line](（听了亚由美小姐的话之后，所有的谜题都可以迎刃而解了吧……？）)[%p]
+
+JA [name]たくや[line](それとも‥‥。)[%p]
+ZH [name]拓也[line](或者……。)[%p]
+
+JA [name]たくや[line]ふぅん‥‥結構悪くない部屋だな。[%p]
+ZH [name]拓也[line]嗯——……真是相当不赖的房间啊。[%p]
+
+JA [name]亜由美[line]こっちの世界ではね、テーブルというものを囲む習慣がないの。[%p]
+ZH [name]亚由美[line]在这边的世界里，没有在类似于桌子这样的东西边围坐的习惯。[%p]
+
+JA [name]たくや[line]こうして、床の絨毯の上に、チョコンと座るわけか。[%p]
+ZH [name]拓也[line]是像这样子，在地板的绒毯上，拘谨地坐着吗。[%p]
+
+JA [name]亜由美[line]ええ。こちらの文化的スタイルで、話させてもらうわ。[%p]
+ZH [name]亚由美[line]是的。就让我来告诉你，关于这边的文化形式吧。[%p]
+
+JA [name]たくや[line]構わないよ。話が聞けるならね‥‥。[%p]
+ZH [name]拓也[line]没问题。只要我能听的话……。[%p]
+
+JA [name]亜由美[line]剣は、そちらのすみへ‥‥。[%p]
+ZH [name]亚由美[line]JF:剑到那边的角落。[%p]
+
+JA [name]たくや[line]いや、持っている。[%p]
+ZH [name]拓也[line]不，我要拿着。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]なんだい?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]亜由美[line]たくやクン、たくましくなった。[%p]
+ZH [name]亚由美[line]拓也君，你变得坚强了呢。[%p]
+
+JA [name]たくや[line]たくましく、ならざるを得なかったのさ。[%p]
+ZH [name]拓也[line]事到如今，没理由不变的坚强起来吧。[%p]
+
+JA [name]亜由美[line]顔つきも、以前よりずっと精かんね‥‥素敵よ。[%p]
+ZH [name]亚由美[line]表情，比起以前来也更加地精悍了呢……很好啊。[%p]
+
+JA [name]たくや[line]よしてくれ。俺は俺のままさ‥‥昔から、何も変わっちゃいない。[%p]
+ZH [name]拓也[line]算了吧。我就是我自己……比起以前来，根本就没什么变化吧。[%p]
+
+JA [name]亜由美[line]ううん、変わった。そして私も変わった。人は変わるものよ。[%p]
+ZH [name]亚由美[line]不是的，是变了呢。而且我也改变了。人都是会改变的哦。[%p]
+
+JA [name]たくや[line]そうかな‥‥。[%p]
+ZH [name]拓也[line]是吗……。[%p]
+
+JA [name]亜由美[line]ええ‥‥。[%p]
+ZH [name]亚由美[line]诶诶……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](亜由美さんが、俺の目の前にいる‥‥。)[%p]
+ZH [name]拓也[line](（亚由美小姐，就在我的眼前……。）。)[%p]
+
+JA 
+ZH 
+

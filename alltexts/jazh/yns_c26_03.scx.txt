@@ -1,0 +1,279 @@
+JA [name]たくや[line](そうだな‥‥香織さんが誰かなんてことは、この際関係ないはずだ。)[%p]
+ZH [name]拓也[line](（说的也是‥‥香织小姐是什么人已经不重要了。）。)[%p]
+
+JA [name]たくや[line](俺は、亜由美さんにかけられた疑惑を晴らせられれば、それでいい‥‥。)[%p]
+ZH [name]拓也[line](（我只是想知道亚由美有什么瞒着我，仅此而已‥‥。）。)[%p]
+
+JA [name]たくや[line](よし‥‥。)[%p]
+ZH [name]拓也[line](好嘞……。)[%p]
+
+JA [name]香織[line]さっ‥‥有馬亜由美さんのオフィスに、まず行きましょう。[%p]
+ZH [name]香织[line]来吧……首先，我们到有马亚由美女士的办公室里去吧。[%p]
+
+JA [name]香織[line]もうドアは開いているわよ。[%p]
+ZH [name]香织[line]门已经打开了哦。[%p]
+
+JA [name]たくや[line]押してみるぞ‥‥。[%p]
+ZH [name]拓也[line]还是推推看‥‥。[%p]
+
+JA [name]香織[line]フフ、開いたわね。[%p]
+ZH [name]香织[line]呵呵，打开了呢。[%p]
+
+JA [name]たくや[line]これで、中に入ることができるが‥‥。[%p]
+ZH [name]拓也[line]这样一来，就可以进到里面去了……。[%p]
+
+JA [name]香織[line]フフ、ありがと。中に入るのに、できる限り無理はしたくないものね。[%p]
+ZH [name]香织[line]呵呵，谢谢了。只是进里面去而已，我可不想太竭尽全力了呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥何も起きないな。[%p]
+ZH [name]拓也[line]‥‥什么都没有发生啊。[%p]
+
+JA [name]香織[line]その前に、何かやることがないかしら‥‥?[%p]
+ZH [name]香织[line]在那之前，你没有什么要做的事吗……？[%p]
+
+JA [name]たくや[line]あれ‥‥何も起きないな。[%p]
+ZH [name]拓也[line]诶‥‥什么都没有发生啊。[%p]
+
+JA [name]香織[line]順番が違うわよ‥‥。[%p]
+ZH [name]香织[line]顺序搞错了啊‥‥。[%p]
+
+JA [name]たくや[line]もうドアは開いている‥‥。[%p]
+ZH [name]拓也[line]门已经打开了‥‥。[%p]
+
+JA [name]たくや[line]ここにカードを使う必要はないな。[%p]
+ZH [name]拓也[line]在这里没必要使用卡片了。[%p]
+
+JA [name]たくや[line]カードは使ったぜ。後は‥‥。[%p]
+ZH [name]拓也[line]使用卡片后、然后‥‥。[%p]
+
+JA [name]たくや[line]だから、あれをここに差し込むんだってば。[%p]
+ZH [name]拓也[line]在这里插入那个吧。[%p]
+
+JA [name]香織[line]だからアレってなに?[%p]
+ZH [name]香织[line]所以说“那个”是什么啊？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](俺は[磁気カード]を持っていない‥‥。)[%p]
+ZH [name]拓也[line](（我没有弄到［磁气卡］‥‥。）。)[%p]
+
+JA [name]たくや[line](ということは、この中に入ることができない‥‥。)[%p]
+ZH [name]拓也[line](（也就是说我进不去‥‥。）。)[%p]
+
+JA [name]たくや[line](どこかで、磁気カードを手に入れて、再びここへ来れば‥‥。)[%p]
+ZH [name]拓也[line](（从什么地方把磁气卡弄到手后再到这里来‥‥。）。)[%p]
+
+JA [name]たくや[line]スリットのような細い溝がある‥‥。[%p]
+ZH [name]拓也[line]有像微缝一样小的沟‥‥。[%p]
+
+JA [name]たくや[line]青いランプが点いてるな‥‥。[%p]
+ZH [name]拓也[line]有个发着蓝光的小光点啊‥‥。[%p]
+
+JA [name]たくや[line]ここに、あれを差し込めば‥‥。[%p]
+ZH [name]拓也[line]在这里、插入那个的话‥‥。[%p]
+
+JA [name]香織[line]あれって?[%p]
+ZH [name]香织[line]“那个”是什么？[%p]
+
+JA [name]たくや[line]アレとは‥‥ナニだよ。[%p]
+ZH [name]拓也[line]“那个”‥‥是什么呢。[%p]
+
+JA [name]香織[line]‥‥‥‥。[%p]
+ZH [name]香织[line]…………。[%p]
+
+JA [name]たくや[line]あれ?[%p]
+ZH [name]拓也[line]咦？[%p]
+
+JA [name]香織[line]持っていないの? 磁気カードを‥‥?[%p]
+ZH [name]香织[line]没有拿着吗？　磁气卡‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そういえば、俺は[磁気カード]を持っていないぞ。)[%p]
+ZH [name]拓也[line](（话说回来、我还没有拿到［磁气卡］。）。)[%p]
+
+JA [name]たくや[line](しまった。どこからか持ってこないと‥‥先には進めないぞ。)[%p]
+ZH [name]拓也[line](（糟了。没弄到手之前‥‥不能向前进发啊。）。)[%p]
+
+JA [name]香織[line]何度押しても、同じよ。[%p]
+ZH [name]香织[line]不管按了多少次都一样的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥何も起きないな。[%p]
+ZH [name]拓也[line]‥‥什么都没有发生啊。[%p]
+
+JA [name]香織[line]そこは、開かないわよ‥‥。[%p]
+ZH [name]香织[line]那里是打不开的喔‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何で、そんなことを知ってるんだ‥‥?)[%p]
+ZH [name]拓也[line](（为什么、连这样的事情都知道‥‥？）)[%p]
+
+JA [name]たくや[line]いちおう、カードは使ってみたが‥‥。[%p]
+ZH [name]拓也[line]总之、再试一次使用卡片吧‥‥。[%p]
+
+JA [name]たくや[line]手前の装置と同じみたいだ‥‥。[%p]
+ZH [name]拓也[line]与之前的装置一样‥‥。[%p]
+
+JA [name]たくや[line]だけど、こっちは‥‥。[%p]
+ZH [name]拓也[line]但是、这边‥‥。[%p]
+
+JA [name]たくや[line]細い溝が付いてるな‥‥。[%p]
+ZH [name]拓也[line]上面有着小的沟壑‥‥。[%p]
+
+JA [name]たくや[line]左側の機械と、同じみたいだ‥‥。[%p]
+ZH [name]拓也[line]似乎和左边的机器一样的啊‥‥。[%p]
+
+JA [name]たくや[line]だが、こっちは赤いランプが点いてる‥‥。[%p]
+ZH [name]拓也[line]不过、这里是红色的光点‥‥。[%p]
+
+JA [name]たくや[line]ライトだな‥‥。[%p]
+ZH [name]拓也[line]似乎是灯‥‥。[%p]
+
+JA [name]香織[line]じっと見ていると、目が痛くなるわよ‥‥。[%p]
+ZH [name]香织[line]一直盯着看的话眼睛会痛的喔‥‥。[%p]
+
+JA [name]たくや[line]天井にはライトが埋め込まれている‥‥。[%p]
+ZH [name]拓也[line]天花板里嵌着灯‥‥。[%p]
+
+JA [name]たくや[line]程良い明かりって感じだな‥‥。[%p]
+ZH [name]拓也[line]的确感觉稍微亮了些‥‥。[%p]
+
+JA [name]たくや[line]天井だ‥‥。[%p]
+ZH [name]拓也[line]天花板‥‥。[%p]
+
+JA [name]たくや[line]天井だ‥‥。[%p]
+ZH [name]拓也[line]天花板‥‥。[%p]
+
+JA [name]たくや[line]明るいライトが埋め込まれている‥‥。[%p]
+ZH [name]拓也[line]明亮的灯镶嵌在其中‥‥。[%p]
+
+JA [name]香織[line]どうやって取り替えるのかしらね‥‥。[%p]
+ZH [name]香织[line]要怎么做才能更换呢……。[%p]
+
+JA [name]たくや[line]静かな廊下だ‥‥。[%p]
+ZH [name]拓也[line]真是安静的走廊‥‥。[%p]
+
+JA [name]香織[line]私がいることを、お忘れなく。[%p]
+ZH [name]香织[line]不要忘了我还在这里喔。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない廊下だ‥‥。[%p]
+ZH [name]拓也[line]空无一人的走廊‥‥。[%p]
+
+JA [name]たくや[line]俺が1人、いるだけみたいだな‥‥。[%p]
+ZH [name]拓也[line]似乎只有我一个人啊‥‥。[%p]
+
+JA [name]香織[line]ちょっと、私を忘れてるんじゃない?[%p]
+ZH [name]香织[line]喂喂、忘了还有我吗？[%p]
+
+JA [name]たくや[line]そ、そうだった‥‥。[%p]
+ZH [name]拓也[line]没、没错‥‥。[%p]
+
+JA [name]香織[line]しっかりしてね。[%p]
+ZH [name]香织[line]振作点啊。[%p]
+
+JA [name]たくや[line]壁だな‥‥。[%p]
+ZH [name]拓也[line]JF:是墙壁啊。[%p]
+
+JA [name]たくや[line]赤いライトが目に痛いぞ。[%p]
+ZH [name]拓也[line]JF:红色的灯对眼睛很痛哦。[%p]
+
+JA [name]たくや[line]壁の赤いライトが、グレーの壁と相まってやけに目に付くな。[%p]
+ZH [name]拓也[line]JF:墙壁上的红色灯光和灰色的墙壁相结合，不要特别显眼。[%p]
+
+JA [name]たくや[line]いかにも、インテリジェント・ビルって感じだ。[%p]
+ZH [name]拓也[line]不愧是智能大厦啊。[%p]
+
+JA [name]香織[line]インテリジェント・ビルは、大抵こういった内装よね。[%p]
+ZH [name]香织[line]智能大厦的内部装饰都差不多。[%p]
+
+JA [name]香織[line]あなたの学校も、似たような傾向にあるわよね。[%p]
+ZH [name]香织[line]你学校的装潢也越来越向这样靠拢了喔。[%p]
+
+JA [name]たくや[line]よし‥‥中へ入ろう。[%p]
+ZH [name]拓也[line]好‥‥要进去了。[%p]
+
+JA [name]たくや[line]ドアが閉まっていて、入れない‥‥。[%p]
+ZH [name]拓也[line]门关着进不去‥‥。[%p]
+
+JA [name]香織[line]ねぇ、ドアが閉まっているんじゃないの?[%p]
+ZH [name]香织[line]呐、门不是还关着吗？[%p]
+
+JA [name]たくや[line]‥‥わかってるよ。[%p]
+ZH [name]拓也[line]‥‥这个我知道。[%p]
+
+JA [name]香織[line]そこは違うわよ‥‥。[%p]
+ZH [name]香织[line]那里有点不一样喔‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]‥‥ちょっと、そこは研究室よ。場所が違うんじゃない?[%p]
+ZH [name]香织[line]‥‥等等、那里是研究所。搞错地方了不是吗？[%p]
+
+JA [name]たくや[line]そうだった。あそこは亜由美さんのオフィスじゃない‥‥あれ?[%p]
+ZH [name]拓也[line]没错。那里不是亚由美的办公室‥‥咦？[%p]
+
+JA [name]香織[line]なにかしら。[%p]
+ZH [name]香织[line]怎么了。[%p]
+
+JA [name]たくや[line]いや、別に‥‥。[%p]
+ZH [name]拓也[line]不、没什么‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](これだけズンズン入ってきたわけだからな‥‥。)[%p]
+ZH [name]拓也[line](（只是这样就可以顺利地潜进来了啊‥‥。）。)[%p]
+
+JA [name]たくや[line](香織さんが、社内の構造をしっていたとしてもおかしくはないか‥‥
+ZH [name]拓也[line](（香织小姐即使知道公司的内部结构也没什么奇怪的了‥‥
+
+JA あれ?)[%p]
+ZH 咦？)[%p]
+
+JA [name]たくや[line](香織さんが、社内の構造をしっていたとしてもおかしくはないか‥‥あれ?)
+ZH [name]拓也[line](（香织小姐即使知道公司的内部结构也没什么奇怪的了‥‥咦？）)
+
+JA [name]たくや[line](でも、今「研究室」って言わなかったか?)[%p]
+ZH [name]拓也[line](（但是、刚才香织小姐说了「研究室」这个词的吧？）)[%p]
+
+JA [name]たくや[line](研究室‥‥。)[%p]
+ZH [name]拓也[line]JF:（研究室……）[%p]
+
+JA [name]香織[line]どうしたのよ‥‥たくや君。[%p]
+ZH [name]香织[line]怎么了‥‥拓也你。[%p]
+
+JA [name]たくや[line]い、いや‥‥何でもないんだ。[%p]
+ZH [name]拓也[line]不、不‥‥什么事都没有。[%p]
+
+JA [name]たくや[line](香織さんがどういう目的だろうと、俺には関係ない‥‥。)[%p]
+ZH [name]拓也[line](（香织小姐有怎样的目的、与我没有关系‥‥。）。)[%p]
+
+JA 
+ZH 
+

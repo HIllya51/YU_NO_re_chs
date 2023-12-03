@@ -1,0 +1,291 @@
+JA [name]たくや[line]‥‥見渡す限り、って形容が相応しいな。[%p]
+ZH [name]拓也[line]……适合用，一览无余来形容呢。[%p]
+
+JA [name]たくや[line]熱射に、熱砂‥‥そしてこの気温。[%p]
+ZH [name]拓也[line]强烈的日射，滚烫的沙子……还有这个气温。[%p]
+
+JA [name]たくや[line]立ってるだけで汗が流れ出るみたいだ‥‥。[%p]
+ZH [name]拓也[line]仿佛光是站着便会出汗……。[%p]
+
+JA [name]たくや[line]しかし‥‥。[%p]
+ZH [name]拓也[line]但是……。[%p]
+
+JA [name]たくや[line]小一時間、歩いただけでこれだけの汗‥‥。[%p]
+ZH [name]拓也[line]不过是走了近一个小时，就已经流了这么多汗……。[%p]
+
+JA [name]たくや[line]こりゃ、下手すると目測を誤る程度じゃ済まないぜ‥‥。[%p]
+ZH [name]拓也[line]这下子，搞不好不是目测失误这程度便能了事……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まだ、付いてきてるのかな‥‥。[%p]
+ZH [name]拓也[line]还，跟着我么……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]もう、俺は知らないぞ。来るなと、俺は散々言ったんだ。[%p]
+ZH [name]拓也[line]真是的，我可不管了。我都说了那么多遍别跟来了。[%p]
+
+JA [name]たくや[line]彼女が勝手に付いてくるんだ。どうしようもないじゃないか。[%p]
+ZH [name]拓也[line]她擅自跟在我后面。根本没什么办法啊。[%p]
+
+JA [name]たくや[line]まったく‥‥俺が、いずれ気づかって戻ると思っているんだ、きっと。[%p]
+ZH [name]拓也[line]真是的……一定是认为我迟早会因为担心她而回去。[%p]
+
+JA [name]たくや[line]要はナメられてるんだ‥‥。[%p]
+ZH [name]拓也[line]重点就是我被小瞧了……。[%p]
+
+JA [name]たくや[line]或いは、信用されてる‥‥なんてことは無いよな。[%p]
+ZH [name]拓也[line]或者是，被信任了……没这回事吧。[%p]
+
+JA [name]たくや[line]しかし、それにしても‥‥。[%p]
+ZH [name]拓也[line]可是，即便如此……。[%p]
+
+JA [name]たくや[line]‥‥いったい、いつまで付いてくるんだろうな。[%p]
+ZH [name]拓也[line]……到底，要跟到什么时候。[%p]
+
+JA [name]たくや[line]俺は水も食料も持っている‥‥そして日除けの布も持っている‥‥。[%p]
+ZH [name]拓也[line]我带着水和食粮…………而且还戴着遮阳的布匹。[%p]
+
+JA [name]たくや[line]だが、彼女は何1つ‥‥。[%p]
+ZH [name]拓也[line]但是，她什么都……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥いや、ダメだ。情に流されちゃ目的を見失う。[%p]
+ZH [name]拓也[line]……不，不行。感情用事会迷失目的。[%p]
+
+JA [name]たくや[line]俺はいったい何のために、この1週間というもの汗を流しながら帰り道を探していたんだ。[%p]
+ZH [name]拓也[line]我到底是为了什么，才在这一个星期流着汗水寻找回归的办法啊。[%p]
+
+JA [name]たくや[line]そう‥‥情に流されたら‥‥。[%p]
+ZH [name]拓也[line]没错……一旦感情用事……。[%p]
+
+JA [name]たくや[line]でも‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]いつまで付いてくる気だよ![%p]
+ZH [name]拓也[line]到底想跟到什么时候！[%p]
+
+JA [name]セーレス[line]‥‥![%p]
+ZH [name]塞蕾斯[line]……！[%p]
+
+JA [name]たくや[line]俺の後を、トボトボと子犬みたいに‥‥どういうつもりだって訊いてるんだ。[%p]
+ZH [name]拓也[line]在我身后，宛如无精打采的小狗般……我在问你到底有什么打算。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]まだ、小一時間しか歩いていない。今ならまだ帰れる。[%p]
+ZH [name]拓也[line]还只是，走了将近一个小时。现在的话还能回去。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]帰るんだよ、ほらっ![%p]
+ZH [name]拓也[line]快回去啊，喂！[%p]
+
+JA [name]セーレス[line]‥‥‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]………………。[%p]
+
+JA [name]たくや[line]帰れってば! 帰れっ![%p]
+ZH [name]拓也[line]让你回去啊！回去！[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]ダメだ![%p]
+ZH [name]拓也[line]不行啊！[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]まったく‥‥とんだ無駄足だ。[%p]
+ZH [name]拓也[line]真是的……完全是白跑一趟。[%p]
+
+JA [name]セーレス[line]チラッ。[%p]
+ZH [name]塞蕾斯[line]偷瞄。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA トトトトト‥‥‥‥。[%p]
+ZH 咚咚咚咚咚…………。[%p]
+
+JA とぼとぼ‥‥。[%p]
+ZH 步履蹒跚……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](まったく‥‥。)[%p]
+ZH [name]拓也[line](实在是‥‥。)[%p]
+
+JA [name]たくや[line](まだ付いてくる‥‥。)[%p]
+ZH [name]拓也[line](（还在跟着……。）。)[%p]
+
+JA [name]たくや[line](もう、どうなっても知らないからな‥‥。)[%p]
+ZH [name]拓也[line](（就是你出了什么事我也不管了……。）。)[%p]
+
+JA [name]たくや[line](俺は、知らないぞ!)[%p]
+ZH [name]拓也[line](（我才不管你呢！）)[%p]
+
+JA [name]たくや[line]‥‥ふぅ、ふぅ。[%p]
+ZH [name]拓也[line]……呼，呼。[%p]
+
+JA [name]たくや[line]こりゃ‥‥
+ZH [name]拓也[line]这下……
+
+JA かなり‥‥
+ZH 相当……
+
+JA いや相当‥‥。[%p]
+ZH 不，非常……。[%p]
+
+JA [name]たくや[line]こりゃ‥‥かなり‥‥いや相当‥‥。
+ZH [name]拓也[line]这下……相当……不，非常……。
+
+JA [name]たくや[line]‥‥セーレスのやつ、まだ俺の後を付いてきているのか?[%p]
+ZH [name]拓也[line]……塞蕾斯那家伙，还跟在我身后么？[%p]
+
+JA [name]たくや[line]くそっ、ここで後ろを振り向いちまったら、余計付いてくるに決まってるからな‥‥。[%p]
+ZH [name]拓也[line]可恶，要是在这里回头看的话，明显会让她更加跟着我……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥み、水。[%p]
+ZH [name]拓也[line]呼……水，水。[%p]
+
+JA [name]たくや[line]ヤバいな、水の消費量が、異様に‥‥
+ZH [name]拓也[line]不妙，水的消费量，超乎寻常……
+
+JA あれ?[%p]
+ZH 咦？[%p]
+
+JA [name]たくや[line]ヤバいな、水の消費量が、異様に‥‥あれ?
+ZH [name]拓也[line]不妙，水的消费量，超乎寻常……咦？
+
+JA [name]たくや[line]俺がこれだけ飲んでいるってのに、セーレスは‥‥。[%p]
+ZH [name]拓也[line]明明我喝了这么多水，塞蕾斯她……。[%p]
+
+JA [name]たくや[line]‥‥一滴も飲んでいないじゃないか。おい![%p]
+ZH [name]拓也[line]……不是一滴也没喝么。喂！[%p]
+
+JA [name]たくや[line]だけど、ここで水なんか渡したら、余計に‥‥。[%p]
+ZH [name]拓也[line]但是，在这里给她水的话，反而……。[%p]
+
+JA [name]たくや[line]なんてことを言っている場合か![%p]
+ZH [name]拓也[line]现在不是说这些事的场合啊！[%p]
+
+JA [name]たくや[line]せーれ‥‥‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]塞…蕾………。[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]‥‥![%p]
+ZH [name]拓也[line]……！[%p]
+
+JA [name]たくや[line]何だ‥‥何の音だ?[%p]
+ZH [name]拓也[line]怎么回事……是什么声音？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]わっ、じ、地震だっ![%p]
+ZH [name]拓也[line]哇，地，地震！[%p]
+
+JA [name]たくや[line]しまったっ、水を!?[%p]
+ZH [name]拓也[line]糟了，水！？[%p]
+
+JA [name]たくや[line]こ、こぼしちまった‥‥どうしよう。[%p]
+ZH [name]拓也[line]洒，洒掉了……怎么办。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]収まったか‥‥。[%p]
+ZH [name]拓也[line]停下来了么……。[%p]
+
+JA [name]たくや[line]大自然の怒り‥‥《デラ=グラント》の危機‥‥。[%p]
+ZH [name]拓也[line]大自然之怒……《德拉＝格兰特》的危机……。[%p]
+
+JA [name]たくや[line]アイリアが言っていたな、確か‥‥。[%p]
+ZH [name]拓也[line]艾丽娅确实，这么说过……。[%p]
+
+JA [name]たくや[line]そして、その大自然の怒りを鎮められるのが、唯一巫女なのだと‥‥。[%p]
+ZH [name]拓也[line]而且，为了平息大自然之怒，要献上唯一的巫女……。[%p]
+
+JA [name]たくや[line]そうだ、セーレス![%p]
+ZH [name]拓也[line]对了，塞蕾斯！[%p]
+
+JA [name]たくや[line]‥‥セーレス?[%p]
+ZH [name]拓也[line]……塞蕾斯？[%p]
+
+JA [name]たくや[line]あれ‥‥? いないじゃないか。ほんの数時間前まではいたんだけど。[%p]
+ZH [name]拓也[line]啊咧……？不是不在么。可是仅仅数个小时之前还跟在身后。[%p]
+
+JA [name]たくや[line]おい、セーレス!![%p]
+ZH [name]拓也[line]喂，塞蕾斯！！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]セーレス! いないのかっ!?[%p]
+ZH [name]拓也[line]塞蕾斯！！你在么？[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]‥‥考えてみたら、彼女は喋れない。いてもいなくても、返事はないぞ。[%p]
+ZH [name]拓也[line]……不过想想看，她也说不了话。在或是不在，都无法回答啊。[%p]
+
+JA [name]たくや[line]ま、姿が見えないってことは、大方諦めて家に帰ったんだろう。[%p]
+ZH [name]拓也[line]既然不见踪影，多半是放弃之后回家了吧。[%p]
+
+JA [name]たくや[line]だいたい、こんな砂漠、水がいくらあっても足りやしない。[%p]
+ZH [name]拓也[line]本来，在这种沙漠，就是有再多的水也不够用。[%p]
+
+JA [name]たくや[line]しかもセーレスは、羽織る布も水も無いからな‥‥
+ZH [name]拓也[line]而且塞蕾斯，遮阳的布匹和水都没带……
+
+JA 水!?[%p]
+ZH JF:水！？[%p]
+
+JA [name]たくや[line]しかもセーレスは、羽織る布も水も無いからな‥‥水!?
+ZH [name]拓也[line]JF:而且塞雷斯没有披上的布和水……水！？
+
+JA [name]たくや[line]そうだ‥‥俺は飲み水を、迂闊にも砂漠へこぼしちまったんだ![%p]
+ZH [name]拓也[line]JF:对了……我把喝的水迂回地洒到沙漠里了！[%p]
+
+JA [name]たくや[line]これじゃあ、帝都になんか行けないぜ。[%p]
+ZH [name]拓也[line]这下，根本到不了帝都。[%p]
+
+JA [name]たくや[line]まったく‥‥セーレスの神通力が、大自然の怒りとやらを呼び起こしたのかな。[%p]
+ZH [name]拓也[line]真是的……塞蕾斯的神通力，唤醒了大自然之怒么。[%p]
+
+JA [name]たくや[line]セーレスの、力‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯的，力量……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、いったん戻ろう。水なしじゃ、あっという間に日干しだからな。[%p]
+ZH [name]拓也[line]总之，暂且先回去。没有水的话，一眨眼的功夫就会被晒干。[%p]
+
+JA [name]たくや[line]ふぅ‥‥また数時間、歩かなくちゃならないのか‥‥。[%p]
+ZH [name]拓也[line]呼……还必须，要走上数个小时么……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,441 @@
+JA [name]たくや[line]‥‥石の扉だ。とても俺の力じゃ、開けられそうもない。[%p]
+ZH [name]拓也[line]……石头做的门。单凭我的力气，看样子是打不开的。[%p]
+
+JA [name]美月[line]んもう、だらしないんだから。[%p]
+ZH [name]美月[line]真是的，那是因为你懒啊。[%p]
+
+JA [name]たくや[line]そういう問題じゃないと思うが‥‥。[%p]
+ZH [name]拓也[line]我觉得不是这个问题吧……。[%p]
+
+JA [name]たくや[line]なんだ、このドアは‥‥。[%p]
+ZH [name]拓也[line]怎么回事，这扇门是……。[%p]
+
+JA [name]たくや[line]いや、それよりも、これは扉なのか‥‥?[%p]
+ZH [name]拓也[line]不，比起这件事，这个真的是扇门吗……？[%p]
+
+JA [name]美月[line]何かしら‥‥。[%p]
+ZH [name]美月[line]什么了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ドアの横には、くぼみがある‥‥。[%p]
+ZH [name]拓也[line]门的侧面，有个凹槽……。[%p]
+
+JA [name]たくや[line]‥‥中には何も入っていないな。[%p]
+ZH [name]拓也[line]……里面什么东西都没有啊。[%p]
+
+JA [name]たくや[line]中には、白いメダルが残っているぜ‥‥。[%p]
+ZH [name]拓也[line]里面，有一枚白色徽章……。[%p]
+
+JA [name]美月[line]どうするの‥‥?[%p]
+ZH [name]美月[line]怎么办呢……？[%p]
+
+JA [name]たくや[line]そうだな‥‥。[%p]
+ZH [name]拓也[line]（对啊……。）。[%p]
+
+JA 白いメダルを取る
+ZH JF:获得白色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [name]たくや[line]よし‥‥メダルを取るぞ。[%p]
+ZH [name]拓也[line]好吧……先拿起徽章吧。[%p]
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]中には、黒いメダルが残っているぜ‥‥。[%p]
+ZH [name]拓也[line]里面，留着一枚黑色徽章呢……。[%p]
+
+JA 黒いメダルを取る
+ZH JF:获得黑色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [name]たくや[line]よし‥‥メダルを取るぞ。[%p]
+ZH [name]拓也[line]好吧……先拿起徽章吧。[%p]
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]白と黒のメダルが、中に1つずつ入っている‥‥。[%p]
+ZH [name]拓也[line]白色的和黑色徽章，这里面各有１个……。[%p]
+
+JA [name]美月[line]これは、白いメダルね‥‥どうするの?[%p]
+ZH [name]美月[line]这个，是白色徽章吧……怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 白いメダルを取る
+ZH JF:获得白色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [name]たくや[line]よし‥‥メダルを取るぞ。[%p]
+ZH [name]拓也[line]好吧……先拿起徽章吧。[%p]
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]もう1つ入っている‥‥。[%p]
+ZH [name]拓也[line]已经放进去１枚了……。[%p]
+
+JA [name]美月[line]‥‥黒いメダルね。[%p]
+ZH [name]美月[line]……黑色徽章呢。[%p]
+
+JA 黒いメダルを取る
+ZH JF:获得黑色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [name]たくや[line]よし‥‥メダルを取るぞ。[%p]
+ZH [name]拓也[line]好吧……先拿起徽章吧。[%p]
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]ドアの横に、くぼみがあるぞ‥‥何だろう。[%p]
+ZH [name]拓也[line]门的侧面，有一个凹槽……是什么呢。[%p]
+
+JA [name]たくや[line]‥‥中には何も入っていないな。[%p]
+ZH [name]拓也[line]……里面什么东西都没有啊。[%p]
+
+JA [name]美月[line]そうね‥‥何のくぼみかしら?[%p]
+ZH [name]美月[line]是吗……是什么的凹槽呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]中に、何か入っている‥‥なんだ?[%p]
+ZH [name]拓也[line]里面，有东西……是什么呢？[%p]
+
+JA [name]美月[line]メダルよ‥‥白いメダルが入っているわ。どういうこと?[%p]
+ZH [name]美月[line]是徽章啊……里面有一枚白色徽章。怎么回事呢？[%p]
+
+JA [name]たくや[line]どういうことだろう。[%p]
+ZH [name]拓也[line]到底是什么意思啊。[%p]
+
+JA [name]美月[line]‥‥どうするの?[%p]
+ZH [name]美月[line]……怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 白いメダルを取る
+ZH JF:获得白色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]中に、何か入っているぞ‥‥。[%p]
+ZH [name]拓也[line]里面，好像有什么东西呢……。[%p]
+
+JA [name]美月[line]メダルよ‥‥黒いメダルが入っているわ。どういうこと?[%p]
+ZH [name]美月[line]是徽章啊……里面有一枚黑色徽章。怎么回事呢？[%p]
+
+JA [name]たくや[line]どういうことだろう。[%p]
+ZH [name]拓也[line]到底是什么意思啊。[%p]
+
+JA [name]美月[line]‥‥どうするの?[%p]
+ZH [name]美月[line]……怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 黒いメダルを取る
+ZH JF:获得黑色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]中に、何か入っているぞ‥‥。[%p]
+ZH [name]拓也[line]里面，好像有什么东西呢……。[%p]
+
+JA [name]美月[line]メダルだわ‥‥それも、黒と白の両方。[%p]
+ZH [name]美月[line]是徽章啊……而且，还是黑和白两枚。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]これは‥‥白いメダルの方ね。どうするの?[%p]
+ZH [name]美月[line]这个……是白色徽章吧。怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 白いメダルを取る
+ZH JF:获得白色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [name]たくや[line]よし‥‥メダルを取るぞ。[%p]
+ZH [name]拓也[line]好吧……先拿起徽章吧。[%p]
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]もう1つ入っている‥‥。[%p]
+ZH [name]拓也[line]已经放进去１枚了……。[%p]
+
+JA [name]美月[line]‥‥黒いメダルね。[%p]
+ZH [name]美月[line]……黑色徽章呢。[%p]
+
+JA 黒いメダルを取る
+ZH JF:获得黑色奖牌
+
+JA そのままにしておく
+ZH JF:保留
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]‥‥取らないの?[%p]
+ZH [name]美月[line]……你不拿吗？[%p]
+
+JA [name]たくや[line]とりあえず‥‥これはそのままにしておこう。[%p]
+ZH [name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+
+JA [name]たくや[line]水で濡れている‥‥地下水のせいだろうか。[%p]
+ZH [name]拓也[line]因为有水所以很潮湿……是地下水的缘故吧。[%p]
+
+JA [name]たくや[line]ゴツゴツした岩肌が出ているな‥‥。[%p]
+ZH [name]拓也[line]露出了凹凸不平的岩石表面……。[%p]
+
+JA [name]美月[line]どこもみんな同じ感じね‥‥水で濡れているわ。[%p]
+ZH [name]美月[line]不管什么地方感觉都一样……因为有水所以很潮湿。[%p]
+
+JA [name]たくや[line]水で濡れている‥‥地下水のせいだろうか。[%p]
+ZH [name]拓也[line]因为有水所以很潮湿……是地下水的缘故吧。[%p]
+
+JA [name]たくや[line]ゴツゴツした岩肌が出ているな‥‥。[%p]
+ZH [name]拓也[line]露出了凹凸不平的岩石表面……。[%p]
+
+JA [name]美月[line]どこもみんな同じ感じね‥‥水で濡れているわ。[%p]
+ZH [name]美月[line]不管什么地方感觉都一样……因为有水所以很潮湿。[%p]
+
+JA [name]たくや[line]今は石の円盤がはまっている‥‥。[%p]
+ZH [name]拓也[line]现在嵌着一个石头做的圆盘……。[%p]
+
+JA [name]美月[line]何の意味があるのかしら‥‥。[%p]
+ZH [name]美月[line]是有什么意义吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くぼんでいる‥‥何のためかは判らないが。[%p]
+ZH [name]拓也[line]这里有个凹陷……虽然不知道是为什么而弄的。[%p]
+
+JA [name]たくや[line]‥‥何だろうな、この丸い穴は。[%p]
+ZH [name]拓也[line]……是什么呢，这个圆形的洞。[%p]
+
+JA [name]たくや[line]かなり大きい‥‥直径10センチはくだらないな。[%p]
+ZH [name]拓也[line]相当大呢……直径应该不少于１０公分吧。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]美月[line]何かが、ピッタリとはまりそうな感じね‥‥。[%p]
+ZH [name]美月[line]看起来，好像是跟什么东西合缝的感觉呢……。[%p]
+
+JA [name]たくや[line]何か、か‥‥。[%p]
+ZH [name]拓也[line]什么东西……。[%p]
+
+JA [name]たくや[line]やけに丈夫そうな扉だ‥‥。[%p]
+ZH [name]拓也[line]一扇异常坚固的门……。[%p]
+
+JA [name]たくや[line]俺ごときの力じゃ、開きそうもない‥‥。[%p]
+ZH [name]拓也[line]看来，单凭我一个人的力气打不开啊……。[%p]
+
+JA [name]たくや[line]石を削ったような扉だ‥‥。[%p]
+ZH [name]拓也[line]好像是石头削制成的门……。[%p]
+
+JA [name]たくや[line]堅いな‥‥俺なんかの力じゃ、びくともしないぜ。[%p]
+ZH [name]拓也[line]好硬啊……单凭我一个人的力气，完全纹丝不动呢。[%p]
+
+JA [name]たくや[line]つまり力技で開けるなんてことは、できそうもないってことだ。[%p]
+ZH [name]拓也[line]换句话说，几乎不可能光凭着蛮力强行打开。[%p]
+
+JA [name]美月[line]いったい、何のためにあるのかしら‥‥。[%p]
+ZH [name]美月[line]到底，是为了什么而做出来的呢……。[%p]
+
+JA [name]たくや[line]扉といったら、ここと向こう側を分け隔てるためのものだろう。[%p]
+ZH [name]拓也[line]说到门的话，应该是为了把这边和对面分开而做的吧。[%p]
+
+JA [name]美月[line]分け隔てる意味って、何なの‥‥?[%p]
+ZH [name]美月[line]要把两边分开，意义何在……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](それが判れば、苦労はしないよ‥‥。)[%p]
+ZH [name]拓也[line](（要是知道的话，就不用这么辛苦了……。）。)[%p]
+
+JA [name]たくや[line]向こう側が見えるぜ‥‥。[%p]
+ZH [name]拓也[line]能够看到对面呢……。[%p]
+
+JA [name]たくや[line]ここから見る分には、通路が続いているだけだが‥‥。[%p]
+ZH [name]拓也[line]从这里看过去的部分，只能看到通道还在延续而已……。[%p]
+
+JA [name]たくや[line]しかし、所々に穴があいているな‥‥向こう側が見える。[%p]
+ZH [name]拓也[line]不过，有些地方有中空的洞穴……这个可以看到对面。[%p]
+
+JA [name]美月[line]何が見えるの?[%p]
+ZH [name]美月[line]可以看到什么？[%p]
+
+JA [name]たくや[line]今までと同じ。通路さ。[%p]
+ZH [name]拓也[line]跟之前的一样。通道。[%p]
+
+JA [name]美月[line]そう‥‥じゃあ、あまりここを開ける意味はないかも。[%p]
+ZH [name]美月[line]是吗……那么，或许把这里打开也没什么意义呢。[%p]
+
+JA [name]たくや[line]どうかな。扉があるということは、分け隔てる意味があるということだ。[%p]
+ZH [name]拓也[line]怎么会呢。这里有一扇门这个事实，应该就说明了是有把两边分开的意义的。[%p]
+
+JA [name]たくや[line]ってことは、何か違ったモノが、向こう側にあるかもしれない。[%p]
+ZH [name]拓也[line]你的意思是说，在门的另一边，或许会有什么不一样的东西吗。[%p]
+
+JA [name]美月[line]だといいわ‥‥。[%p]
+ZH [name]美月[line]可以这么说……。[%p]
+
+JA [name]たくや[line]扉が俺たちの前にあるぜ‥‥。[%p]
+ZH [name]拓也[line]门就在我们俩的眼前呢……。[%p]
+
+JA [name]たくや[line]しかし‥‥こんなところに扉か。[%p]
+ZH [name]拓也[line]但是……这种地方居然会有门啊。[%p]
+
+JA [name]美月[line]何のためにあるのかしら‥‥。[%p]
+ZH [name]美月[line]是有什么原因的吧……。[%p]
+
+JA [name]たくや[line]‥‥そうだな。ドアを離れよう。[%p]
+ZH [name]拓也[line]……是啊。还是离开这扇门吧。[%p]
+
+JA [name]たくや[line](2重に使うことはできないぜ‥‥。)[%p]
+ZH [name]拓也[line](（没办法使用第２次呢……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]どうもならないわね‥‥。[%p]
+ZH [name]美月[line]看样子是无济于事呢……。[%p]
+
+JA [name]たくや[line]ああ‥‥あれ、でもピッタリとはまっているぜ。[%p]
+ZH [name]拓也[line]啊啊……咦，不过嵌在里面刚刚好合缝呢。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]取れないな‥‥何か意味があるんだと思うが。[%p]
+ZH [name]拓也[line]拿不下来啊……我觉得应该是有某种意义的吧。[%p]
+
+JA [name]美月[line]どんな?[%p]
+ZH [name]美月[line]什么意义？[%p]
+
+JA [name]たくや[line]さあね。[%p]
+ZH [name]拓也[line]不知道。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥同じ丸いってだけで、大きさが全然違うぜ。[%p]
+ZH [name]拓也[line]……只是同样是圆形的东西，大小完全不一样呢。[%p]
+
+JA [name]たくや[line]この白いメダルじゃ、はめ込めないぜ‥‥。[%p]
+ZH [name]拓也[line]这个白色徽章，嵌不进去呢……。[%p]
+
+JA [name]たくや[line]‥‥同じ丸いってだけで、大きさが全然違うぜ。[%p]
+ZH [name]拓也[line]……只是同样是圆形的东西，大小完全不一样呢。[%p]
+
+JA [name]たくや[line]この黒いメダルじゃ、はめ込めないぜ‥‥。[%p]
+ZH [name]拓也[line]这个黑色徽章，嵌不进去呢……。[%p]
+
+JA [name]たくや[line]そのアイテムは使えない‥‥。[%p]
+ZH [name]拓也[line]这个道具现在不用上……。[%p]
+
+JA [name]たくや[line]それはここに使うものじゃないな‥‥。[%p]
+ZH [name]拓也[line]这东西不是在这里使用的啊……。[%p]
+
+JA [name]たくや[line]‥‥アイテムを使うところがないぜ。[%p]
+ZH [name]拓也[line]……现在不是使用道具的时候呢。[%p]
+
+JA 
+ZH 
+

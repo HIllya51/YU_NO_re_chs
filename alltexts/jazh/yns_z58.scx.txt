@@ -1,0 +1,171 @@
+JA [name]たくや[line]見渡す限りの、砂漠か‥‥。[%p]
+ZH [name]拓也[line]一眼望去，全是沙漠吗……。[%p]
+
+JA [name]たくや[line]夜に発って、正解だったな‥‥昼間の労力の、恐らく半分にはなっている。[%p]
+ZH [name]拓也[line]晚上出发，是正确的啊……白天的劳累，恐怕会减半呢。[%p]
+
+JA [name]ユーノ[line]ねぇ、パパ‥‥。[%p]
+ZH [name]优诺[line]呐，爸爸……。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]ユーノ[line]こっちの方角‥‥ちょっと違うんじゃない?[%p]
+ZH [name]优诺[line]JF:这个方向……不是有点不一样吗？[%p]
+
+JA [name]たくや[line]いや、こっちでいいんだ。[%p]
+ZH [name]拓也[line]不，走这边就可以了。[%p]
+
+JA [name]ユーノ[line]‥‥?[%p]
+ZH [name]优诺[line]……？[%p]
+
+JA [name]たくや[line]そんな心配そうな顔をするな。大丈夫だよ。ちょっとだけ、寄り道をするだけさ。[%p]
+ZH [name]拓也[line]不要露出这么担心的表情啊。没事的。我只是，稍微绕个道而已。[%p]
+
+JA [name]ユーノ[line]‥‥サラって女の人が言っていた、神殿?[%p]
+ZH [name]优诺[line]……是那个叫莎拉的女人说的，神殿？[%p]
+
+JA [name]たくや[line]ん、まあね。[%p]
+ZH [name]拓也[line]嗯，是啊。[%p]
+
+JA [name]ユーノ[line]‥‥大丈夫なの? パパ。[%p]
+ZH [name]优诺[line]……没关系吗？　爸爸。[%p]
+
+JA [name]たくや[line]多分、な。[%p]
+ZH [name]拓也[line]大概，吧。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]さっ、早く行ってみよう。水と食料を少し分けてもらったとはいえ、無限にある訳じゃない。[%p]
+ZH [name]拓也[line]好了，快点过去看看吧。虽说稍微补充了点水和食物，不过也不是无限的啊。[%p]
+
+JA [name]ユーノ[line]ウン‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]何だよ、妙な顔をして。[%p]
+ZH [name]拓也[line]怎么了，一副奇怪的表情。[%p]
+
+JA [name]ユーノ[line]昨夜ね、ユーノ、変な夢を見たの‥‥。[%p]
+ZH [name]优诺[line]昨天晚上，优诺，做了个奇怪的梦……。[%p]
+
+JA [name]たくや[line]夢‥‥?[%p]
+ZH [name]拓也[line]梦……？[%p]
+
+JA [name]ユーノ[line]うん‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]ははは‥‥じゃ、今度聞かせてくれ。とりあえず今は先に進もう。[%p]
+ZH [name]拓也[line]哈哈哈……那么，下次说给爸爸听吧。总之现在要先往前走。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](神殿、か‥‥。)
+ZH [name]拓也[line](（神殿，吗……。）。)
+
+JA [name]サラ[line]《神殿に、行くぅ?》[%p]
+ZH [name]莎拉[line]《要到，神殿去吗？》[%p]
+
+JA [name]サラ[line]《バカなことは、やめた方がいいわよ‥‥。》[%p]
+ZH [name]莎拉[line]《这种蠢事，还是不要去做比较好哦……。》[%p]
+
+JA [name]サラ[line]《中に入った途端、近衛兵たちがアリの群れのように現れるわよ‥‥。》[%p]
+ZH [name]莎拉[line]《在你进去的中途，那些近卫兵就会像蚂蚁群一样出现了……。》[%p]
+
+JA [name]サラ[line]《知らないからね‥‥神帝を殴る前に、殺されるわよ。》[%p]
+ZH [name]莎拉[line]《你不知道吧……揍了神殿的你，是会被杀掉的哦。》[%p]
+
+JA [name]サラ[line]《‥‥えっ、神殿には何があるのかって?》[%p]
+ZH [name]莎拉[line]《……诶，你问我神殿里面有什么东西？》[%p]
+
+JA [name]サラ[line]《さぁ‥‥私にはよくわからないんだけど‥‥。》[%p]
+ZH [name]莎拉[line]《这个嘛……我也不是很清楚呢……。》[%p]
+
+JA [name]サラ[line]《聞いた話じゃ、神器が祭られているらしいわね‥‥。》[%p]
+ZH [name]莎拉[line]《听别人说，那里好像祭祀着神器呢……。》[%p]
+
+JA [name]サラ[line]《何でも、儀式に使うとか、何とか‥‥。》[%p]
+ZH [name]莎拉[line]《据说，是在仪式上使用，还是什么的……。》[%p]
+
+JA [name]サラ[line]《儀式と言ったら、神様を降臨させるっていう、例の巫女さまのおやりになることなんじゃない?》[%p]
+ZH [name]莎拉[line]《说到仪式的话，不会是传闻中的接受神明降临，那个巫女要做的事吧？》[%p]
+
+JA [name]サラ[line]《神器って何かって? 知らないわよ、そんなの‥‥。》[%p]
+ZH [name]莎拉[line]《你问我什么是神器？　我也不知道啊，那种东西……。》[%p]
+
+JA [name]サラ[line]《私は、単に聞いたことを伝えているだけ‥‥。》[%p]
+ZH [name]莎拉[line]《我啊，只是单纯地转述听到的传言而已……。》[%p]
+
+JA [name]サラ[line]《ねぇちょっと、本当にあそこへ行くの?》[%p]
+ZH [name]莎拉[line]《喂等一下，你真的打算要到那边去吗？》[%p]
+
+JA [name]サラ[line]《ンもう、知らないからね。どうなっても‥‥。》[%p]
+ZH [name]莎拉[line]《真是的，我不管啦。随便你会怎么样也……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](神器か‥‥。)[%p]
+ZH [name]拓也[line](（神器吗……。）。)[%p]
+
+JA [name]たくや[line](神のうつわってことだよな‥‥。)[%p]
+ZH [name]拓也[line](（意思就是神的容器吗……。）。)[%p]
+
+JA [name]たくや[line](儀式で使うという話だが‥‥。)[%p]
+ZH [name]拓也[line](（虽然说是在仪式上使用的……。）。)[%p]
+
+JA [name]たくや[line](いったい、何を行うものなんだろう‥‥。)[%p]
+ZH [name]拓也[line](（到底，是用来进行什么的东西呢……。）。)[%p]
+
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]どうした、ユーノ。[%p]
+ZH [name]拓也[line]怎么了，优诺。[%p]
+
+JA [name]ユーノ[line]何か、向こうに見えるっ。[%p]
+ZH [name]优诺[line]那边，好像能看到什么东西。[%p]
+
+JA [name]たくや[line]何か‥‥?[%p]
+ZH [name]拓也[line]什么……？[%p]
+
+JA [name]ユーノ[line]うん![%p]
+ZH [name]优诺[line]唔嗯！[%p]
+
+JA [name]たくや[line]‥‥行ってみよう。[%p]
+ZH [name]拓也[line]……过去看看吧。[%p]
+
+JA [name]たくや[line](もしかして、神殿ってヤツだろうか‥‥?)[%p]
+ZH [name]拓也[line](（莫非，就是那个所谓的神殿吗……？）)[%p]
+
+JA [name]たくや[line](慎重に行動しようぜ‥‥。)[%p]
+ZH [name]拓也[line](（要慎重地行动呢……。）。)[%p]
+
+JA [name]たくや[line]‥‥!!?[%p]
+ZH [name]拓也[line]……！！？[%p]
+
+JA [name]たくや[line]何だ、これは‥‥。[%p]
+ZH [name]拓也[line]这是什么啊……。[%p]
+
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]大丈夫だ‥‥だが、俺から離れるなよ。[%p]
+ZH [name]拓也[line]没事的……不过，你别离开我的身边哦。[%p]
+
+JA [name]ユーノ[line]うん‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、これは‥‥。)[%p]
+ZH [name]拓也[line](（这个，到底是……。）。)[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,4 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]How far does this thing go? Sheesh⋯[%p]
+[name]Takuya[line]Somehow⋯ I can tell that I'll still be okay.[%p]
+[name]Takuya[line]I wonder why⋯?[%p]

@@ -1,0 +1,183 @@
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]まだだ。[%p]
+ZH [name]拓也[line]又来了。[%p]
+
+JA [name]結城[line]そ、そうですか‥‥。[%p]
+ZH [name]结城[line]是，是吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥澪が行きそうな場所、か。[%p]
+ZH [name]拓也[line]呼……澪有可能会去的地方，吗。[%p]
+
+JA [name]たくや[line]やっぱりあの場所しか、考えられないよな‥‥。[%p]
+ZH [name]拓也[line]果然，除了那个地方想不出别的了啊……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]お前、わざと言っていないか?[%p]
+ZH [name]拓也[line]你啊，不会是故意这么叫的吧？[%p]
+
+JA [name]結城[line]なにが、でしょう?[%p]
+ZH [name]结城[line]什么意思？[%p]
+
+JA [name]たくや[line]‥‥もういい。[%p]
+ZH [name]拓也[line]‥‥够了。[%p]
+
+JA [name]結城[line]セントラル街付近は、いませんねぇ‥‥色々、お店なんかも探したんですが。[%p]
+ZH [name]结城[line]中央街附近，好像没有在呢……我已经，找过很多店了。[%p]
+
+JA [name]たくや[line]そっか。[%p]
+ZH [name]拓也[line]是吗。[%p]
+
+JA [name]結城[line]もう少し、色々な場所を探してみますね。[%p]
+ZH [name]结城[line]稍微，再去一些地方找找看吧。[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、澪が行きそうなところ、か‥‥。[%p]
+ZH [name]拓也[line]话说回来，澪可能回去的地方吗‥‥。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]だから、そのオヤビンってのをいい加減止めろって。[%p]
+ZH [name]拓也[line]JF:所以，让我适可而止地停止那个大叔。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]どうもこうも、さっき会ったばかりだろう?[%p]
+ZH [name]拓也[line]话说刚才见到了的吧？[%p]
+
+JA [name]結城[line]でも、見つけるときは一瞬じゃないですか。[%p]
+ZH [name]结城[line]可是，发现不也是一瞬间的事吗。[%p]
+
+JA [name]たくや[line](たまに、正論を言いやがる。)[%p]
+ZH [name]拓也[line](（偶尔，也会说些正论呢。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]結城[line]しっかりしてください。オヤビンだけが頼りなんですよう。[%p]
+ZH [name]结城[line]请你振作起来啊。现在只能靠头目你了。[%p]
+
+JA [name]たくや[line]わかったって‥‥何とか探してみるよ。[%p]
+ZH [name]拓也[line]我知道的‥‥会努力找找看的。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、あいつどこを探しているんだろうな‥‥。[%p]
+ZH [name]拓也[line]不过，那家伙到底去什么地方找了呢……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]そのオヤビンっての、止めろって。[%p]
+ZH [name]拓也[line]JF:那个大叔叫我停下来。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥ど、どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎，怎么了？[%p]
+
+JA [name]たくや[line]おう、見つけたぜ。[%p]
+ZH [name]拓也[line]哦，我找到了。[%p]
+
+JA [name]結城[line]ほ、本当ですかっ。[%p]
+ZH [name]结城[line]真，真的吗。[%p]
+
+JA [name]たくや[line]ほら、北の空に、一番星。[%p]
+ZH [name]拓也[line]你看，北边的天空，金星。[%p]
+
+JA [name]結城[line]‥‥‥‥それじゃ、失礼します。[%p]
+ZH [name]结城[line]…………那么，我失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]心が和むジョークだと、思ったんだけどなぁ。[%p]
+ZH [name]拓也[line]只是让心情平静下来的玩笑而已，我是这么想的。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]いや、俺の方はまだ‥‥。[%p]
+ZH [name]拓也[line]不，我这边还没‥‥。[%p]
+
+JA [name]結城[line]今、手当たり次第に調べているところです。何かありましたら、学校前で落ち合いましょう。[%p]
+ZH [name]结城[line]现在，我们先分开调查吧。发现什么的话，再在学校门口会合。[%p]
+
+JA [name]たくや[line]ああ‥‥わかった。[%p]
+ZH [name]拓也[line]啊啊‥‥知道了。[%p]
+
+JA [name]結城[line]それじゃ、オヤビンも頑張って。[%p]
+ZH [name]结城[line]那么，头目也请加油。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オヤビンじゃないって、言ってるのに。[%p]
+ZH [name]拓也[line]不要叫我头目，我明明说过了。[%p]
+
+JA [name]たくや[line]高台に来てしまった‥‥。[%p]
+ZH [name]拓也[line]到高台来了．．．。[%p]
+
+JA [name]たくや[line]そういえば、この付近を、結城は探すとか言っていたよな‥‥。[%p]
+ZH [name]拓也[line]这么说来，这附近貌似是结城负责搜查的地方．．．。[%p]
+
+JA [name]たくや[line]あいつ、どこを探しているんだろう‥‥。[%p]
+ZH [name]拓也[line]那家伙，去哪里找了啊．．．。[%p]
+
+JA [name]たくや[line]高台だ‥‥境町が一望できる場所だな。[%p]
+ZH [name]拓也[line]高台……是能把整个境町一览无余的地方。[%p]
+
+JA [name]たくや[line]高台だ‥‥。[%p]
+ZH [name]拓也[line]是高台‥‥。[%p]
+
+JA [name]たくや[line]まさか、澪の親父さん、いやしないだろうな‥‥。[%p]
+ZH [name]拓也[line]难道说，澪的父亲，不会吧．．．。[%p]
+
+JA [name]たくや[line]高台へ来てしまった‥‥。[%p]
+ZH [name]拓也[line]来到了高台．．．．。[%p]
+
+JA [name]たくや[line]あたりには誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]这附近似乎没有人啊．．．．。[%p]
+
+JA [name]たくや[line]街の高台だな‥‥一望できる場所だ。[%p]
+ZH [name]拓也[line]这座城市的高台‥‥是能将整座城市一览无余的地方。[%p]
+
+JA [name]澪[line]私の家は、右側の大きなお屋敷よ。[%p]
+ZH [name]澪[line]我的家是右边那座大房子喔。[%p]
+
+JA [name]たくや[line]知っているよ、なんたってこの街一番の名士、現市長様のご令嬢だもんな。[%p]
+ZH [name]拓也[line]知道的啦，再怎么说你也是这座城市最有名的人物，现任市长的千金啊。[%p]
+
+JA [name]澪[line]そういう言い方は止めて。好きじゃないの。[%p]
+ZH [name]澪[line]JF:不要这么说。你不喜欢吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]さ、とにかく行きましょう。[%p]
+ZH [name]澪[line]来，总之先一起去吧。[%p]
+
+JA 
+ZH 
+

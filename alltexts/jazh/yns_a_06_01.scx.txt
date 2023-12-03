@@ -1,0 +1,42 @@
+JA [name]たくや[line]道が二股に分かれている‥‥。[%p]
+ZH [name]拓也[line]路在这里分成了二条……。[%p]
+
+JA [name]たくや[line]どっちに進むんだ‥‥?[%p]
+ZH [name]拓也[line]应该往哪边走好呢……？[%p]
+
+JA [name]たくや[line]相変わらず湿っているな‥‥。[%p]
+ZH [name]拓也[line]还是一如既往地潮湿啊……。[%p]
+
+JA [name]たくや[line]湿っている以外は、異常がないな‥‥。[%p]
+ZH [name]拓也[line]除了潮湿以外，暂时没什么异常啊……。[%p]
+
+JA [name]たくや[line]しっとりとしているな‥‥。[%p]
+ZH [name]拓也[line]真的是太潮湿了啊……。[%p]
+
+JA [name]たくや[line]天井から落ちてくる水滴のせいだろうか‥‥。[%p]
+ZH [name]拓也[line]是因为从洞壁顶上滴下来水滴的缘故吧……。[%p]
+
+JA [name]たくや[line]右へ行ってみよう‥‥。[%p]
+ZH [name]拓也[line]到右边去看一看吧……。[%p]
+
+JA [name]たくや[line]左へ行ってみよう‥‥。[%p]
+ZH [name]拓也[line]到左边去看一看吧……。[%p]
+
+JA [name]たくや[line]後ろに戻るんだな‥‥?[%p]
+ZH [name]拓也[line]要转身回去吗……？[%p]
+
+JA [name]たくや[line]アイテムを使うときじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在不是使用道具的时候呢……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

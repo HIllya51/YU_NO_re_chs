@@ -1,0 +1,213 @@
+JA [name]たくや[line]澪の屋敷だ‥‥相変わらずでっかい家だ。[%p]
+ZH [name]拓也[line]这是澪的房子……还是一如既往地大啊。[%p]
+
+JA [name]たくや[line]ウチの、軽く数倍はありそうだな‥‥。[%p]
+ZH [name]拓也[line]看起来，比我家至少要大好几倍……。[%p]
+
+JA [name]たくや[line]政治家ってのは、そんなに儲かるのかね‥‥。[%p]
+ZH [name]拓也[line]所谓的政治家，都是这么有钱的吧……。[%p]
+
+JA [name]澪[line]ちょっと、往来の通りで、よからぬことを言い出さないで。[%p]
+ZH [name]澪[line]等一下，在大街上，别说这种让人误会的话啊。[%p]
+
+JA [name]たくや[line]何だよ、待っていたみたいだな。[%p]
+ZH [name]拓也[line]什么嘛，你好像是在等我啊。[%p]
+
+JA [name]澪[line]ま、待っている訳ないでしょ。夜風に当たっていただけよ。[%p]
+ZH [name]澪[line]才，才不可能在等你呢。我只是出来吹夜风的。[%p]
+
+JA [name]たくや[line]ふぅん。[%p]
+ZH [name]拓也[line]嗯——。[%p]
+
+JA [name]澪[line]な、なによ‥‥。[%p]
+ZH [name]澪[line]什，什么啊……。[%p]
+
+JA [name]たくや[line]いや、別に風なんて吹いてないから。[%p]
+ZH [name]拓也[line]不，现在好像没什么风可吹啊。[%p]
+
+JA [name]澪[line]そ、それはその‥‥雰囲気よ、雰囲気。[%p]
+ZH [name]澪[line]那，那是因为……气氛啊，气氛。[%p]
+
+JA [name]たくや[line]ふぅん。[%p]
+ZH [name]拓也[line]嗯——。[%p]
+
+JA [name]澪[line]な、なによ‥‥。[%p]
+ZH [name]澪[line]什，什么啊……。[%p]
+
+JA [name]たくや[line]いや、別に。それよりも、この屋敷には圧倒されるな。[%p]
+ZH [name]拓也[line]没什么。比起这个，这房子可真是太气派了啊。[%p]
+
+JA [name]澪[line]パパの趣味みたいね、とにかく大きく圧倒するのが好きみたいだから。[%p]
+ZH [name]澪[line]这个好像是我爸爸的兴趣，总而言之因为他似乎比较喜欢以大来压倒人。[%p]
+
+JA [name]たくや[line]ふぅん‥‥さぞかし掃除も大変だろう。[%p]
+ZH [name]拓也[line]哼……想必清扫也很费力吧。[%p]
+
+JA [name]澪[line]週に2回、ヘルパーさんが5人、お掃除のために来てくれるわ。[%p]
+ZH [name]澪[line]每周２次，会有５个清洁工，专门为了打扫过来的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](うーん、凄い。)[%p]
+ZH [name]拓也[line](（嗯——，好厉害。）。)[%p]
+
+JA [name]澪[line]さっ、こっちよ。[%p]
+ZH [name]澪[line]来，走这边。[%p]
+
+JA [name]たくや[line]こっち?[%p]
+ZH [name]拓也[line]这边？[%p]
+
+JA [name]澪[line]‥‥私の話を聞きにきたんじゃないの?[%p]
+ZH [name]澪[line]……你不是为了询问我才过来的吗？[%p]
+
+JA [name]たくや[line]‥‥いや、そうそう、そうだった。[%p]
+ZH [name]拓也[line]……不，对了对了，说的没错。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]お、おい‥‥。[%p]
+ZH [name]拓也[line]喂，喂‥‥。[%p]
+
+JA [name]澪[line]気をつけて。少し暗いから‥‥。[%p]
+ZH [name]澪[line]小心点。稍微有点昏暗……。[%p]
+
+JA [name]たくや[line]ん、ああ‥‥。[%p]
+ZH [name]拓也[line]嗯，啊啊……。[%p]
+
+JA [name]澪[line]‥‥あっ、ここ段になってくるから。[%p]
+ZH [name]澪[line]……啊、这里有个落差。[%p]
+
+JA [name]たくや[line]だん?‥‥おわっ、おっとっと。[%p]
+ZH [name]拓也[line]落差？……哦哇，哦哟哟。[%p]
+
+JA [name]澪[line]気をつけてね。[%p]
+ZH [name]澪[line]小心点啊。[%p]
+
+JA [name]たくや[line]ん、ああ‥‥。[%p]
+ZH [name]拓也[line]嗯，啊啊……。[%p]
+
+JA [name]澪[line]‥‥あとは、この窓を開けてと‥‥あっ、その葉っぱ、とがっているから気をつけてね。[%p]
+ZH [name]澪[line]……接下来，只要打开这扇窗……啊，这些叶子的前端很尖锐，你要当心点呢。[%p]
+
+JA [name]たくや[line]‥‥いててて。[%p]
+ZH [name]拓也[line]……好痛好痛。[%p]
+
+JA [name]澪[line]大丈夫‥‥? 見せて。[%p]
+ZH [name]澪[line]没事吧……？　我看看。[%p]
+
+JA [name]たくや[line]大丈夫だって、ほんのかすっただけだから。[%p]
+ZH [name]拓也[line]没事的，只是稍微有点擦伤而已。[%p]
+
+JA [name]澪[line]もう‥‥心配かけさせないで。[%p]
+ZH [name]澪[line]真是的……别让我担心啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]開いたわ。さてと‥‥。[%p]
+ZH [name]澪[line]打开了。那就……。[%p]
+
+JA [name]たくや[line]‥‥なぁ、澪。[%p]
+ZH [name]拓也[line]……呐，澪。[%p]
+
+JA [name]澪[line]なに?[%p]
+ZH [name]澪[line]什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]なによ。[%p]
+ZH [name]澪[line]什么。[%p]
+
+JA [name]たくや[line]何で、こんな裏手から入るんだ? 自分の家だろうに。[%p]
+ZH [name]拓也[line]为什么，你要从这种小路进来啊？　这是你自己的家吧。[%p]
+
+JA [name]澪[line]表から入れるわけ、ないでしょう?[%p]
+ZH [name]澪[line]直接从正门进来，是不可能的吧？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]んしょ‥‥よいしょっと。ほら、早く入って。[%p]
+ZH [name]澪[line]嗯哟……嘿咻。来吧，快点进来。[%p]
+
+JA [name]たくや[line]パンツ、見えてるぞ。[%p]
+ZH [name]拓也[line]内裤，被看到了哦。[%p]
+
+JA [name]澪[line]見ないのが紳士的配慮ってもんでしょ! バカ![%p]
+ZH [name]澪[line]从绅士的角度考虑是不会看的吧！　笨蛋！[%p]
+
+JA [name]たくや[line]見えちまったもんはしょうがないだろ。[%p]
+ZH [name]拓也[line]看到了也是无可奈何的事吧。[%p]
+
+JA [name]澪[line]ほら、早く入って。[%p]
+ZH [name]澪[line]好了，快点进来吧。[%p]
+
+JA [name]たくや[line]‥‥これじゃ、まるっきり‥‥。[%p]
+ZH [name]拓也[line]……这样子，简直就像是……。[%p]
+
+JA [name]澪[line]大丈夫よ‥‥えっ、なに?[%p]
+ZH [name]澪[line]没事吧……诶，什么？[%p]
+
+JA [name]たくや[line]‥‥何でもないよ。[%p]
+ZH [name]拓也[line]……没什么呢。[%p]
+
+JA [name]澪[line]なにやっているのよ、早くしないと。[%p]
+ZH [name]澪[line]你在干什么呢，快点啊。[%p]
+
+JA [name]たくや[line]わ、わかった‥‥どっこいしょ。[%p]
+ZH [name]拓也[line]知，知道了……嘿呦咻。[%p]
+
+JA [name]澪[line]バカ、クツをぬいでよ。[%p]
+ZH [name]澪[line]笨蛋，把鞋子脱掉啊。[%p]
+
+JA [name]たくや[line]バカとはなんだ、バカとは‥‥んしょ、これでいいか。[%p]
+ZH [name]拓也[line]笨蛋是什么意思，笨蛋……嘿咻，这样就行了吧。[%p]
+
+JA [name]澪[line]足下、気をつけてね。[%p]
+ZH [name]澪[line]脚下，当心一点啊。[%p]
+
+JA ぶにゅっ。[%p]
+ZH 噗嗤。[%p]
+
+JA [name]たくや[line]どわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]たくや[line]ててて‥‥こんな所に、なんでベッドがあるんだ。[%p]
+ZH [name]拓也[line]痛痛痛……这种地方，为什么会有张床啊。[%p]
+
+JA [name]澪[line]気をつけてって、言ったじゃない。[%p]
+ZH [name]澪[line]我让你当心点，刚才不就说过了吗。[%p]
+
+JA [name]たくや[line]おまえな、いつもこんな風に家へ入っているのか?[%p]
+ZH [name]拓也[line]我说你啊，总是这样子溜进家里面的吗？[%p]
+
+JA [name]澪[line]そんなわけないでしょう?[%p]
+ZH [name]澪[line]怎么可能会有这种事啊？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]適当にくつろいで。今、資料を持ってくるわ。[%p]
+ZH [name]澪[line]就请你随意吧。现在，我先去把资料拿过来。[%p]
+
+JA [name]たくや[line]資料?[%p]
+ZH [name]拓也[line]资料？[%p]
+
+JA [name]澪[line]私なりに調べたものよ。[%p]
+ZH [name]澪[line]就是我在调查的东西啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪は隣に行ってしまった‥‥。[%p]
+ZH [name]拓也[line]澪到隔壁去了……。[%p]
+
+JA [name]たくや[line]‥‥でも、何でカーテンを閉めるんだろうな。[%p]
+ZH [name]拓也[line]……不过，为什么要把帘子拉起来啊。[%p]
+
+JA 
+ZH 
+

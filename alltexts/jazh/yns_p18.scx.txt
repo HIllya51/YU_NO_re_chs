@@ -1,0 +1,276 @@
+JA [name]たくや[line]ふぅ‥‥ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……呼……。[%p]
+
+JA [name]たくや[line]はぁぁ‥‥‥‥。[%p]
+ZH [name]拓也[line]哈啊‥‥‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]部活を辞めてから、運動不足気味だったからな‥‥。[%p]
+ZH [name]拓也[line]由于退出了社团活动，有点运动不足的感觉呢‥‥。[%p]
+
+JA [name]たくや[line]たったあれだけの距離で息切れかよ、情けない。[%p]
+ZH [name]拓也[line]不过那么一点距离就让我上气不接下气，真是难堪。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]‥‥どうやら、間にあったようだな。10時少し前だ。[%p]
+ZH [name]拓也[line]‥‥看来总算能赶上呢。１０点稍早一些。[%p]
+
+JA [name]たくや[line]目の前のあそこに‥‥。[%p]
+ZH [name]拓也[line]眼前那里是‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いつにも増して、静かな海岸だな‥‥。[%p]
+ZH [name]拓也[line]不知延伸到哪里的，寂静的海岸‥‥。[%p]
+
+JA [name]たくや[line]工事で作業している人は、いないようだ‥‥。[%p]
+ZH [name]拓也[line]好像也没有施工人员在‥‥。[%p]
+
+JA [name]たくや[line]海岸だぜ‥‥相変わらず工事中だな。[%p]
+ZH [name]拓也[line]这里是海岸‥‥还是一如往常处于施工中。[%p]
+
+JA [name]たくや[line]あのボディコン女性は、どこかな‥‥。[%p]
+ZH [name]拓也[line]那个穿紧身衣的女人，哪里去了‥‥。[%p]
+
+JA [name]たくや[line]キョロキョロ‥‥。[%p]
+ZH [name]拓也[line]东张西望……。[%p]
+
+JA [name]女性の声[line]たくやクン![%p]
+ZH [name]女性的声音[line]拓也君！[%p]
+
+JA [name]たくや[line]えっ‥‥。[%p]
+ZH [name]拓也[line]诶……。[%p]
+
+JA [name]たくや[line]亜由美さんじゃないか。どうしてここに‥‥って質問は愚問だよな。[%p]
+ZH [name]拓也[line]这不是亚由美小姐吗。为什么会在这里‥‥我这问题问得好蠢。[%p]
+
+JA [name]亜由美[line]いちおう、現場の視察というところね。[%p]
+ZH [name]亚由美[line]姑且算是在视察现场吧。[%p]
+
+JA [name]たくや[line]そっか‥‥大変だね。[%p]
+ZH [name]拓也[line]这样啊‥‥很辛苦呢。[%p]
+
+JA [name]亜由美[line]安全な場所から、命令だけをするという上司にはなりたくないから、こうして視察に来るのよ。[%p]
+ZH [name]亚由美[line]我可不想只当一个从安全的地方发号施令的上司，所以就这样来视察啦。[%p]
+
+JA [name]たくや[line]その心意気はいいけど、怪我をしないでくれよな。[%p]
+ZH [name]拓也[line]这种精神不错，不过注意别受伤了。[%p]
+
+JA [name]亜由美[line]フフ、ありがとう‥‥。[%p]
+ZH [name]亚由美[line]呵呵，谢谢你‥‥。[%p]
+
+JA [name]声[line]こらこらこらー、そこの男、勝手に入っちゃいかん。[%p]
+ZH [name]声音[line]喂喂我说——，那边的男生别擅自闯进来啊。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]目の前の男[line]こらこら、作業場の現場監督たる僕の許可無しに、ここへ入るとは何事だ。[%p]
+ZH [name]眼前的男人[line]喂喂，没有我这施工现场管理人的允许就进来，你所谓何事。[%p]
+
+JA [name]たくや[line]何だ、お前は。[%p]
+ZH [name]拓也[line]你干什么的啊。[%p]
+
+JA [name]目の前の男[line]フン、僕のことを教えてやろう。僕こそは‥‥。[%p]
+ZH [name]眼前的男人[line]哼，就来让你知道我的底细。我可是‥‥。[%p]
+
+JA [name]たくや[line]現場監督か?[%p]
+ZH [name]拓也[line]现场管理？[%p]
+
+JA [name]目の前の男[line]なに! 何故知っている!?[%p]
+ZH [name]眼前的男人[line]什么！　为何会知道！？[%p]
+
+JA [name]たくや[line]さっき、自分でそう言っていたじゃないか。[%p]
+ZH [name]拓也[line]你刚才不是自己说的么。[%p]
+
+JA [name]目の前の男[line]そ、そうか‥‥まぁいい。[%p]
+ZH [name]眼前的男人[line]这、这样啊‥‥哎算了。[%p]
+
+JA [name]たくや[line](なんだ、こいつは‥‥。)[%p]
+ZH [name]拓也[line](（这家伙，什么情况‥‥）。)[%p]
+
+JA [name]目の前の男[line]言っておくが、僕が監督をしている限り、何人たりとも立入禁止区域には入れないからな。[%p]
+ZH [name]眼前的男人[line]先说在前头，只要我当现场管理一天，无论何人都不能擅自闯入施工现场。[%p]
+
+JA [name]亜由美[line]あの、豊富君‥‥。[%p]
+ZH [name]亚由美[line]那个，丰富君‥‥。[%p]
+
+JA [name]豊富[line]有馬さんじゃないですか。来ていらっしゃったんですか。[%p]
+ZH [name]丰富[line]这不是有马主任吗。您来了啊。[%p]
+
+JA [name]亜由美[line]ごめんなさい‥‥私の息子です。[%p]
+ZH [name]亚由美[line]不好意思‥‥这是我儿子。[%p]
+
+JA [name]豊富[line]ほう、有馬さんのご子息が‥‥さぞや育ちの良い坊やでしょうね。[%p]
+ZH [name]丰富[line]唉哟，是有马主任的儿子啊‥‥想必是个有教养的孩子吧。[%p]
+
+JA [name]亜由美[line]は、はあ‥‥。[%p]
+ZH [name]亚由美[line]是，是吗……。[%p]
+
+JA [name]豊富[line]で、そのご子息は今どこに?[%p]
+ZH [name]丰富[line]那贵公子现在何处？[%p]
+
+JA [name]たくや[line]おい。[%p]
+ZH [name]拓也[line]喂。[%p]
+
+JA [name]豊富[line]何だ、まだいたのか。ここは立ち入り禁止だぞ、さっさと‥‥。[%p]
+ZH [name]丰富[line]什么，你怎么还在啊。这里禁止入内，快点给我‥‥。[%p]
+
+JA [name]亜由美[line]彼が私の息子です‥‥たくやクン。[%p]
+ZH [name]亚由美[line]他就是我儿子‥‥拓也君。[%p]
+
+JA [name]豊富[line]ほう、なかなか頭脳明晰、容姿端麗なご子息ですな。[%p]
+ZH [name]丰富[line]唉哟，贵公子是何等聪明伶俐仪态端庄啊。[%p]
+
+JA [name]たくや[line]さっきと言ってることが違うぞ‥‥。[%p]
+ZH [name]拓也[line]这和刚才说的可不一样‥‥。[%p]
+
+JA [name]豊富[line]有馬さん、ご子息とはいえ、現場監督の僕の許可無く‥‥。[%p]
+ZH [name]丰富[line]有马主任，就算是贵公子，没有现场管理人我的允许‥‥。[%p]
+
+JA [name]亜由美[line]ごめんなさい、すぐに帰るよう言いますから。[%p]
+ZH [name]亚由美[line]不好意思，我会让他赶紧回去的。[%p]
+
+JA [name]豊富[line]ふむ、よろしくお願いしますよ。[%p]
+ZH [name]丰富[line]嗯，拜托您了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]ごめんね、バタバタしていて。[%p]
+ZH [name]亚由美[line]抱歉，事情一个接一个的。[%p]
+
+JA [name]たくや[line]誰だい? あのバカは。[%p]
+ZH [name]拓也[line]谁啊？　那个蠢货。[%p]
+
+JA [name]亜由美[line]ダメよ、そんな言い方。[%p]
+ZH [name]亚由美[line]别这样说。[%p]
+
+JA [name]たくや[line]だって、どう見ても‥‥。[%p]
+ZH [name]拓也[line]可是，怎么看他都是个‥‥。[%p]
+
+JA [name]亜由美[line]彼は豊富君‥‥立場的には、いちおう私の部下ね。[%p]
+ZH [name]亚由美[line]他是丰富君‥‥工作角度讲，姑且也是我的部下。[%p]
+
+JA [name]たくや[line]なんだ、無能な手下Aというやつか。[%p]
+ZH [name]拓也[line]啥啊，原来那家伙是无能手下Ａ啊。[%p]
+
+JA [name]亜由美[line]そんな言い方をしないの。彼は仕事をそつなくこなすし、とても役立っているわ。[%p]
+ZH [name]亚由美[line]别这么说呢。他工作上可无懈可击，对我很有帮助。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]フフ、もしかして‥‥。[%p]
+ZH [name]亚由美[line]哼哼，难道说‥‥。[%p]
+
+JA [name]たくや[line]バカ言わないでくれ。あいつなんて、関係ないさ。[%p]
+ZH [name]拓也[line]请别说傻话。跟那家伙啥的，毫无关系。[%p]
+
+JA [name]亜由美[line]そうかしら?[%p]
+ZH [name]亚由美[line]是这样吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ったく‥‥いつも俺のことを子供に見るんだからな。)[%p]
+ZH [name]拓也[line](（真气人‥‥总把我当小孩子看。）。)[%p]
+
+JA [name]たくや[line](子供扱いは、もう止めてほしいよ‥‥。)[%p]
+ZH [name]拓也[line]JF:（希望你不要再把我当孩子了……）[%p]
+
+JA [name]たくや[line]海岸だぜ‥‥相変わらず工事中だな。[%p]
+ZH [name]拓也[line]这里是海岸‥‥还是一如往常处于施工中。[%p]
+
+JA [name]たくや[line]相変わらず工事中だな‥‥。[%p]
+ZH [name]拓也[line]一如既往地在施工呢‥‥。[%p]
+
+JA [name]たくや[line]いつまで続くんだろう‥‥この工事は。[%p]
+ZH [name]拓也[line]这工程‥‥要持续到何时啊。[%p]
+
+JA [name]女生徒[line]ごめんなさい‥‥。[%p]
+ZH [name]女学生[line]对不起‥‥。[%p]
+
+JA [name]たくや[line]あれ?[%p]
+ZH [name]拓也[line]咦？[%p]
+
+JA [name]女生徒[line]‥‥‥‥。[%p]
+ZH [name]女学生[line]…………。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]女生徒[line]なんでしょうか‥‥?[%p]
+ZH [name]女学生[line]怎么回事呢……？[%p]
+
+JA [name]たくや[line]そうだっ、先日転校してきた!?[%p]
+ZH [name]拓也[line]没错，你是前些日子转学来的！？[%p]
+
+JA [name]女生徒[line]‥‥‥‥。[%p]
+ZH [name]女学生[line]…………。[%p]
+
+JA [name]たくや[line]思い出したぞ、俺の頭のデータベースからは、可愛い女の子の情報はデリートされないんだ。[%p]
+ZH [name]拓也[line]想起来了，我脑袋里的数据库对于可爱女孩子的情报从来都不会删除。[%p]
+
+JA [name]女生徒[line]‥‥‥‥。[%p]
+ZH [name]女学生[line]…………。[%p]
+
+JA [name]たくや[line]先日転校してきた、[ruby-base]波多乃[ruby-text-start]はたの[ruby-text-end]‥‥[ruby-base]神奈[ruby-text-start]かんな[ruby-text-end]チャンだったよね。[%p]
+ZH [name]拓也[line]JF:前几天转校的波多乃……是神奈酱吧。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]俺のこと覚えていない? ほら、同じクラスの‥‥。[%p]
+ZH [name]拓也[line]还记得我吗？　你看，我们是同班‥‥。[%p]
+
+JA [name]神奈[line]知っています、有馬さんですね。[%p]
+ZH [name]神奈[line]我知道的，你是有马同学吧。[%p]
+
+JA [name]たくや[line]良かった、覚えていてくれたんだ。[%p]
+ZH [name]拓也[line]太好了，竟然能记住我。[%p]
+
+JA [name]神奈[line]覚えています。転校生歓迎といって、いきなり服を脱ぎ始めた方ですから。[%p]
+ZH [name]神奈[line]我记着呢。你就是说要欢迎转校生，突然开始脱起衣服的那位。、。[%p]
+
+JA [name]たくや[line]ははは‥‥ま、そういうこともあったな。何しに来たんだい?[%p]
+ZH [name]拓也[line]哈哈哈‥‥哎，有时也会有这样的事发生。你来这里干嘛呢？[%p]
+
+JA [name]神奈[line]‥‥少し、散歩を。[%p]
+ZH [name]神奈[line]‥‥稍微，散散步。[%p]
+
+JA [name]たくや[line]散歩‥‥? だったら、俺と一緒に‥‥。[%p]
+ZH [name]拓也[line]散步‥‥？　散步的话，不如和我一起‥‥。[%p]
+
+JA [name]神奈[line]失礼します。[%p]
+ZH [name]神奈[line]我失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行っちゃったよ‥‥うーん、アプローチが直接的すぎたかな。[%p]
+ZH [name]拓也[line]走掉了啊‥‥唔—嗯，接近方式太直接了呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美しかった海岸線は、見る影もなしか‥‥。[%p]
+ZH [name]拓也[line]本来很美的海岸线，如今连个影子都看不见啊‥‥。[%p]
+
+JA [name]たくや[line]屋上から見たんだと、ちっこくて判りにくかったが、これはかなり規模の大きな工事だぞ。[%p]
+ZH [name]拓也[line]从楼顶上能看到，不过太远很难有清晰的认识。这个还真是规模相当大的工程呢。[%p]
+
+JA [name]たくや[line]社屋の拡張か‥‥ジオ・テクニクスって、そんなに儲かっているのかな。[%p]
+ZH [name]拓也[line]扩建办公楼吗‥‥ｇｅｏ－ｔｅｃｈｎｉｃｓ这公司如此赚钱啊。[%p]
+
+JA [name]たくや[line]亜由美さんのボーナスに、反映して欲しいもんだ。[%p]
+ZH [name]拓也[line]多想让它在亚由美小姐的奖金上反映出来。[%p]
+
+JA 
+ZH 
+

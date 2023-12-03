@@ -1,0 +1,336 @@
+JA [name]たくや[line]行き止まりだ‥‥ここに、妙な絵柄のプレートがある。[%p]
+ZH [name]拓也[line]这里是尽头……这地方，有一块画了奇妙图案的金属板。[%p]
+
+JA [name]美月[line]いったい、あれは何なのかしら‥‥?[%p]
+ZH [name]美月[line]那个，到底是怎么回事呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行き止まりだ‥‥。[%p]
+ZH [name]拓也[line]这里到尽头了……。[%p]
+
+JA [name]美月[line]前もここに来たじゃない‥‥大丈夫?[%p]
+ZH [name]美月[line]我之前不就来过这里吗……没事吧？[%p]
+
+JA [name]たくや[line]押しても引いても、ついでにかじっても、ビクともしない岩だな‥‥。[%p]
+ZH [name]拓也[line]不管是推也好拉也好，就算我再怎么使劲，岩石依然纹丝不动……。[%p]
+
+JA [name]たくや[line]どうしようもないぜ‥‥。[%p]
+ZH [name]拓也[line]看来是完全没用呢……。[%p]
+
+JA [name]たくや[line]でっかい岩だな‥‥ま、この程度なら、俺の殺人パンチで粉々だ。[%p]
+ZH [name]拓也[line]好大的岩石啊……嘛，这种程度的话，用我的杀人拳就可以打得粉碎。[%p]
+
+JA [name]美月[line]こなごなになるのは、たくやの方よ。[%p]
+ZH [name]美月[line]变得粉碎的，应该是拓也你吧。[%p]
+
+JA [name]たくや[line]‥‥言ってみただけだよ。んなこたぁ、わかってる。[%p]
+ZH [name]拓也[line]……我只是说说看而已嘛。这种事，我还是知道的。[%p]
+
+JA [name]たくや[line]カベは、どこもかしこも湿っている‥‥。[%p]
+ZH [name]拓也[line]岩壁上，不管哪一处全都是湿漉漉的……。[%p]
+
+JA [name]たくや[line]相変わらず湿っているな‥‥天井からしみ出しているみたいだ。[%p]
+ZH [name]拓也[line]还是一如既往地湿漉漉啊……看起来好像是从岩壁顶上渗出来的。[%p]
+
+JA [name]美月[line]ふぅ‥‥何だか、少し蒸すわ。[%p]
+ZH [name]美月[line]呼……总觉得，有点闷热啊。[%p]
+
+JA [name]たくや[line]‥‥ピッタリとはまっていて、取れそうもないな。[%p]
+ZH [name]拓也[line]……跟整体很合缝呢，看起来拿不下来啊。[%p]
+
+JA [name]美月[line]そうね‥‥これで良かったのかしら。[%p]
+ZH [name]美月[line]是吗……这样就太好了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]‥‥ねぇ、もう見るのをやめましょうよ。[%p]
+ZH [name]美月[line]……呐，不要再看了吧。[%p]
+
+JA [name]たくや[line]ああ‥‥そうだね。[%p]
+ZH [name]拓也[line]啊啊……说的也是。[%p]
+
+JA [name]たくや[line]妙な形のプレートだ‥‥メダルがはまっている。[%p]
+ZH [name]拓也[line]一块形状奇特的板……有块徽章嵌在里面。[%p]
+
+JA [name]美月[line]‥‥ねぇ、もう見るのをやめましょうよ。[%p]
+ZH [name]美月[line]……呐，不要再看了吧。[%p]
+
+JA [name]たくや[line]ああ‥‥そうだね。[%p]
+ZH [name]拓也[line]啊啊……说的也是。[%p]
+
+JA [name]たくや[line]妙な絵柄が彫り込まれている‥‥。[%p]
+ZH [name]拓也[line]雕刻出很奇妙的图案……。[%p]
+
+JA [name]たくや[line]いったいこれは何なんだ‥‥?[%p]
+ZH [name]拓也[line]这个到底是什么东西呢……？[%p]
+
+JA [name]美月[line]見ていると、寒気がしてくるわ‥‥。[%p]
+ZH [name]美月[line]这样看着，感觉有股寒意啊……。[%p]
+
+JA [name]たくや[line]石に彫ってあるような感じだな‥‥。[%p]
+ZH [name]拓也[line]看上去像是在石头上雕刻出来的……。[%p]
+
+JA [name]たくや[line]何だろう、これは‥‥美月さん、どう思う?[%p]
+ZH [name]拓也[line]这个到底是什么呢……美月，你怎么认为？[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]美月さん。[%p]
+ZH [name]拓也[line]美月。[%p]
+
+JA [name]美月[line]えっ‥‥ご、ごめんなさい。何か、引き込まれそうになってしまって。[%p]
+ZH [name]美月[line]诶……抱，抱歉。总觉得，好像被什么东西吸引过去了似的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]なにかしら。[%p]
+ZH [name]美月[line]怎么了。[%p]
+
+JA [name]たくや[line]参考までに訊きたいんだけど‥‥美月さんの目に、こいつはどう映っている?[%p]
+ZH [name]拓也[line]只是作为参考问一下而已……在美月你的眼里，这东西是怎么样一个形象呢？[%p]
+
+JA [name]美月[line]何に見えるかってこと?[%p]
+ZH [name]美月[line]你是问我能看到什么吗？[%p]
+
+JA [name]たくや[line]そう。[%p]
+ZH [name]拓也[line]是的。[%p]
+
+JA [name]美月[line]人の顔‥‥ううん、人の顔に似た生物‥‥かしら。[%p]
+ZH [name]美月[line]人的脸……不对，是类似于人的生物……那样吧。[%p]
+
+JA [name]たくや[line]‥‥やっぱりそうだよな。[%p]
+ZH [name]拓也[line]……果然是这么回事啊。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]俺たちの知っている知識の範囲内で、こいつを形容するとしたら?[%p]
+ZH [name]拓也[line]如果在我们了解的知识范围之内，应该要怎么形容这东西呢？[%p]
+
+JA [name]美月[line]やっぱり、悪‥‥。[%p]
+ZH [name]美月[line]应该，是恶吧……。[%p]
+
+JA [name]たくや[line]ストップ。[%p]
+ZH [name]拓也[line]ＳＴＯＰ。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、いいや。突拍子もないし、想像する意味もない。[%p]
+ZH [name]拓也[line]果然，不对。没什么奇怪的，也没有想象的意义。[%p]
+
+JA [name]美月[line]‥‥そうかもね。[%p]
+ZH [name]美月[line]……也许是吧。[%p]
+
+JA [name]たくや[line]誰かが必要に迫られて、ここにこんなものを彫ったんだろう。[%p]
+ZH [name]拓也[line]是因为有谁出于必要，所以才会在这里雕刻出这样的东西吧。[%p]
+
+JA [name]美月[line]必要に迫られて‥‥?[%p]
+ZH [name]美月[line]出于必要吗……？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]美月[line]なぜ、必要に迫られたと思うの?[%p]
+ZH [name]美月[line]为什么，你觉得会出于必要呢？[%p]
+
+JA [name]たくや[line]必要がなきゃ、やらないよ。問題はどういう必要があったか、だけど‥‥。[%p]
+ZH [name]拓也[line]如果不是必要的话，肯定不会做的。问题是出于怎么样的必要呢，不过……。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line](そうだ‥‥問題は、どういう意味があるかだ。)[%p]
+ZH [name]拓也[line](（对了……问题是，这究竟有着怎么样的意义。）。)[%p]
+
+JA [name]たくや[line](いったい、何の意味があるんだろう‥‥。)[%p]
+ZH [name]拓也[line](（究竟，有着怎样的意义呢……。）。)[%p]
+
+JA [name]たくや[line]あれ‥‥ここに何かある。[%p]
+ZH [name]拓也[line]咦……这里有什么东西。[%p]
+
+JA [name]たくや[line]表面が綺麗に磨いてある‥‥何かが彫ってあるみたいだ。[%p]
+ZH [name]拓也[line]表面打磨得很光滑……上面好像雕刻着什么东西。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、これは‥‥。[%p]
+ZH [name]拓也[line]这是什么啊……。[%p]
+
+JA [name]美月[line]何かしら。[%p]
+ZH [name]美月[line]怎么了。[%p]
+
+JA [name]たくや[line]わからない。ただ、顔みたいに見えるな‥‥。[%p]
+ZH [name]拓也[line]不明白。只是，看起来跟脸有点像啊……。[%p]
+
+JA [name]美月[line]顔‥‥?[%p]
+ZH [name]美月[line]脸……？[%p]
+
+JA [name]たくや[line]ああ。でもこれだと、まるで‥‥。[%p]
+ZH [name]拓也[line]啊啊。不过这东西，简直就像……。[%p]
+
+JA [name]美月[line]まるで‥‥?[%p]
+ZH [name]美月[line]简直像……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](まさかな‥‥。)[%p]
+ZH [name]拓也[line](难道……。)[%p]
+
+JA [name]たくや[line](でも、もう少し詳しく見てみようぜ‥‥。)[%p]
+ZH [name]拓也[line](（可是，稍微再仔细调查看一下吧……。）。)[%p]
+
+JA [name]美月[line]えっ、取るの‥‥せっかくはまったのに。[%p]
+ZH [name]美月[line]诶，要拿下来吗……好不容易嵌上去的。[%p]
+
+JA [name]たくや[line]うん、何となく取った方がいいような気がするんだ。[%p]
+ZH [name]拓也[line]嗯，我总感觉这东西应该要拿下来比较好。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][白いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+
+JA [name]美月[line]えっ、取るの‥‥せっかくはまったのに。[%p]
+ZH [name]美月[line]诶，要拿下来吗……好不容易嵌上去的。[%p]
+
+JA [name]たくや[line]うん、何となく取った方がいいような気がするんだ。[%p]
+ZH [name]拓也[line]嗯，我总感觉这东西应该要拿下来比较好。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]ゴツゴツした岩の表面を削って、この形を彫り込んだんだな‥‥。[%p]
+ZH [name]拓也[line]把凹凸不平的岩石表面削掉，然后雕刻成这个形状啊……。[%p]
+
+JA [name]美月[line]彫刻ね、まるで‥‥。[%p]
+ZH [name]美月[line]雕刻啊，简直像……。[%p]
+
+JA [name]たくや[line]不気味なのを除けば、芸術なんだけどな。[%p]
+ZH [name]拓也[line]除去令人害怕的部分，只是艺术品而已吧。[%p]
+
+JA [name]たくや[line]丸い穴があいているぜ‥‥。[%p]
+ZH [name]拓也[line]上面有个圆形的洞呢……。[%p]
+
+JA [name]たくや[line]何のためのモノかは、わからないが‥‥。[%p]
+ZH [name]拓也[line]是拿来做什么的东西啊，真是搞不懂……。[%p]
+
+JA [name]たくや[line]‥‥丸い穴があいている。何の穴だろう。[%p]
+ZH [name]拓也[line]……有个圆形的小洞。这个洞是做什么的。[%p]
+
+JA [name]美月[line]小さい穴ね。ちょうど10円玉くらいかしら?[%p]
+ZH [name]美月[line]很小的洞呢。跟１０円钱硬币差不多的样子？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]美月[line]もう白いメダルがはめ込まれているから、出来ないんじゃないの?[%p]
+ZH [name]美月[line]白色徽章已经嵌到里面去，这不是能办到吗？[%p]
+
+JA [name]たくや[line]そうだ、その通りだ。[%p]
+ZH [name]拓也[line]是啊，你说的没错。[%p]
+
+JA [name]美月[line]‥‥もう、しっかりしてよ。[%p]
+ZH [name]美月[line]……够了，请你振作一点。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]美月[line]もう黒いメダルがはめ込まれているから、出来ないんじゃないの?[%p]
+ZH [name]美月[line]白色徽章已经嵌到里面去，这不是能办到吗？[%p]
+
+JA [name]たくや[line]そうだ、その通りだ。[%p]
+ZH [name]拓也[line]是啊，你说的没错。[%p]
+
+JA [name]美月[line]‥‥もう、しっかりしてよ。[%p]
+ZH [name]美月[line]……够了，请你振作一点。[%p]
+
+JA [name]たくや[line]白いメダルをはめ込んでみたが‥‥。[%p]
+ZH [name]拓也[line]虽然白色徽章已经嵌进去了……。[%p]
+
+JA [name]美月[line]いちおう、サイズ的にはピッタリ‥‥。[%p]
+ZH [name]美月[line]姑且，尺寸上来看也是刚刚好……。[%p]
+
+JA [name]たくや[line]ああ、あくまでサイズ的にはね‥‥。[%p]
+ZH [name]拓也[line]啊啊，不管怎么说尺寸确实如此……。[%p]
+
+JA [name]たくや[line]黒いメダルをはめ込んだぜ‥‥ピッタリだ。[%p]
+ZH [name]拓也[line]把黑色徽章嵌进去吧……刚刚好呢。[%p]
+
+JA [name]美月[line]ピッタリはまっているわ‥‥。[%p]
+ZH [name]美月[line]嵌进去刚刚好啊……。[%p]
+
+JA [name]たくや[line]ああ。どうやらここが、正解らしい。[%p]
+ZH [name]拓也[line]啊啊。看起来，这个多半就是正解了。[%p]
+
+JA [name]美月[line]じゃあ、ここにはめ込むためのメダルだったの?[%p]
+ZH [name]美月[line]那么，这里的就是为了能够嵌进去的徽章喽？[%p]
+
+JA [name]たくや[line]‥‥多分ね。もっとも、俺にも正確なところはわからないけどさ。[%p]
+ZH [name]拓也[line]……大概吧。虽然说，我也不知道什么才是正确的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]なにかしら‥‥あの音。[%p]
+ZH [name]美月[line]是什么呢……那个声音。[%p]
+
+JA [name]たくや[line]遠くで、何か音が聴こえる‥‥重い音だ。[%p]
+ZH [name]拓也[line]从很远处，传来一阵声音……很大的声音。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やんだか‥‥。[%p]
+ZH [name]拓也[line]停下来了吗……。[%p]
+
+JA [name]美月[line]何かしら、あの音は‥‥。[%p]
+ZH [name]美月[line]是什么呢，那个声音……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥こいつは、ここに当てはめるモノじゃないみたいだ。[%p]
+ZH [name]拓也[line]……这东西，好像不是用在这里的。[%p]
+
+JA [name]たくや[line]規格が、若干違うぜ‥‥。[%p]
+ZH [name]拓也[line]规格，稍微有点不对呢……。[%p]
+
+JA [name]たくや[line]アイテムを使うときじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在不是使用道具的时候呢……。[%p]
+
+JA [name]たくや[line]そのアイテムは使えない‥‥。[%p]
+ZH [name]拓也[line]这个道具现在不用上……。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA [name]たくや[line]ここにいても、しょうがないみたいだ‥‥。[%p]
+ZH [name]拓也[line]看起来，就算待在这里也没什么用呢……。[%p]
+
+JA [name]美月[line]そうね‥‥戻りましょう。[%p]
+ZH [name]美月[line]是呢……我们回去吧。[%p]
+
+JA 
+ZH 
+

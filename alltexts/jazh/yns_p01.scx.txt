@@ -1,0 +1,69 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]言っておくが、俺の部屋に書斎のカギはないぞ。[%p]
+ZH [name]拓也[line]话先说在前头，我房间里可没有书房钥匙哦。[%p]
+
+JA [name]たくや[line]では何で戻ってきたのか‥‥それが問題だ。[%p]
+ZH [name]拓也[line]那为什么要回来呢‥‥这是个问题。[%p]
+
+JA [name]たくや[line]‥‥リビングへ戻ろう。[%p]
+ZH [name]拓也[line]‥‥返回客厅吧。[%p]
+
+JA [name]たくや[line]おっ、あるある。机の上にのっかっているぞ。[%p]
+ZH [name]拓也[line]哦，有了有了。就在桌子上架着呢。[%p]
+
+JA [name]たくや[line]さーて、どれどれ。[%p]
+ZH [name]拓也[line]那—么，哪里哪里。[%p]
+
+JA [name]たくや[line]20センチ四方って感じか‥‥意外に重いな。[%p]
+ZH [name]拓也[line]好像边长２０厘米的正方形‥‥居然会这么重。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ビデオテープじゃないみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:好像不是录像带。[%p]
+
+JA [name]たくや[line]重い物体が入っているようだけど‥‥。[%p]
+ZH [name]拓也[line]好像有个挺重的东西放在里面‥‥。[%p]
+
+JA [name]たくや[line]開けてみるか‥‥?[%p]
+ZH [name]拓也[line]打开看看吗‥‥？[%p]
+
+JA [name]たくや[line]包装が、かなりしっかりしているな‥‥。[%p]
+ZH [name]拓也[line]包装得相当结实啊‥‥。[%p]
+
+JA [name]たくや[line]ご丁寧に、油紙で防水加工してあるじゃないか。[%p]
+ZH [name]拓也[line]而且，还很细心地用油纸进行了防水加工吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]なんだ、これは‥‥。[%p]
+ZH [name]拓也[line]这是什么啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]鏡に‥‥もう一つは、何だろう。[%p]
+ZH [name]拓也[line]镜子‥‥还有一样，是什么呢。[%p]
+
+JA [name]たくや[line]いったい、何だこれは‥‥?[%p]
+ZH [name]拓也[line]这到底是什么啊‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]ようやく帰ってきたか‥‥今日は何だか一日が長く感じられたな。[%p]
+ZH [name]拓也[line]终于回到家里了吗‥‥不知怎么，感觉今天一天时间过得好长啊。[%p]
+
+JA [name]たくや[line]屋上でずっと寝ていただけなんだが‥‥。[%p]
+ZH [name]拓也[line]本来能在楼顶上一直睡下去的‥‥。[%p]
+
+JA 
+ZH 
+

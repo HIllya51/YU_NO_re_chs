@@ -1,0 +1,384 @@
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]シティホテルは、目の前に見えるぜ‥‥。[%p]
+ZH [name]拓也[line]城市宾馆，在眼前就能看到了呢……。[%p]
+
+JA [name]たくや[line]シティホテルと言ったら‥‥目の前のあそこだよな。[%p]
+ZH [name]拓也[line]说到城市宾馆的话……就在眼前的那个位置呢。[%p]
+
+JA [name]たくや[line]どうするんだ‥‥?[%p]
+ZH [name]拓也[line]怎么做呢‥‥？[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]俺は確か、誰かと待ち合わせをしていたような気がする‥‥。[%p]
+ZH [name]拓也[line]我记得，好像是应该跟谁约好见面的吧……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]夜になると、活気が出てくる街だな‥‥。[%p]
+ZH [name]拓也[line]一到了晚上，就充满活力的街道啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]まだ夜じゃないからな‥‥活気はないぜ。[%p]
+ZH [name]拓也[line]因为还没到晚上……也没什么活力呢。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]昼間の方が活気がないってのも、珍しいよな‥‥。[%p]
+ZH [name]拓也[line]白天的时候比较没活力这一点，也很少见啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]もう、あのアル中野郎はいないみたいだな‥‥‥。[%p]
+ZH [name]拓也[line]貌似，那个酗酒的混蛋已经不见了啊……。[%p]
+
+JA [name]たくや[line]夜の方が活気のある街‥‥セントラル街だ。[%p]
+ZH [name]拓也[line]晚上比较有活力的街道……中央街。[%p]
+
+JA [name]たくや[line]今、俺は解熱剤を持っている‥‥。[%p]
+ZH [name]拓也[line]现在，我正拿着退烧药……。[%p]
+
+JA [name]たくや[line]夜の方が活気のある街だ‥‥。[%p]
+ZH [name]拓也[line]晚上比较有活力的街道……。[%p]
+
+JA [name]たくや[line]夜の方が活気のある街だ‥‥。[%p]
+ZH [name]拓也[line]晚上比较有活力的街道……。[%p]
+
+JA [name]たくや[line]高台は、確かその左側を入っていって、すぐだったな。[%p]
+ZH [name]拓也[line]高台，我记得从那个左边进去之后，马上就到了。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]じゃあ行こう。[%p]
+ZH [name]拓也[line]那么就走吧。[%p]
+
+JA [name]たくや[line]境町でも、大きな銀行だ。西協銀行という名前らしい。[%p]
+ZH [name]拓也[line]就算在镜町，也称得上是大银行。好像叫西协银行。[%p]
+
+JA [name]たくや[line]今は閉まっているみたいだ。昼間くれば、中に入れるかもね。[%p]
+ZH [name]拓也[line]现在好像是关着呢。到了白天的话，应该能进里面去吧。[%p]
+
+JA [name]神奈[line]少しなら、持ち合わせがありますが‥‥。[%p]
+ZH [name]神奈[line]要得不多的话，我身上还是有现金的……。[%p]
+
+JA [name]たくや[line]いやその、別に金が足りないってことじゃないんだ。[%p]
+ZH [name]拓也[line]不是，我不是说没钱的事。[%p]
+
+JA [name]たくや[line]もういいよ‥‥。[%p]
+ZH [name]拓也[line]已经够了啊……。[%p]
+
+JA [name]たくや[line]さいきょうの職員がでてくるだけだぞ。[%p]
+ZH [name]拓也[line]只是最强的职员出来了而已呢。（注：日语的西协和最强发音是一样的，这里是语带双关）。[%p]
+
+JA [name]たくや[line]おいおい、もういい加減疲れてきたんだけど‥‥。[%p]
+ZH [name]拓也[line]喂喂，已经够了，别再这么劳累了……。[%p]
+
+JA [name]たくや[line]しょうがないな、あと一回だぞ。[%p]
+ZH [name]拓也[line]没办法了，再来一次吧。[%p]
+
+JA [name]営業マン[line]いらっしゃいませ。[%p]
+ZH [name]营业员[line]欢迎光临。[%p]
+
+JA [name]たくや[line]やぁ、どうも。こんどは営業マンか。[%p]
+ZH [name]拓也[line]呀，你好。这次是营业员吗。[%p]
+
+JA [name]営業マン[line]私は、さいきょうの鈴木ともうします。よろしくお見知り置きを。[%p]
+ZH [name]营业员[line]您好，我是最强的铃木。这位面善的客人请多关照啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さいきょうの鈴木か‥‥。[%p]
+ZH [name]拓也[line]最强的铃木吗……。[%p]
+
+JA [name]たくや[line]うーん、もっとも強い鈴木なのかもしれない‥‥。[%p]
+ZH [name]拓也[line]嗯——，说不定是更加强大的铃木……。[%p]
+
+JA [name]たくや[line]もう一度、入ってみるかい?[%p]
+ZH [name]拓也[line]要再一次，进去看看吗？[%p]
+
+JA [name]受付嬢[line]どうも、いらっしゃいませ。[%p]
+ZH [name]女接待[line]您好，欢迎光临。[%p]
+
+JA [name]たくや[line]やぁ、どうも。[%p]
+ZH [name]拓也[line]呀，你好。[%p]
+
+JA [name]受付嬢[line]私は、さいきょうの受付嬢でございます。[%p]
+ZH [name]女接待[line]您好，我是最强的女招待。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、強そうな女の子だな‥‥。[%p]
+ZH [name]拓也[line]感觉，好像是很强的女孩子啊……。[%p]
+
+JA [name]たくや[line]よし、ちょっとだけ入ってみよう。[%p]
+ZH [name]拓也[line]好勒，就稍微进去看看吧。[%p]
+
+JA [name]たくや[line]強力なスタッフとは、何のことだ‥‥?[%p]
+ZH [name]拓也[line]强力的工作人员，是怎么回事啊……？[%p]
+
+JA [name]支店長[line]どうも、いらっしゃいませ。西協銀行へようこそおいで戴きました。[%p]
+ZH [name]分店长[line]您好，欢迎光临。欢迎您来到西协银行。[%p]
+
+JA [name]たくや[line]やぁ。強力なスタッフってのは?[%p]
+ZH [name]拓也[line]呀。你是强力的工作人员吗？[%p]
+
+JA [name]支店長[line]私が、さいきょうの支店長でございます。[%p]
+ZH [name]分店长[line]您好，我是最强的分店长。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さいきょうの支店長か‥‥なるほど、納得するぞ。[%p]
+ZH [name]拓也[line]最强的分店长吗……原来如此，我懂了。[%p]
+
+JA [name]たくや[line]何か看板が出てるな‥‥なになに。[%p]
+ZH [name]拓也[line]招牌上有写着什么东西啊……什么什么。[%p]
+
+JA [name]たくや[line]「さぁ、サイフのヒモを解いて、今すぐ中へどうぞっ!」[%p]
+ZH [name]拓也[line]［来吧，打开你的钱包，现在请马上进来吧！］[%p]
+
+JA [name]たくや[line]「強力なスタッフが、あなたを待ち構えます!!」[%p]
+ZH [name]拓也[line]［强力的工作人员，正等待您的光临！！］[%p]
+
+JA [name]たくや[line]強力なスタッフ‥‥?[%p]
+ZH [name]拓也[line]强力的工作人员……？[%p]
+
+JA [name]たくや[line]何のことだろうな。[%p]
+ZH [name]拓也[line]到底是怎么回事啊。[%p]
+
+JA [name]たくや[line]随分とでっかい銀行だな‥‥。[%p]
+ZH [name]拓也[line]相当大的银行啊……。[%p]
+
+JA [name]たくや[line]なになに‥‥さいきょうぎんこう‥‥『西協銀行』か。[%p]
+ZH [name]拓也[line]什么什么……最强银行……『西协银行』吗。[%p]
+
+JA [name]たくや[line]これだけ大きな街だからな、銀行の1つや2つあっても、おかしくはない。[%p]
+ZH [name]拓也[line]虽然是只有这么大的街道，却有１，２家银行，也不会觉得奇怪。[%p]
+
+JA [name]たくや[line]目の前のホテルまで、並木道が続いている‥‥。[%p]
+ZH [name]拓也[line]林荫道往前延伸，一直到眼前的宾馆为止……。[%p]
+
+JA [name]たくや[line]セントラル街の並木道だ‥‥。[%p]
+ZH [name]拓也[line]中央街的林荫道……。[%p]
+
+JA [name]たくや[line]春夏秋冬で、随分と街の様子が変わってしまう。それがまた、見ていて気持ちいいんだよな。[%p]
+ZH [name]拓也[line]春夏秋冬，街道的状况变化很大。但是那样看上去，还是很舒服呢。[%p]
+
+JA [name]神奈[line]有馬さん、感受性が豊かなんですね‥‥。[%p]
+ZH [name]神奈[line]有马同学，感受性很丰富呢……。[%p]
+
+JA [name]たくや[line]ブティックだな‥‥俺には直接関係ない店だ。[%p]
+ZH [name]拓也[line]时装专卖店啊……跟我没有直接关系的店铺。[%p]
+
+JA [name]たくや[line]この建物には、ブティックのお店が入っているんだ。[%p]
+ZH [name]拓也[line]在这幢建筑里面，有家时装店。[%p]
+
+JA [name]たくや[line]亜由美さんは、よくこの店で服なんかを買っているよな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，经常在这家店里买衣服什么的呢……。[%p]
+
+JA [name]神奈[line]利用したことはありません。[%p]
+ZH [name]神奈[line]我没有来过。[%p]
+
+JA [name]たくや[line]色々なビルが建ち並んでいるな‥‥。[%p]
+ZH [name]拓也[line]各种高楼并排矗立着……。[%p]
+
+JA [name]たくや[line]セントラル街には、ビルが建ち並んでいるんだ‥‥。[%p]
+ZH [name]拓也[line]在中央街上，高楼大厦并排矗立着……。[%p]
+
+JA [name]たくや[line]店やオフィスなんかがメインだな‥‥住宅街は、ここを左に折れたところにある。[%p]
+ZH [name]拓也[line]主要是店铺和办公室之类的……住宅街，是在这里往左拐的地方。[%p]
+
+JA [name]神奈[line]‥‥高台の方へ行かないのですか?[%p]
+ZH [name]神奈[line]……不往高台的方向走吗？[%p]
+
+JA [name]たくや[line]ひときわ目立つ看板だな‥‥。[%p]
+ZH [name]拓也[line]格外显眼的招牌啊……。[%p]
+
+JA [name]たくや[line]喫茶店自体も結構広いし、ゆっくりできるので、待ち合わせや暇つぶしに最適だぞ。[%p]
+ZH [name]拓也[line]咖啡店本身也很宽敞，可以很随意呢，在等待汇合时打发时间最好不过了呢。[%p]
+
+JA [name]たくや[line](大きな看板が光っているぜ‥‥。)[%p]
+ZH [name]拓也[line](巨大的招牌在发光……。)[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]の看板だ。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:的招牌。[%p]
+
+JA [name]神奈[line]今、そこから出てきましたけど‥‥。[%p]
+ZH [name]神奈[line]刚才，刚从那里出来的说……。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥。[%p]
+ZH [name]拓也[line]阴暗的天空……。[%p]
+
+JA [name]神奈[line]夜ですから。[%p]
+ZH [name]神奈[line]因为是晚上啊。[%p]
+
+JA [name]たくや[line](‥‥冷静な意見だ。)[%p]
+ZH [name]拓也[line](（……真是冷静的发言。）。)[%p]
+
+JA [name]たくや[line]街のネオンサインのせいで、星空を見るって訳にはいかないな‥‥。[%p]
+ZH [name]拓也[line]因为街上霓虹灯的缘故，现在应该是看不到星空的……。[%p]
+
+JA [name]たくや[line]ボーっと空を見ていると、危ない人になってしまうぞ。[%p]
+ZH [name]拓也[line]要是傻盯着天空看的话，就会变成危险的人了呢。[%p]
+
+JA [name]たくや[line]どこかへ移動しないか?[%p]
+ZH [name]拓也[line]要移动到哪里去吗？[%p]
+
+JA [name]たくや[line]今日も青空が広がっているな‥‥。[%p]
+ZH [name]拓也[line]今天也是万里晴空啊……。[%p]
+
+JA [name]たくや[line]ビル街をボーっと見ていても、しょうがないぜ‥‥。[%p]
+ZH [name]拓也[line]就算呆呆地盯着街道看，也没有用呢……。[%p]
+
+JA [name]神奈[line]早く、行きませんか‥‥?[%p]
+ZH [name]神奈[line]不快点走吗……？[%p]
+
+JA [name]たくや[line]自分の家に戻るのか‥‥。[%p]
+ZH [name]拓也[line]要回自己家去吗……。[%p]
+
+JA [name]たくや[line]‥‥そうだな。自宅へ戻ってみよう。[%p]
+ZH [name]拓也[line]……是呢。回自宅看看吧。[%p]
+
+JA [name]たくや[line]えっ、自宅へ戻るのか‥‥‥?[%p]
+ZH [name]拓也[line]诶，要回自宅去吗……？[%p]
+
+JA [name]たくや[line]よし、自宅に戻るぞ![%p]
+ZH [name]拓也[line]好嘞，回自宅去吧！[%p]
+
+JA [name]たくや[line]えっ、自宅へ戻るのか‥‥?[%p]
+ZH [name]拓也[line]诶，要回自宅去吗……？[%p]
+
+JA [name]神奈[line]‥‥そちらは、高台ではありませんが。[%p]
+ZH [name]神奈[line]……那个方向，不是高台啊。[%p]
+
+JA [name]たくや[line]そうだった、高台はこっちじゃない。[%p]
+ZH [name]拓也[line]对了，高台不是这边呢。[%p]
+
+JA [name]たくや[line]高台へ行くのか‥‥?[%p]
+ZH [name]拓也[line]要到高台去吗……？[%p]
+
+JA [name]たくや[line]行く場所が違うような気がするが‥‥。[%p]
+ZH [name]拓也[line]搞错要去的地方了吧……。[%p]
+
+JA [name]たくや[line]高台か‥‥。[%p]
+ZH [name]拓也[line]高台吗……。[%p]
+
+JA [name]たくや[line]そうだな‥‥高台へ行こう。[%p]
+ZH [name]拓也[line]是呢……到高台去吧。[%p]
+
+JA [name]たくや[line]高台へ行くのか‥‥?[%p]
+ZH [name]拓也[line]要到高台去吗……？[%p]
+
+JA [name]たくや[line]高台へ行こう。[%p]
+ZH [name]拓也[line]到高台去吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥。[%p]
+ZH [name]拓也[line]（对啊……。）。[%p]
+
+JA [name]たくや[line]明日学校で会ってからでも構わないが、こういうのは早い方がいいだろう。[%p]
+ZH [name]拓也[line]虽然说明天会在学校碰到所以也没关系，不过这样的还是早点去比较好吧。[%p]
+
+JA [name]たくや[line]よし、高台へ行くぞ。[%p]
+ZH [name]拓也[line]好嘞，到高台去吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥高台へこう。[%p]
+ZH [name]拓也[line]是呢……去高台吧。[%p]
+
+JA [name]神奈[line]何だか、行ったり来たりしていますね‥‥。[%p]
+ZH [name]神奈[line]感觉，好像是来来回回地走动呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし、ここを進んでいくと、すぐに高台だ。[%p]
+ZH [name]拓也[line]好嘞，从这里往前走的话，马上就是高台了。[%p]
+
+JA [name]たくや[line]神奈チャン、行こう。[%p]
+ZH [name]拓也[line]神奈，走吧。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]さっきの店員の話じゃ、香織さんはあそこで待ってるって話だったな‥‥。[%p]
+ZH [name]拓也[line]据刚才的店员说，香织是在那边等着的……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おいおい、そっちはシティホテルだぜ。[%p]
+ZH [name]拓也[line]喂喂，那边是城市宾馆吧。[%p]
+
+JA [name]たくや[line]今の俺には、まるで関係がないな。[%p]
+ZH [name]拓也[line]对现在的我来说，完全没有关系啊。[%p]
+
+JA [name]神奈[line]‥‥どこへ行くんですか?[%p]
+ZH [name]神奈[line]……要去哪里啊？[%p]
+
+JA [name]たくや[line]そうだ、あそこは高台じゃない。[%p]
+ZH [name]拓也[line]对了，那边不是高台。[%p]
+
+JA [name]たくや[line]おいおい‥‥いまそっから出てきたばかりじゃないか。[%p]
+ZH [name]拓也[line]喂喂……不是才刚从那里出来的吗。[%p]
+
+JA [name]たくや[line]しょうがないな‥‥。[%p]
+ZH [name]拓也[line]没办法啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥喫茶店へ行くのか?[%p]
+ZH [name]拓也[line]……要去咖啡店吗？[%p]
+
+JA [name]たくや[line]そうだ‥‥確か香織さんと約束をしていたぞ。[%p]
+ZH [name]拓也[line]对了……我记得跟香织约好了的呢。[%p]
+
+JA [name]たくや[line]今の時刻は‥‥わっ、6時を過ぎてる![%p]
+ZH [name]拓也[line]现在的时间是……哇，６点已经过了！[%p]
+
+JA [name]たくや[line]約束の時刻は、5時くらいだったはずだ‥‥。[%p]
+ZH [name]拓也[line]约定的时间，应该是５点左右的样子……。[%p]
+
+JA [name]たくや[line]‥‥とにかく、中へ入ってみようぜ。[%p]
+ZH [name]拓也[line]……总之，先进去看看吧。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]は、その名の通り夕方からしか営業しないんだ。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:正如其名，只从傍晚开始营业。[%p]
+
+JA [name]たくや[line]そういえば今日の夕方、香織さんと約束があったな‥‥。[%p]
+ZH [name]拓也[line]这么说起来，我跟香织约好今天傍晚见面的……。[%p]
+
+JA [name]たくや[line]行くべきか、行かざるべきか‥‥。[%p]
+ZH [name]拓也[line]应该去，还是不去比较好呢……。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]‥‥?[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]……？[%p]
+
+JA [name]たくや[line]今はそこに行っている暇なんて、ないと思うんだが‥‥。[%p]
+ZH [name]拓也[line]我想，现在应该没空到那里去吧……。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]か‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:啊。[%p]
+
+JA [name]たくや[line]用事はないけど、行ってみるかな。[%p]
+ZH [name]拓也[line]虽然没什么事，还是过去看看吧。[%p]
+
+JA [name]神奈[line]今、そこから出てきたと思うのですが‥‥。[%p]
+ZH [name]神奈[line]我想，刚才是才从那里出来的……。[%p]
+
+JA [name]たくや[line]そ、そうだったっけ。[%p]
+ZH [name]拓也[line]话，话是这么说。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA 
+ZH 
+

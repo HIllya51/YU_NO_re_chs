@@ -1,0 +1,72 @@
+JA [name]結城[line]何か、行ったり来たりしているみたいですね。[%p]
+ZH [name]结城[line]我们俩，好像一直在走过来又走过去呢。[%p]
+
+JA [name]たくや[line]うん‥‥俺もそう思う。[%p]
+ZH [name]拓也[line]嗯……我也是这么想的。[%p]
+
+JA [name]たくや[line]出口は目の前だ‥‥あそこから外に出られるぜ。[%p]
+ZH [name]拓也[line]出口就在眼前……从那里走出去就能到外面了。[%p]
+
+JA [name]たくや[line]また中に入るときは、画面端の奥で「移動」だな。[%p]
+ZH [name]拓也[line]JF:再进入里面的时候，在画面端的深处是“移动”。[%p]
+
+JA [name]結城[line]言っている意味が、よくわかりませんが‥‥。[%p]
+ZH [name]结城[line]你说的话，我不太明白呢……。[%p]
+
+JA [name]たくや[line]濡れているからな、上りだから気をつけないと‥‥。[%p]
+ZH [name]拓也[line]岩壁很湿，所以我们爬的时候一定要小心了……。[%p]
+
+JA [name]たくや[line]岩の地面が濡れている‥‥。[%p]
+ZH [name]拓也[line]岩石的地面湿漉漉的……。[%p]
+
+JA [name]たくや[line]気をつけないと、滑ってしまうぞ。[%p]
+ZH [name]拓也[line]一定要小心了，不然会滑倒的。[%p]
+
+JA [name]結城[line]滑ってしまいましたー。[%p]
+ZH [name]结城[line]已经滑倒了——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]岩に捕まっていけば、登れそうだぜ。[%p]
+ZH [name]拓也[line]抓住岩石凸出部分的话，貌似能爬上去。[%p]
+
+JA [name]たくや[line]外の光を反射している‥‥。[%p]
+ZH [name]拓也[line]反射着外面的光线……。[%p]
+
+JA [name]たくや[line]表面が、若干濡れているみたいだ‥‥。[%p]
+ZH [name]拓也[line]表面，有一些部位看起来湿漉漉的……。[%p]
+
+JA [name]結城[line]登っていくのは、それほど難しくなさそうですね。[%p]
+ZH [name]结城[line]想要爬上去，貌似没有想象中的那么困难呢。[%p]
+
+JA [name]たくや[line]そうだな‥‥外へ出よう。[%p]
+ZH [name]拓也[line]对啊……到外面去吧。[%p]
+
+JA [name]結城[line]わかりました。[%p]
+ZH [name]结城[line]明白了。[%p]
+
+JA [name]結城[line]中に戻るんですか‥‥。[%p]
+ZH [name]结城[line]要回到里面吗……。[%p]
+
+JA [name]たくや[line]おう。戻るぞ。[%p]
+ZH [name]拓也[line]哦哦。回去吧。[%p]
+
+JA [name]結城[line]わかりました。では行きましょう。[%p]
+ZH [name]结城[line]明白了。那么我们就走吧。[%p]
+
+JA [name]たくや[line]だから、アイテムを使うときじゃないってば。[%p]
+ZH [name]拓也[line]所以说，现在不是使用道具的时候啊。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,6 @@
+[name]Mitsuki[line]It's a small, dim room. We're surrounded on all sides by rock walls.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Mitsuki[line]There's nothing in this room. What is this place?[%p]
+[name]Takuya[line](Should I just check it out?)[%p]
+[name]Mitsuki[line]Be careful Takuya. There might be traps.[%p]
+[name]Takuya[line]Right⋯[%p]

@@ -1,0 +1,15 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]どこまで続いているんだろうな‥‥ふぅ。[%p]
+ZH [name]拓也[line]一直延伸到很远的地方吧……呼。[%p]
+
+JA [name]たくや[line]だけど‥‥まだ大丈夫だと、不思議とわかる。[%p]
+ZH [name]拓也[line]不过……很不可思议地，我知道现在方向没错。[%p]
+
+JA [name]たくや[line]なぜだろう‥‥?[%p]
+ZH [name]拓也[line]为什么呢……？[%p]
+
+JA 
+ZH 
+

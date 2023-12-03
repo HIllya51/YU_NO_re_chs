@@ -1,0 +1,204 @@
+JA [name]たくや[line]入りまーす。[%p]
+ZH [name]拓也[line]我进来了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないぜ‥‥。[%p]
+ZH [name]拓也[line]没有人在呢……。[%p]
+
+JA [name]たくや[line]失礼します‥‥。[%p]
+ZH [name]拓也[line]我先走了‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]果然还是没人在的样子‥‥。[%p]
+
+JA [name]たくや[line]このまま何もしないで帰るのもシャクだよな。[%p]
+ZH [name]拓也[line]啥事都不干就这么回去也太窝囊了吧。[%p]
+
+JA [name]たくや[line]よし、この俺様が室内のエントロピーを増大させてやろうか。[%p]
+ZH [name]拓也[line]好，就让本大人来增加房间里的熵值吧。[%p]
+
+JA [name]たくや[line]せーのっ![%p]
+ZH [name]拓也[line]预备—起！[%p]
+
+JA [name]声[line]おや、君は広大の‥‥。[%p]
+ZH [name]声音[line]哎呀，你不是广大的‥‥。[%p]
+
+JA [name]たくや[line]とっとっとっ。[%p]
+ZH [name]拓也[line]快～快～快。[%p]
+
+JA [name]たくや[line]やぁ、龍蔵寺学長さまさま。[%p]
+ZH [name]拓也[line]呀，万分感激龙藏寺校长。[%p]
+
+JA [name]龍蔵寺[line]フッ、似ているな、そういうところが父親に。[%p]
+ZH [name]龙藏寺[line]哼，这方面和你父亲还真像。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](龍蔵寺さんか‥‥。)[%p]
+ZH [name]拓也[line](龙藏寺先生吗‥‥。)[%p]
+
+JA [name]たくや[line](研究室で、何をやっていたんだろう‥‥。)[%p]
+ZH [name]拓也[line](（刚在研究室干嘛呢‥‥）。)[%p]
+
+JA [name]龍蔵寺[line]昨日はあまり話ができなかったね。[%p]
+ZH [name]龙藏寺[line]昨天没怎么好好聊呢。[%p]
+
+JA [name]たくや[line]ええ‥‥特に話すこともないようですし。[%p]
+ZH [name]拓也[line]对啊‥‥也没聊什么特别的话题。[%p]
+
+JA [name]龍蔵寺[line]‥‥‥‥。[%p]
+ZH [name]龙藏寺[line]…………。[%p]
+
+JA [name]たくや[line](どうも、俺はこの人が苦手だな‥‥。)[%p]
+ZH [name]拓也[line](（我很不擅长应付他这样的人‥‥）。)[%p]
+
+JA [name]たくや[line]再び入りまーす。[%p]
+ZH [name]拓也[line]我又进来了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]どうせ誰もいないと思うけどな‥‥。[%p]
+ZH [name]拓也[line]虽然我也想到基本不会有人在‥‥。[%p]
+
+JA [name]たくや[line]いちおう、筋は通すってことで、ノックはしよう。[%p]
+ZH [name]拓也[line]从常识地角度讲，姑且先敲门吧。[%p]
+
+JA [name]たくや[line]入りまーす。[%p]
+ZH [name]拓也[line]我进来了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]案の定、誰もいないな‥‥無論、美月さんもいない。[%p]
+ZH [name]拓也[line]不出所料，确实没人在‥‥美月当然也不例外。[%p]
+
+JA [name]たくや[line]ちなみに彼女は、歴史の非常勤講師だったんだ。ま、今は辞任しているが‥‥。[%p]
+ZH [name]拓也[line]顺便一提，她之前是历史兼课讲师。唉，虽然现在辞职了‥‥。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]柄にもなく、緊張したりしてな‥‥ははは。[%p]
+ZH [name]拓也[line]忽然给紧张起来了，真不像我的作风啊‥‥哈哈哈。[%p]
+
+JA [name]たくや[line]ま、何か言われるようだったら、知らぬ存ぜぬで通すしかないな。[%p]
+ZH [name]拓也[line]唉，就算被说教，也只能用“不知道不认识”敷衍过去。[%p]
+
+JA [name]たくや[line]とりあえず、理事長の銅像にメークを施して、ニューハーフ復権運動のぼんぼりを出した件じゃないことを祈ろう。[%p]
+ZH [name]拓也[line]总之希望别是因为给理事长铜像脸上乱涂乱画，把人妖复权运动的气球给放了之类的事情。[%p]
+
+JA [name]たくや[line]オホン。[%p]
+ZH [name]拓也[line]嗯哼。[%p]
+
+JA [name]たくや[line]有馬、入りまーす。[%p]
+ZH [name]拓也[line]有马进来了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おかしいな‥‥誰もいない。[%p]
+ZH [name]拓也[line]奇怪啊‥‥没人。[%p]
+
+JA [name]たくや[line]研究室、間違ったのかな‥‥?[%p]
+ZH [name]拓也[line]没搞错研究室吧‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いや、確かに「歴史研究室」と、放送では言っていたぞ。[%p]
+ZH [name]拓也[line]没，广播里确实说的是「历史研究室」。[%p]
+
+JA [name]たくや[line]そしてここは、確かに歴史研究室だ‥‥。[%p]
+ZH [name]拓也[line]然后这里也确实就是历史研究室‥‥。[%p]
+
+JA [name]たくや[line]ってことは、呼び出したヤツが、まだ現れていないってことか。[%p]
+ZH [name]拓也[line]就是说，叫我过来的人还没出现吧。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ぐぅ。[%p]
+ZH 咕。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥ぐぅ。
+ZH [name]拓也[line]…………呼噜。
+
+JA [name]たくや[line]などと寝てしまうぞ、まったく。[%p]
+ZH [name]拓也[line]再这样下去要睡着了，真是的。[%p]
+
+JA [name]たくや[line]教師の連中は、普段はケジメをつけたまえ、なんて言ってる癖に、自分自身にはとんとルーズなんだよな。[%p]
+ZH [name]拓也[line]那帮老师，平时都在说要分清正事和旁骛的轻重，可对待他们自己真是相当宽松呐。[%p]
+
+JA [name]たくや[line]来やがった‥‥ったくさ。[%p]
+ZH [name]拓也[line]来早了‥‥受不了。[%p]
+
+JA [name]たくや[line]1つくらい、嫌味を言ってやらないと、気が済まないぜ。[%p]
+ZH [name]拓也[line]不找一个机会挖苦一下的话，心里不会舒服的。[%p]
+
+JA [name]たくや[line]あー、オホン。入りたまえ。[%p]
+ZH [name]拓也[line]啊—，咳额。进来吧。[%p]
+
+JA [name]声[line]《有馬です、入ります。》[%p]
+ZH [name]声音[line]《我是有马，我进来了。》[%p]
+
+JA [name]たくや[line]なぬ?[%p]
+ZH [name]拓也[line]神马？[%p]
+
+JA [name]たくや[line]どわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]目の前の女性[line]キャッ。[%p]
+ZH [name]眼前的女性[line]呀。[%p]
+
+JA [name]たくや[line]あ、[ruby-base]亜由美[ruby-text-start]あゆみ[ruby-text-end]さん‥‥?[%p]
+ZH [name]拓也[line]JF:啊，亚由美？[%p]
+
+JA [name]亜由美[line]たくやクンじゃない。どうしたの?[%p]
+ZH [name]亚由美[line]拓也君吗。怎么回事？[%p]
+
+JA [name]たくや[line]ど、どうしたって‥‥その‥‥。[%p]
+ZH [name]拓也[line]怎、怎么回事‥‥那个‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](なに慌ててるんだ、俺は‥‥。)[%p]
+ZH [name]拓也[line](（我慌个什么劲儿啊‥‥）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](‥‥そうだよ、いきなり亜由美さんと会ったから、少し混乱したってところだな。)[%p]
+ZH [name]拓也[line](（‥‥对了，突然和亚由美小姐相会，所以人稍稍有些混乱。）。)[%p]
+
+JA [name]たくや[line](うん、そうだ。そうなんだ。)[%p]
+ZH [name]拓也[line](（嗯，没错。的确如此。）。)[%p]
+
+JA [name]亜由美[line]どうしたの?[%p]
+ZH [name]亚由美[line]你怎么了？[%p]
+
+JA [name]たくや[line]いや、そうなんだって‥‥ははは、何を言ってるんだろう、俺は。[%p]
+ZH [name]拓也[line]没啥，的确如此‥‥哈哈哈，我在说些什么啊。[%p]
+
+JA [name]亜由美[line]‥‥?[%p]
+ZH [name]亚由美[line]……？[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA 
+ZH 
+

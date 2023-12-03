@@ -1,0 +1,96 @@
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]当たり前だ、彼女は今頃あそこへ行っているはずだ‥‥。[%p]
+ZH [name]拓也[line]当然的了，她现在应该去了那个地方吧……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥いるかい?[%p]
+ZH [name]拓也[line]神奈……在吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いないみたいだな‥‥つまりまた、勝手に入ってしまった訳か。[%p]
+ZH [name]拓也[line]好像不在啊……这样的话，我又等于擅闯民宅了吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おわっ![%p]
+ZH [name]拓也[line]（哦哇！）[%p]
+
+JA [name]たくや[line]な、何だ‥‥どうしたんだ?[%p]
+ZH [name]拓也[line]什，什么啊……怎么了？[%p]
+
+JA [name]たくや[line]どこから聴こえてくるんだ‥‥?[%p]
+ZH [name]拓也[line]从哪里能被听到吗……？[%p]
+
+JA [name]たくや[line]神奈チャン‥‥いるかい?[%p]
+ZH [name]拓也[line]神奈……在吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まだ、帰って来ていないみたいだな‥‥。[%p]
+ZH [name]拓也[line]貌似，还没有回来啊……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥いないのかい?[%p]
+ZH [name]拓也[line]神奈……在不在？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まだ、帰ってきていないんだろうか‥‥?[%p]
+ZH [name]拓也[line]应该，还是没回来吧……？[%p]
+
+JA [name]たくや[line]ってことは、俺はまたしても勝手に入っちまったって訳か‥‥。[%p]
+ZH [name]拓也[line]这样的话，我等于再次擅闯民宅了吧……。[%p]
+
+JA [name]たくや[line]あれ‥‥? でも、なんでドアが開いていたんだろう。[%p]
+ZH [name]拓也[line]咦？不过，为什么门是开着的啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうか、北条って中年親父‥‥。[%p]
+ZH [name]拓也[line]对了，叫北条的中年大叔……。[%p]
+
+JA [name]たくや[line]ヤツが、家探ししたんだな‥‥の野郎、殆ど泥棒同然じゃないか。[%p]
+ZH [name]拓也[line]JF:那家伙找了房子……这家伙，几乎和小偷一样吧。[%p]
+
+JA [name]たくや[line]‥‥まぁ、勝手に上がり込んでる俺も俺だけど。[%p]
+ZH [name]拓也[line]……算了，随便闯进来的我也没什么资格说。[%p]
+
+JA [name]たくや[line]こんちは‥‥勝手に入ったよ。[%p]
+ZH [name]拓也[line]你好……我进来了哦。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥?[%p]
+ZH [name]拓也[line]神奈……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]神奈チャン、いないのか?[%p]
+ZH [name]拓也[line]神奈，不在吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像是不在……。[%p]
+
+JA [name]たくや[line]そういえば、倒れていたとき、海がどうとか言っていたよな‥‥。[%p]
+ZH [name]拓也[line]说起来，我倒下去的时候，她好像说了海怎么样的话……。[%p]
+
+JA [name]たくや[line]まさか、あの状態で外出でもしたっていうのか‥‥?[%p]
+ZH [name]拓也[line]难道，她在那种状态就外出了吗……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]来る途中では、すれ違わなかったけど‥‥。[%p]
+ZH [name]拓也[line]不会是我在来的路上，擦肩而过了吧……。[%p]
+
+JA 
+ZH 
+

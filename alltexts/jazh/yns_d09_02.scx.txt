@@ -1,0 +1,60 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥カーテンが引いてある。[%p]
+ZH [name]拓也[line]……帘子拉起来了。[%p]
+
+JA [name]たくや[line]こんな時間に‥‥誰が寝ているんだろう。[%p]
+ZH [name]拓也[line]这种时候……会是谁在睡觉呢。[%p]
+
+JA [name]たくや[line](そうだ‥‥何だか気になるな。)[%p]
+ZH [name]拓也[line](（对了……总觉得有点在意啊。）。)[%p]
+
+JA [name]たくや[line](よし‥‥。)[%p]
+ZH [name]拓也[line](好嘞……。)[%p]
+
+JA [name]たくや[line]誰も寝ていない‥‥。[%p]
+ZH [name]拓也[line]没有人在睡觉……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]じゃあ、何でカーテンがひいてあったんだ?[%p]
+ZH [name]拓也[line]那么，为什么要把帘子拉起来呢？[%p]
+
+JA [name]たくや[line]何か、妙だよな‥‥。[%p]
+ZH [name]拓也[line]感觉，有点奇怪……。[%p]
+
+JA [name]たくや[line]あのなぁ、わざとやってない?[%p]
+ZH [name]拓也[line]（这样的话，不要过去看看吗？）[%p]
+
+JA [name]たくや[line]カーテンが閉まっている所だよ‥‥。[%p]
+ZH [name]拓也[line]（这是帘子遮起来的地方……。）。[%p]
+
+JA [name]たくや[line]目の前の‥‥ほら、あそこだ。[%p]
+ZH [name]拓也[line]（眼前的……看，就是那里。）。[%p]
+
+JA [name]たくや[line]そこじゃないってば‥‥。[%p]
+ZH [name]拓也[line]（不是那里啊……。）。[%p]
+
+JA [name]たくや[line]あのカーテンの向こう側‥‥気にならないか?[%p]
+ZH [name]拓也[line]（帘子的另一侧……不觉得有点在意吗？）[%p]
+
+JA [name]たくや[line]ちょっと待ってくれ‥‥。[%p]
+ZH [name]拓也[line]再等等‥‥。[%p]
+
+JA [name]たくや[line]何だか、気になるぞ‥‥。[%p]
+ZH [name]拓也[line]（感觉，有点在意呢……。）。[%p]
+
+JA [name]たくや[line]アイテムは関係ないな‥‥。[%p]
+ZH [name]拓也[line]（跟道具没什么关系……。）。[%p]
+
+JA [name]たくや[line]それよりも‥‥。[%p]
+ZH [name]拓也[line]（比起这个……。）。[%p]
+
+JA [name]たくや[line]今はそんなのを使ってるときじゃないぞ‥‥。[%p]
+ZH [name]拓也[line]（现在不是使用那种东西的时候……。）。[%p]
+
+JA 
+ZH 
+

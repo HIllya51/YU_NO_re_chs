@@ -1,0 +1,108 @@
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥ん‥‥‥‥。[%p]
+ZH [name]拓也[line]（……嗯…………。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここは‥‥どこだ?[%p]
+ZH [name]拓也[line]这是……什么地方？[%p]
+
+JA [name]たくや[line]‥‥頭が、痛いな‥‥‥‥。[%p]
+ZH [name]拓也[line]……脑袋，好痛啊…………。[%p]
+
+JA [name]たくや[line]ほっぺたが痛い‥‥。[%p]
+ZH [name]拓也[line]脸颊好痛……。[%p]
+
+JA [name]たくや[line]‥‥チクチクするなぁ‥‥。[%p]
+ZH [name]拓也[line]……感觉有一阵刺痛……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]また、亜由美さんがつねっているんじゃないか?[%p]
+ZH [name]拓也[line]不是，还抓着亚由美小姐吗？[%p]
+
+JA [name]たくや[line]起こすとき、ギュッってつねるんだよな‥‥。[%p]
+ZH [name]拓也[line]起床的时候，被狠狠地掐了一把……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何度となく、味わってきたこの感覚‥‥。[%p]
+ZH [name]拓也[line]不知体验过多少回这种感觉‥‥。[%p]
+
+JA [name]たくや[line]俺が、何度となく味わってきた‥‥この感覚‥‥。[%p]
+ZH [name]拓也[line]我不知体验过多少回‥‥这样的感觉‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか‥‥暖かいな‥‥。[%p]
+ZH [name]拓也[line]让人感觉‥‥很温暖‥‥。[%p]
+
+JA [name]たくや[line]ポカポカしてる‥‥。[%p]
+ZH [name]拓也[line]感觉暖乎乎的‥‥。[%p]
+
+JA [name]たくや[line]‥‥ポカポカ‥‥してる?[%p]
+ZH [name]拓也[line]‥‥暖呼呼‥‥的感觉？[%p]
+
+JA [name]たくや[line]‥‥ベッドじゃないのか‥‥ここは。[%p]
+ZH [name]拓也[line]……不是床上吗……这地方。[%p]
+
+JA [name]たくや[line]‥‥‥‥
+ZH [name]拓也[line]…………
+
+JA 。[%p]
+ZH 。[%p]
+
+JA [name]たくや[line]‥‥‥‥。
+ZH [name]拓也[line]…………。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]な、なんだ‥‥。[%p]
+ZH [name]拓也[line]是、是什么‥‥。[%p]
+
+JA [name]たくや[line]‥‥どうしたんだよ、これって‥‥。[%p]
+ZH [name]拓也[line]‥‥这是‥‥怎么一回事啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]森‥‥‥‥。[%p]
+ZH [name]拓也[line]森林‥‥‥‥。[%p]
+
+JA [name]たくや[line]‥‥森だ‥‥‥‥。[%p]
+ZH [name]拓也[line]‥‥是森林‥‥‥‥。[%p]
+
+JA [name]たくや[line]な、何で‥‥‥‥。[%p]
+ZH [name]拓也[line]怎、怎么会‥‥‥‥。[%p]
+
+JA [name]たくや[line]ど、どこなんだ‥‥こ、ここは。[%p]
+ZH [name]拓也[line]这、这里‥‥是哪儿啊。[%p]
+
+JA [name]たくや[line]いったい俺は‥‥。[%p]
+ZH [name]拓也[line]我到底怎么来的‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,267 @@
+JA [name]たくや[line]‥‥保健室だ。[%p]
+ZH [name]拓也[line]……是保健室。[%p]
+
+JA [name]たくや[line]絵里子先生は、ヤボ用中みたいだな‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，貌似还在游荡啊……。[%p]
+
+JA [name]たくや[line]まだ、10時にはなっていない‥‥。[%p]
+ZH [name]拓也[line]还没到１０点钟……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](神奈チャンが、この俺に渡したいモノ、か‥‥。)[%p]
+ZH [name]拓也[line](（神奈她，想交给我的东西，吗……。）。)[%p]
+
+JA [name]たくや[line](別に金を貸していた訳でもなし、何かを頼んでいた訳でもなし‥‥。)[%p]
+ZH [name]拓也[line](（并不是想要借我钱，应该也不是要拜托我什么事……。）。)[%p]
+
+JA [name]たくや[line](はっきり言って、訳がわからないというのが本音だな。)[%p]
+ZH [name]拓也[line](（老实说，真的是完全搞不懂啊。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]なぁ、絵里子先生、まだかい?[%p]
+ZH [name]拓也[line]呐，绘里子老师，还没好吗？[%p]
+
+JA [name]絵里子[line]もうちょっとだ‥‥んん。[%p]
+ZH [name]绘里子[line]稍微再等一下……嗯嗯。[%p]
+
+JA [name]たくや[line]なに悩ましげな声を出してるんだよ‥‥。[%p]
+ZH [name]拓也[line]这是让人何等烦恼的声音啊……。[%p]
+
+JA [name]絵里子[line]悪かったな。こう見えても私は、ヒップが充実しているんだ。[%p]
+ZH [name]绘里子[line]真抱歉啊。别看我这个样子，其实臀部还是很饱满的。[%p]
+
+JA [name]たくや[line]‥‥はあ?[%p]
+ZH [name]拓也[line]……哈啊？[%p]
+
+JA [name]絵里子[line]つまりだな‥‥んしょ、フィットしたこのワンピースが、んしょ。[%p]
+ZH [name]绘里子[line]也就是说……嗯咻，虽然这连衣裙还是合身的，嗯咻。[%p]
+
+JA [name]たくや[line]‥‥つまり、脱げないってこと?[%p]
+ZH [name]拓也[line]……也就是说，脱不下来了吧？[%p]
+
+JA [name]絵里子[line]恥ずかしいことを大声で言うな。[%p]
+ZH [name]绘里子[line]不要大声说出这么难为情的事。[%p]
+
+JA [name]たくや[line]自分で言ったんじゃないか。手伝ってやろうか?[%p]
+ZH [name]拓也[line]那不是你自己说的吗。需要帮忙吗？[%p]
+
+JA [name]絵里子[line]お断りだ。[%p]
+ZH [name]绘里子[line]容我拒绝。[%p]
+
+JA [name]たくや[line]ちぇっ‥‥。[%p]
+ZH [name]拓也[line]切……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](絵里子先生は、ベッドのところで着替えているぜ‥‥。)[%p]
+ZH [name]拓也[line](（绘里子老师，正在床那边换衣服……。）。)[%p]
+
+JA [name]たくや[line](でもまさか、あんな格好で夜な夜な、繁華街を‥‥。)[%p]
+ZH [name]拓也[line](（不过，居然会穿成这个样子，大晚上的在繁华街……。）。)[%p]
+
+JA [name]たくや[line](うーん、ますます気に入ったぜ。)[%p]
+ZH [name]拓也[line](（嗯——，我越来越在意了呢。）。)[%p]
+
+JA [name]絵里子[line]‥‥何か言ったか? んしょ。[%p]
+ZH [name]绘里子[line]……你在说什么？　嗯咻。[%p]
+
+JA [name]たくや[line]‥‥その「んしょ」ってのは、止めてくれよ。[%p]
+ZH [name]拓也[line]JF:……那个“嗯”，请停止吧。[%p]
+
+JA [name]絵里子[line]だが、この服は意外に‥‥んしょ。[%p]
+ZH [name]绘里子[line]但是，这件衣服意外地……嗯咻。[%p]
+
+JA [name]たくや[line]早くしてくれよ。オシッコが漏れてしまうぞ。[%p]
+ZH [name]拓也[line]快点换好啊。我好像在被把尿一样。[%p]
+
+JA [name]絵里子[line]ほう、漏らせるものなら、漏らしてもいいぞ。[%p]
+ZH [name]绘里子[line]呵，既然这么像的话，那接受不就好了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]看起来没有人在啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]看起来没有人在啊……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……呼……。[%p]
+
+JA [name]たくや[line]絵里子先生![%p]
+ZH [name]拓也[line]绘里子老师！[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]おい、喫煙教師、出てこーい![%p]
+ZH [name]拓也[line]喂，吸烟教师，给我出来——！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だよ、肝心なときにいないんだから‥‥まったく。[%p]
+ZH [name]拓也[line]什么啊，关键时候却不在这里……真是的。[%p]
+
+JA [name]神奈[line]ん‥‥‥。[%p]
+ZH [name]神奈[line]恩……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥。[%p]
+ZH [name]拓也[line]神奈……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]保健室に着いたぜ、大丈夫かい?[%p]
+ZH [name]拓也[line]已经到保健室了，你没事吧？[%p]
+
+JA [name]神奈[line]‥‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]ダメか‥‥気を失っている状態だ。[%p]
+ZH [name]拓也[line]不行吗……已经是昏迷状态了。[%p]
+
+JA [name]たくや[line]わっ、わっ、地震かっ!?[%p]
+ZH [name]拓也[line]哇，哇，地震吗！？[%p]
+
+JA [name]たくや[line]結構、大きな揺れだったな‥‥‥。[%p]
+ZH [name]拓也[line]摇晃得相当厉害啊……。[%p]
+
+JA [name]たくや[line]火災報知器などは鳴っていない‥‥やりすごしたか。[%p]
+ZH [name]拓也[line]火灾报警器什么的没有响起来……是严重过头了吗。[%p]
+
+JA [name]たくや[line]ホールの方で、ピーピー声が聞こえてくるな。結構みんなビビったみたいだ‥‥‥。[%p]
+ZH [name]拓也[line]广场的方向，传来一阵兵荒马乱的声音。看起来大家都很慌张啊……。[%p]
+
+JA [name]たくや[line]しかし、こんな昼間っから地震なんて‥‥‥。[%p]
+ZH [name]拓也[line]不过，从这样的白天就开始地震什么的……。[%p]
+
+JA [name]たくや[line]‥‥地震に昼も夜も関係ないか。[%p]
+ZH [name]拓也[line]……地震跟白天还是晚上没关系吗。[%p]
+
+JA [name]神奈[line]んん‥‥‥。[%p]
+ZH [name]神奈[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]そ、そうだ、背中の神奈チャンを忘れていた。[%p]
+ZH [name]拓也[line]对，对了，把背上的神奈给忘掉了。[%p]
+
+JA [name]たくや[line]とにかく、ベッドに運ばないと‥‥‥。[%p]
+ZH [name]拓也[line]总而言之，得先放到床上来……。[%p]
+
+JA [name]たくや[line]よいしょ‥‥よいしょっと‥‥‥。[%p]
+ZH [name]拓也[line]嘿咻……嘿哟咻……。[%p]
+
+JA [name]神奈[line]ん‥‥‥。[%p]
+ZH [name]神奈[line]恩……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥さすがに、海岸からずっとオブってくると疲れるぜ‥‥‥。[%p]
+ZH [name]拓也[line]呼……累死我了，从海岸一直背到这里来……。[%p]
+
+JA [name]たくや[line]最初は、小鳥みたいに軽かったんだけどな。[%p]
+ZH [name]拓也[line]刚开始，明明是跟小鸟一样轻的。[%p]
+
+JA [name]たくや[line]あの海からの坂道をずっと上ってくると、さすがに‥‥ふぅ。[%p]
+ZH [name]拓也[line]才那个海边的坡道一直背过来，真不得了啊……呼。[%p]
+
+JA [name]たくや[line]絵里子先生は、いないみたいだしな‥‥俺が介抱してやらなきゃならないみたいだ。[%p]
+ZH [name]拓也[line]绘里子老师，好像不在这里啊……看来不得不由我来照顾了。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]忙しい。[%p]
+ZH [name]绘里子[line]好忙啊。[%p]
+
+JA [name]たくや[line]わ、わかった。[%p]
+ZH [name]拓也[line]知，知道了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]忙しいってさ。用事があるにしても、もう少し時間をおいてから出直そうぜ。[%p]
+ZH [name]拓也[line]我很忙啊。就算你找我有事，也请等过一段时间再过来吧。[%p]
+
+JA [name]たくや[line]あれ、もういなくなってる‥‥。[%p]
+ZH [name]拓也[line]咦，已经不在了……。[%p]
+
+JA [name]絵里子[line]いるぞ。[%p]
+ZH [name]绘里子[line]在啊。[%p]
+
+JA [name]たくや[line]おわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]絵里子[line]今、書類の整理で、結構忙しい。こいつを早めに終わらせないと‥‥。[%p]
+ZH [name]绘里子[line]现在，我正在整理文件，忙得很啊。这件事要是不早点完成的话……。[%p]
+
+JA [name]たくや[line]終わらせないと‥‥?[%p]
+ZH [name]拓也[line]不早点完成的话……？[%p]
+
+JA [name]絵里子[line]散歩の時間がなくなってしまう。[%p]
+ZH [name]绘里子[line]会变得没有散步的时间了。[%p]
+
+JA [name]たくや[line]俺の聞き間違いか‥‥?[%p]
+ZH [name]拓也[line]是我听错了吗……？[%p]
+
+JA [name]たくや[line]散歩の時間って聞こえたんだけど‥‥。[%p]
+ZH [name]拓也[line]是有听到散步的时间这个词了吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、今の絵里子先生は忙しそうだ‥‥。[%p]
+ZH [name]拓也[line]总而言之，现在的绘里子老师好像很忙……。[%p]
+
+JA [name]たくや[line]用事があるにしても、もう少し時間をおいてから出直そう。[%p]
+ZH [name]拓也[line]就算有事找她，也得等过一段时间再来吧。[%p]
+
+JA [name]たくや[line]ホールに戻るぜ‥‥。[%p]
+ZH [name]拓也[line]回广场去吧……。[%p]
+
+JA [name]たくや[line]相変わらず、誰もいな‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]一如既往，谁都不……。[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]どわわっ![%p]
+ZH [name]拓也[line]哦哇哇！[%p]
+
+JA [name]たくや[line](珍しくいるもんだから、驚いたぜ‥‥。)[%p]
+ZH [name]拓也[line](（看到难得看到的景象，吃了一惊呢……。）。)[%p]
+
+JA [name]絵里子[line]なんだ、その「いぼぢ」が再発したようなリアクションは‥‥。[%p]
+ZH [name]绘里子[line]什么意思，你这种好像［痔疮］复发了的反应……。[%p]
+
+JA [name]たくや[line]何だよ、その「いぼぢ」ってのは。[%p]
+ZH [name]拓也[line]什么啊，［痔疮］是什么意思。[%p]
+
+JA [name]絵里子[line]知らないのか、肛門内にイボができて‥‥‥。[%p]
+ZH [name]绘里子[line]你不知道吗，有异物从肛门里凸出来……。[%p]
+
+JA [name]たくや[line]わぁ! 説明しなくていいよ。[%p]
+ZH [name]拓也[line]哇啊！　不用说明也没关系啊。[%p]
+
+JA [name]絵里子[line]そうか、残念だな‥‥。[%p]
+ZH [name]绘里子[line]是吗，真可惜啊……。[%p]
+
+JA [name]たくや[line](何なの、この先生‥‥。)[%p]
+ZH [name]拓也[line](（什么意思，这个老师……。）。)[%p]
+
+JA 
+ZH 
+

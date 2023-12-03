@@ -1,0 +1,21 @@
+JA [name]たくや[line]書斎のドアの前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到了书房的门口……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]書斎のドアの前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到了书房的门口……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]書斎のドアの前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到了书房的门口……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

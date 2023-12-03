@@ -1,0 +1,12 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まだ、続いているな‥‥。[%p]
+ZH [name]拓也[line]还在，往里面延伸啊……。[%p]
+
+JA [name]たくや[line]かなり長い洞窟だ‥‥。[%p]
+ZH [name]拓也[line]真是相当长的洞窟……。[%p]
+
+JA 
+ZH 
+

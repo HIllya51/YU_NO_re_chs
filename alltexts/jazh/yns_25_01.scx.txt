@@ -1,0 +1,156 @@
+JA [name]たくや[line](あれ‥‥?)[%p]
+ZH [name]拓也[line](咦……？)[%p]
+
+JA [name]たくや[line](あそこにいるのは‥‥。)[%p]
+ZH [name]拓也[line](（在那边的是……。）。)[%p]
+
+JA [name]たくや[line](そうだ‥‥あの女性は確か‥‥。)[%p]
+ZH [name]拓也[line](（对了……那个女人确实是……。）。)[%p]
+
+JA [name]たくや[line](もうちょっと、間近で見てみよう。)[%p]
+ZH [name]拓也[line](（稍微，再靠近点看看吧。）。)[%p]
+
+JA [name]たくや[line](やっぱり‥‥。)[%p]
+ZH [name]拓也[line](（果然……。）。)[%p]
+
+JA [name]たくや[line](いつだったか、学校付近で見かけたボディコン女‥‥。)[%p]
+ZH [name]拓也[line](（记得什么时候，在学校附近看到过的火辣女郎……。）。)[%p]
+
+JA [name]たくや[line](植え込みを挟んで、隣をチラチラと伺っているようだけど‥‥。)[%p]
+ZH [name]拓也[line](（隔着花丛，一个劲的不时往隔壁窥看……。）。)[%p]
+
+JA [name]たくや[line](何かを見張っているというか、監視しているというか‥‥。)[%p]
+ZH [name]拓也[line](（应该说是在窥探什么呢，还是在监视什么……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、何を見ているんだろう‥‥?)[%p]
+ZH [name]拓也[line](（究竟，是在看什么呢……？）)[%p]
+
+JA [name]たくや[line](目線を追っていくと‥‥‥‥。)[%p]
+ZH [name]拓也[line](（沿着视线看过去的话…………。）。)[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line](龍蔵寺に‥‥相手は、あの香織とかいう女性だ。)[%p]
+ZH [name]拓也[line](（龙藏寺……对方是，那个叫香织的女性。）。)[%p]
+
+JA [name]たくや[line](何か神妙な顔つきで話しているようだ‥‥。)[%p]
+ZH [name]拓也[line](（带着某种奇妙的表情在窃窃私语……。）。)[%p]
+
+JA [name]たくや[line](いったい、何を話しているんだ‥‥?)[%p]
+ZH [name]拓也[line](（究竟，是在说什么话呢……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](待てよ。)[%p]
+ZH [name]拓也[line](（等一下。）。)[%p]
+
+JA [name]たくや[line](龍蔵寺と香織の組み合わせは気になるが‥‥。)[%p]
+ZH [name]拓也[line](（虽然我对龙藏寺和香织的组合有点在意……。）。)[%p]
+
+JA [name]たくや[line](もっと気になるのは、このボディコン女性だぞ。)[%p]
+ZH [name]拓也[line](（不过更加在意的是，这个个火辣身材的女性。）。)[%p]
+
+JA [name]たくや[line](いったい何で、龍蔵寺たちを見ているんだ‥‥?)[%p]
+ZH [name]拓也[line](（究竟为什么，她会窥视龙藏寺他们呢……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オホン![%p]
+ZH [name]拓也[line]咳哼！[%p]
+
+JA [name]女性[line]ああっ![%p]
+ZH [name]女性[line]啊啊！[%p]
+
+JA [name]たくや[line](随分と、驚くな‥‥。)[%p]
+ZH [name]拓也[line](（相当地，吃惊啊……。）。)[%p]
+
+JA [name]女性[line]君は、有馬たくや!?[%p]
+ZH [name]女性[line]你是，有马拓也[%p]
+
+JA [name]たくや[line]なぬ!? 何で俺の名前を‥‥。[%p]
+ZH [name]拓也[line]什么！？为什么知道我的名字……。[%p]
+
+JA [name]女性[line]わっ‥‥じゃなくて![%p]
+ZH [name]女性[line]哇……不对！[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]あの。[%p]
+ZH [name]拓也[line]那个。[%p]
+
+JA [name]女性[line]あ、あはは‥‥ええと、どなたさま?[%p]
+ZH [name]女性[line]啊，啊哈哈……请问，你是哪位？[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]女性[line]な、何かご用‥‥ですか?[%p]
+ZH [name]女性[line]有，有什么……事吗？[%p]
+
+JA [name]たくや[line]うーーーん‥‥‥‥。[%p]
+ZH [name]拓也[line]嗯————…………。[%p]
+
+JA [name]たくや[line](どっかで見たことがあるな‥‥。)[%p]
+ZH [name]拓也[line](（在哪里见到过呢……。）。)[%p]
+
+JA [name]たくや[line](どこだったか‥‥?)[%p]
+ZH [name]拓也[line](（是在哪里……？）)[%p]
+
+JA [name]たくや[line](違う‥‥右側の女性を見るんだよ。)[%p]
+ZH [name]拓也[line](（不对……要看着右边的女性啊。）。)[%p]
+
+JA [name]たくや[line](あのなぁ‥‥面白がってないか?)[%p]
+ZH [name]拓也[line](（我说……不觉得有趣吗？）)[%p]
+
+JA [name]たくや[line](右側手前のテーブルに、腰掛けている女性だよ。)[%p]
+ZH [name]拓也[line](（在右手边的桌子前，坐着的女性。）。)[%p]
+
+JA [name]たくや[line](そこじゃないって。)[%p]
+ZH [name]拓也[line](（不是那边。）。)[%p]
+
+JA [name]たくや[line](右側のテーブルに‥‥そう、そこだ。)[%p]
+ZH [name]拓也[line](（在右边的桌子前……对，是那里。）。)[%p]
+
+JA [name]たくや[line](違うよ‥‥そこじゃなくて。)[%p]
+ZH [name]拓也[line](（不对……不是那里。）。)[%p]
+
+JA [name]たくや[line](ほら、目の前のあそこだ。)[%p]
+ZH [name]拓也[line](（看，就是眼前的那位置。）。)[%p]
+
+JA [name]たくや[line](アイテムは関係ないと思うぞ‥‥。)[%p]
+ZH [name]拓也[line](（我想跟道具没什么关系……。）。)[%p]
+
+JA [name]たくや[line](それよりも、目の前の彼女だ‥‥。)[%p]
+ZH [name]拓也[line](（比起这个，要看眼前这个女人……。）。)[%p]
+
+JA [name]たくや[line](だからさ。)[%p]
+ZH [name]拓也[line](（都说过了。）。)[%p]
+
+JA [name]たくや[line](目の前のあの女性‥‥気にならないのか?)[%p]
+ZH [name]拓也[line](（眼前的这个女性……难道不值得注意吗？）)[%p]
+
+JA [name]たくや[line](おいおい‥‥そんなのを使ってるときじゃなくて。)[%p]
+ZH [name]拓也[line](（喂喂……现在不是使用那东西的时候吧。）。)[%p]
+
+JA 
+ZH 
+

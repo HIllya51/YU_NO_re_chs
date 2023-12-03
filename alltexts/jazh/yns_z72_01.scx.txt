@@ -1,0 +1,174 @@
+JA [name]たくや[line]広いホールのようだが。ここは一体?[%p]
+ZH [name]拓也[line]JF:好像是个宽敞的大厅。这里到底是什么？[%p]
+
+JA [name]たくや[line]なぜ、あんな台座に人が吊るされているんだ?[%p]
+ZH [name]拓也[line]JF:为什么会有人吊在那样的台座上？[%p]
+
+JA [name]たくや[line]上の天窓みたいなところからは、日光が微量に差し込んでくる‥‥。[%p]
+ZH [name]拓也[line]从上方好像是天花板一样的地方，泄露出微量的日光……。[%p]
+
+JA [name]たくや[line]それが、このホールみたいな場所の光源って訳か。[%p]
+ZH [name]拓也[line]那个，应该是这个广场一样的地方发出来的光源吧。[%p]
+
+JA [name]たくや[line]上の方はと‥‥凄いな。[%p]
+ZH [name]拓也[line]看头顶上……好厉害啊。[%p]
+
+JA [name]たくや[line]吹き抜けで、4〜5階分はありそうだぜ‥‥。[%p]
+ZH [name]拓也[line]JF:风吹过，好像有4～5层。[%p]
+
+JA [name]たくや[line]広いところだな‥‥直径数十メートルの円形ホールだ。[%p]
+ZH [name]拓也[line]好宽敞的地方啊……一个直径数十米的圆形广场。[%p]
+
+JA [name]たくや[line]あの上に、誰かがいるみたいだ‥‥。[%p]
+ZH [name]拓也[line]那上面，好像有什么人在……。[%p]
+
+JA [name]たくや[line]誰なんだ、いったい‥‥。[%p]
+ZH [name]拓也[line]到底，是谁呢……。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]上に‥‥誰かがいる!?[%p]
+ZH [name]拓也[line]上面……有人在！？[%p]
+
+JA [name]たくや[line]こんな場所に‥‥いったい、誰だ!?[%p]
+ZH [name]拓也[line]会在这种地方……到底，是谁呢！？[%p]
+
+JA [name]たくや[line]吊るされている感じだが‥‥。[%p]
+ZH [name]拓也[line]感觉好像是被吊起来的……。[%p]
+
+JA [name]たくや[line]よくわからないが‥‥。[%p]
+ZH [name]拓也[line]虽然搞不清楚……。[%p]
+
+JA [name]たくや[line]何かの大きな台座みたいだ‥‥。[%p]
+ZH [name]拓也[line]看起来像是某种很大的底座……。[%p]
+
+JA [name]たくや[line]石造りの、台座みたいな感じだ‥‥。[%p]
+ZH [name]拓也[line]看上去，像是石头制造的底座……。[%p]
+
+JA [name]たくや[line]いや、大きさはかなりデカいぞ。距離感がないから、小さく見えるが‥‥。[%p]
+ZH [name]拓也[line]不，外形相当地庞大。因为没有距离感，所以看上去好像很小……。[%p]
+
+JA [name]たくや[line]目の前の物体‥‥何だろうな、あれは。[%p]
+ZH [name]拓也[line]眼前的物体……到底是什么东西呢。[%p]
+
+JA [name]たくや[line]石で造られているみたいだけど‥‥。[%p]
+ZH [name]拓也[line]看上去好像是石头制造的……。[%p]
+
+JA [name]たくや[line]何だか妙な床だな‥‥。[%p]
+ZH [name]拓也[line]一种很奇特的地板……。[%p]
+
+JA [name]たくや[line]いずれにしても、変な感じがする‥‥。[%p]
+ZH [name]拓也[line]不管怎么说，总之是感觉很奇怪……。[%p]
+
+JA [name]たくや[line]石だたみ‥‥って感じじゃないかな。[%p]
+ZH [name]拓也[line]是由石头铺成的……应该是的吧。[%p]
+
+JA [name]たくや[line]平たい石が並んでいる‥‥。[%p]
+ZH [name]拓也[line]由平滑的石头铺砌而成……。[%p]
+
+JA [name]たくや[line]‥‥何だろう、これは。[%p]
+ZH [name]拓也[line]……这是什么东西呢。[%p]
+
+JA [name]たくや[line]遠くの階段よりも‥‥目の前のあの階段だ。[%p]
+ZH [name]拓也[line]与其看远处的阶梯……不如关注眼前的阶梯。[%p]
+
+JA [name]たくや[line]上ってみないか‥‥?[%p]
+ZH [name]拓也[line]不登上去看看吗……？[%p]
+
+JA [name]たくや[line]遠くに階段があるが‥‥。[%p]
+ZH [name]拓也[line]虽然远处也有阶梯……。[%p]
+
+JA [name]たくや[line]目の前の石造りの台座にも、階段があるぜ‥‥。[%p]
+ZH [name]拓也[line]眼前的石制底座上，也有一道阶梯……。[%p]
+
+JA [name]たくや[line]遠くに階段が見える‥‥。[%p]
+ZH [name]拓也[line]能够看到远处的阶梯……。[%p]
+
+JA [name]たくや[line]あれを上っていくと、何があるんだろう‥‥?[%p]
+ZH [name]拓也[line]登上那里之后，会有什么东西呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだな‥‥誰かが吊るされているような感じだ。[%p]
+ZH [name]拓也[line]对啊……感觉好像有人被吊起来了呢。[%p]
+
+JA [name]たくや[line]こんな場所に、いったい誰が‥‥。[%p]
+ZH [name]拓也[line]到底是谁，会在这种地方……。[%p]
+
+JA [name]たくや[line]よし‥‥。[%p]
+ZH [name]拓也[line]好嘞……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]近くで見ると、ひときわ大きなモンだな‥‥。[%p]
+ZH [name]拓也[line]这么靠近了一看，真是特别地大啊……。[%p]
+
+JA [name]たくや[line]大きな、らせん階段ってヤツか‥‥。[%p]
+ZH [name]拓也[line]那是一道，巨大的螺旋状阶梯……。[%p]
+
+JA [name]たくや[line]いったいこの上には、誰がいるんだ‥‥?[%p]
+ZH [name]拓也[line]这上面，到底会有什么人在呢……？[%p]
+
+JA [name]たくや[line]しかも、こんな場所に‥‥。[%p]
+ZH [name]拓也[line]而且，还是在这种地方……。[%p]
+
+JA [name]たくや[line]‥‥!![%p]
+ZH [name]拓也[line]……！！[%p]
+
+JA [name]たくや[line]男だ‥‥男が吊るされている!?[%p]
+ZH [name]拓也[line]男人……一个男人被吊起来了！？[%p]
+
+JA [name]たくや[line]!!!!????[%p]
+ZH [name]拓也[line]!!!!????[%p]
+
+JA [name]たくや[line]何だ、これは‥‥。[%p]
+ZH [name]拓也[line]这是什么啊……。[%p]
+
+JA [name]たくや[line]男が‥‥手を縛られているぜ。吊るされている感じだ。[%p]
+ZH [name]拓也[line]一个男人……双手被捆绑住了。好像正被吊起来。[%p]
+
+JA [name]たくや[line]いったい、なんだって‥‥。[%p]
+ZH [name]拓也[line]到底，是怎么回事……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰なんだ‥‥この男は‥‥?[%p]
+ZH [name]拓也[line]这个男人……是谁呢……？[%p]
+
+JA [name]たくや[line]今はダメだ‥‥。[%p]
+ZH [name]拓也[line]现在不行……。[%p]
+
+JA [name]たくや[line]もう少し、あたりを見てみないか‥‥?[%p]
+ZH [name]拓也[line]不要稍微再看一下这一带吗……？[%p]
+
+JA [name]たくや[line]ちょっと待ってくれよ‥‥。[%p]
+ZH [name]拓也[line]稍微等一下……。[%p]
+
+JA [name]たくや[line]慎重に行動しようぜ‥‥。[%p]
+ZH [name]拓也[line]（要慎重地行动呢……。）。[%p]
+
+JA [name]たくや[line]いったい、ここは何なんだ‥‥?[%p]
+ZH [name]拓也[line]（这里，到底是怎么回事……？）[%p]
+
+JA [name]たくや[line]戻りたくないったら。[%p]
+ZH [name]拓也[line]要是不想再回去的话。[%p]
+
+JA [name]たくや[line]おいおい、ここまで来て戻るのか?[%p]
+ZH [name]拓也[line]喂喂，都已经到这里了还要回去吗？[%p]
+
+JA [name]たくや[line]俺は戻りたくないぞ。[%p]
+ZH [name]拓也[line]我可不想再回去了呢。[%p]
+
+JA [name]たくや[line]慎重に行動しようぜ‥‥。[%p]
+ZH [name]拓也[line]（要慎重地行动呢……。）。[%p]
+
+JA [name]たくや[line]今はダメだ‥‥。[%p]
+ZH [name]拓也[line]现在不行……。[%p]
+
+JA 
+ZH 
+

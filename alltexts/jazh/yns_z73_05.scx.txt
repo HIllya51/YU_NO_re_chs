@@ -1,0 +1,138 @@
+JA [name]たくや[line]神帝‥‥亜由美さんはまだ来ていないようだ。[%p]
+ZH [name]拓也[line]JF:神帝……亚由美好像还没来。[%p]
+
+JA [name]たくや[line]探して見るか?[%p]
+ZH [name]拓也[line]JF:你去找找看嘛？[%p]
+
+JA [name]たくや[line]亜由美さんが約束を破るとは思えないのだが‥‥。[%p]
+ZH [name]拓也[line]JF:我不认为亚由美会违背约定。[%p]
+
+JA [name]たくや[line](広々とした中庭だ‥‥。)[%p]
+ZH [name]拓也[line](很宽敞的中庭……。)[%p]
+
+JA [name]たくや[line]朝の庭園は、清々しいな‥‥。[%p]
+ZH [name]拓也[line]早上的庭园，真是清爽啊……。[%p]
+
+JA [name]たくや[line]神帝の趣味だったらムカつくが、亜由美さんの趣味なら納得いく。[%p]
+ZH [name]拓也[line]如果是神帝的兴趣就会火大，但要是亚由美小姐的兴趣就可以接受。[%p]
+
+JA [name]たくや[line]でも‥‥亜由美さんが、神帝なんだろうか‥‥。[%p]
+ZH [name]拓也[line]但是……亚由美小姐，应该就是神帝吧……。[%p]
+
+JA [name]ユーノ[line]何だか、草むらの上に横になりたいね。[%p]
+ZH [name]优诺[line]感觉，好想横躺在草丛上面呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](窓が見える‥‥亜由美さんは見えないな。)[%p]
+ZH [name]拓也[line](可以看到窗户……但是看不到亚由美小姐。)[%p]
+
+JA [name]たくや[line]あの窓の1つ1つに、人がいるんだろうか‥‥?[%p]
+ZH [name]拓也[line]JF:那扇窗户的每一扇都有人吗？[%p]
+
+JA [name]ユーノ[line]もう、このお城も人が少ないって、そう言っていたわ。[%p]
+ZH [name]优诺[line]我听说，这座城里的人口，已经很少了啊。[%p]
+
+JA [name]たくや[line]亜由美さんが?[%p]
+ZH [name]拓也[line]亚由美小姐吗？[%p]
+
+JA [name]ユーノ[line]うん。[%p]
+ZH [name]优诺[line]唔嗯。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](柱がたくさん立っているな‥‥。)[%p]
+ZH [name]拓也[line](立起了很多的柱子……。)[%p]
+
+JA [name]たくや[line](ここを進んでいくと、祭壇らしい‥‥。)[%p]
+ZH [name]拓也[line](从这里往前走的话，好像就是祭坛……。)[%p]
+
+JA [name]たくや[line](廊下、か‥‥。)[%p]
+ZH [name]拓也[line](走廊，吗……。)[%p]
+
+JA [name]たくや[line](昨日、俺が亜由美さんを切ろうとした場所だ‥‥。)[%p]
+ZH [name]拓也[line](就是昨天，我打算砍了亚由美小姐的地方……。)[%p]
+
+JA [name]ユーノ[line]あそこを進むと、祭壇に出るわ。[%p]
+ZH [name]优诺[line]从那里往前走的话，就到祭坛了啊。[%p]
+
+JA [name]たくや[line]飲めるらしいが‥‥。[%p]
+ZH [name]拓也[line]好像是可以喝的……。[%p]
+
+JA [name]たくや[line]綺麗な水だ‥‥透き通っている。[%p]
+ZH [name]拓也[line]好干净的水……真是清澈透明。[%p]
+
+JA [name]ユーノ[line]飲めるみたいよ‥‥。[%p]
+ZH [name]优诺[line]好像是可以喝的哦……。[%p]
+
+JA [name]たくや[line]‥‥いまはいい。[%p]
+ZH [name]拓也[line]……我现在不喝。[%p]
+
+JA [name]たくや[line](そうだな‥‥ここで、こうしていてもしょうがない。)[%p]
+ZH [name]拓也[line](对了……就算这样子待在这里，也没什么用。)[%p]
+
+JA [name]ユーノ[line]あそこへ行くの?[%p]
+ZH [name]优诺[line]要到那边去吗？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]ユーノ[line]一緒に行く。[%p]
+ZH [name]优诺[line]我们一起走吧。[%p]
+
+JA [name]たくや[line](‥‥そうだな。移動してみよう。)[%p]
+ZH [name]拓也[line](……对了。先移动过去看看吧。)[%p]
+
+JA [name]たくや[line]だから、会っていないというのに。[%p]
+ZH [name]拓也[line]明明都说了，不会遇到的呢。[%p]
+
+JA [name]ユーノ[line]パパ、さっきからウロウロしてる。[%p]
+ZH [name]优诺[line]爸爸，你从刚才开始就念叨个不停。[%p]
+
+JA [name]たくや[line]うるさい。[%p]
+ZH [name]拓也[line]吵死了。[%p]
+
+JA [name]たくや[line](まだ俺たちは亜由美さんに会ってないぜ‥‥。)[%p]
+ZH [name]拓也[line](我们现在还不会遇到亚由美小姐的呢……。)[%p]
+
+JA [name]たくや[line](ユーノなら、傍らにいるぜ‥‥。)[%p]
+ZH [name]拓也[line](优诺的话，就在我身边呢……。)[%p]
+
+JA [name]たくや[line](俺が探すのはユーノじゃない。)[%p]
+ZH [name]拓也[line](我要寻找的不是优诺。)[%p]
+
+JA [name]たくや[line](約束の場所も時刻も、間違っていないと思うが‥‥。)[%p]
+ZH [name]拓也[line](（约定的地方也好时候也好，我觉得都没有错吧……。）。)[%p]
+
+JA [name]たくや[line]いないな‥‥。[%p]
+ZH [name]拓也[line]不在这里……。[%p]
+
+JA [name]ユーノ[line]ユーノがいるわ。[%p]
+ZH [name]优诺[line]优诺在这里哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]亜由美さんの姿は、まだ見えない‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的身影，还是没看到……。[%p]
+
+JA [name]たくや[line]彼女は昨日言ったよな‥‥明日の朝、ここでまた会おうと。[%p]
+ZH [name]拓也[line]她昨天已经说过了……明天早上，再在这里见个面。[%p]
+
+JA [name]たくや[line]そして明日の朝‥‥今朝になったわけだが‥‥。[%p]
+ZH [name]拓也[line]然后明天早上……也就是今天的早上……。[%p]
+
+JA [name]たくや[line]彼女の姿はどこにも見えない。[%p]
+ZH [name]拓也[line]不管在哪里都看不到她的身影。[%p]
+
+JA [name]ユーノ[line]朝のお通じじゃない?[%p]
+ZH [name]优诺[line]不会是早上去排泄了吧？[%p]
+
+JA [name]たくや[line]違うっ。[%p]
+ZH [name]拓也[line]不对。[%p]
+
+JA 
+ZH 
+

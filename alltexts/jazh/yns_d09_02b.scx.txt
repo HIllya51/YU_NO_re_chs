@@ -1,0 +1,744 @@
+JA [name]たくや[line]誰も寝ていない‥‥。[%p]
+ZH [name]拓也[line]没有人在睡觉……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]じゃあ、何でカーテンがひいてあったんだ?[%p]
+ZH [name]拓也[line]那么，为什么要把帘子拉起来呢？[%p]
+
+JA [name]たくや[line]何か、妙だよな‥‥。[%p]
+ZH [name]拓也[line]感觉，有点奇怪……。[%p]
+
+JA [name]声[line]んん‥‥。[%p]
+ZH [name]声音[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]んんん‥‥。[%p]
+ZH [name]声音[line]嗯嗯嗯……。[%p]
+
+JA [name]たくや[line]やっぱり、誰かいるんだ‥‥ここに、誰かいる。[%p]
+ZH [name]拓也[line]果然，有人在呢……这里，有人在。[%p]
+
+JA [name]たくや[line]どこだ、どこにいるんだ?[%p]
+ZH [name]拓也[line]在哪里，到底在哪里呢？[%p]
+
+JA [name]声[line]クシュン。[%p]
+ZH [name]声音[line]哈啾。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]今、確かに‥‥くしゃみをしたような声が聞こえてきたが。[%p]
+ZH [name]拓也[line]刚才，确实……听到了类似于打喷嚏的声音。[%p]
+
+JA [name]たくや[line]‥‥俺の気のせいか?[%p]
+ZH [name]拓也[line]……是我听错了吗？[%p]
+
+JA [name]たくや[line]そうだよ、考えられるのはベッドの下くらいだ。[%p]
+ZH [name]拓也[line]对了，仔细想想应该是从床底下传来的。[%p]
+
+JA [name]たくや[line]しかし、こんなベッドの下に潜り込んで、いったい‥‥。[%p]
+ZH [name]拓也[line]但是，居然潜伏在这张床的下面，究竟……。[%p]
+
+JA [name]たくや[line]どわっ![%p]
+ZH [name]拓也[line]呃哇！[%p]
+
+JA [name]たくや[line](ドキドキドキ‥‥。)[%p]
+ZH [name]拓也[line](心脏扑通扑通‥‥。)[%p]
+
+JA [name]たくや[line]な、何だぁ?[%p]
+ZH [name]拓也[line]什，什么啊？[%p]
+
+JA [name]声[line]んん‥‥‥‥。[%p]
+ZH [name]声音[line]（嗯嗯…………。）。[%p]
+
+JA [name]たくや[line]こ、これって‥‥いわゆるその、ふ、太もも?[%p]
+ZH [name]拓也[line]这，这个是……所谓的那个，大，大腿？[%p]
+
+JA [name]たくや[line]随分、むっちりしていて、柔らかそう‥‥じゃなくて。[%p]
+ZH [name]拓也[line]看上去，真是相当丰满，而且又柔软……不对。[%p]
+
+JA [name]たくや[line]やっぱり、ベッドの下に‥‥誰かいるのか?[%p]
+ZH [name]拓也[line]果然，床底下……有人在吗？[%p]
+
+JA [name]たくや[line]いったい誰が‥‥。[%p]
+ZH [name]拓也[line]究竟是谁……。[%p]
+
+JA [name]声[line]んん‥‥‥‥。[%p]
+ZH [name]声音[line]（嗯嗯…………。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥ごくっ。[%p]
+ZH [name]拓也[line]……咕嘟。[%p]
+
+JA [name]たくや[line]と、とにかく、下を見てみようぜ‥‥。[%p]
+ZH [name]拓也[line]总，总而言之，先看看下面吧……。[%p]
+
+JA [name]絵里子[line]んん‥‥。[%p]
+ZH [name]绘里子[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]え、絵里子先生‥‥!?[%p]
+ZH [name]拓也[line]绘，绘里子老师……！？[%p]
+
+JA [name]絵里子[line]‥‥んん‥‥‥‥‥。[%p]
+ZH [name]绘里子[line]……嗯嗯…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ね、眠っているみたいだ‥‥。[%p]
+ZH [name]拓也[line]好，好像在睡觉……。[%p]
+
+JA [name]たくや[line]何とも色っぽい声を出すから、違う期待をしちまったぞ。[%p]
+ZH [name]拓也[line]居然发出这么性感的声音，害我都产生了错误的期待。[%p]
+
+JA [name]たくや[line]でも、いったい何をやってるんだ、ベッドの下で。[%p]
+ZH [name]拓也[line]不过，她究竟是在做什么啊，躲在床底下。[%p]
+
+JA [name]たくや[line]しかもこんな、硬い床の上で、よく寝ていられるな‥‥。[%p]
+ZH [name]拓也[line]而且，还在这么硬的地板上，睡得这么香啊……。[%p]
+
+JA [name]たくや[line]硬い、床の上か‥‥‥‥。[%p]
+ZH [name]拓也[line]硬硬的，地板上吗…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]ん‥‥アーベル‥‥デル‥‥ミドラ‥‥。[%p]
+ZH [name]绘里子[line]嗯……阿贝尔……德鲁……米多拉……。[%p]
+
+JA [name]たくや[line]‥‥なに?[%p]
+ZH [name]拓也[line]……什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]寝言、かな‥‥?[%p]
+ZH [name]拓也[line]说梦话，吧……？[%p]
+
+JA [name]たくや[line]良く見たら絵里子先生、うっすらと汗をかいているぞ。[%p]
+ZH [name]拓也[line]这么仔细一看的话，绘里子老师身上到处都是汗呢。[%p]
+
+JA [name]たくや[line]それほど暑いって訳でもないし‥‥。[%p]
+ZH [name]拓也[line]应该也还没到这么热的程度……。[%p]
+
+JA [name]絵里子[line]あぁぁ‥‥アーベル‥‥。[%p]
+ZH [name]绘里子[line]啊啊啊……阿贝尔……。[%p]
+
+JA [name]たくや[line](ドキッ‥‥。)[%p]
+ZH [name]拓也[line](（普通……。）。)[%p]
+
+JA [name]絵里子[line]あぁぁぁっ‥‥熱い‥‥熱いよ‥‥焼かれるよ‥‥。[%p]
+ZH [name]绘里子[line]啊啊啊啊……好热……好热啊……烧起来了……。[%p]
+
+JA [name]たくや[line]え、絵里子先生‥‥うなされているのか?[%p]
+ZH [name]拓也[line]绘，绘里子老师……做恶梦了吗？[%p]
+
+JA [name]絵里子[line]焼かれる‥‥あぁ、私を置いていかないで‥‥。[%p]
+ZH [name]绘里子[line]烧起来了……啊啊，不要把我丢下来……。[%p]
+
+JA [name]絵里子[line]あいつは‥‥必ず私が‥‥。[%p]
+ZH [name]绘里子[line]那个家伙……我一定会……。[%p]
+
+JA [name]絵里子[line]ダメ‥‥いってはダメ‥‥ダメっ![%p]
+ZH [name]绘里子[line]不行……不能去啊……不行！[%p]
+
+JA [name]たくや[line]え、絵里子先生‥‥。[%p]
+ZH [name]拓也[line]绘，绘里子老师……。[%p]
+
+JA [name]たくや[line]な、何だか、酷くうなされているみたいだ‥‥。[%p]
+ZH [name]拓也[line]感，感觉，好像在做一个很可怕的恶梦啊……。[%p]
+
+JA [name]絵里子[line]きっとヤツを捕まえて、私は‥‥‥。[%p]
+ZH [name]绘里子[line]一定会把那家伙逮捕的，我……。[%p]
+
+JA [name]絵里子[line]帰りたい、あの頃へ‥‥あぁぁ‥‥‥‥。[%p]
+ZH [name]绘里子[line]好想回到，那个时候……啊啊啊…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]アーベルって、何のことだろうな‥‥頻繁にでてくるけど。[%p]
+ZH [name]拓也[line]阿贝尔，是在说什么啊……频繁地出现呢。[%p]
+
+JA [name]たくや[line]もしかして、絵里子先生の心の恋人だったりして‥‥。[%p]
+ZH [name]拓也[line]莫非，那是绘里子老师心里面的恋人……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]と、とにかく凄い汗だな‥‥そうだ、いつも亜由美さんがポケットに入れてくれてるハンカチがあるぞ。[%p]
+ZH [name]拓也[line]总，总而言之汗流浃背了啊……对了，口袋里有亚由美小姐平时总给我放进去的手帕。[%p]
+
+JA [name]たくや[line]これで‥‥。[%p]
+ZH [name]拓也[line]用这个……。[%p]
+
+JA [name]たくや[line]目から流れ落ちてるのって‥‥もしかして、涙?[%p]
+ZH [name]拓也[line]从眼睛里流出来的……难道，是眼泪？[%p]
+
+JA [name]たくや[line]泣いているのか‥‥絵里子先生。[%p]
+ZH [name]拓也[line]正在哭泣吗……绘里子老师。[%p]
+
+JA [name]絵里子[line]ん‥‥。[%p]
+ZH [name]绘里子[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、絵里子先生って、こう見ると‥‥。[%p]
+ZH [name]拓也[line]但是，绘里子老师，这么看上去……。[%p]
+
+JA [name]たくや[line]すごく美人なんじゃないか‥‥?[%p]
+ZH [name]拓也[line]不正是个很漂亮的美女吗……？[%p]
+
+JA [name]たくや[line]な、何だかドキドキしてくるな‥‥。[%p]
+ZH [name]拓也[line]总，总觉得心在扑通扑通跳啊……。[%p]
+
+JA [name]絵里子[line]あぁぁ‥‥アーベル、私の所に戻ってきてくれたんだね。[%p]
+ZH [name]绘里子[line]啊啊啊……阿贝尔，请你回到我的身边来吧。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]絵里子[line]お願いよ‥‥もっと近くに‥‥来て。[%p]
+ZH [name]绘里子[line]拜托了……再靠近一点……来吧。[%p]
+
+JA [name]たくや[line]ちょっ‥‥なっ‥‥絵里子先生、気を確かに‥‥んっ。[auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]等一……呐……绘里子老师，清醒过来……恩。[auto-forward][linebreak][linebreak]
+
+JA [name]絵里子[line]ん‥‥んん‥‥。[%p]
+ZH [name]绘里子[line]嗯……嗯嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]ぷはぁぁぁっ![%p]
+ZH [name]拓也[line]噗哈啊啊啊！[%p]
+
+JA [name]たくや[line]え、絵里子先生、寝ぼけてるとはいえ‥‥。[%p]
+ZH [name]拓也[line]绘，绘里子老师，虽说是睡迷糊了……。[%p]
+
+JA [name]たくや[line]ふ、不覚にも、唇を奪われてしまった‥‥。[%p]
+ZH [name]拓也[line]不，不知不觉地，被她亲了一口……。[%p]
+
+JA [name]たくや[line]絵里子先生、かなり感情的に高ぶっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，看起来情绪相当地高昂啊……。[%p]
+
+JA [name]たくや[line]俺を、アーベルとかいう人と勘違いしたんだろうけど‥‥。[%p]
+ZH [name]拓也[line]把我，跟那个叫做阿贝尔的人给搞错了吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥でも、ちょっと良かったな。柔らかい唇だったし。[%p]
+ZH [name]拓也[line]……不过，有点不错呢。嘴唇这么柔软。[%p]
+
+JA [name]絵里子[line]ん‥‥‥‥。[%p]
+ZH [name]绘里子[line]嗯…………。[%p]
+
+JA [name]たくや[line]あっ、起きたみたいだ。[%p]
+ZH [name]拓也[line]啊、好像醒过来了。[%p]
+
+JA [name]絵里子[line]ん‥‥あれ‥‥。[%p]
+ZH [name]绘里子[line]嗯……咦……。[%p]
+
+JA [name]たくや[line]なにやってるんだよ、こんな所で‥‥。[%p]
+ZH [name]拓也[line]你在做什么啊，在这种地方……。[%p]
+
+JA [name]絵里子[line]‥‥あれ、アーベル?[%p]
+ZH [name]绘里子[line]……咦，阿贝尔？[%p]
+
+JA [name]たくや[line]まだ、寝ぼけているのかな‥‥。[%p]
+ZH [name]拓也[line]你还，没睡醒吗……。[%p]
+
+JA [name]絵里子[line]あっ‥‥き、君は‥‥何をやっているんだ、こんな所で。[%p]
+ZH [name]绘里子[line]啊……你，你是……你在做什么啊，在这种地方。[%p]
+
+JA [name]たくや[line]そりゃあ俺のセリフだよ。絵里子先生、こんな硬い床の上で眠っているんだもんな。[%p]
+ZH [name]拓也[line]那是我要问你的啊。绘里子老师，你怎么会在这么硬的地板上睡觉啊。[%p]
+
+JA [name]絵里子[line]眠って‥‥
+ZH [name]绘里子[line]睡觉……
+
+JA きゃぁぁぁっ!![%p]
+ZH 呀啊啊啊！！[%p]
+
+JA [name]絵里子[line]眠って‥‥きゃぁぁぁっ!!
+ZH [name]绘里子[line]睡觉……呀啊啊啊！！
+
+JA [name]たくや[line]きゃぁ?[%p]
+ZH [name]拓也[line]呀啊？[%p]
+
+JA [name]絵里子[line]で、出ていけ‥‥出てけーっ![%p]
+ZH [name]绘里子[line]出，出去……你给我出去——！[%p]
+
+JA [name]たくや[line]ちょっ‥‥痛っ‥‥痛いよ、ポカポカ殴らないでくれっ。[%p]
+ZH [name]拓也[line]等……痛……好痛啊，不要一直用力打我。[%p]
+
+JA [name]絵里子[line]わ、私の寝所に入ってくるとは‥‥不届き千万![%p]
+ZH [name]绘里子[line]居，居然闯进我睡觉的地方……真是太没礼貌了！[%p]
+
+JA [name]たくや[line]痛い、痛いよ‥‥わかった、わかったってば。[%p]
+ZH [name]拓也[line]好痛，好痛啊……知道了，我知道了啦。[%p]
+
+JA [name]たくや[line]ふぅ‥‥ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……呼……。[%p]
+
+JA [name]たくや[line]ふぃぃ‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]呼——………………。[%p]
+
+JA [name]たくや[line]いててて‥‥まったく、何だっていうんだ。[%p]
+ZH [name]拓也[line]痛痛痛痛……真是的，到底是怎么了啊。[%p]
+
+JA [name]たくや[line]いきなり、ポカポカ殴らなくたっていいじゃないか‥‥。[%p]
+ZH [name]拓也[line]突然，就开始不停地打我这也可以吗……。[%p]
+
+JA [name]たくや[line]そりゃ、黙って見ていたのは、悪かったかもしれないけどさ‥‥。[%p]
+ZH [name]拓也[line]那个，虽然说默默地看着，或许有点不太好……。[%p]
+
+JA [name]たくや[line]しかし‥‥。[%p]
+ZH [name]拓也[line]但是……。[%p]
+
+JA [name]たくや[line]さっきの悲鳴、確かに絵里子先生だよな‥‥。[%p]
+ZH [name]拓也[line]刚才的惨叫声，确实是绘里子老师发出的啊……。[%p]
+
+JA [name]たくや[line]あんなに可愛らしいというか、何というか‥‥意外だ。[%p]
+ZH [name]拓也[line]居然会这么可爱，怎么说呢……很意外啊。[%p]
+
+JA [name]絵里子[line]まったく、君は‥‥何をやっているんだ。[%p]
+ZH [name]绘里子[line]真是的，你啊……在做什么呢。[%p]
+
+JA [name]たくや[line]だからそれは俺のセリフだって、言ったろう?[%p]
+ZH [name]拓也[line]所以说这是我要说的啊，刚才我不就说了吗？[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]たまたま保健室へやってきたら、絵里子先生が‥‥。[%p]
+ZH [name]拓也[line]偶尔会在保健室这么做的话，绘里子老师……。[%p]
+
+JA [name]絵里子[line]わ、私の寝顔を見たな‥‥。[%p]
+ZH [name]绘里子[line]看，看到我的睡脸了啊……。[%p]
+
+JA [name]たくや[line]み、見たけど‥‥。[%p]
+ZH [name]拓也[line]看，看是看到了……。[%p]
+
+JA [name]絵里子[line]あぁ、もう![%p]
+ZH [name]绘里子[line]啊啊，够了！[%p]
+
+JA [name]たくや[line]な、なに?[%p]
+ZH [name]拓也[line]什，什么？[%p]
+
+JA [name]絵里子[line]寝顔を見ていいのは、私の生涯の[ruby-base]伴侶[ruby-text-start]はんりょ[ruby-text-end]だけだ。[%p]
+ZH [name]绘里子[line]可以看到我睡脸的，只有我生涯的伴侣（ｈａｎｒｙｏ）而已。[%p]
+
+JA [name]たくや[line]はんりょ? なにそれ?[%p]
+ZH [name]拓也[line]伴侣？　那是什么？[%p]
+
+JA [name]絵里子[line]‥‥不覚とはいえ、こうもモラルを逸脱してしまうとは‥‥。[%p]
+ZH [name]绘里子[line]……虽然说我也没注意，但你这样也很不道德啊……。[%p]
+
+JA [name]たくや[line]な、何を怒っているんだよ、俺が何をしたっていうんだ。[%p]
+ZH [name]拓也[line]你，你在生什么气啊，我有做什么吗。[%p]
+
+JA [name]絵里子[line]しただろう![%p]
+ZH [name]绘里子[line]做了吧！[%p]
+
+JA [name]たくや[line]キ、キスだけだぞ。[%p]
+ZH [name]拓也[line]只，只有亲吻而已。[%p]
+
+JA [name]絵里子[line]なに! そんなこともしたのかっ!?[%p]
+ZH [name]绘里子[line]什么！　居然还做了那种事吗！？[%p]
+
+JA [name]たくや[line]え、絵里子先生からしてきたんじゃないか。[%p]
+ZH [name]拓也[line]那，那不是绘里子老师你主动亲上来的吗。[%p]
+
+JA [name]絵里子[line]‥‥?[%p]
+ZH [name]绘里子[line]……？[%p]
+
+JA [name]たくや[line]そうだよ、「あーべるぅ」とか言いながら、俺に‥‥。[%p]
+ZH [name]拓也[line]对啊，一边叫着［阿——贝尔］什么的，一边对我……。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]昔の彼氏かなんだか知らないけど、何だか酷くうなされていたみたいだぜ。[%p]
+ZH [name]拓也[line]虽然可能是你以前的男朋友，但是总觉得看起来像是做了很可怕的恶梦呢。[%p]
+
+JA [name]絵里子[line]だが‥‥私の寝顔を見たじゃないか。[%p]
+ZH [name]绘里子[line]但是……你不是看到我的睡脸了吗。[%p]
+
+JA [name]たくや[line]それがどうしたんだ?[%p]
+ZH [name]拓也[line]那又怎么了？[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line](何がなんだか、サッパリわからないぞ。)[%p]
+ZH [name]拓也[line](（究竟是怎么回事，真是完全搞不懂呢。）。)[%p]
+
+JA [name]絵里子[line]ふぅ‥‥取り乱してすまなかった。[%p]
+ZH [name]绘里子[line]呼……先不要慌慌张张的。[%p]
+
+JA [name]たくや[line]いや別に‥‥けど、何であんな硬い床の上に寝ていたんだい。[%p]
+ZH [name]拓也[line]没什么……不过，为什么你要躺在这么硬的地板上睡觉啊。[%p]
+
+JA [name]絵里子[line]気持ちがいいからだ。[%p]
+ZH [name]绘里子[line]因为感觉很舒服。[%p]
+
+JA [name]たくや[line]はあ?[%p]
+ZH [name]拓也[line]哈啊？[%p]
+
+JA [name]絵里子[line]ベッドはどうも、性に合わなくてね‥‥寝心地がいい。[%p]
+ZH [name]绘里子[line]床什么的，跟我的性子合不来吧……这样睡起来舒服。[%p]
+
+JA [name]たくや[line]‥‥それにしては、うなされていたようだけど。[%p]
+ZH [name]拓也[line]……不过好像就是因为这样，所以才会做恶梦的。[%p]
+
+JA [name]絵里子[line]ああ、つまらない夢を見たようだ‥‥昔のことだよ。思い出したくもない、過去のことだ。[%p]
+ZH [name]绘里子[line]啊啊，好像是做了个无聊的梦……是以前的事啊。不堪回首的，往事。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]しかし君も‥‥こんな時間にいったい何の用なんだ?[%p]
+ZH [name]绘里子[line]而且你也是……都这个时候了到底有什么事啊？[%p]
+
+JA [name]たくや[line]いやその‥‥研究室に、忘れ物があって。[%p]
+ZH [name]拓也[line]哎呀……那个，把东西忘在研究室了。[%p]
+
+JA [name]絵里子[line]じゃあ、さっさと取ってきたまえ。私は考えたいことがあるんだ。[%p]
+ZH [name]绘里子[line]那么，你快点去拿回来吧。我还有事情需要考虑一下。[%p]
+
+JA [name]たくや[line]う、うん‥‥。[%p]
+ZH [name]拓也[line]（嗯、嗯‥‥）。[%p]
+
+JA [name]たくや[line](絵里子先生、ちょっとブルーが入ってるぜ‥‥。)[%p]
+ZH [name]拓也[line](（绘里子老师，心情稍微有点忧郁呢……。）。)[%p]
+
+JA [name]たくや[line](夢のこと、かな‥‥?)[%p]
+ZH [name]拓也[line](（关于梦的事，吗……？）)[%p]
+
+JA [name]たくや[line](だけど、聞けるような雰囲気じゃないしな‥‥。)[%p]
+ZH [name]拓也[line](（不跟，现在不是可以询问的气氛啊……。）。)[%p]
+
+JA [name]絵里子[line]その、叩いたりして、すまなかった。夢と混同してしまったようだ。[%p]
+ZH [name]绘里子[line]那个，打了你，真是抱歉。我好像把现实和梦混淆了。[%p]
+
+JA [name]たくや[line]別に、気にしちゃいないよ‥‥可愛い一面も見れたしね。[%p]
+ZH [name]拓也[line]没事，我倒没什么关系……反正也看到了你可爱的一面。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line](あれ‥‥赤くなったとか?)[%p]
+ZH [name]拓也[line](（咦……脸居然变红了？）)[%p]
+
+JA [name]たくや[line]じゃ、じゃあ‥‥俺、行くけど‥‥。[%p]
+ZH [name]拓也[line]那，那么……我，先走了……。[%p]
+
+JA [name]絵里子[line]早くしないと、入り口の電子錠をおろしてしまうぞ。[%p]
+ZH [name]绘里子[line]再不快点去的话，门口的电子锁就要锁上了。[%p]
+
+JA [name]たくや[line]それじゃ‥‥。[%p]
+ZH [name]拓也[line]那么再见……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](しかし、絵里子先生も変わり者だよな‥‥。)[%p]
+ZH [name]拓也[line](（但是，绘里子老师也是个怪人啊……。）。)[%p]
+
+JA [name]たくや[line](あんな硬い床の上で寝て‥‥。)[%p]
+ZH [name]拓也[line](（在这么硬的地板上睡觉……。）。)[%p]
+
+JA [name]たくや[line](しかも寝顔を見られたとか何とか‥‥何なんだ?)[%p]
+ZH [name]拓也[line](（还说什么睡脸被看见了之类的……怎么回事啊？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](それにしても、アーベルって、誰のことなのかな‥‥。)[%p]
+ZH [name]拓也[line](（话说回来，阿贝尔，究竟是说谁啊……。）。)[%p]
+
+JA [name]たくや[line]‥‥これを履いていた人物だろうか。[%p]
+ZH [name]拓也[line]……那是她心里面的人物吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]止めろってば。[%p]
+ZH [name]拓也[line]JF:我叫你停下来。[%p]
+
+JA [name]たくや[line]ちょびっとだけ、ぺろっと。[%p]
+ZH [name]拓也[line]稍微，舔一下。[%p]
+
+JA [name]たくや[line]‥‥嘘だよ、んなことしたら、本当に俺は危ないヤツになってしまう。[%p]
+ZH [name]拓也[line]……开玩笑的，如果做了这种事的话，我就真的变成一个危险的家伙了。[%p]
+
+JA [name]たくや[line]そうだ、俺はパンツを舐めたかったんだ。べろべーろ。[%p]
+ZH [name]拓也[line]JF:对了，我想舔内裤。黏糊糊的。[%p]
+
+JA [name]たくや[line]‥‥やめよう、虚しいぞ。[%p]
+ZH [name]拓也[line]……还是算了，太空虚了。[%p]
+
+JA [name]たくや[line]パンツは関係ないぞ‥‥。[%p]
+ZH [name]拓也[line]JF:和内裤没有关系。[%p]
+
+JA [name]たくや[line]ダメだ、見ているとなぜかクラクラくるぞ。[%p]
+ZH [name]拓也[line]不行了，看着这里为什么会有头晕的感觉。[%p]
+
+JA [name]たくや[line]見るのはよそう‥‥。[%p]
+ZH [name]拓也[line]还是不要看了……。[%p]
+
+JA [name]たくや[line]うーん、こころなしか、ほんわかと暖かみを感じるような‥‥はっ。[%p]
+ZH [name]拓也[line]嗯——，不知是不是心理作用，心里好像有种温暖的感觉……哈。[%p]
+
+JA [name]たくや[line]い、いかんいかん、なに匂いを嗅ごうとしてるんだ、俺は。[%p]
+ZH [name]拓也[line]不，不行不行，在嗅些什么味道啊，我真是的。[%p]
+
+JA [name]たくや[line]これではまるで、変態みたいではないか。[%p]
+ZH [name]拓也[line]这样子，不就简直像是一个变态了吗。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]これは‥‥。[%p]
+ZH [name]拓也[line]这个是……。[%p]
+
+JA [name]たくや[line]まさか女性用のパンツでは?[%p]
+ZH [name]拓也[line]JF:难道是女性用的内裤吗？[%p]
+
+JA [name]たくや[line]そうか、だから手に取って、匂いを嗅ぎたくなったんだな‥‥。[%p]
+ZH [name]拓也[line]是吗，所以我才会想要伸手拿过来，仔细闻一闻了啊……。[%p]
+
+JA [name]たくや[line]‥‥冗談だよ。[%p]
+ZH [name]拓也[line]……开玩笑的。[%p]
+
+JA [name]たくや[line]だが問題は、なぜパンツがここにあるのかということだ。[%p]
+ZH [name]拓也[line]JF:但问题是，为什么内裤会在这里。[%p]
+
+JA [name]たくや[line]‥‥なぜだろう?[%p]
+ZH [name]拓也[line]‥‥为什么呢？[%p]
+
+JA [name]たくや[line]手袋だな。[%p]
+ZH [name]拓也[line]这是手套。[%p]
+
+JA [name]たくや[line]この中に人が‥‥いるわけないぞ。[%p]
+ZH [name]拓也[line]这里面有人……才不可能呢。[%p]
+
+JA [name]たくや[line]肘の上までおおう、長い手袋だな‥‥。[%p]
+ZH [name]拓也[line]能够一直套到手肘的，长手套……。[%p]
+
+JA [name]たくや[line]‥‥手袋、だよな。[%p]
+ZH [name]拓也[line]……这个，是手套。[%p]
+
+JA [name]たくや[line]肘の上までおおう長い手袋だ‥‥パーティ用でよくあるやつだな。[%p]
+ZH [name]拓也[line]能够一直套到手肘的长手套……经常会在宴会上用到。[%p]
+
+JA [name]たくや[line]しかし、何で保健室のベッドの上にあるんだ?[%p]
+ZH [name]拓也[line]但是，为什么会出现在保健室的床上呢？[%p]
+
+JA [name]たくや[line]心がそそられるが、これじゃない。[%p]
+ZH [name]拓也[line]勾动了我的心的，不是这个。[%p]
+
+JA [name]たくや[line]ストッキングが落ちないように吊る、ガーターってヤツだな。[%p]
+ZH [name]拓也[line]为了不让长筒袜掉下去而吊起来的，叫做吊带袜的东西。[%p]
+
+JA [name]たくや[line]これは‥‥もしかして、あれか?[%p]
+ZH [name]拓也[line]这个是……莫非，是那个吗？[%p]
+
+JA [name]たくや[line]ヒモで、ストッキングをとめておく女性用の下着だぞ。[%p]
+ZH [name]拓也[line]用松紧带，将长筒袜固定住的女性用内衣。[%p]
+
+JA [name]たくや[line]しかも手前に置いてあるのは、どうもストッキングらしい。[%p]
+ZH [name]拓也[line]而我眼前放着的东西，很明显就是长筒袜。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]たくや[line]ストッキングだ‥‥かぶりたくなってくるな。[%p]
+ZH [name]拓也[line]这是长筒袜……真想被套起来啊。[%p]
+
+JA [name]たくや[line]‥‥じゃなくて。[%p]
+ZH [name]拓也[line]……不对。[%p]
+
+JA [name]たくや[line]ストッキングだな‥‥。[%p]
+ZH [name]拓也[line]这是长筒袜……。[%p]
+
+JA [name]たくや[line]決して、頭にかぶったりするものじゃない。[%p]
+ZH [name]拓也[line]当然，这不是把头套起来的东西。[%p]
+
+JA [name]たくや[line]‥‥どう見ても、ストッキングというヤツだな。[%p]
+ZH [name]拓也[line]……不管怎么看，这都是叫做长筒袜的东西。[%p]
+
+JA [name]たくや[line]しかもこれは、ガーターで吊るタイプのものだ‥‥。[%p]
+ZH [name]拓也[line]而且，这个还是用吊带吊起来的类型……。[%p]
+
+JA [name]たくや[line]あっ、もしかしてこの上にあるのが、ガーターか‥‥?[%p]
+ZH [name]拓也[line]啊、难道说在这上面的，就是松紧带吗……？[%p]
+
+JA [name]たくや[line]もしかしたら、この服を着ていた人が、いるんだろうか‥‥。[%p]
+ZH [name]拓也[line]莫非，穿着这衣服的人，就在这里吗……。[%p]
+
+JA [name]たくや[line]露出度の高いワンピースだな‥‥誰のかは判らないが。[%p]
+ZH [name]拓也[line]露出度很高的连身裙……不知道是谁的。[%p]
+
+JA [name]たくや[line]随分と、ボディコンシャスなワンピースだな‥‥。[%p]
+ZH [name]拓也[line]相当性感的，连身裙……。[%p]
+
+JA [name]たくや[line]だけど、絵里子先生がいつも着ているやつとは、違うみたいだ‥‥。[%p]
+ZH [name]拓也[line]不管，跟绘里子老师一直穿着的衣服，好像不一样……。[%p]
+
+JA [name]たくや[line]いったい誰の服なんだ‥‥?[%p]
+ZH [name]拓也[line]究竟是谁的衣服呢……？[%p]
+
+JA [name]たくや[line]パイプの中には‥‥。[%p]
+ZH [name]拓也[line]管子里面有……。[%p]
+
+JA [name]たくや[line]糸ミミズじゃないんだ、いるわけないぞ。[%p]
+ZH [name]拓也[line]不是蚯蚓呢，也不可能会有。[%p]
+
+JA [name]たくや[line]こいつに頭をぶつけると、ぐっすり眠れるぞ。[%p]
+ZH [name]拓也[line]要是把脑袋撞在这玩意上的话，一定会彻底睡死。[%p]
+
+JA [name]たくや[line]俺はイヤだが。[%p]
+ZH [name]拓也[line]虽然我讨厌这样。[%p]
+
+JA [name]たくや[line]ベッドのパイプだよ‥‥。[%p]
+ZH [name]拓也[line]床的管子……。[%p]
+
+JA [name]たくや[line]勢い良く寝て、よくこいつに頭をぶつけたものだ。[%p]
+ZH [name]拓也[line]我经常会猛地躺下去，把脑袋撞在这玩意上面。[%p]
+
+JA [name]たくや[line]おかげで、ぐっすり眠れてしまうんだ。[%p]
+ZH [name]拓也[line]拜此所赐，就彻底地睡死过去了。[%p]
+
+JA [name]たくや[line]マクラは関係ありそうもないな‥‥。[%p]
+ZH [name]拓也[line]应该跟枕头没什么关系……。[%p]
+
+JA [name]たくや[line]いったい、どこにいるんだろう?[%p]
+ZH [name]拓也[line]究竟，是在哪里呢？[%p]
+
+JA [name]たくや[line]マクラなんかどうだっていいんだ。[%p]
+ZH [name]拓也[line]枕头什么的怎么样都无所谓啦。[%p]
+
+JA [name]たくや[line]問題は、別にある‥‥。[%p]
+ZH [name]拓也[line]还有，别的问题……。[%p]
+
+JA [name]たくや[line]マクラだな‥‥。[%p]
+ZH [name]拓也[line]这是枕头……。[%p]
+
+JA [name]たくや[line]ここで一発「真っ暗なマクラぁ」。[%p]
+ZH [name]拓也[line]在这里来一次［昏暗的枕头］。[%p]
+
+JA [name]たくや[line]‥‥ごめんよ。[%p]
+ZH [name]拓也[line]……抱歉啊。[%p]
+
+JA [name]たくや[line]ベッドの中にいるわけないか‥‥。[%p]
+ZH [name]拓也[line]不可能会在床缝里面吧……。[%p]
+
+JA [name]たくや[line]これで中にいたら、せんべいみたいに平たい人間だ。[%p]
+ZH [name]拓也[line]要是在这里面的话，就是个跟煎饼一样扁平的人了。[%p]
+
+JA [name]たくや[line]こんな時間に生徒が寝ている訳はないし‥‥。[%p]
+ZH [name]拓也[line]这个时候应该没有学生在睡觉……。[%p]
+
+JA [name]たくや[line]かといって、絵里子先生が寝ている訳でもない‥‥。[%p]
+ZH [name]拓也[line]但是，也不可能是绘里子老师在睡觉……。[%p]
+
+JA [name]たくや[line]保健室に置いてある、普通のベッドだ‥‥。[%p]
+ZH [name]拓也[line]放在保健室里的，很普通的床……。[%p]
+
+JA [name]たくや[line]問題は、この惨状だな‥‥。[%p]
+ZH [name]拓也[line]问题是，如此惨状……。[%p]
+
+JA [name]たくや[line]誰も寝ていないのに閉まっていたカーテン、脱ぎ捨てられた服に下着‥‥。[%p]
+ZH [name]拓也[line]明明没人在睡觉却拉起来的帘子，脱下来的衣服和内衣……。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]たくや[line]んなところに、何もないぞ。[%p]
+ZH [name]拓也[line]那种地方，什么都没有呢。[%p]
+
+JA [name]たくや[line]キャスターだ‥‥ベッドを移動させるものだな。[%p]
+ZH [name]拓也[line]这是滑轮……让床可以移动的东西。[%p]
+
+JA [name]たくや[line]ゴロゴロと転がすためのキャスターだな。[%p]
+ZH [name]拓也[line]可以咕噜咕噜转动的滑轮。[%p]
+
+JA [name]たくや[line]今は転がす必要はないぞ‥‥。[%p]
+ZH [name]拓也[line]现在没有必要转起来……。[%p]
+
+JA [name]たくや[line]隣のベッドには誰もいない‥‥。[%p]
+ZH [name]拓也[line]隔壁的床上也没有人……。[%p]
+
+JA [name]たくや[line]というと、やはりこちら側なんだ‥‥。[%p]
+ZH [name]拓也[line]这样说来，果然是在这边方向……。[%p]
+
+JA [name]たくや[line]どこだ?[%p]
+ZH [name]拓也[line]在哪里？[%p]
+
+JA [name]たくや[line]カーテンだな‥‥。[%p]
+ZH [name]拓也[line]这是帘子……。[%p]
+
+JA [name]たくや[line]隣のベッドとの「しきり」だな‥‥。[%p]
+ZH [name]拓也[line]把隔壁的床［隔开］了……。[%p]
+
+JA [name]たくや[line]言っておくが、隣のベッドには誰もいないぜ‥‥。[%p]
+ZH [name]拓也[line]话先说在前头，隔壁的床上也没有人……。[%p]
+
+JA [name]たくや[line]このカーテンが閉まっていた‥‥。[%p]
+ZH [name]拓也[line]这个帘子拉起来了……。[%p]
+
+JA [name]たくや[line]ということは、やっぱり、ここに誰かが‥‥。[%p]
+ZH [name]拓也[line]也就是说，果然，有谁在这里……。[%p]
+
+JA [name]たくや[line]カーテンだよ‥‥。[%p]
+ZH [name]拓也[line]这是帘子……。[%p]
+
+JA [name]たくや[line]俺が開けたカーテンだ‥‥。[%p]
+ZH [name]拓也[line]这是我拉开的帘子……。[%p]
+
+JA [name]たくや[line]保健室に入ってきたときは、こいつが閉まっていた‥‥。[%p]
+ZH [name]拓也[line]走进保健室的时候，这玩意是拉上的……。[%p]
+
+JA [name]たくや[line]なぜ、閉まっていたんだろう‥‥?[%p]
+ZH [name]拓也[line]为什么，要把这个拉上呢……？[%p]
+
+JA [name]たくや[line]どこかにいるはずなんだ‥‥どこだ、どこにいる?[%p]
+ZH [name]拓也[line]应该是在什么地方的……在哪里，到底在哪里？[%p]
+
+JA [name]たくや[line]誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]たくや[line]見た所、誰もいないようだが‥‥。[%p]
+ZH [name]拓也[line]看上去，好像没有人在……。[%p]
+
+JA [name]たくや[line]そうじゃないよ‥‥。[%p]
+ZH [name]拓也[line]不是这样的……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないんだ。[%p]
+ZH [name]拓也[line]现在不是使用道具的时候。[%p]
+
+JA [name]たくや[line]そんなことをやっている場合じゃなくて‥‥。[%p]
+ZH [name]拓也[line]现在可不是做那种事的时候……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないな‥‥。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候啊……。[%p]
+
+JA 
+ZH 
+

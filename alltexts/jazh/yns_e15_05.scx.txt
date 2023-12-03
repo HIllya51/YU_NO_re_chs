@@ -1,0 +1,537 @@
+JA [name]たくや[line](料理の匂いがする‥‥。)[%p]
+ZH [name]拓也[line](（闻到饭菜的香味了……。）。)[%p]
+
+JA [name]たくや[line](髪の毛を頭の上で結っているみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（好像把头发盘在头顶了呢……。）。)[%p]
+
+JA [name]たくや[line](髪の毛を、頭の上で結っているな‥‥。)[%p]
+ZH [name]拓也[line](（把头发，盘在头顶了……。）。)[%p]
+
+JA [name]たくや[line](料理をしているからかな‥‥?)[%p]
+ZH [name]拓也[line](（正在做饭啊……？）)[%p]
+
+JA [name]たくや[line](白い首筋だ‥‥。)[%p]
+ZH [name]拓也[line](（雪白的后颈……。）。)[%p]
+
+JA [name]たくや[line](何だか、グッとくるものがあるな‥‥。)[%p]
+ZH [name]拓也[line](（心中，有一种很窝心的感觉啊……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンの、うなじだ‥‥。)[%p]
+ZH [name]拓也[line](（这是，神奈的脖子……。）。)[%p]
+
+JA [name]たくや[line](髪の毛をアップしているせいか、何だか色っぽく感じるな‥‥。)[%p]
+ZH [name]拓也[line](（是因为把头发盘上去的缘故吗，有种很妖艳的感觉呢……。）。)[%p]
+
+JA [name]たくや[line](何かを、炒めているんだろうか‥‥。)[%p]
+ZH [name]拓也[line](（她是不是，受过什么创伤啊……。）。)[%p]
+
+JA [name]たくや[line](野菜炒めってヤツかな‥‥。)[%p]
+ZH [name]拓也[line](（正在炒蔬菜呢……。）。)[%p]
+
+JA [name]たくや[line](フライパンに、何か乗っているぜ‥‥。)[%p]
+ZH [name]拓也[line](（平底锅里，放了很多东西呢……。）。)[%p]
+
+JA [name]たくや[line](そうか、ジュージューいっていたのは、これだったんだ。)[%p]
+ZH [name]拓也[line](（对了，咻——咻——的声音，就是这么来的啊。）。)[%p]
+
+JA [name]たくや[line](するってーと、トントンって音は、包丁の音だったのかな‥‥。)[%p]
+ZH [name]拓也[line](（这么说起来，咚咚的声音，就是切菜的声音啊……。）。)[%p]
+
+JA [name]たくや[line](女の子の料理姿って、何かいいもんだな‥‥。)[%p]
+ZH [name]拓也[line](（女孩子做饭的样子，看上去挺不错的啊……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そっか‥‥。)[%p]
+ZH [name]拓也[line](是么……。)[%p]
+
+JA [name]たくや[line](俺、昨夜はここで神奈チャンと‥‥。)[%p]
+ZH [name]拓也[line](（昨天晚上，我在这里跟神奈……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](でも‥‥‥。)[%p]
+ZH [name]拓也[line](（不过……。）。)[%p]
+
+JA [name]たくや[line](亜由美さんのときだって、そうは思わなかったのにな‥‥。)[%p]
+ZH [name]拓也[line](（跟亚由美小姐在一起的时候，完全没有那种想法的说……。）。)[%p]
+
+JA [name]たくや[line](こうして料理する後ろ姿を見ていると、まるで‥‥。)[%p]
+ZH [name]拓也[line](（像这样从后面看她做饭的样子，简直就像……。）。)[%p]
+
+JA [name]神奈[line]‥‥起きたんですね。[%p]
+ZH [name]神奈[line]……你起来了啊。[%p]
+
+JA [name]たくや[line]あ、いやその、今のは無しね‥‥。[%p]
+ZH [name]拓也[line]啊，那个，刚才没什么……。[%p]
+
+JA [name]神奈[line]はい?[%p]
+ZH [name]神奈[line]嗯？[%p]
+
+JA [name]たくや[line]‥‥何でもない。[%p]
+ZH [name]拓也[line]……没什么。[%p]
+
+JA [name]神奈[line]今、朝ごはん、作っていますから。[%p]
+ZH [name]神奈[line]我现在，正在做早饭呢。[%p]
+
+JA [name]たくや[line]あ、ありがとう‥‥。[%p]
+ZH [name]拓也[line]谢，谢谢……。[%p]
+
+JA [name]神奈[line]もうちょっと、待ってて下さい。[%p]
+ZH [name]神奈[line]请再稍微等一下。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ははは‥‥。[%p]
+ZH [name]拓也[line]哈哈哈……。[%p]
+
+JA [name]神奈[line]どうかしましたか。[%p]
+ZH [name]神奈[line]你怎么了。[%p]
+
+JA [name]たくや[line]いや‥‥思い出すわけないのに、思い出してしまってさ。[%p]
+ZH [name]拓也[line]没有……想起了一些，原本想不起来的事呢。[%p]
+
+JA [name]神奈[line]なにが、でしょうか。[%p]
+ZH [name]神奈[line]那么，是什么事呢。[%p]
+
+JA [name]たくや[line]寝ているとき、じゅーじゅーって音を聴いて、何か懐かしい感じがしたんだ‥‥。[%p]
+ZH [name]拓也[line]我睡觉的时候，听到了咻——咻——的声音，有种很怀念的感觉……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]女の子の後ろ姿って、結構いいものだと思ったんだ。母親を感じるって言ったら、嫌がる?[%p]
+ZH [name]拓也[line]从后面看上去，女孩子的姿势真的很不错呢。如果说有母亲的感觉，你会觉得讨厌吗？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]昨夜‥‥‥。[%p]
+ZH [name]神奈[line]昨晚……。[%p]
+
+JA [name]たくや[line]‥‥‥えっ?[%p]
+ZH [name]拓也[line]…………诶？[%p]
+
+JA [name]神奈[line]昨夜は、何もしませんでしたね‥‥。[%p]
+ZH [name]神奈[line]昨晚，什么都没做过呢……。[%p]
+
+JA [name]たくや[line]ぶへぇぇぇぇぇっくしょん! えっ、何か言った?[%p]
+ZH [name]拓也[line]噗哈～～～～～哈欠！诶，你说什么？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line](おかげで、昨夜は殆ど寝ていないんだよ‥‥。)[%p]
+ZH [name]拓也[line]JF:托您的福，昨晚几乎没睡[%p]
+
+JA [name]たくや[line](だって考えてもみろよ、可愛らしい女の子が、Tシャツ1枚で、すぐ隣のベッドに寝てるんだぜ。)[%p]
+ZH [name]拓也[line](（想想看，一个可爱的女孩子，只穿着一件Ｔ恤，就睡在自己身边。）。)[%p]
+
+JA [name]たくや[line](でも、神奈チャンの場合、ムラムラくるというよりは‥‥。)[%p]
+ZH [name]拓也[line](（不过，如果是神奈的话，比起突然冒出来的这个想法……。）。)[%p]
+
+JA [name]たくや[line](うーん、何だろう、この感覚は‥‥。)[%p]
+ZH [name]拓也[line](（嗯～，是什么呢，这种感觉……。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥俺は床の上で独り淋しく‥‥あれ?)[%p]
+ZH [name]拓也[line]JF:（嗯……我一个人在地板上寂寞……那个？）[%p]
+
+JA [name]たくや[line]何で俺、ベッドで寝ているんだ?[%p]
+ZH [name]拓也[line]为什么，我会睡在床上啊？[%p]
+
+JA [name]神奈[line]今朝、私が。[%p]
+ZH [name]神奈[line]我早上移的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]床で寝て、寒そうでしたから。[%p]
+ZH [name]神奈[line]因为，躺在地板上睡好像很冷。[%p]
+
+JA [name]たくや[line]そっか‥‥別に何もしなかったよな。[%p]
+ZH [name]拓也[line]是吗……没有什么别的意思啊。[%p]
+
+JA [name]神奈[line]‥‥なぜですか。何もしたくないほど、魅力がなかったですか?[%p]
+ZH [name]神奈[line]……为什么呢。难道是我没有魅力，导致你什么都不想做吗？[%p]
+
+JA [name]たくや[line]そんな聞き方、止めてくれよ。[%p]
+ZH [name]拓也[line]JF:那样的问法，停止吧。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]理由は、ある。[%p]
+ZH [name]拓也[line]因为，有个理由。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]そうだな、神奈チャンが可愛すぎたから、ってのはダメ?[%p]
+ZH [name]拓也[line]是的，正是因为神奈你太可爱了，所以才不行吧？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]豪華なご馳走がいきなり目の前にぶら下がってきたら、逆に警戒しちまう性格なんだ、俺は。[%p]
+ZH [name]拓也[line]按照我的性格来说，要是有丰盛的美食就在眼前唾手可及的话，反而会更加谨慎呢。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]ご馳走をぶらさげている糸をたぐって、誰が垂らしているのかを見ようとしてしまう。[%p]
+ZH [name]拓也[line]似乎能够看到，美食的另一头有人在拉着绳子等我上钩。[%p]
+
+JA [name]神奈[line]‥‥誰か、見えましたか?[%p]
+ZH [name]神奈[line]……会被，谁看到吗？[%p]
+
+JA [name]たくや[line]見えたかもしれない。[%p]
+ZH [name]拓也[line]说不定会看到。[%p]
+
+JA [name]神奈[line]誰でしたか?[%p]
+ZH [name]神奈[line]是谁呢？[%p]
+
+JA [name]たくや[line]俺のオヤジ。[%p]
+ZH [name]拓也[line]我家老头子。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]それは違います‥‥。[%p]
+ZH [name]神奈[line]你弄错了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]ね、神奈チャン。[%p]
+ZH [name]拓也[line]呐，神奈。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]今日の予定は?[%p]
+ZH [name]拓也[line]今天你有预定？[%p]
+
+JA [name]神奈[line]担任の武田先生とお話があります。[%p]
+ZH [name]神奈[line]要跟班主任老师谈话。[%p]
+
+JA [name]たくや[line]それ以外は?[%p]
+ZH [name]拓也[line]除此之外呢？[%p]
+
+JA [name]神奈[line]別にありません。[%p]
+ZH [name]神奈[line]没别的事了。[%p]
+
+JA [name]たくや[line]‥‥毎日、何をしてるんだい?[%p]
+ZH [name]拓也[line]……你每天，都在做些什么呢？[%p]
+
+JA [name]神奈[line]何も‥‥。[%p]
+ZH [name]神奈[line]什么也……。[%p]
+
+JA [name]たくや[line]趣味は?[%p]
+ZH [name]拓也[line]兴趣呢？[%p]
+
+JA [name]神奈[line]ありません。[%p]
+ZH [name]神奈[line]没有。[%p]
+
+JA [name]たくや[line]好きな食べ物は?[%p]
+ZH [name]拓也[line]喜欢吃的食物呢？[%p]
+
+JA [name]神奈[line]特に‥‥。[%p]
+ZH [name]神奈[line]没什么特别的……。[%p]
+
+JA [name]たくや[line]歌手とかは?[%p]
+ZH [name]拓也[line]歌手之类的？[%p]
+
+JA [name]神奈[line]歌は聴きませんから‥‥。[%p]
+ZH [name]神奈[line]我不听歌的……。[%p]
+
+JA [name]たくや[line]何が好きなのさ。[%p]
+ZH [name]拓也[line]有什么喜欢的吗。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]緑‥‥。[%p]
+ZH [name]神奈[line]绿色……。[%p]
+
+JA [name]たくや[line]みどり?[%p]
+ZH [name]拓也[line]绿色？[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]緑ってーと、赤、青、黄色、緑色のみどり?[%p]
+ZH [name]拓也[line]绿色，指的是红，橙，黄，绿的绿色？[%p]
+
+JA [name]神奈[line]植物のことです。木々を見ているのが、好きです。[%p]
+ZH [name]神奈[line]是指植物。我喜欢，观赏树木。[%p]
+
+JA [name]たくや[line]植物か‥‥。[%p]
+ZH [name]拓也[line]植物吗……。[%p]
+
+JA [name]神奈[line]そうです。[%p]
+ZH [name]神奈[line]是的。[%p]
+
+JA [name]たくや[line]てっきり、海が好きなのとばかり思ってた。[%p]
+ZH [name]拓也[line]我还以为，你一定是喜欢大海的呢。[%p]
+
+JA [name]神奈[line]そんなこと、ありません。[%p]
+ZH [name]神奈[line]没有那种事。[%p]
+
+JA [name]たくや[line]だって、いつも海を見ているじゃないか。[%p]
+ZH [name]拓也[line]因为，你不是一直会望着大海吗。[%p]
+
+JA [name]神奈[line]海は嫌いです‥‥。[%p]
+ZH [name]神奈[line]我讨厌大海……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]あれは‥‥私の責務というだけです。[%p]
+ZH [name]神奈[line]那个……只是我的职责而已。[%p]
+
+JA [name]たくや[line]責務‥‥?[%p]
+ZH [name]拓也[line]职责……？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]で、緑が好きなんだったよね。[%p]
+ZH [name]拓也[line]那么，你是喜欢绿色喽。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]よし、メシ、食ったら行くか。[%p]
+ZH [name]拓也[line]好嘞，吃完饭之后，要去吗。[%p]
+
+JA [name]神奈[line]はい‥‥?[%p]
+ZH [name]神奈[line]嗯……？[%p]
+
+JA [name]たくや[line]緑を見に、さ。[%p]
+ZH [name]拓也[line]去看绿色吧。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line](俺の、神奈チャンに対する気持ちは、ちょっと判らないところがありすぎるぜ‥‥。)[%p]
+ZH [name]拓也[line](（对于神奈的心情，我还不是很明白……。）。)[%p]
+
+JA [name]たくや[line](なんだって、こんな気持ちになるんだ‥‥?)[%p]
+ZH [name]拓也[line](（为什么，会有这样的情绪呢……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そうさ‥‥。)[%p]
+ZH [name]拓也[line](（对了……。）。)[%p]
+
+JA [name]たくや[line](慌てる必要はないんだ‥‥。)[%p]
+ZH [name]拓也[line](（没有必要慌张……。）。)[%p]
+
+JA [name]たくや[line](俺の時間は‥‥まだある。)[%p]
+ZH [name]拓也[line](（我……还有时间呢。）。)[%p]
+
+JA [name]たくや[line](まだ‥‥‥。)[%p]
+ZH [name]拓也[line](（还有……。）。)[%p]
+
+JA [name]たくや[line]澄み切った空、ワタアメのような雲‥‥‥。[%p]
+ZH [name]拓也[line]澄净的天空，棉花糖一样的云朵……。[%p]
+
+JA [name]たくや[line]そして傍らには絶世の美女。[%p]
+ZH [name]拓也[line]还有身边的绝世美女。[%p]
+
+JA [name]神奈[line]‥‥有馬さんって、面白い人ですね。[%p]
+ZH [name]神奈[line]……有马同学，你真是个有趣的人呢。[%p]
+
+JA [name]たくや[line]神奈チャンの手料理をたっぷり食べちゃったからね、食後の運動にはちょうどいい。[%p]
+ZH [name]拓也[line]因为饱餐了一顿神奈你亲手做的美食，所以现在刚好适合饭后运动。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]どう、座らない?[%p]
+ZH [name]拓也[line]怎么样，要坐吗？[%p]
+
+JA [name]神奈[line]噴水の‥‥そばですか?[%p]
+ZH [name]神奈[line]喷水池的……旁边吗？[%p]
+
+JA [name]たくや[line]噴水、嫌いかい?[%p]
+ZH [name]拓也[line]你讨厌喷水池吗？[%p]
+
+JA [name]神奈[line]‥‥わかりました。[%p]
+ZH [name]神奈[line]……我知道了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](噴水のそばって、そんなにイヤなのかな‥‥。)[%p]
+ZH [name]拓也[line](（喷水池的旁边，是那么让她讨厌的地方吗……。）。)[%p]
+
+JA [name]たくや[line](とにかく、神奈チャンが近くにいるぜ‥‥。)[%p]
+ZH [name]拓也[line](（总之，先到神奈的旁边去……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンが、台所に立っているぜ‥‥。)[%p]
+ZH [name]拓也[line](（神奈她，正站在厨房呢……。）。)[%p]
+
+JA [name]たくや[line](いいなぁ‥‥。)[%p]
+ZH [name]拓也[line](（真好啊……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンが、台所に立っている‥‥。)[%p]
+ZH [name]拓也[line](（神奈她，正站在厨房……。）。)[%p]
+
+JA [name]たくや[line](女の子の料理する姿って、何だかいいよな‥‥。)[%p]
+ZH [name]拓也[line](（女孩子做饭的样子，还真不错啊……。）。)[%p]
+
+JA [name]たくや[line](心が和むっていうか、安心するっていうか‥‥。)[%p]
+ZH [name]拓也[line](（应该说内心感觉平静，还是安心呢……。）。)[%p]
+
+JA [name]たくや[line](神奈チャン‥‥だよな。)[%p]
+ZH [name]拓也[line](（那是……神奈。）。)[%p]
+
+JA [name]たくや[line](女の子がエプロン着て、台所に立ってるってだけで、何だかときめくモノがあるな‥‥。)[%p]
+ZH [name]拓也[line](（只是女孩子穿着围裙，站在厨房里面而已，就感觉让人心跳加速了呢……。）。)[%p]
+
+JA [name]たくや[line](エプロンだ‥‥。)[%p]
+ZH [name]拓也[line](（围裙……。）。)[%p]
+
+JA [name]たくや[line](お料理には欠かすことのできないアイテムだぜ‥‥。)[%p]
+ZH [name]拓也[line](（是做饭不可或缺的道具呢……。）。)[%p]
+
+JA [name]たくや[line](台所の開き戸だ‥‥。)[%p]
+ZH [name]拓也[line](（厨房打开着的门……。）。)[%p]
+
+JA [name]たくや[line](あそこを開くと‥‥。)[%p]
+ZH [name]拓也[line](（要是打开那边的话……。）。)[%p]
+
+JA [name]たくや[line](恐らく、何も入っていないんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（恐怕，里面什么都没有放吧……。）。)[%p]
+
+JA [name]たくや[line](白くて綺麗な足だな‥‥。)[%p]
+ZH [name]拓也[line](（又白又漂亮的脚……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンの脚だ‥‥素足じゃないか。)[%p]
+ZH [name]拓也[line](（小神奈的腿……这不是赤脚吗。）。)[%p]
+
+JA [name]たくや[line](いや、それよりも‥‥太ももの上の部分が気になる。)[%p]
+ZH [name]拓也[line](（不，比起那个……我更在意屁股上的位置。）。)[%p]
+
+JA [name]たくや[line](女の子のパンツに、そんなに飢えているのか?)[%p]
+ZH [name]拓也[line]JF:（你对女孩子的内裤那么饿吗？）[%p]
+
+JA [name]たくや[line](‥‥飢えているんだよ。)[%p]
+ZH [name]拓也[line](（……很渴望啊。）。)[%p]
+
+JA [name]たくや[line](‥‥んなところを、いつまでもジロジロみているなよ。)[%p]
+ZH [name]拓也[line](（……那个位置，想一直盯着看到什么时候啊。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](はっ! い、いかんいかん‥‥。)[%p]
+ZH [name]拓也[line](（哈！糟，糟糕糟糕……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](うす紫、だな‥‥。)[%p]
+ZH [name]拓也[line]JF:（淡紫色，是啊……）[%p]
+
+JA [name]たくや[line](朝っぱらから、結構なものを拝見させて戴きました。)[%p]
+ZH [name]拓也[line](（大清早的，就让我欣赏到好东西了。）。)[%p]
+
+JA [name]たくや[line](第一、水は出てるのかな‥‥。)[%p]
+ZH [name]拓也[line](（首先，要先放水啊……。）。)[%p]
+
+JA [name]たくや[line](何だか、この部屋って、そういう初歩的な疑問が湧いてくるんだ。)[%p]
+ZH [name]拓也[line](（不知怎么地，对这个房间，会涌现出那样很初步的疑问呢。）。)[%p]
+
+JA [name]たくや[line](台所の水道だな‥‥。)[%p]
+ZH [name]拓也[line](（这是厨房的水管……。）。)[%p]
+
+JA [name]たくや[line](ここで皿を洗ったりするんだろうか‥‥。)[%p]
+ZH [name]拓也[line](（是在这里洗碗的吧……。）。)[%p]
+
+JA [name]たくや[line](台所用品ってヤツかな‥‥。)[%p]
+ZH [name]拓也[line](（一些厨房用品……。）。)[%p]
+
+JA [name]たくや[line](いったい、何なのかはわからないが。)[%p]
+ZH [name]拓也[line](（还是不明白，到底有什么问题吗。）。)[%p]
+
+JA [name]たくや[line](台所だからな‥‥色々なモノがのっかっていたって、おかしくはないぞ。)[%p]
+ZH [name]拓也[line](（因为是厨房……所以有各种各样的器具，没什么奇怪的吧。）。)[%p]
+
+JA [name]たくや[line](何だか、いい匂いが漂っているな‥‥。)[%p]
+ZH [name]拓也[line](（好像，有传来一阵很好闻的味道……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンの部屋の台所だ‥‥。)[%p]
+ZH [name]拓也[line](（这是神奈房间的厨房……。）。)[%p]
+
+JA [name]たくや[line](今は彼女が、料理をしているみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（她现在，正在做饭呢……。）。)[%p]
+
+JA [name]たくや[line](今は後ろで結っているみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（现在好像把头发往后扎起来了……。）。)[%p]
+
+JA [name]たくや[line](神奈チャンの髪の毛‥‥だよな。)[%p]
+ZH [name]拓也[line](（那是……神奈的头发。）。)[%p]
+
+JA [name]たくや[line](いっておくが、俺にそういう趣味はないぞ。)[%p]
+ZH [name]拓也[line](（话说回来，我完全没有那种兴趣。）。)[%p]
+
+JA [name]たくや[line](でも、1回はやってみたいと思うけど‥‥。)[%p]
+ZH [name]拓也[line](（不过，是想做一回试试看呢……。）。)[%p]
+
+JA [name]たくや[line](そんなんで、殴り掛かってどうするんだ。)[%p]
+ZH [name]拓也[line](（话说，如果这样子扑上去的话会怎么样。）。)[%p]
+
+JA [name]たくや[line](やめようぜ‥‥。)[%p]
+ZH [name]拓也[line](（还是算了吧……。）。)[%p]
+
+JA [name]たくや[line](おいおい‥‥神奈チャンを殺す気か?)[%p]
+ZH [name]拓也[line](（喂喂……要对神奈散发杀气吗？)[%p]
+
+JA [name]たくや[line](そんなのを今、どうやって使うんだよ‥‥。)[%p]
+ZH [name]拓也[line](（这个，现在要怎么用才好……。）。)[%p]
+
+JA [name]たくや[line](それを使うときじゃないぜ‥‥。)[%p]
+ZH [name]拓也[line](（不是使用那个东西的时候……。）。)[%p]
+
+JA [name]たくや[line](‥‥おい、そんなのをいったいどうしろって言うんだ。)[%p]
+ZH [name]拓也[line](（……喂，之前说这个到底是怎么用的来着。）。)[%p]
+
+JA [name]たくや[line](もうちょっと、考えてくれよ‥‥。)[%p]
+ZH [name]拓也[line](（稍微再，考虑一下吧……。）。)[%p]
+
+JA 
+ZH 
+

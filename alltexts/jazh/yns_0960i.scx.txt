@@ -1,0 +1,99 @@
+JA [name]美月[line]‥‥なに、その封書は。[%p]
+ZH [name]美月[line]……什么，这封信是。[%p]
+
+JA [name]美月[line]あまり、妙な行動はしないでね。[%p]
+ZH [name]美月[line]这种奇怪的举动，你还是别做了。[%p]
+
+JA [name]美月[line]動かないで‥‥‥。[%p]
+ZH [name]美月[line]你别动啊……。[%p]
+
+JA [name]美月[line]たくやを撃ちたくないわ‥‥‥。[%p]
+ZH [name]美月[line]这是拓也我可不想开枪打你……。[%p]
+
+JA [name]美月[line]‥‥メダルで気をひこうというの?[%p]
+ZH [name]美月[line]……你打算用徽章来试探我吗？[%p]
+
+JA [name]美月[line]ダメよ、その手は喰わないわよ。[%p]
+ZH [name]美月[line]不行哦，你这办法可行不通。[%p]
+
+JA [name]美月[line]生徒手帳ね‥‥‥。[%p]
+ZH [name]美月[line]学生手册啊……。[%p]
+
+JA [name]美月[line]フフ、私が学校へ持っていってあげましょうか?[%p]
+ZH [name]美月[line]呵呵，你打算让我交回给学校吗？[%p]
+
+JA [name]美月[line]‥‥どこかで見たことあるようなカギね。[%p]
+ZH [name]美月[line]……这把钥匙我好像在什么地方看到过呢。[%p]
+
+JA [name]美月[line]どこだったかしら。[%p]
+ZH [name]美月[line]到底是在哪里呢。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]美月[line]その石を投げつけようというの?[%p]
+ZH [name]美月[line]你打算把这块石头扔出去吗？[%p]
+
+JA [name]美月[line]ダメよ。私の引き金の方が早いわ。[%p]
+ZH [name]美月[line]不行哦。肯定是我的扳机速度更快。[%p]
+
+JA [name]美月[line]そんなのを持ち出さないで。[%p]
+ZH [name]美月[line]请你不要拿出那种东西哦。[%p]
+
+JA [name]美月[line]私にこの引き金をひかせる気?[%p]
+ZH [name]美月[line]难道你想让我扣下扳机吗？[%p]
+
+JA [name]美月[line]そんなのを持ち出さないで。[%p]
+ZH [name]美月[line]请你不要拿出那种东西哦。[%p]
+
+JA [name]美月[line]私にこの引き金をひかせる気?[%p]
+ZH [name]美月[line]难道你想让我扣下扳机吗？[%p]
+
+JA [name]美月[line]フフ‥‥それで縛って欲しいというの?[%p]
+ZH [name]美月[line]呵呵……难道你打算用这个把我绑起来？[%p]
+
+JA [name]美月[line]こっちには拳銃がありますからね、そこまではしないわ。[%p]
+ZH [name]美月[line]我这边手里可是有手枪的，你还是不要再做了。[%p]
+
+JA [name]美月[line]何かしら、それは‥‥‥?[%p]
+ZH [name]美月[line]这个，是什么东西……？[%p]
+
+JA [name]美月[line]何かしら、それは‥‥‥?[%p]
+ZH [name]美月[line]这个，是什么东西……？[%p]
+
+JA [name]美月[line]‥‥写真なんて取り出して、どういうつもり?[%p]
+ZH [name]美月[line]……拿出照片这种东西，你是打算干什么啊？[%p]
+
+JA [name]美月[line]例の扉を開けるのに使ったメダルね‥‥‥。[%p]
+ZH [name]美月[line]这就是用来打开那扇门的徽章吧……。[%p]
+
+JA [name]美月[line]持ってきていたの‥‥‥?[%p]
+ZH [name]美月[line]你把它带出来了啊……？[%p]
+
+JA [name]美月[line]例の扉を開けるのに使ったメダルね‥‥‥。[%p]
+ZH [name]美月[line]这就是用来打开那扇门的徽章吧……。[%p]
+
+JA [name]美月[line]持ってきていたの‥‥‥?[%p]
+ZH [name]美月[line]你把它带出来了啊……？[%p]
+
+JA [name]美月[line]今川教授のハンディコンピュータね‥‥‥。[%p]
+ZH [name]美月[line]这是今川教授的笔记本电脑吧……。[%p]
+
+JA [name]美月[line]ハンディコンピュータね‥‥。[%p]
+ZH [name]美月[line]笔记本电脑啊……。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]美月[line]フフ‥‥湖の底から拾ってきたの?[%p]
+ZH [name]美月[line]呵呵……是你在湖底下捡到的吗？[%p]
+
+JA [name]美月[line]何のカギ‥‥‥?[%p]
+ZH [name]美月[line]什么钥匙……？[%p]
+
+JA [name]美月[line]今はそんなのを出さないでちょうだい。[%p]
+ZH [name]美月[line]现在还是请你不要把这样的东西拿出来。[%p]
+
+JA 
+ZH 
+

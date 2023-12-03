@@ -1,0 +1,5 @@
+[name]Takuya[line]I can knock, but I know nobody's there.[%p]
+[name]Takuya[line]School's already out.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]I knew no one was here.[%p]
+[name]Takuya[line]What are you gonna do?[%p]

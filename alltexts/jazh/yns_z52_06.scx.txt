@@ -1,0 +1,66 @@
+JA [name]たくや[line]セーレス‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯‥‥。[%p]
+
+JA [name]たくや[line]ユーノが待っている‥‥家に戻ろうぜ。[%p]
+ZH [name]拓也[line]JF:允浩在等你……我们回家吧。[%p]
+
+JA [name]たくや[line]ゆっくり、浸っている場合でもないな‥‥。[%p]
+ZH [name]拓也[line]现在，可不是悠闲地在这里散步的时候啊‥‥。[%p]
+
+JA [name]たくや[line]さっ、家に行こうぜ。[%p]
+ZH [name]拓也[line]走，回家去吧。[%p]
+
+JA [name]たくや[line]たくさんの木々、あたり一面の草原、そして奧に広がる砂漠‥‥。[%p]
+ZH [name]拓也[line]树木林立，周围都被草原所覆盖，还有向着远处延伸的沙漠‥‥。[%p]
+
+JA [name]たくや[line]相変わらず絶景と言えるかも知れないな‥‥。[%p]
+ZH [name]拓也[line]似乎还是一如往常般风景绝佳‥‥。[%p]
+
+JA [name]たくや[line]こことも、もう‥‥。[%p]
+ZH [name]拓也[line]还有这里，也‥‥。[%p]
+
+JA [name]たくや[line]森だ‥‥貴重な緑だったな。[%p]
+ZH [name]拓也[line]这是森林‥‥宝贵的绿色。[%p]
+
+JA [name]たくや[line]こんなに木々が豊富な場所は、貴重だよな‥‥。[%p]
+ZH [name]拓也[line]树木如此丰富的地方是很宝贵的‥‥。[%p]
+
+JA [name]たくや[line]あの森も、もう見納めか‥‥。[%p]
+ZH [name]拓也[line]再看那森林最后一眼吗‥‥。[%p]
+
+JA [name]たくや[line]あの向こうに、帝都がある‥‥。[%p]
+ZH [name]拓也[line]很远的那一边，有个叫帝都的地方‥‥。[%p]
+
+JA [name]たくや[line]ラファエロとか言う砂漠だ‥‥。[%p]
+ZH [name]拓也[line]叫什么拉斐尔沙漠‥‥。[%p]
+
+JA [name]たくや[line]あの砂漠を、越えれば帝都なんだ‥‥。[%p]
+ZH [name]拓也[line]穿过那沙漠就到帝都了‥‥。[%p]
+
+JA [name]たくや[line]俺たちの家が、右奧に見えるぜ‥‥。[%p]
+ZH [name]拓也[line]在右边尽头能看到我们的家‥‥。[%p]
+
+JA [name]たくや[line]さあ、行こうぜ‥‥。[%p]
+ZH [name]拓也[line]好了，走吧‥‥。[%p]
+
+JA [name]たくや[line]右の方に小さく家が見える‥‥あそこが俺たちの家だ。[%p]
+ZH [name]拓也[line]右边能看到一间小屋‥‥那里就是我们家。[%p]
+
+JA [name]たくや[line]俺とユーノの‥‥。[%p]
+ZH [name]拓也[line]我和优诺的‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし、家に戻ろう。[%p]
+ZH [name]拓也[line]好，回家咯。[%p]
+
+JA [name]たくや[line]おいおい‥‥森に戻るのか?[%p]
+ZH [name]拓也[line]喂喂‥‥回森林吗？[%p]
+
+JA [name]たくや[line]そんなことしている暇なんか、ないのに‥‥。[%p]
+ZH [name]拓也[line]明明就没什么闲工夫做这种事了‥‥。[%p]
+
+JA 
+ZH 
+

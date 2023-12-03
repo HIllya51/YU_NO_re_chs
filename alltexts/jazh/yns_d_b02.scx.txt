@@ -1,0 +1,45 @@
+JA [name]たくや[line]静かだな‥‥。[%p]
+ZH [name]拓也[line]好安静……。[%p]
+
+JA [name]結城[line]雫の音が聴こえてくるだけです‥‥。[%p]
+ZH [name]结城[line]只能听到水滴滴下来的声音……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]‥‥あまり変わりませんね、風景は。[%p]
+ZH [name]结城[line]……几乎都没什么变化呢，风景。[%p]
+
+JA [name]たくや[line]ま、一本道だからな。[%p]
+ZH [name]拓也[line]嘛，因为是一条直路。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]たくや[line]‥‥静かだな。本当に澪は、ここに来たんだろうか。[%p]
+ZH [name]拓也[line]……好安静啊。澪她，真的到这里来了吗。[%p]
+
+JA [name]結城[line]そうですね。もしかしたら、僕らの勘違い‥‥。[%p]
+ZH [name]结城[line]是呢。说不定，是我们搞错了……。[%p]
+
+JA [name]たくや[line]かもな。[%p]
+ZH [name]拓也[line]也许吧。[%p]
+
+JA [name]結城[line]しょ、しょんなぁ。否定して欲しかったのに。[%p]
+ZH [name]结城[line]怎，怎么这样啊。我明明想要你否定的。[%p]
+
+JA [name]たくや[line]だが、澪はここに来た。それは間違いない。[%p]
+ZH [name]拓也[line]但是，澪来过这里。这一点是不会有错的。[%p]
+
+JA [name]結城[line]確信があるんですか?[%p]
+ZH [name]结城[line]你真的确定吗？[%p]
+
+JA [name]たくや[line]いや‥‥だが自信はある。ここにいるはずだ。[%p]
+ZH [name]拓也[line]不……但是我有自信。她应该是在这里的。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA 
+ZH 
+

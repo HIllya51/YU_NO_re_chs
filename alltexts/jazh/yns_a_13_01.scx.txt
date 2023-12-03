@@ -1,0 +1,330 @@
+JA [name]たくや[line]目の前に‥‥意味深な台座が立っている‥‥。[%p]
+ZH [name]拓也[line]眼前……矗立着一个意味深长的台座……。[%p]
+
+JA [name]たくや[line]どうするんだ?[%p]
+ZH [name]拓也[line]怎么办呢？[%p]
+
+JA [name]声[line]《宝玉を持たぬ、愚か者めぇぇっっ!!》[%p]
+ZH [name]声音[line]《没有宝玉的，愚昧者啊啊啊啊！！》[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、確か台座みたいのがあったと思うんだが‥‥。[%p]
+ZH [name]拓也[line]咦，我记得这里应该有一个像是台座一样的东西……。[%p]
+
+JA [name]たくや[line]宝玉が10個ないと、ダメなんだろうか?[%p]
+ZH [name]拓也[line]JF:没有10个宝玉的话不行吗？[%p]
+
+JA [name]声[line]《宝玉を持たぬ、愚か者めぇぇっっ!!》[%p]
+ZH [name]声音[line]《没有宝玉的，愚昧者啊啊啊啊！！》[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、確か台座みたいのがあったと思うんだが‥‥。[%p]
+ZH [name]拓也[line]咦，我记得这里应该有一个像是台座一样的东西……。[%p]
+
+JA [name]たくや[line]宝玉が10個ないと、ダメなんだろうか?[%p]
+ZH [name]拓也[line]JF:没有10个宝玉的话不行吗？[%p]
+
+JA [name]たくや[line]王の名か‥‥。[%p]
+ZH [name]拓也[line]王之名是……。[%p]
+
+JA [name]たくや[line]確か、光と影‥‥天空の者と悪魔が交わるとき、その頭上に王の名が浮かび上がる‥‥。[%p]
+ZH [name]拓也[line]我记得，光与影……天空之人与恶魔相交之时，在其头上会浮现出王之名……。[%p]
+
+JA [name]たくや[line]‥‥だったかな。[%p]
+ZH [name]拓也[line]……貌似是这样。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]やっぱり、何も起きないな‥‥。[%p]
+ZH [name]拓也[line]果然，什么都没发生啊……。[%p]
+
+JA [name]たくや[line]入力文字が、間違っているんだ‥‥。[%p]
+ZH [name]拓也[line]输入的文字，弄错了吧……。[%p]
+
+JA [name]声[line]《宝玉を持たぬ、愚か者めぇぇっっ!!》[%p]
+ZH [name]声音[line]《没有宝玉的，愚昧者啊啊啊啊！！》[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、確か台座みたいのがあったと思うんだが‥‥。[%p]
+ZH [name]拓也[line]咦，我记得这里应该有一个像是台座一样的东西……。[%p]
+
+JA [name]たくや[line]宝玉が10個ないと、ダメなんだろうか?[%p]
+ZH [name]拓也[line]JF:没有10个宝玉的话不行吗？[%p]
+
+JA [name]たくや[line]王の名か‥‥。[%p]
+ZH [name]拓也[line]王之名是……。[%p]
+
+JA [name]たくや[line]確か、光と影‥‥天空の者と悪魔が交わるとき、その頭上に王の名が浮かび上がる‥‥。[%p]
+ZH [name]拓也[line]我记得，光与影……天空之人与恶魔相交之时，在其头上会浮现出王之名……。[%p]
+
+JA [name]たくや[line]‥‥だったかな。[%p]
+ZH [name]拓也[line]……貌似是这样。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]光と影が交わるとき‥‥‥‥。
+ZH [name]拓也[line]光与影相交之时…………。
+
+JA [name]たくや[line]天空の者と悪魔が交わるとき‥‥。[%p]
+ZH [name]拓也[line]（天空之人与恶魔相交之时……。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし‥‥入力してみよう。[%p]
+ZH [name]拓也[line]好吧……先试着输入看看。[%p]
+
+JA [name]たくや[line]入力を終えるときは、:btnSTART:だ。[%p]
+ZH [name]拓也[line]JF:完成输入时为：btnSTART:。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]やっぱり、何も起きないな‥‥。[%p]
+ZH [name]拓也[line]果然，什么都没发生啊……。[%p]
+
+JA [name]たくや[line]入力文字が、間違っているんだ‥‥。[%p]
+ZH [name]拓也[line]输入的文字，弄错了吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何か手がかりがないだろうか‥‥。[%p]
+ZH [name]拓也[line]都没有什么可用的线索吗……。[%p]
+
+JA [name]たくや[line]光と影が交わる、か‥‥。[%p]
+ZH [name]拓也[line]光与影相交，吗……。[%p]
+
+JA [name]たくや[line]重なるってことだろうか‥‥?[%p]
+ZH [name]拓也[line]是要把两者重叠起来吗……？[%p]
+
+JA [name]声[line]《宝玉を持たぬ、愚か者めぇぇっっ!!》[%p]
+ZH [name]声音[line]《没有宝玉的，愚昧者啊啊啊啊！！》[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、確か台座みたいのがあったと思うんだが‥‥。[%p]
+ZH [name]拓也[line]咦，我记得这里应该有一个像是台座一样的东西……。[%p]
+
+JA [name]たくや[line]宝玉が10個ないと、ダメなんだろうか?[%p]
+ZH [name]拓也[line]JF:没有10个宝玉的话不行吗？[%p]
+
+JA [name]たくや[line]そうだ‥‥あの台座が俺は気になるんだ。[%p]
+ZH [name]拓也[line]对了……我很在意那个台座呢。[%p]
+
+JA [name]たくや[line]上には石の文字が彫ってある‥‥。[%p]
+ZH [name]拓也[line]上面雕刻着石头的文字……。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]たくや[line]上に、何か‥‥ボタンみたいなのが配置されている。[%p]
+ZH [name]拓也[line]上面，有什么……安置着好像是按钮一样的东西。[%p]
+
+JA [name]たくや[line]な、なんだ‥‥どうしたんだ?[%p]
+ZH [name]拓也[line]什，什么……怎么办好呢？[%p]
+
+JA [name]声[line]《王の印を持つ者よ‥‥答えよ!!!!》[%p]
+ZH [name]声音[line]《持有王之印的人哟……回答我！！！！》[%p]
+
+JA [name]たくや[line]わぁっ![%p]
+ZH [name]拓也[line]哇啊！[%p]
+
+JA [name]たくや[line]あ、頭の中に‥‥直接響いた!?[%p]
+ZH [name]拓也[line]啊，在脑袋里……直接响起来！？[%p]
+
+JA [name]声[line]《我が問いに‥‥答えよ!!!!》[%p]
+ZH [name]声音[line]《回答……我的问题吧！！！！》[%p]
+
+JA [name]たくや[line]問い‥‥? 問いとは、何だ?[%p]
+ZH [name]拓也[line]问题……？　回答，什么问题？[%p]
+
+JA [name]声[line]《王の名を‥‥答えよ!!!!!》[%p]
+ZH [name]声音[line]《回答我……王之名！！！！！》[%p]
+
+JA [name]たくや[line]王の‥‥名?[%p]
+ZH [name]拓也[line]王的……名字？[%p]
+
+JA [name]声[line]《王の名を‥‥答えよ!!!!!》[%p]
+ZH [name]声音[line]《回答我……王之名！！！！！》[%p]
+
+JA [name]たくや[line](王の名‥‥?)[%p]
+ZH [name]拓也[line](（王之名……？）)[%p]
+
+JA [name]声[line]《光と影‥‥天空の者と悪魔が交わるとき、その頭上に王の名が浮かび上がる。》[%p]
+ZH [name]声音[line]《光与影……天空之人与恶魔相交之时，在其头上会浮现出王之名。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](光と影‥‥?)[%p]
+ZH [name]拓也[line](（光与影……？）)[%p]
+
+JA [name]たくや[line](天空の者と悪魔が交わるとき‥‥。)[%p]
+ZH [name]拓也[line](（天空之人与恶魔相交之时……。）。)[%p]
+
+JA [name]たくや[line](その頭上に、王の名が浮かび上がる‥‥。)
+ZH [name]拓也[line](（在其头上，会浮现出王之名……。）。)
+
+JA [name]たくや[line](王の名を、入力しろというのか‥‥?)[%p]
+ZH [name]拓也[line](（是要我，输入王之名的意思吗……？）)[%p]
+
+JA [name]たくや[line](王の名‥‥‥‥。)[%p]
+ZH [name]拓也[line](（王之名…………。）。)[%p]
+
+JA [name]たくや[line](よし、何かを入力してみよう。)[%p]
+ZH [name]拓也[line](（好吧，先试着输入点什么看看。）。)[%p]
+
+JA [name]たくや[line](入力を終えるときは、:btnSTART:だぜ‥‥。)[%p]
+ZH [name]拓也[line]JF:（输入结束时，是：btnSTART:哦……）[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]何も起きないな‥‥。[%p]
+ZH [name]拓也[line]什么都没发生啊……。[%p]
+
+JA [name]たくや[line]文字を入力して、何かの結果が返ってくるというのはわかるんだが‥‥。[%p]
+ZH [name]拓也[line]虽然说，我已经明白了在输入文字之后会出现某种反应……。[%p]
+
+JA [name]たくや[line]いったい、どの文字をどう入力すればいいんだ‥‥?[%p]
+ZH [name]拓也[line]不过，究竟要以什么形式输入什么文字好呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やたらと重圧感があるな‥‥。[%p]
+ZH [name]拓也[line]有种非常沉重的压力啊……。[%p]
+
+JA [name]たくや[line]それに目の前のあれ‥‥。[%p]
+ZH [name]拓也[line]而且在我眼前的那个……。[%p]
+
+JA [name]たくや[line]いったい、この部屋は何なんだろう‥‥?[%p]
+ZH [name]拓也[line]到底，这个房间是怎么回事呢……？[%p]
+
+JA [name]たくや[line]カベといい、天井といい‥‥石が隙間なく敷き詰められている。[%p]
+ZH [name]拓也[line]墙壁也好，顶部也好……石头被铺砌得一点儿缝隙都没有。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られている。[%p]
+ZH [name]拓也[line]好硬啊……被制造得异常坚固呢。[%p]
+
+JA [name]たくや[line]石ころが転がっている‥‥。[%p]
+ZH [name]拓也[line]小石块散落在地上……。[%p]
+
+JA [name]たくや[line]特に、何かが落ちているって訳じゃない‥‥。[%p]
+ZH [name]拓也[line]看来，并没有什么特别的东西掉下来……。[%p]
+
+JA [name]たくや[line]石ころが転がっているだけだ‥‥。[%p]
+ZH [name]拓也[line]只有一些小石块散落在地上……。[%p]
+
+JA [name]たくや[line]‥‥横にスライドするって訳でもないし。[%p]
+ZH [name]拓也[line]……看起来也不能横向挪动。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA ググ‥‥ググググ‥‥。[%p]
+ZH 咕咕……咕咕咕咕……。[%p]
+
+JA [name]たくや[line]うーん‥‥ダメか。押したくらいじゃ、ビクともしない。[%p]
+ZH [name]拓也[line]嗯——……不行啊。只是这么推的话，完全纹丝不动啊。[%p]
+
+JA [name]たくや[line]押してもダメなら‥‥っと、引く場所がないな。[%p]
+ZH [name]拓也[line]要是推也不行的话……呃，没有能拉的地方啊。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、継ぎ目が見える‥‥。[%p]
+ZH [name]拓也[line]好像，能够看到接缝处……。[%p]
+
+JA [name]たくや[line]ここだけ、他のカベと違うようだ‥‥。[%p]
+ZH [name]拓也[line]貌似，只有这里跟其他的墙壁不同……。[%p]
+
+JA [name]たくや[line]ボタンだよ‥‥。[%p]
+ZH [name]拓也[line]这是按钮啊……。[%p]
+
+JA [name]たくや[line]それよりも、気にならないか?[%p]
+ZH [name]拓也[line]这一点，难道不应该注意吗？[%p]
+
+JA [name]たくや[line]目の前のあれが‥‥。[%p]
+ZH [name]拓也[line]（在我眼前的是……。）。[%p]
+
+JA [name]たくや[line]そこはボタンだ‥‥。[%p]
+ZH [name]拓也[line]那里是按钮……。[%p]
+
+JA [name]たくや[line]だが、俺にはもっと気になることがある‥‥。[%p]
+ZH [name]拓也[line]不过，还有一件事令我更在意……。[%p]
+
+JA [name]たくや[line]そこは、俺がいま入ってきた入り口だ。[%p]
+ZH [name]拓也[line]那里，是我们刚才进来的入口。[%p]
+
+JA [name]たくや[line]ということは、戻るんだな‥‥?[%p]
+ZH [name]拓也[line]这么说，已经要回去了啊……？[%p]
+
+JA [name]たくや[line]よし、ハンディコンピュータを使ってみよう。[%p]
+ZH [name]拓也[line]好吧，先试着使用一下掌上电脑吧。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないようだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

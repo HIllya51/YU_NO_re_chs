@@ -1,0 +1,348 @@
+JA [name]たくや[line]あれれ、自室に戻って来ちまった‥‥。[%p]
+ZH [name]拓也[line]咦咦，又回到自己房间了……。[%p]
+
+JA [name]たくや[line]今は悠長にくつろいでるときじゃ、ないんじゃないか?[%p]
+ZH [name]拓也[line]话说，现在不是悠闲地休息的时候吧？[%p]
+
+JA [name]たくや[line]自室だ‥‥。[%p]
+ZH [name]拓也[line]自己房间……。[%p]
+
+JA [name]たくや[line]まだ寝る時間じゃないしな‥‥どうするんだ、これから。[%p]
+ZH [name]拓也[line]还没到睡觉的时候……接下来，该怎么办。[%p]
+
+JA [name]たくや[line]俺の部屋に‥‥いるわけないよな。[%p]
+ZH [name]拓也[line]在我的房间……不可能的吧。[%p]
+
+JA [name]たくや[line]ベッドの下のH本は‥‥まだある。よかった。[%p]
+ZH [name]拓也[line]床底下的黄书……还在。太好了。[%p]
+
+JA [name]たくや[line]‥‥じゃなくて! 亜由美さんを探そう。[%p]
+ZH [name]拓也[line]……不对！　要去找亚由美小姐啊。[%p]
+
+JA [name]たくや[line]自室に戻ってしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自己房间了……。[%p]
+
+JA [name]たくや[line]自室に戻ってきたが‥‥。[%p]
+ZH [name]拓也[line]又回到自己房间了啊……。[%p]
+
+JA [name]たくや[line]今は部屋でくつろいでる時じゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在不是悠闲地休息的时候啊……。[%p]
+
+JA [name]たくや[line]早く、あの野郎に会って、問いたださなくちゃならない。[%p]
+ZH [name]拓也[line]赶快，找到那个混账，一定要狠狠地责问他。[%p]
+
+JA ‥‥クン‥‥‥‥。[%p]
+ZH ……君…………。[%p]
+
+JA ‥‥たくやクン‥‥‥‥。[%p]
+ZH ……拓也君…………。[%p]
+
+JA 目を覚まして‥‥お願い‥‥‥。[%p]
+ZH 快醒过来……拜托了……。[%p]
+
+JA たくやクン‥‥‥。[%p]
+ZH JF|太好了。[%p]
+
+JA [name]たくや[line](ん‥‥‥‥。)[%p]
+ZH [name]拓也[line](嗯…………。)[%p]
+
+JA [name]たくや[line](何か、頭の中で、目覚まし時計が鳴っているぜ‥‥。)[%p]
+ZH [name]拓也[line](（感觉，脑袋里面，好像有闹钟在响似的……。）。)[%p]
+
+JA [name]たくや[line](うるさいな、ジリジリと‥‥まったくもう。)[%p]
+ZH [name]拓也[line](（吵死了，吱吱作响地……真受不了。）。)[%p]
+
+JA [name]声[line]たくやクン‥‥。[%p]
+ZH [name]声音[line]拓也君……。[%p]
+
+JA [name]たくや[line](もう起きる時間か‥‥。)[%p]
+ZH [name]拓也[line](（已经是起床的时候了吗……。）。)[%p]
+
+JA [name]たくや[line](でも、今は夏休みだぜ‥‥。)[%p]
+ZH [name]拓也[line](（不过，现在在放暑假啊……。）。)[%p]
+
+JA [name]たくや[line](何が悲しくて、こんな早起きをしなきゃ‥‥。)[%p]
+ZH [name]拓也[line](（这是何等的悲哀啊，必须要起得这么早……。）。)[%p]
+
+JA [name]亜由美[line]たくやクン‥‥。[%p]
+ZH [name]亚由美[line]拓也君……。[%p]
+
+JA [name]亜由美[line]あぁ‥‥良かった、たくやクン。[%p]
+ZH [name]亚由美[line]啊啊……太好了，拓也君。[%p]
+
+JA [name]たくや[line]あれ、亜由美さん‥‥。[%p]
+ZH [name]拓也[line]咦，亚由美小姐……。[%p]
+
+JA [name]亜由美[line]あ、まだ起きてはダメよ‥‥。[%p]
+ZH [name]亚由美[line]啊，你还不能起来哦……。[%p]
+
+JA [name]たくや[line]何か、まだ目眩がするな‥‥。[%p]
+ZH [name]拓也[line]怎么，感觉头还很晕啊……。[%p]
+
+JA [name]亜由美[line]良かった‥‥本当に‥‥。[%p]
+ZH [name]亚由美[line]真是……太好了……。[%p]
+
+JA [name]たくや[line]なんで、そんなに悲しそうな顔をしているのさ。[%p]
+ZH [name]拓也[line]怎么了，怎么露出这种悲伤的表情。[%p]
+
+JA [name]亜由美[line]だって‥‥‥。[%p]
+ZH [name]亚由美[line]因为……。[%p]
+
+JA [name]たくや[line]亜由美さんは悪くなひはふ‥‥‥はれ?[%p]
+ZH [name]拓也[line]这个不素亚由美小姐的粗……咦？[%p]
+
+JA [name]亜由美[line]だ、大丈夫‥‥?[%p]
+ZH [name]亚由美[line]没，没事吧……？[%p]
+
+JA [name]たくや[line]な、なんか、上手くひゃべれなひ‥‥イテテ! おっ、頬がこんなにはれへる![%p]
+ZH [name]拓也[line]怎，怎么，户能好好说哈……痛痛痛！　哦，脸颊杂么肿取来了[%p]
+
+JA [name]亜由美[line]大丈夫よ‥‥しばらくタオルで冷やしたから。[%p]
+ZH [name]亚由美[line]没事的……只要用毛巾冷敷一下就好了。[%p]
+
+JA [name]たくや[line]ひょ、ひょうか‥‥俺、いったいどうしたんだ?[%p]
+ZH [name]拓也[line]素，素吗……偶，到底杂么了？[%p]
+
+JA [name]亜由美[line]そんなに長い時間じゃなかったけど、脳震とうを起こして気を失っていたの。[%p]
+ZH [name]亚由美[line]虽然算不上太长的时间，不过你由于脑震荡而晕倒了哦。[%p]
+
+JA [name]たくや[line]ひょうか‥‥俺はあのヤクザたちにやられて‥‥。[%p]
+ZH [name]拓也[line]素吗……偶被那些流氓打到了……。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]でもまぁ‥‥あっ、だんだん喋りやすくなってきたな。[%p]
+ZH [name]拓也[line]不过算了……啊、说话渐渐变得清晰起来了啊。[%p]
+
+JA [name]亜由美[line]よかった‥‥。[%p]
+ZH [name]亚由美[line]太好了……。[%p]
+
+JA [name]たくや[line]ここは?[%p]
+ZH [name]拓也[line]这里是？[%p]
+
+JA [name]亜由美[line]私たちのお家。[%p]
+ZH [name]亚由美[line]是我们家啊。[%p]
+
+JA [name]たくや[line]そっか‥‥あれ、亜由美さん、その頬は‥‥。[%p]
+ZH [name]拓也[line]是吗……咦，亚由美小姐，你的脸……。[%p]
+
+JA [name]亜由美[line]え‥‥?[%p]
+ZH [name]亚由美[line]诶‥‥？[%p]
+
+JA [name]たくや[line]亜由美さん、頬にケガをしている‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，你的脸受伤了……。[%p]
+
+JA [name]亜由美[line]これ? 大丈夫、軽いスリ傷よ。[%p]
+ZH [name]亚由美[line]这个？　没关系，只是小伤。[%p]
+
+JA [name]たくや[line]どうしたんだよ、顔になんて‥‥。[%p]
+ZH [name]拓也[line]发生什么事了，脸怎么会……。[%p]
+
+JA [name]亜由美[line]あのあと、たくやクンを庇って‥‥。[%p]
+ZH [name]亚由美[line]那之后，我把拓也君护起来了……。[%p]
+
+JA [name]たくや[line]あいつらに?[%p]
+ZH [name]拓也[line]对着那些人？[%p]
+
+JA [name]亜由美[line]うん‥‥。[%p]
+ZH [name]亚由美[line]嗯……。[%p]
+
+JA [name]たくや[line]くそっ、あいつら、今度会ったら‥‥。[%p]
+ZH [name]拓也[line]可恶，那些家伙，要是再被我遇上的话……。[%p]
+
+JA [name]亜由美[line]止めてっ![%p]
+ZH [name]亚由美[line]JF:停下来！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]ごめんなさい、つい大声を出してしまって‥‥。[%p]
+ZH [name]亚由美[line]对不起，突然大声对你说话……。[%p]
+
+JA [name]たくや[line]別に、構わないけど‥‥。[%p]
+ZH [name]拓也[line]没事，我不介意……。[%p]
+
+JA [name]亜由美[line]あんなこと‥‥もう2度と止めて、お願いよ。[%p]
+ZH [name]亚由美[line]JF:那样的事……请再停两次，拜托了。[%p]
+
+JA [name]たくや[line]だって、あいつら‥‥亜由美さんに酷いことを‥‥。[%p]
+ZH [name]拓也[line]可是，那些人……亚由美小姐……。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]だから、俺‥‥。[%p]
+ZH [name]拓也[line]所以，我……。[%p]
+
+JA [name]亜由美[line]約束して。[%p]
+ZH [name]亚由美[line]约好了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]もう、2度と無茶はしないって。[%p]
+ZH [name]亚由美[line]不要，再乱来了哦。[%p]
+
+JA [name]たくや[line]‥‥わかったよ、約束する。[%p]
+ZH [name]拓也[line]……知道了，约好了。[%p]
+
+JA [name]亜由美[line]うん‥‥今日はここで寝なさいね。後で毛布を持ってくるわ。[%p]
+ZH [name]亚由美[line]嗯……今天你就睡在这里吧。我等一下会吧毛毯拿过来。[%p]
+
+JA [name]たくや[line]そうだ‥‥警察には届けたの?[%p]
+ZH [name]拓也[line]对了……你已经报警了吗？[%p]
+
+JA [name]亜由美[line]‥‥大丈夫よ、心配しないで。[%p]
+ZH [name]亚由美[line]……没问题，你不用担心了。[%p]
+
+JA [name]たくや[line]‥‥わかったよ。[%p]
+ZH [name]拓也[line]……知道了。[%p]
+
+JA [name]亜由美[line]目を瞑って‥‥。[%p]
+ZH [name]亚由美[line]JF:闭上眼睛。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]たくやクン‥‥今日はありがとう。[%p]
+ZH [name]亚由美[line]拓也君……今天谢谢你了。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line](唇に‥‥柔らかい感触‥‥。)[%p]
+ZH [name]拓也[line](（嘴唇上……柔软的触感……。）。)[%p]
+
+JA [name]たくや[line](う、嘘‥‥。)[%p]
+ZH [name]拓也[line](胡，胡说……。)[%p]
+
+JA [name]亜由美[line]お休みなさい‥‥。[%p]
+ZH [name]亚由美[line]晚安了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](気のせいだろう‥‥まさかそんな。)[%p]
+ZH [name]拓也[line](（是我的错觉吧……不会有这种事的。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥俺もちょっと疲れているのかも知れないな。)[%p]
+ZH [name]拓也[line](（呼……也许是我也有些累了吧。）。)[%p]
+
+JA [name]たくや[line](でも‥‥。)[%p]
+ZH [name]拓也[line](可是……。)[%p]
+
+JA [name]たくや[line](亜由美さん、俺にあんな厳しく言ったの、初めてじゃないかな‥‥。)[%p]
+ZH [name]拓也[line](（亚由美小姐，对我说出这么严厉的话，还是第一次啊……。）。)[%p]
+
+JA [name]たくや[line](もう2度とするな、か‥‥。)[%p]
+ZH [name]拓也[line](（不要再做第２回了，吗……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](遅刻に補習、ケンカ、不祥事‥‥亜由美さんはいつも、笑ってファイトと言ってくれていた。)[%p]
+ZH [name]拓也[line](（因为迟到而补课，打架，丑闻……亚由美小姐，总是笑着说要奋斗。）。)[%p]
+
+JA [name]たくや[line](今回に限って‥‥。)[%p]
+ZH [name]拓也[line](（只有这次……。）。)[%p]
+
+JA [name]たくや[line](あんな表情の亜由美さんを見たの、初めてだ‥‥。)[%p]
+ZH [name]拓也[line](（这种表情的亚由美小姐，我还是第一次看到……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](少し、寝よう‥‥。)[%p]
+ZH [name]拓也[line](（稍微，睡一下吧……。）。)[%p]
+
+JA [name]たくや[line](起きたときに、また話そう‥‥。)[%p]
+ZH [name]拓也[line](（起床之后，还有话要说……。）。)[%p]
+
+JA [name]たくや[line](そして‥‥‥‥。)[%p]
+ZH [name]拓也[line](（然后…………。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ、ここは‥‥俺の部屋だ。[%p]
+ZH [name]拓也[line]咦，这里是……我的房间。[%p]
+
+JA [name]たくや[line]夢だったのか‥‥?[%p]
+ZH [name]拓也[line]是做梦了吗……？[%p]
+
+JA [name]たくや[line]亜由美さんに‥‥されちゃう夢も見るとはな。[%p]
+ZH [name]拓也[line]做了一个……被亚由美小姐亲吻的梦啊。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]何かが、うっ積しているのかも知れない‥‥。[%p]
+ZH [name]拓也[line]说不定，是由于积累了太多的缘故吧……。[%p]
+
+JA [name]たくや[line]そういえば、亜由美さん‥‥どこにいるんだろう?[%p]
+ZH [name]拓也[line]这么说起来，亚由美小姐……到哪里去了呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]自室に戻ってきたが‥‥亜由美さんはいないぜ。[%p]
+ZH [name]拓也[line]虽然回到自己的房间了……不过亚由美小姐不在啊。[%p]
+
+JA [name]たくや[line]いったい、どこにいるんだ!?[%p]
+ZH [name]拓也[line]究竟，到哪里去了呢？[%p]
+
+JA [name]たくや[line]早く見つけださないと‥‥そんな気がする。[%p]
+ZH [name]拓也[line]一定要快点找到她……心里很在意啊。[%p]
+
+JA [name]たくや[line]自室に戻ってきたけど‥‥。[%p]
+ZH [name]拓也[line]虽然回到自己房间了……。[%p]
+
+JA [name]たくや[line]亜由美さんは出かけたみたいだ‥‥何か気になる。[%p]
+ZH [name]拓也[line]亚由美小姐貌似出去了……有点在意呢。[%p]
+
+JA [name]たくや[line]自室に戻ってきたが‥‥。[%p]
+ZH [name]拓也[line]又回到自己房间了啊……。[%p]
+
+JA [name]たくや[line]亜由美さんは、いないみたいだな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，貌似不在啊……。[%p]
+
+JA [name]たくや[line]おかしいな、どこへ行ったんだろう。[%p]
+ZH [name]拓也[line]真奇怪啊，到底去哪里了呢。[%p]
+
+JA [name]たくや[line]自室に戻ってきた‥‥。[%p]
+ZH [name]拓也[line]回到自己房间了……。[%p]
+
+JA [name]たくや[line]‥‥俺の部屋に頭痛薬はないぞ。[%p]
+ZH [name]拓也[line]……我的房间里面可没有头痛药呢。[%p]
+
+JA [name]たくや[line]自室に戻ってきた‥‥。[%p]
+ZH [name]拓也[line]回到自己房间了……。[%p]
+
+JA [name]たくや[line]外はもう暗いぞ‥‥。[%p]
+ZH [name]拓也[line]外面已经暗下来了……。[%p]
+
+JA [name]たくや[line]自室に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]回到自己房间了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オヤジの手紙を‥‥とにかくもう一度読んでみたい気分だ。[%p]
+ZH [name]拓也[line]总而言之……先把老头子的信重新再看一遍吧。[%p]
+
+JA [name]たくや[line]それで、亜由美さんの態度の意味がわかるかもしれない‥‥。[%p]
+ZH [name]拓也[line]这样的话，说不定也能清楚亚由美小姐那个态度的意思了……。[%p]
+
+JA [name]たくや[line]自室に戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到自己房间了啊……。[%p]
+
+JA [name]たくや[line]‥‥もちろん、亜由美さんはいないぞ。[%p]
+ZH [name]拓也[line]……当然，亚由美小姐没有在呢。[%p]
+
+JA 
+ZH 
+

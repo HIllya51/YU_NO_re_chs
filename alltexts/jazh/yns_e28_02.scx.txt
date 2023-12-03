@@ -1,0 +1,276 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]人影は‥‥見えないな。[%p]
+ZH [name]拓也[line]看不到……人影。[%p]
+
+JA [name]たくや[line]神奈チャンも‥‥あの北条って野郎も‥‥。[%p]
+ZH [name]拓也[line]神奈也……那个叫北条的家伙也……。[%p]
+
+JA [name]たくや[line]だが、さっきの携帯電話では、確かにここと指定していた。[%p]
+ZH [name]拓也[line]但是，刚才在手机里，确实是指的是这个地方。[%p]
+
+JA [name]たくや[line]どこかに、いるはずだ。[%p]
+ZH [name]拓也[line]总之，应该在的。[%p]
+
+JA [name]たくや[line]うわっ![%p]
+ZH [name]拓也[line]（呜哇！）[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ‥‥今、音がしたぞ。[%p]
+ZH [name]拓也[line]怎么了……刚刚，发出声音了。[%p]
+
+JA [name]たくや[line]そうだ、あの茂みから聴こえてきたんだ![%p]
+ZH [name]拓也[line]对了，是从那片树丛里听到的！[%p]
+
+JA [name]たくや[line]行ってみよう![%p]
+ZH [name]拓也[line]过去看看吧！[%p]
+
+JA [name]たくや[line]!!!!!???[%p]
+ZH [name]拓也[line]!!!!!???[%p]
+
+JA [name]神奈[line]いやっ‥‥いやぁぁぁっ!![%p]
+ZH [name]神奈[line]不要……不要！！[%p]
+
+JA [name]たくや[line](神奈チャンが‥‥襲われてる!?)[%p]
+ZH [name]拓也[line](（神奈……被袭击了！？）)[%p]
+
+JA [name]たくや[line]誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]たくや[line]もう10時をそうとう過ぎている‥‥。[%p]
+ZH [name]拓也[line]已经差不多过了１０点了……。[%p]
+
+JA [name]たくや[line]誰もいないみたいだ‥‥ここから見る分には。[%p]
+ZH [name]拓也[line]似乎谁也没有……从这里看就知道。[%p]
+
+JA [name]たくや[line]木々が生い茂っている‥‥。[%p]
+ZH [name]拓也[line]树木繁茂‥‥。[%p]
+
+JA [name]たくや[line]誰もいないみたいだが‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]たくや[line]だから、ベンチだよ‥‥誰も座っていないぜ。[%p]
+ZH [name]拓也[line]所以，是长椅呢……没人坐在上面。[%p]
+
+JA [name]たくや[line]‥‥誰も座っていないベンチだ。[%p]
+ZH [name]拓也[line]……空无一人的长椅。[%p]
+
+JA [name]たくや[line]ゴミ箱から悲鳴が‥‥聴こえる訳ないな。[%p]
+ZH [name]拓也[line]从垃圾箱里传来惨叫……没理由会听到这个啊。[%p]
+
+JA [name]たくや[line]風で揺れやすいゴミ箱だ‥‥。[%p]
+ZH [name]拓也[line]很容易被风吹动的垃圾箱……。[%p]
+
+JA [name]たくや[line]‥‥何だ、ゴミ箱が風で揺れただけか。[%p]
+ZH [name]拓也[line]……什么啊，是垃圾箱被风吹得摇来摇去啊。[%p]
+
+JA [name]たくや[line]ふぅ‥‥脅かすなよ。[%p]
+ZH [name]拓也[line]呼……不要吓我了。[%p]
+
+JA [name]たくや[line]ゴミ箱の中には、誰もいない‥‥。[%p]
+ZH [name]拓也[line]垃圾箱里，没有人……。[%p]
+
+JA [name]たくや[line]当たり前のことを、確認させないでくれ。[%p]
+ZH [name]拓也[line]理所当然的事，不要去确认了。[%p]
+
+JA [name]たくや[line]まさか、この中に‥‥。[%p]
+ZH [name]拓也[line]难道，这里面……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない。当たり前だ。[%p]
+ZH [name]拓也[line]谁也没有。理所当然。[%p]
+
+JA [name]たくや[line]電灯から聴こえるはずないだろ![%p]
+ZH [name]拓也[line]！[%p]
+
+JA [name]たくや[line]この公園唯一の光源だな‥‥。[%p]
+ZH [name]拓也[line]是这个公园唯一的光源呢……。[%p]
+
+JA [name]たくや[line]あとは、お月様の光だけだ‥‥。[%p]
+ZH [name]拓也[line]剩下的，就只有月亮大人的光了……。[%p]
+
+JA [name]たくや[line]電灯だ‥‥薄暗いが明かりが点いているな。[%p]
+ZH [name]拓也[line]是电灯……光线昏暗地亮着。[%p]
+
+JA [name]たくや[line]いや、そこじゃない![%p]
+ZH [name]拓也[line]不要，不是那里！[%p]
+
+JA [name]たくや[line]そこには誰もいない‥‥。[%p]
+ZH [name]拓也[line]这里一个人也没有……。[%p]
+
+JA [name]たくや[line]緑が多い公園だ‥‥。[%p]
+ZH [name]拓也[line]充满绿色的公园……。[%p]
+
+JA [name]たくや[line]まさか、ここに登っている、なんてことは‥‥。[%p]
+ZH [name]拓也[line]难道是，爬上这里，这样的……。[%p]
+
+JA [name]たくや[line]‥‥ないな。[%p]
+ZH [name]拓也[line]……没有啊。[%p]
+
+JA [name]たくや[line]あんなところから、悲鳴が聴こえてくる訳がない。[%p]
+ZH [name]拓也[line]从那样的地方，不可能听到惨叫的吧。[%p]
+
+JA [name]たくや[line]あそこだ‥‥ほら、目の前の‥‥。[%p]
+ZH [name]拓也[line]在那里……看，就在眼前……。[%p]
+
+JA [name]たくや[line]マンションだよ‥‥。[%p]
+ZH [name]拓也[line]公寓……。[%p]
+
+JA [name]たくや[line]俺はあそこから、やってきたんだ。[%p]
+ZH [name]拓也[line]我是从那里，过来的。[%p]
+
+JA [name]たくや[line]神奈チャンのマンションだ‥‥。[%p]
+ZH [name]拓也[line]神奈的公寓……。[%p]
+
+JA [name]たくや[line]隣の家から聴こえたのか?[%p]
+ZH [name]拓也[line]是从邻居家听到的吗？[%p]
+
+JA [name]たくや[line]違うぞ、悲鳴は‥‥あそこからだ![%p]
+ZH [name]拓也[line]不对，惨叫是……从那里来的！[%p]
+
+JA [name]たくや[line]公園横に建っている民家だ‥‥。[%p]
+ZH [name]拓也[line]公园侧面建着的住家……。[%p]
+
+JA [name]たくや[line]隣の民家ってやつだな‥‥。[%p]
+ZH [name]拓也[line]是旁边的住家吧……。[%p]
+
+JA [name]たくや[line]違う、噴水じゃない![%p]
+ZH [name]拓也[line]不对，不是喷泉！[%p]
+
+JA [name]たくや[line]噴水の中には誰もいないぞ‥‥。[%p]
+ZH [name]拓也[line]喷泉中空无一人……。[%p]
+
+JA [name]たくや[line]公園の中央にある噴水だ‥‥。[%p]
+ZH [name]拓也[line]公园中央立着的喷泉……。[%p]
+
+JA [name]たくや[line]まさか、水の中にいるわけ‥‥
+ZH [name]拓也[line]莫非，是在水里面……
+
+JA ないな。[%p]
+ZH 没啊。[%p]
+
+JA [name]たくや[line]まさか、水の中にいるわけ‥‥ないな。
+ZH [name]拓也[line]莫非，是在水里面……没有呢。
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]空から悲鳴が聴こえるかよ‥‥。[%p]
+ZH [name]拓也[line]能听到从天而降的惨叫……。[%p]
+
+JA [name]たくや[line]俺の勘じゃ‥‥あそこだ![%p]
+ZH [name]拓也[line]不是我的错觉……就是那边！[%p]
+
+JA [name]たくや[line]どんよりと曇っている‥‥。[%p]
+ZH [name]拓也[line]阴沉沉的天暗了下来……。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥今はどのくらいの時刻だろう。[%p]
+ZH [name]拓也[line]昏暗的天空……现在是什么时间了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、もう10時を過ぎているぜ‥‥。[%p]
+ZH [name]拓也[line]什么啊，已经超过１０点了……。[%p]
+
+JA [name]たくや[line]北条の野郎は、どうしたんだ?[%p]
+ZH [name]拓也[line]北条那个家伙，到底怎么回事？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]どんよりと曇っているな‥‥。[%p]
+ZH [name]拓也[line]阴沉沉的天暗下来了……。[%p]
+
+JA [name]たくや[line]何だか、一昨日のあのときを思い出す‥‥。[%p]
+ZH [name]拓也[line]不知怎么的，想起前天那个时刻……。[%p]
+
+JA [name]たくや[line]龍蔵寺が俺に拳銃をむけた、あのときを‥‥。[%p]
+ZH [name]拓也[line]龙藏寺用枪指着我，那个时刻……。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥。[%p]
+ZH [name]拓也[line]阴暗的天空……。[%p]
+
+JA [name]たくや[line]もちろん誰もいないぜ‥‥。[%p]
+ZH [name]拓也[line]当然没有任何人……。[%p]
+
+JA [name]たくや[line]おい、冗談やってる場合か?[%p]
+ZH [name]拓也[line]喂，这是开玩笑的时候吗？[%p]
+
+JA [name]たくや[line]宇宙人じゃないんだ、空にいるわけないぞ。[%p]
+ZH [name]拓也[line]又不是外星人，肯定不可能在天上吧。[%p]
+
+JA [name]たくや[line]いや、そこじゃない‥‥。[%p]
+ZH [name]拓也[line]不对，不是那里……。[%p]
+
+JA [name]たくや[line]いったい、どうしたっていうんだ‥‥。[%p]
+ZH [name]拓也[line]（究竟，发生什么事了……。）。[%p]
+
+JA [name]たくや[line]誰も、いない‥‥。[%p]
+ZH [name]拓也[line]一个人，也没有……。[%p]
+
+JA [name]声[line]いやーーっ!![%p]
+ZH [name]声音[line]不要！！[%p]
+
+JA [name]たくや[line]‥‥!!??[%p]
+ZH [name]拓也[line]……！！？？[%p]
+
+JA [name]たくや[line]今‥‥悲鳴が聴こえてきたぞ![%p]
+ZH [name]拓也[line]不对……能听到悲鸣！[%p]
+
+JA [name]たくや[line]どこだ‥‥どこから聴こえてきた!?[%p]
+ZH [name]拓也[line]哪里……从哪里听到的！？[%p]
+
+JA [name]たくや[line]‥‥誰もいない公園だ。[%p]
+ZH [name]拓也[line]……谁也没有的公园。[%p]
+
+JA [name]たくや[line]もしかしたら、神奈チャンも、北条の野郎も、いないのかも知れない。[%p]
+ZH [name]拓也[line]莫非，神奈也，北条那家伙也，可能都不在。[%p]
+
+JA [name]たくや[line]‥‥誰もいない。[%p]
+ZH [name]拓也[line]……谁也不在。[%p]
+
+JA [name]たくや[line]珍しいな‥‥いつもの夜なら、カップルでごった返すのに。[%p]
+ZH [name]拓也[line]真是难得……如果是往常的夜晚，应该是情侣攒动。[%p]
+
+JA [name]たくや[line]誰もいないみたいだけど‥‥。[%p]
+ZH [name]拓也[line]一个人也没有的样子……。[%p]
+
+JA [name]たくや[line]いや、どこかにいるはずなんだ‥‥。[%p]
+ZH [name]拓也[line]不对，应该是在哪里的……。[%p]
+
+JA [name]たくや[line]静かな公園だ‥‥。[%p]
+ZH [name]拓也[line]安静的公园……。[%p]
+
+JA [name]たくや[line]茂みの陰に、カップルが群生しているはずなんだが‥‥。[%p]
+ZH [name]拓也[line]茂密的树荫中，本应情侣簇生……。[%p]
+
+JA [name]たくや[line]‥‥今晩に限っては、誰もいないんだろうか。[%p]
+ZH [name]拓也[line]……只是今晚，一个人也没有。[%p]
+
+JA [name]たくや[line]‥‥嫌な予感がするんだ。[%p]
+ZH [name]拓也[line]……有不祥的预感。[%p]
+
+JA [name]たくや[line]違う、そうじゃない。[%p]
+ZH [name]拓也[line]（不对，不是这样。）。[%p]
+
+JA [name]たくや[line]違うだろう、そのアイテムは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]不对，这个道具使用不了‥‥。[%p]
+
+JA [name]たくや[line]それよりも、今は他にやることがあるだろう‥‥。[%p]
+ZH [name]拓也[line]相比之下，还有其他应该做的事情吧‥‥。[%p]
+
+JA [name]たくや[line]おいおい、どこに使ってるんだよ‥‥。[%p]
+ZH [name]拓也[line]喂喂，是想在哪里使用啊‥‥。[%p]
+
+JA [name]たくや[line]もうちょっと考えてくれ。[%p]
+ZH [name]拓也[line]再稍微考虑一下。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,84 @@
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]何も言わなくていいよ‥‥俺だって疲れてるんだから。[%p]
+ZH [name]拓也[line]你什么都不用说了……我现在已经累趴下了。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]じゃ、これから行ってくるぞ。[%p]
+ZH [name]拓也[line]那么，接下来我要走了。[%p]
+
+JA [name]たくや[line](ふぅ‥‥行ったり来たり‥‥いい加減にしようぜ。)[%p]
+ZH [name]拓也[line](（呼……走过来又走过去的……该适可而止了吧。）。)[%p]
+
+JA [name]美月[line]‥‥どうしたの?[%p]
+ZH [name]美月[line]……怎么了？[%p]
+
+JA [name]たくや[line]じゃ、そういうわけで。[%p]
+ZH [name]拓也[line]那么，因为如此。[%p]
+
+JA [name]美月[line]‥‥‥時々、理解不能な行動をするのよね、たくやって。[%p]
+ZH [name]美月[line]……有时候，你会做些让我不能理解的行动呢，拓也呃。[%p]
+
+JA [name]たくや[line](ふぅ‥‥行ったり来たり‥‥疲れてきたな。)[%p]
+ZH [name]拓也[line](（呼……走过来又走过去的……累死我了啊。）。)[%p]
+
+JA [name]美月[line]あら、早かったのね‥‥島津さんは?[%p]
+ZH [name]美月[line]哎呀，速度真快啊……岛津同学呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]そう‥‥残念だわ。[%p]
+ZH [name]美月[line]是吗……真遗憾啊。[%p]
+
+JA [name]たくや[line]もう一度、中に入ってみるよ。結構中は広そうなんだ。[%p]
+ZH [name]拓也[line]再一次，进去里面看看吧。里面好像相当地宽广呢。[%p]
+
+JA [name]美月[line]そうなの‥‥?[%p]
+ZH [name]美月[line]这样啊……？[%p]
+
+JA [name]結城[line]ええ、迷路とまでは言いませんが、ずーーっと奥に続いていそうです。[%p]
+ZH [name]结城[line]是啊，虽然说不上到迷路的程度，不过似乎一直延伸到很——里面。[%p]
+
+JA [name]美月[line]‥‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]よし、行くぞ結城。[%p]
+ZH [name]拓也[line]好了，走吧结城。[%p]
+
+JA [name]結城[line]はいどーっ。[%p]
+ZH [name]结城[line]好的——。[%p]
+
+JA [name]美月[line]お帰りなさい、たくや‥‥‥それに結城君。[%p]
+ZH [name]美月[line]欢迎回来，拓也……还有结城君。[%p]
+
+JA [name]たくや[line]おう、いま戻ったぞ。[%p]
+ZH [name]拓也[line]哦哦，已经回来了啊。[%p]
+
+JA [name]美月[line]島津さんは、見つかったの?[%p]
+ZH [name]美月[line]岛津同学呢，找到了吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]そう‥‥‥残念ね。[%p]
+ZH [name]美月[line]是吗……真遗憾。[%p]
+
+JA [name]たくや[line]まだ見つからないと決まった訳じゃない。もう一度、中を探してみる。[%p]
+ZH [name]拓也[line]现在还没到不去找的时候。再一次，进去里面找找看吧。[%p]
+
+JA [name]美月[line]気をつけて‥‥‥危なくなったら、すぐに戻るのよ。[%p]
+ZH [name]美月[line]小心一点……要是有危险的话，马上就跑回来吧。[%p]
+
+JA [name]たくや[line]わかってるよ。よし、行くぞ結城。[%p]
+ZH [name]拓也[line]明白了。好吧，我们走结城。[%p]
+
+JA [name]結城[line]はい。[%p]
+ZH [name]结城[line]是啊。[%p]
+
+JA 
+ZH 
+

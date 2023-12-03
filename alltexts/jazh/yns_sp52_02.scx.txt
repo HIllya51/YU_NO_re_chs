@@ -1,0 +1,36 @@
+JA [name]たくや[line]水も飲んだし、家に戻ろうぜ。[%p]
+ZH [name]拓也[line]JF:水也喝了，回家吧。[%p]
+
+JA [name]たくや[line]いつもより、静かな雰囲気だ‥‥。[%p]
+ZH [name]拓也[line]比平时，还安静的氛围……。[%p]
+
+JA [name]たくや[line]いつもより、静かな雰囲気だ‥‥。[%p]
+ZH [name]拓也[line]比平时，还安静的氛围……。[%p]
+
+JA [name]たくや[line]俺の気のせいだろうか‥‥。[%p]
+ZH [name]拓也[line]我的错觉么……。[%p]
+
+JA [name]たくや[line]もう水は飲みたくないな。[%p]
+ZH [name]拓也[line]已经不想喝水了。[%p]
+
+JA [name]たくや[line]森にはもう行ったぜ‥‥たらふく水を飲んだ。[%p]
+ZH [name]拓也[line]森林已经去过了……喝了个水饱。[%p]
+
+JA [name]たくや[line]我ながら無謀なことをしたもんだな‥‥。[%p]
+ZH [name]拓也[line]连我都觉得是件无谋之举……。[%p]
+
+JA [name]たくや[line]予想以上に凄い場所だった‥‥。[%p]
+ZH [name]拓也[line]预料之外的可怕地方……。[%p]
+
+JA [name]たくや[line]今になって、無謀なことをしたって感じがしてきたな。[%p]
+ZH [name]拓也[line]到了现在，才感到做了件无谋之举。[%p]
+
+JA [name]たくや[line]家へ戻るぞ‥‥。[%p]
+ZH [name]拓也[line]回家吧……。[%p]
+
+JA [name]たくや[line]森に‥‥戻るのか?[%p]
+ZH [name]拓也[line]要返回……森林么？[%p]
+
+JA 
+ZH 
+

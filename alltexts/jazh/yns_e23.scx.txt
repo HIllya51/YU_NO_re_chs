@@ -1,0 +1,135 @@
+JA [name]たくや[line]あれれ‥‥?[%p]
+ZH [name]拓也[line]咦咦……？[%p]
+
+JA [name]たくや[line]何で俺はここに戻ってきたんだ‥‥?[%p]
+ZH [name]拓也[line]为什么我会回到这里来啊……？[%p]
+
+JA [name]たくや[line]静かな廊下だ‥‥。[%p]
+ZH [name]拓也[line]真是安静的走廊‥‥。[%p]
+
+JA [name]たくや[line]相変わらず、静かな廊下だ‥‥。[%p]
+ZH [name]拓也[line]还是一如既往，宁静的走廊……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥部屋に戻っているんだろうか?[%p]
+ZH [name]拓也[line]神奈……应该回房间去了吧？[%p]
+
+JA [name]たくや[line]相変わらず、静かな廊下だ‥‥。[%p]
+ZH [name]拓也[line]还是一如既往，宁静的走廊……。[%p]
+
+JA [name]たくや[line]彼女、帰っているだろうか‥‥?[%p]
+ZH [name]拓也[line]她，应该回去了吧……？[%p]
+
+JA [name]たくや[line]神奈チャンの部屋の前だ‥‥。[%p]
+ZH [name]拓也[line]神奈的房间前面……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥外に出たぜ。[%p]
+ZH [name]拓也[line]呼……走到外面去吧。[%p]
+
+JA [name]たくや[line]とりあえず、通報でもされたら、敵わないからな‥‥。[%p]
+ZH [name]拓也[line]总之，就算被通知了，也没什么关系吧……。[%p]
+
+JA [name]たくや[line]しかし、あの写真‥‥神奈チャンじゃないとしたら、いったい誰なんだ?[%p]
+ZH [name]拓也[line]但是，那张照片……如果不是神奈的话，那到底又是谁呢？[%p]
+
+JA [name]たくや[line]神奈チャンの部屋の前だ‥‥。[%p]
+ZH [name]拓也[line]神奈的房间前面……。[%p]
+
+JA [name]たくや[line]彼女、いるだろうか‥‥?[%p]
+ZH [name]拓也[line]她，应该在的吧……？[%p]
+
+JA [name]男[line]おっと、失礼‥‥ん?[%p]
+ZH [name]男人[line]哦哟，失礼……嗯？[%p]
+
+JA [name]たくや[line](こいつ‥‥‥。)[%p]
+ZH [name]拓也[line](（这家伙……。）。)[%p]
+
+JA [name]北条[line]よう、気分はどうだい?[%p]
+ZH [name]北条[line]哟，心情如何？[%p]
+
+JA [name]たくや[line]あんたに会うまでは、とても良かったよ。[%p]
+ZH [name]拓也[line]在遇到你之前，都还很不错。[%p]
+
+JA [name]北条[line]へっ、相変わらず、口の達者な兄さんだ。[%p]
+ZH [name]北条[line]嘿，还是老样子，嘴巴不饶人的小兄弟啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]北条[line]波多乃神奈なら、今いないみたいだ。[%p]
+ZH [name]北条[line]波多乃神奈的话，现在好像不在啊。[%p]
+
+JA [name]たくや[line]それは幸いだった。あんたに訪ねてこられちゃ、彼女も迷惑するだろうからな。[%p]
+ZH [name]拓也[line]那还真是幸运啊。被你拜访上门，她一定也会觉得为难吧。[%p]
+
+JA [name]北条[line]どうやら、嫌われているらしいな。[%p]
+ZH [name]北条[line]看来，我是被讨厌了呢。[%p]
+
+JA [name]たくや[line]そんな仮定形で言わないでいいぜ。明らかに嫌っているんだ。[%p]
+ZH [name]拓也[line]不必用假定形来说也可以。明显讨厌你呢。[%p]
+
+JA [name]北条[line]へへ‥‥まぁ、そう意気がるなよ、兄さん。[%p]
+ZH [name]北条[line]嘿嘿……算了，别这么自以为是，小哥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]北条[line]ちょうど、話もあったんだ。探していたんだぜ。[%p]
+ZH [name]北条[line]刚好，我有话要跟你说。正在找你呢。[%p]
+
+JA [name]たくや[line](なんだ、こいつ‥‥。)[%p]
+ZH [name]拓也[line](（什么啊，这家伙……。）。)[%p]
+
+JA [name]たくや[line]501号室に来たぜ‥‥神奈チャンの部屋だ。[%p]
+ZH [name]拓也[line]来到了５０１号房间……神奈的房间。[%p]
+
+JA [name]たくや[line]彼女、いるだろうか‥‥?[%p]
+ZH [name]拓也[line]她，应该在的吧……？[%p]
+
+JA [name]たくや[line]神奈チャンの部屋の前だ‥‥‥。[%p]
+ZH [name]拓也[line]神奈的房间前面……。[%p]
+
+JA [name]たくや[line]正面のドアが、5階の501号室‥‥‥。[%p]
+ZH [name]拓也[line]正面的门那边，就是５楼５０１室……。[%p]
+
+JA [name]たくや[line]神奈チャンの部屋だ。[%p]
+ZH [name]拓也[line]神奈的房间。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ええと、神奈、神奈と‥‥。[%p]
+ZH [name]拓也[line]那个，神奈，神奈……。[%p]
+
+JA [name]たくや[line]無いな‥‥おかしいぞ。[%p]
+ZH [name]拓也[line]没有……真奇怪呢。[%p]
+
+JA [name]たくや[line]あっ、そうか。彼女の名字は波多乃だった。[%p]
+ZH [name]拓也[line]啊、对了。她的姓是波多乃。[%p]
+
+JA [name]たくや[line]波多乃‥‥波多乃と‥‥
+ZH [name]拓也[line]波多乃……波多乃……
+
+JA あった。[%p]
+ZH 有了。[%p]
+
+JA [name]たくや[line]波多乃‥‥波多乃と‥‥あった。
+ZH [name]拓也[line]波多乃……波多乃……有了。
+
+JA [name]たくや[line]5階の突き当たり‥‥501号室か。[%p]
+ZH [name]拓也[line]５楼尽头……５０１号房吗。[%p]
+
+JA [name]たくや[line]よし、行ってみよう![%p]
+ZH [name]拓也[line]好嘞，去看看吧！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここが5階の突き当たり‥‥。[%p]
+ZH [name]拓也[line]这里是５楼的尽头……。[%p]
+
+JA [name]たくや[line]神奈チャンの部屋はここか‥‥。[%p]
+ZH [name]拓也[line]神奈的房间在这里吗……。[%p]
+
+JA 
+ZH 
+

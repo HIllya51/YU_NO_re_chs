@@ -1,0 +1,44 @@
+
+[color index="A01F0000"]Dライン[color index="800000"]を送信しました
+
+
+
+[color index="800000"]タイトルメニューに
+[color index="A01F0000"]『EXTRA』メニュー
+[color index="800000"]が追加されました。
+[color index="800000"]『EXTRA』メニューに
+[color index="A01F0000"]CLEAR LIST
+[color index="800000"]が追加されました。
+[color index="800000"]『EXTRA』メニューに
+[color index="A01F0000"]CG LIBRARY
+[color index="800000"]が追加されました。
+[color index="800000"]『EXTRA』メニューに
+[color index="A01F0000"]SOUND LIBRARY
+[color index="800000"]が追加されました。
+[color index="800000"]『EXTRA』メニューに
+[color index="A01F0000"]MOVIE LIBRARY
+[color index="800000"]が追加されました。
+[color index="800000"]『EXTRA』メニューに
+[color index="A01F0000"]TIPS
+[color index="800000"]が追加されました。
+[color index="800000"]『TIPS』の
+[color index="A01F0000"]新しい項目
+[color index="800000"]が開放されました。
+[color index="800000"]『CG LIBRARY』で
+[color index="A01F0000"]新しい項目
+[color index="800000"]が開放されました。
+[color index="800000"]RINEトリガーの『設定』→『壁紙設定』で
+[color index="A01F0000"]新しい壁紙
+[color index="800000"]が開放されました。
+[color index="A01F0000"][name]盟誓のリナシメント[line][color index="800000"] クリア
+[color index="A01F0000"][name]存在証明のオートマトン[line][color index="800000"] クリア
+[color index="A01F0000"][name]相互再帰のマザーグース[line][color index="800000"] クリア
+[color index="A01F0000"][name]無限遠点のアルタイル[line][color index="800000"] クリア
+[color index="A01F0000"][name]私秘鏡裏のスティグマ[line][color index="800000"] クリア
+[color index="A01F0000"][name]交差座標のスターダスト[line][color index="800000"] クリア
+[color index="810000"][name]盟誓のリナシメント[line][color index="800000"] クリア
+[color index="810000"][name]存在証明のオートマトン[line][color index="800000"] クリア
+[color index="810000"][name]相互再帰のマザーグース[line][color index="800000"] クリア
+[color index="810000"][name]無限遠点のアルタイル[line][color index="800000"] クリア
+[color index="810000"][name]私秘鏡裏のスティグマ[line][color index="800000"] クリア
+[color index="810000"][name]交差座標のスターダスト[line][color index="800000"] クリア

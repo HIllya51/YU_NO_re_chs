@@ -1,0 +1,44 @@
+
+[color index="A01F0000"]JF:D线[color index="800000"]JF:已发送
+
+
+
+[color index="800000"]JF:在标题菜单中
+[color index="A01F0000"]JF:“EXTRA”菜单
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:在“EXTRA”菜单上
+[color index="A01F0000"]CLEAR LIST
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:在“EXTRA”菜单上
+[color index="A01F0000"]CG LIBRARY
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:在“EXTRA”菜单上
+[color index="A01F0000"]SOUND LIBRARY
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:在“EXTRA”菜单上
+[color index="A01F0000"]MOVIE LIBRARY
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:在“EXTRA”菜单上
+[color index="A01F0000"]TIPS
+[color index="800000"]JF:已添加。
+[color index="800000"]JF:《TIPS》的
+[color index="A01F0000"]JF:新项目
+[color index="800000"]JF:开放了。
+[color index="800000"]JF:在《CG LIBRARY》中
+[color index="A01F0000"]JF:新项目
+[color index="800000"]JF:开放了。
+[color index="800000"]JF:RINE触发器的“设定”→“壁纸设定”
+[color index="A01F0000"]JF:新建壁纸
+[color index="800000"]JF:开放了。
+[color index="A01F0000"][name]JF:盟誓的精神[line][color index="800000"]JF:清除
+[color index="A01F0000"][name]JF:存在证明自动机[line][color index="800000"]JF:清除
+[color index="A01F0000"][name]JF:互递归的母牛[line][color index="800000"]JF:清除
+[color index="A01F0000"][name]JF:无限远点的磁砖[line][color index="800000"]JF:清除
+[color index="A01F0000"][name]JF:我秘镜里的斯蒂格玛[line][color index="800000"]JF:清除
+[color index="A01F0000"][name]JF:相交坐标星尘[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:盟誓的精神[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:存在证明自动机[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:互递归的母牛[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:无限远点的磁砖[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:我秘镜里的斯蒂格玛[line][color index="800000"]JF:清除
+[color index="810000"][name]JF:相交坐标星尘[line][color index="800000"]JF:清除

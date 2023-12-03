@@ -1,0 +1,159 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗い‥‥小部屋みたいだ。[%p]
+ZH [name]拓也[line]貌似……是个昏暗的小房间。[%p]
+
+JA [name]たくや[line]くそっ、懐中電灯でもあれば、何とかわかるかも知れないが‥‥。[%p]
+ZH [name]拓也[line]可恶，要是有手电筒什么的话，说不定会知道些什么呢……。[%p]
+
+JA [name]たくや[line]調べてみるか‥‥?[%p]
+ZH [name]拓也[line]要调查看看吗……？[%p]
+
+JA [name]たくや[line]あれ、これは‥‥。[%p]
+ZH [name]拓也[line]咦，这个是……。[%p]
+
+JA [name]たくや[line]‥‥剣?[%p]
+ZH [name]拓也[line]……剑？[%p]
+
+JA [name]たくや[line]なんで、こんなのがここにあるんだ‥‥?[%p]
+ZH [name]拓也[line]为什么，这东西会掉在这里呢……？[%p]
+
+JA [name]たくや[line]鉄でできているみたいだ‥‥。[%p]
+ZH [name]拓也[line]看起来好像是铁做成的……。[%p]
+
+JA [name]たくや[line]やけに丈夫そうだ。[%p]
+ZH [name]拓也[line]好像异常地坚固呢。[%p]
+
+JA [name]たくや[line]あっ‥‥もしかしたら、こいつで‥‥。[%p]
+ZH [name]拓也[line]啊……说不定，可以用这东西……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][鉄の剣][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:得到了。
+
+JA [color index="840000"][鉄の剣][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]‥‥特にこれといって、変わったモノはないな。[%p]
+ZH [name]拓也[line]……特别是根据这东西，也没什么有变化的东西。[%p]
+
+JA [name]たくや[line]やたらと重圧感があるな‥‥。[%p]
+ZH [name]拓也[line]有种非常沉重的压力啊……。[%p]
+
+JA [name]たくや[line]いったい、この部屋は何なんだろう‥‥?[%p]
+ZH [name]拓也[line]到底，这个房间是怎么回事呢……？[%p]
+
+JA [name]たくや[line]カベといい、天井といい‥‥石が隙間なく敷き詰められている。[%p]
+ZH [name]拓也[line]墙壁也好，顶部也好……石头被铺砌得一点儿缝隙都没有。[%p]
+
+JA [name]たくや[line]‥‥そういえば、空気はどっからくるんだろう。[%p]
+ZH [name]拓也[line]……这么说起来，空气是从哪里传进来的呢。[%p]
+
+JA [name]たくや[line]全然、息苦しく感じないけど‥‥。[%p]
+ZH [name]拓也[line]完全，没有呼吸困难的感觉……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られている。[%p]
+ZH [name]拓也[line]好硬啊……被制造得异常坚固呢。[%p]
+
+JA [name]たくや[line]いったい、ここは何なんだろう‥‥?[%p]
+ZH [name]拓也[line]这里，到底是怎么回事呢……？[%p]
+
+JA [name]たくや[line]床に‥‥何か落ちていないだろうか?[%p]
+ZH [name]拓也[line]地板上……好像掉了什么东西呢？[%p]
+
+JA [name]たくや[line]床には、鉄の剣が落ちていた‥‥。[%p]
+ZH [name]拓也[line]地板上，掉了一半铁剑……。[%p]
+
+JA [name]たくや[line]これなら、或いは‥‥。[%p]
+ZH [name]拓也[line]这个的话，或许是……。[%p]
+
+JA [name]たくや[line]石ころが転がっている‥‥。[%p]
+ZH [name]拓也[line]小石块散落在地上……。[%p]
+
+JA [name]たくや[line]特に、何かが落ちているって訳じゃない‥‥。[%p]
+ZH [name]拓也[line]看来，并没有什么特别的东西掉下来……。[%p]
+
+JA [name]たくや[line]石ころが転がっているだけだ‥‥。[%p]
+ZH [name]拓也[line]只有一些小石块散落在地上……。[%p]
+
+JA [name]たくや[line]よくわからないが、カベに継ぎ目は見える‥‥。[%p]
+ZH [name]拓也[line]虽然不太明白，不过能够看到墙壁的接缝处……。[%p]
+
+JA [name]たくや[line]ここだけ、他のカベとは違うと思うんだが‥‥。[%p]
+ZH [name]拓也[line]只有这里，感觉跟其他墙壁是不一样的……。[%p]
+
+JA [name]たくや[line]‥‥横にスライドするって訳でもないし。[%p]
+ZH [name]拓也[line]……看起来也不能横向挪动。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA ググ‥‥ググググ‥‥。[%p]
+ZH 咕咕……咕咕咕咕……。[%p]
+
+JA [name]たくや[line]うーん‥‥ダメか。押したくらいじゃ、ビクともしない。[%p]
+ZH [name]拓也[line]嗯——……不行啊。只是这么推的话，完全纹丝不动啊。[%p]
+
+JA [name]たくや[line]押してもダメなら‥‥っと、引く場所がないな。[%p]
+ZH [name]拓也[line]要是推也不行的话……呃，没有能拉的地方啊。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、継ぎ目が見える‥‥。[%p]
+ZH [name]拓也[line]好像，能够看到接缝处……。[%p]
+
+JA [name]たくや[line]ここだけ、他のカベと違うようだ‥‥。[%p]
+ZH [name]拓也[line]貌似，只有这里跟其他的墙壁不同……。[%p]
+
+JA [name]たくや[line]今はそんなところを見ている場合じゃない‥‥。[%p]
+ZH [name]拓也[line]现在可不是看着那种地方的时候……。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られているが‥‥。[%p]
+ZH [name]拓也[line]好硬啊……被制造得特别坚固呢……。[%p]
+
+JA [name]たくや[line]妙なモノもあるが‥‥。[%p]
+ZH [name]拓也[line]也个有奇怪的东西……。[%p]
+
+JA [name]たくや[line]今はこんなところを見ている場合じゃない。[%p]
+ZH [name]拓也[line]现在可不是看着那种地方的时候。[%p]
+
+JA [name]たくや[line]今はそんなところを見ている場合じゃない‥‥。[%p]
+ZH [name]拓也[line]现在可不是看着那种地方的时候……。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られているが‥‥。[%p]
+ZH [name]拓也[line]好硬啊……被制造得特别坚固呢……。[%p]
+
+JA [name]たくや[line]妙なモノもあるが‥‥。[%p]
+ZH [name]拓也[line]也个有奇怪的东西……。[%p]
+
+JA [name]たくや[line]今はこんなところを見ている場合じゃない。[%p]
+ZH [name]拓也[line]现在可不是看着那种地方的时候。[%p]
+
+JA [name]たくや[line]戻るのか‥‥。[%p]
+ZH [name]拓也[line]要回去吗……。[%p]
+
+JA [name]たくや[line]そうだな、結城があの場所にいるはずだ‥‥。[%p]
+ZH [name]拓也[line]对啊，结城应该是在那个地方吧……。[%p]
+
+JA [name]たくや[line]戻ってみよう。[%p]
+ZH [name]拓也[line]回去看看吧。[%p]
+
+JA [name]たくや[line]結城を助けるのが先だってば。[%p]
+ZH [name]拓也[line]首先要先去帮助结城啊。[%p]
+
+JA [name]たくや[line]今はそれを使うべきときじゃない![%p]
+ZH [name]拓也[line]现在可不是使用那东西的时候！[%p]
+
+JA 
+ZH 
+

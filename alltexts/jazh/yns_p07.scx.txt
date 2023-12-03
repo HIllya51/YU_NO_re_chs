@@ -1,0 +1,288 @@
+JA [name]たくや[line]2階の廊下に来たぜ‥‥。[%p]
+ZH [name]拓也[line]来到了２楼的走廊‥‥。[%p]
+
+JA [name]たくや[line]研究室と屋上に行くことができるな‥‥。[%p]
+ZH [name]拓也[line]从这里可以去往研究室或者屋顶‥‥。[%p]
+
+JA [name]たくや[line]2階の廊下に来たぜ‥‥この上は、もう屋上なんだ。[%p]
+ZH [name]拓也[line]来到２层的走廊‥‥这上面已经是屋顶了。[%p]
+
+JA [name]たくや[line]しかし美月さん、いないなぁ‥‥。[%p]
+ZH [name]拓也[line]但是美月不在啊‥‥。[%p]
+
+JA [name]たくや[line]よし、とりあえず俺の責務はまっとうしたな。[%p]
+ZH [name]拓也[line]好，总之得完成我的职责。[%p]
+
+JA [name]たくや[line]任務完了、撤退するか。[%p]
+ZH [name]拓也[line]任务完成，撤退吧。[%p]
+
+JA [name]声[line]何を言っているのよ‥‥。[%p]
+ZH [name]声音[line]在说什么呢‥‥。[%p]
+
+JA [name]たくや[line]あれ、澪じゃないか‥‥。[%p]
+ZH [name]拓也[line]咦，这不是澪吗‥‥。[%p]
+
+JA [name]澪[line]フン‥‥。[%p]
+ZH [name]澪[line]哼……。[%p]
+
+JA [name]たくや[line]2階の廊下だ‥‥。[%p]
+ZH [name]拓也[line]２楼的走廊……。[%p]
+
+JA [name]たくや[line]今は誰もいないな‥‥。[%p]
+ZH [name]拓也[line]现在谁都不在……。[%p]
+
+JA [name]女性の声[line]あら‥‥。[%p]
+ZH [name]女性的声音[line]哎呀……。[%p]
+
+JA [name]たくや[line]どわっ、み、[ruby-base]美月[ruby-text-start]みつき[ruby-text-end]さ‥‥いや、[ruby-base]一条[ruby-text-start]いちじょう[ruby-text-end]先生。[%p]
+ZH [name]拓也[line]JF:哇，美月……不，是一条老师。[%p]
+
+JA [name]美月[line]美月でいいわよ‥‥久しぶりね、たくや。[%p]
+ZH [name]美月[line]叫我美月就可以了‥‥好久不见呢。拓也。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥久しぶりだね、本当に。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥真是好久不见。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]今は、有馬君‥‥の方がいいかしらね。[%p]
+ZH [name]美月[line]现在，有马君‥‥那边方便不。[%p]
+
+JA [name]たくや[line]呼び方なんて、どうだっていいさ。[%p]
+ZH [name]拓也[line]称呼啥的怎么都好。[%p]
+
+JA [name]美月[line]以前は、こだわっていたくせに。[%p]
+ZH [name]美月[line]明明以前还讲究这个呢。[%p]
+
+JA [name]たくや[line]‥‥美月さんは、龍蔵寺さんのお供かい?[%p]
+ZH [name]拓也[line]‥‥美月，现在跟着龙藏寺？[%p]
+
+JA [name]美月[line]ええ‥‥秘書の仕事だもの。ここの非常勤の講師、辞めたのよ。[%p]
+ZH [name]美月[line]对‥‥我担任他的秘书。把这里的兼课讲师，辞掉了。[%p]
+
+JA [name]たくや[line]えっ、そうなの?[%p]
+ZH [name]拓也[line]诶，是这样吗？[%p]
+
+JA [name]美月[line]フフ、もともと良いバイトということで始めたんだけどね。[%p]
+ZH [name]美月[line]呵呵，原本就是想先找份好的兼职而已。[%p]
+
+JA [name]たくや[line]美月さんの歴史の授業、結構気に入っていたんだけどな。[%p]
+ZH [name]拓也[line]美月教的历史课，我可非常喜爱呢。[%p]
+
+JA [name]美月[line]ありがとう。ま、本業の方が忙しくなってきたから、しょうがないのよ。[%p]
+ZH [name]美月[line]谢谢。唉，因为正业开始忙了，没办法啊。[%p]
+
+JA [name]たくや[line]秘書業かい?[%p]
+ZH [name]拓也[line]是说秘书这职业？[%p]
+
+JA [name]美月[line]そ。講師との兼任は難しかろうって、龍蔵寺先生に辞めるように言われたの。[%p]
+ZH [name]美月[line]没错。龙藏寺老师说兼任讲师太辛苦，让我辞掉它。[%p]
+
+JA [name]たくや[line]まさか、あのことが‥‥。[%p]
+ZH [name]拓也[line]难道说，那件事‥‥。[%p]
+
+JA [name]美月[line]フフ、違うわよ。[%p]
+ZH [name]美月[line]呵呵，不是哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]龍蔵寺先生の仕事が忙しくなって、私の仕事が増えたから。それだけ。[%p]
+ZH [name]美月[line]龙藏寺老师工作忙了起来，我的事情也增多了。仅此而已。[%p]
+
+JA [name]たくや[line]そっか‥‥。[%p]
+ZH [name]拓也[line]是么……。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]なんだい? 神妙な顔をして。[%p]
+ZH [name]拓也[line]咋了？　用这么奇怪的表情。[%p]
+
+JA [name]美月[line]お父様のこと、新聞で見たわ‥‥残念だったわね。[%p]
+ZH [name]美月[line]你父亲的事情，在新闻上看到了‥‥很是遗憾啊。[%p]
+
+JA [name]たくや[line]逆さ。やっと死亡認定されて、重苦しい生活ともおさらばだよ。[%p]
+ZH [name]拓也[line]正好相反。死亡通知终于下来了，也可以向郁闷的生活告别咯。[%p]
+
+JA [name]美月[line]‥‥どういうこと?[%p]
+ZH [name]美月[line]……怎么回事？[%p]
+
+JA [name]たくや[line]考え方の問題だな。死ぬにせよ生きるにせよ、中途半端な状態ってのは結構ストレスが溜まるものなんだ。[%p]
+ZH [name]拓也[line]考虑问题的角度不同而已。死了还是活着都没事，就怕这种半吊子状况，给人积攒了很多压力。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]そういうことさ。白黒はっきりしてしまえば、意外にサバけるものだぜ。[%p]
+ZH [name]拓也[line]就是这样啊。黑白明确区分的话，反倒意外地畅销。[%p]
+
+JA [name]美月[line]そう‥‥。[%p]
+ZH [name]美月[line]（对了……。）。[%p]
+
+JA [name]たくや[line]そうさ。[%p]
+ZH [name]拓也[line]是的。[%p]
+
+JA [name]美月[line]良かった‥‥もっと落ち込んでいるかと思っていたわ。[%p]
+ZH [name]美月[line]那就好‥‥我本来想你的情绪会不会更加低落呢。[%p]
+
+JA [name]たくや[line]落ち込んでいたら?[%p]
+ZH [name]拓也[line]情绪低落又如何？[%p]
+
+JA [name]美月[line]また、慰めてあげるわ。[%p]
+ZH [name]美月[line]那我就再来安慰你。[%p]
+
+JA [name]たくや[line]‥‥美月さんは最近、落ち込んでいないみたいじゃないか。[%p]
+ZH [name]拓也[line]‥‥最近美月看上去情绪还不错嘛。[%p]
+
+JA [name]美月[line]フフ、私もね、最近やっと割り切れてきたの‥‥。[%p]
+ZH [name]美月[line]哼哼，我呢，最近也终于想通了‥‥。[%p]
+
+JA [name]たくや[line]大人になったなぁ。[%p]
+ZH [name]拓也[line]长大成人了啊。[%p]
+
+JA [name]美月[line]あら、言ったわね。[%p]
+ZH [name]美月[line]哎呀，这么说我。[%p]
+
+JA [name]たくや[line]俺の方は、落ち込む以前に、落ち込んでる暇がないんだ。[%p]
+ZH [name]拓也[line]我呢，情绪低落之前，根本没有情绪消沉的空闲。[%p]
+
+JA [name]美月[line]頑張ってね‥‥。[%p]
+ZH [name]美月[line]‥‥。[%p]
+
+JA [name]たくや[line]お互いに。[%p]
+ZH [name]拓也[line]彼此彼此。[%p]
+
+JA [name]美月[line]私の方は‥‥結論が出ているもの。[%p]
+ZH [name]美月[line]我呢‥‥得出了一个结论。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]じゃあ私、先生のところへ行くわ。[%p]
+ZH [name]美月[line]那我先去老师那里了。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]美月[line]頑張って。[%p]
+ZH [name]美月[line]加油。[%p]
+
+JA [name]たくや[line]サンクス。[%p]
+ZH [name]拓也[line]多谢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さん、何だか寂しそうだったな‥‥。[%p]
+ZH [name]拓也[line]美月怎么感觉有些寂寞‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]突き当たりのドアが、歴史研究室だ‥‥。[%p]
+ZH [name]拓也[line]过道尽头的那扇门，就是历史研究室‥‥。[%p]
+
+JA [name]たくや[line]ま、研究室っていっても、講師の単なる詰め所だけどね。[%p]
+ZH [name]拓也[line]唉，说是研究室，不就单纯是教师的值班室吗。[%p]
+
+JA [name]たくや[line]何の用かは判らんが、とにかく行ってみようぜ。[%p]
+ZH [name]拓也[line]这地方干什么用我不清楚，先去看看吧。[%p]
+
+JA [name]たくや[line]校内の廊下だ‥‥。[%p]
+ZH [name]拓也[line]这是校内的走廊‥‥。[%p]
+
+JA [name]たくや[line]空調が効いていて、涼しいもんだな‥‥。[%p]
+ZH [name]拓也[line]空调发挥着作用，真是凉爽‥‥。[%p]
+
+JA [name]たくや[line]どわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]男子生徒[line]ちょっと、気を付けて‥‥
+ZH [name]男学生[line]小心一点‥‥
+
+JA ‥‥あれ?[%p]
+ZH ……咦？[%p]
+
+JA [name]男子生徒[line]ちょっと、気を付けて‥‥あれ?
+ZH [name]男学生[line]小心一点‥‥咦？
+
+JA [name]たくや[line]何やってるんだよ、お前。[%p]
+ZH [name]拓也[line]你在干嘛啊。[%p]
+
+JA [name]男子生徒[line]部長じゃないですか。本日はお日柄もよく‥‥。[%p]
+ZH [name]男学生[line]这不是部长吗。本日的运势也不太‥‥。[%p]
+
+JA [name]たくや[line]誰だ、お前。[%p]
+ZH [name]拓也[line]你谁啊。[%p]
+
+JA [name]男子生徒[line]誰って‥‥やだなぁ、部長の第一の子分[ruby-base]結城正勝[ruby-text-start]ゆうきまさかつ[ruby-text-end]ですよ。[%p]
+ZH [name]男学生[line]JF:谁……是部长的第一个子结城正胜啊。[%p]
+
+JA [name]たくや[line]そうだった、確かそんな名前のやつが、部活の後輩にいたなぁ。[%p]
+ZH [name]拓也[line]是啊，社团的晚辈里确实有叫这名字的家伙。[%p]
+
+JA [name]結城[line]頼みますよ、部長。[%p]
+ZH [name]结城[line]摆脱您了，部长。[%p]
+
+JA [name]たくや[line]その「部長」という呼び方は止めろって。もう俺は退部したんだからな。[%p]
+ZH [name]拓也[line]JF:不要叫我“部长”。我已经退部了。[%p]
+
+JA [name]結城[line]じゃあ、社長?[%p]
+ZH [name]结城[line]那，叫社长？[%p]
+
+JA [name]たくや[line]相変わらず面白いな、結城のギャグは。[%p]
+ZH [name]拓也[line]结城的哏还是一如既往搞笑啊。[%p]
+
+JA [name]結城[line]あっはっは、そんなに褒めて戴かなくても。[%p]
+ZH [name]结城[line]啊～哈～哈，也不用这么夸奖我。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]じゃあ、たくやさんで、よろしいですか?[%p]
+ZH [name]结城[line]那就，拓也同学，可以吗？[%p]
+
+JA [name]たくや[line]よろしいも、よろしくないも、呼び方に因縁つけたことなんて一度もないぞ。[%p]
+ZH [name]拓也[line]这不是可以不可以的问题，你可从来没在称呼上挑毛病啊。[%p]
+
+JA [name]結城[line]ま、目上の者への配慮ってやつですよ。[%p]
+ZH [name]结城[line]唉，得照顾到上司的感情啊。[%p]
+
+JA [name]たくや[line]‥‥で、お前はそこで何をしているんだ。[%p]
+ZH [name]拓也[line]‥‥我说，你在那里干什么呢。[%p]
+
+JA [name]結城[line]何って‥‥立ってるんですけど。[%p]
+ZH [name]结城[line]干什么‥‥就站着啊。[%p]
+
+JA [name]結城[line]痛いよう。[%p]
+ZH [name]结城[line]好疼。[%p]
+
+JA [name]たくや[line]じゃあ、俺は息をしてるぞ。[%p]
+ZH [name]拓也[line]这么说，我还在呼吸呢。[%p]
+
+JA [name]結城[line]そうですね、じゃあ僕は生きてる‥‥。[%p]
+ZH [name]结城[line]对啊，那我还活着呢‥‥。[%p]
+
+JA [name]結城[line]パコパコ、ぶたないで下さい‥‥。[%p]
+ZH [name]结城[line]别啪啪地打我啊‥‥。[%p]
+
+JA [name]たくや[line]面白すぎるんでな、景品だ。[%p]
+ZH [name]拓也[line]这附带功能太好玩了。[%p]
+
+JA [name]結城[line]面白かったですか? やぁ、参りましたよ、昨夜徹夜で考えた甲斐がありました。[%p]
+ZH [name]结城[line]很有趣是么？　呀，败给你了，还好昨晚一通宵没白考虑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](やっぱり、変なヤツだ‥‥。)[%p]
+ZH [name]拓也[line](（果然，是个奇怪的家伙‥‥）。)[%p]
+
+JA 
+ZH 
+

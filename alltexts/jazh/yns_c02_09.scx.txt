@@ -1,0 +1,741 @@
+JA [name]亜由美[line]どうしたの?[%p]
+ZH [name]亚由美[line]你怎么了？[%p]
+
+JA [name]たくや[line]い、いや‥‥その、おはよう。[%p]
+ZH [name]拓也[line]没，没事……那个，早上好。[%p]
+
+JA [name]たくや[line](どきどきどき‥‥。)[%p]
+ZH [name]拓也[line](心脏扑通扑通‥‥。)[%p]
+
+JA [name]たくや[line](そうか‥‥昨夜は、亜由美さんと‥‥。)[%p]
+ZH [name]拓也[line]JF:（是吗……昨晚和亚由美……）[%p]
+
+JA [name]たくや[line](‥‥何だか、顔から火が噴き出そうなくらい、恥ずかしいぞ。)[%p]
+ZH [name]拓也[line](（……感觉，脸上好像要喷火了一样，很难为情啊。）。)[%p]
+
+JA [name]亜由美[line]んん‥‥。[%p]
+ZH [name]亚由美[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]亜由美[line]ぷはっ。[%p]
+ZH [name]亚由美[line]噗哈。[%p]
+
+JA [name]たくや[line]勝った‥‥。[%p]
+ZH [name]拓也[line]赢了……。[%p]
+
+JA [name]亜由美[line]うん、たくやクンの勝ちね。[%p]
+ZH [name]亚由美[line]嗯，拓也君你赢了呢。[%p]
+
+JA [name]たくや[line]のわっ‥‥あ、亜由美さん。[%p]
+ZH [name]拓也[line]嗯哇……亚，亚由美小姐。[%p]
+
+JA [name]亜由美[line]たくやクンの‥‥匂い‥‥好き‥‥。[%p]
+ZH [name]亚由美[line]JF|腌萝卜……味道……喜欢。[%p]
+
+JA [name]たくや[line]俺も‥‥。[%p]
+ZH [name]拓也[line]我也……。[%p]
+
+JA [name]亜由美[line]あっ‥‥。[%p]
+ZH [name]亚由美[line]啊……。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐……。[%p]
+
+JA [name]亜由美[line]そんなに強く抱きしめたら‥‥痛いわ。[%p]
+ZH [name]亚由美[line]JF:抱得那么紧……好痛啊。[%p]
+
+JA [name]たくや[line]亜由美さんだって‥‥。[%p]
+ZH [name]拓也[line]因为是亚由美小姐……。[%p]
+
+JA [name]亜由美[line]ん‥‥。[%p]
+ZH [name]亚由美[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥もっとキスしたい。[%p]
+ZH [name]拓也[line]JF:……想再亲一次。[%p]
+
+JA [name]亜由美[line]ダ、ダメよ‥‥会社に行かないと‥‥。[%p]
+ZH [name]亚由美[line]不，不行啊……我得到公司去了……。[%p]
+
+JA [name]たくや[line]ダメ。このままにして行くなんて、残酷だよ。[%p]
+ZH [name]拓也[line]不行。你要是就这样子走掉的话，可是很残酷的。[%p]
+
+JA [name]亜由美[line]だって‥‥んっ。[%p]
+ZH [name]亚由美[line]可是……恩。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]ダメ‥‥本当に‥‥‥‥間に合わなくなっちゃう‥‥‥‥。[%p]
+ZH [name]亚由美[line]不行……真的…………我快要迟到了啊…………。[%p]
+
+JA [name]たくや[line]いいの、会社なんて‥‥。[%p]
+ZH [name]拓也[line]算了，公司什么的……。[%p]
+
+JA [name]亜由美[line]あん‥‥優しいキス‥‥ん‥‥‥‥。[%p]
+ZH [name]亚由美[line]啊嗯……温柔的吻……嗯…………。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐……。[%p]
+
+JA [name]亜由美[line]たくやクン‥‥好きよ、好き。[%p]
+ZH [name]亚由美[line]拓也君……喜欢你，喜欢。[%p]
+
+JA [name]たくや[line]俺もさ‥‥。[%p]
+ZH [name]拓也[line]我也是……。[%p]
+
+JA [name]亜由美[line]たくやクンのこと‥‥。[%p]
+ZH [name]亚由美[line]拓也君的事……。[%p]
+
+JA [name]たくや[line]うん‥‥。[%p]
+ZH [name]拓也[line]嗯……。[%p]
+
+JA [name]亜由美[line]ずっと、好きだったの。[%p]
+ZH [name]亚由美[line]一直，好喜欢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]もう‥‥この恋に、身も心も焼かれてしまいそうよ‥‥。[%p]
+ZH [name]亚由美[line]够了……这段恋情，好像要把身心全都燃烧殆尽……。[%p]
+
+JA [name]たくや[line](亜由美さん‥‥。)[%p]
+ZH [name]拓也[line](亚由美小姐……。)[%p]
+
+JA [name]たくや[line](もう、離したくない‥‥。)[%p]
+ZH [name]拓也[line](（已经，不想离开了……。）。)[%p]
+
+JA [name]たくや[line](俺だけのモノだ‥‥。)[%p]
+ZH [name]拓也[line](（只属于我的东西……。）。)[%p]
+
+JA 亜由美ENDへ行く
+ZH JF:去亚由美END
+
+JA 正規ルートを続行
+ZH JF:继续正规根目录
+
+JA [name]たくや[line](亜由美さん‥‥。)
+ZH [name]拓也[line](亚由美小姐……。)
+
+JA [name]たくや[line]ぐぅ‥‥。[%p]
+ZH [name]拓也[line]咕……。[%p]
+
+JA [name]亜由美[line]気持ちいいね。[%p]
+ZH [name]亚由美[line]真舒服呢。[%p]
+
+JA [name]たくや[line]うん‥‥のびのびできる。[%p]
+ZH [name]拓也[line]嗯……真是好悠闲啊。[%p]
+
+JA [name]亜由美[line]久しぶり‥‥こんなの。[%p]
+ZH [name]亚由美[line]久违了……这样子的。[%p]
+
+JA [name]亜由美[line]生き返るみたいね。[%p]
+ZH [name]亚由美[line]好像活着回来了呢。[%p]
+
+JA [name]たくや[line]うん‥‥。[%p]
+ZH [name]拓也[line]嗯……。[%p]
+
+JA [name]たくや[line](ふぅ‥‥本当に気持ちがいい。)[%p]
+ZH [name]拓也[line](（呼……感觉真的好舒服啊。）。)[%p]
+
+JA [name]たくや[line](こうして、公園でのびのびできるのも、本当に久しぶりだ‥‥。)[%p]
+ZH [name]拓也[line](（像这样，在公园悠然自得，真是久违了呢……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]ん‥‥。[%p]
+ZH [name]亚由美[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥これでいい?[%p]
+ZH [name]拓也[line]……这样可以吗？[%p]
+
+JA [name]亜由美[line]あっ、事務的。[%p]
+ZH [name]亚由美[line]啊、事务上的。[%p]
+
+JA [name]たくや[line]そ、そんなことないよ。[%p]
+ZH [name]拓也[line]没，没有那回事哦。[%p]
+
+JA [name]亜由美[line]じゃあ、もう1回ね。[%p]
+ZH [name]亚由美[line]那么，再来１回。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]今度は、うんと長くね‥‥。[%p]
+ZH [name]亚由美[line]这次，要更加地长……。[%p]
+
+JA [name]たくや[line]ねぇ、亜由美さん。[%p]
+ZH [name]拓也[line]呐，亚由美小姐。[%p]
+
+JA [name]亜由美[line]‥‥なに。[%p]
+ZH [name]亚由美[line]……什么。[%p]
+
+JA [name]たくや[line]今日は‥‥どうするんだい。[%p]
+ZH [name]拓也[line]今天……你要去干什么呢。[%p]
+
+JA [name]亜由美[line]これから?[%p]
+ZH [name]亚由美[line]接下来吗？[%p]
+
+JA [name]たくや[line]うん。[%p]
+ZH [name]拓也[line]唔嗯。[%p]
+
+JA [name]亜由美[line]そうね‥‥もう会社に行く時間だわ。[%p]
+ZH [name]亚由美[line]是呢……已经到去上班的时候了。[%p]
+
+JA [name]たくや[line]‥‥えっ、行っちゃうの?[%p]
+ZH [name]拓也[line]……诶，要走了吗？[%p]
+
+JA [name]亜由美[line]ええ。[%p]
+ZH [name]亚由美[line]是啊。[%p]
+
+JA [name]たくや[line]‥‥そっか。[%p]
+ZH [name]拓也[line]……是吗。[%p]
+
+JA [name]亜由美[line]寂しい?[%p]
+ZH [name]亚由美[line]寂寞吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]でも、色々と事後処理をこなさないと‥‥。[%p]
+ZH [name]亚由美[line]不过，我有很多善后工作要处理啊……。[%p]
+
+JA [name]たくや[line]いいじゃないか、1日くらい。[%p]
+ZH [name]拓也[line]不可以吗，就只要１天。[%p]
+
+JA [name]亜由美[line]ダメよ、ただでさえ信用が失墜しているのに、これ以上は‥‥。[%p]
+ZH [name]亚由美[line]不行，这样不只是失去了做人的信用，而且还……。[%p]
+
+JA [name]たくや[line]向こうにだって、非があるわけだろう? 無実の亜由美さんに、あんな疑惑をなげかけて。[%p]
+ZH [name]拓也[line]而且对于我来说，也会遭到非议吧？　明明是被冤枉的亚由美，却会受到这样的疑虑。[%p]
+
+JA [name]亜由美[line]‥‥それは、そうだけど。あっ、わかった。[%p]
+ZH [name]亚由美[line]……这个，说是这么说。啊、明白了。[%p]
+
+JA [name]たくや[line]な、なに。[%p]
+ZH [name]拓也[line]什，什么。[%p]
+
+JA [name]亜由美[line]一緒に、いてほしいんでしょう。[%p]
+ZH [name]亚由美[line]你是，想要两个人待在一起吧。[%p]
+
+JA [name]たくや[line]別に。[%p]
+ZH [name]拓也[line]没有。[%p]
+
+JA [name]亜由美[line]あっそう。じゃ、行こうかな。[%p]
+ZH [name]亚由美[line]啊对了。那么，我就走了。[%p]
+
+JA [name]たくや[line]さ、寂しいよ、ほんと。[%p]
+ZH [name]拓也[line]我，我很寂寞啊，真的。[%p]
+
+JA [name]亜由美[line]ほんと?[%p]
+ZH [name]亚由美[line]真的吗？[%p]
+
+JA [name]たくや[line]うんうん。[%p]
+ZH [name]拓也[line]嗯嗯。[%p]
+
+JA [name]亜由美[line]嘘っ。[%p]
+ZH [name]亚由美[line]胡说。[%p]
+
+JA [name]たくや[line]ウ、ウソじゃないって。[%p]
+ZH [name]拓也[line]没，没有骗你啊。[%p]
+
+JA [name]亜由美[line]じゃあ、態度で示してよ。[%p]
+ZH [name]亚由美[line]那么，就表现出你的态度啊。[%p]
+
+JA [name]たくや[line]た、態度?[%p]
+ZH [name]拓也[line]态，态度？[%p]
+
+JA [name]亜由美[line]ほら‥‥。[%p]
+ZH [name]亚由美[line]你看……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]‥‥どうしたの?[%p]
+ZH [name]亚由美[line]……怎么了？[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]亜由美[line]何だか、深刻な顔をしている‥‥。[%p]
+ZH [name]亚由美[line]感觉，表情很严肃啊……。[%p]
+
+JA [name]たくや[line]そ、そうかな。昨夜、頑張り過ぎちゃって、少し疲れ気味‥‥なんてね。[%p]
+ZH [name]拓也[line]是，是吗。昨晚，过分努力了吧，感觉稍微有点累……是这个缘故吧。[%p]
+
+JA [name]亜由美[line]私のせい‥‥?[%p]
+ZH [name]亚由美[line]我的缘故……？[%p]
+
+JA [name]たくや[line]な、何で亜由美さんのせいなんだよ。[%p]
+ZH [name]拓也[line]为，为什么会是亚由美小姐的缘故啊。[%p]
+
+JA [name]亜由美[line]だって‥‥立場上私はたくやクンの母親だし、ずっと年上だし‥‥。[%p]
+ZH [name]亚由美[line]因为……在立场上来说我是拓也君的母亲，而且年纪也比你大得多……。[%p]
+
+JA [name]たくや[line]違うよ、そんなんじゃなくて‥‥。[%p]
+ZH [name]拓也[line]不是的，才没有那种事呢……。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line](困った‥‥何て言えばいいんだ‥‥。)[%p]
+ZH [name]拓也[line](（真难办……要说些什么比较好呢……。）。)[%p]
+
+JA [name]亜由美[line]‥‥そんなんじゃなくて、なに?[%p]
+ZH [name]亚由美[line]……没有那种事，是什么事？[%p]
+
+JA [name]たくや[line]例え話としてさ。俺が、亜由美さんの知っている俺じゃないなんて言ったら、亜由美さん、どうする?[%p]
+ZH [name]拓也[line]举个例子来说。我呢，如果说我不是亚由美小姐认识的我的话，亚由美小姐，你要怎么办？[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]やっぱり、私と‥‥後悔しているのね。[%p]
+ZH [name]亚由美[line]果然，跟我在一起……你后悔了吧。[%p]
+
+JA [name]たくや[line]ち、違うってば。[%p]
+ZH [name]拓也[line]不，不是的。[%p]
+
+JA [name]亜由美[line]私の方が、ずっと年上だし‥‥。[%p]
+ZH [name]亚由美[line]因为我，年纪大很多……。[%p]
+
+JA [name]たくや[line]ち、違うんだ、そんなんじゃなくて‥‥。[%p]
+ZH [name]拓也[line]不，不是啊，才不是那回事……。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line](困った‥‥何て言えばいいんだ。)[%p]
+ZH [name]拓也[line](（真难办……应该怎么说比较好呢。）。)[%p]
+
+JA [name]亜由美[line]いいのよ、無理しなくて‥‥。[%p]
+ZH [name]亚由美[line]够了，你不用勉强自己……。[%p]
+
+JA [name]たくや[line]いや、それは違う。違うぞ。[%p]
+ZH [name]拓也[line]不，不是的。你弄错了。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]何て言ったらいいんだろうな、今のこのときが大事すぎて怖くなる‥‥そんな感じなんだ。[%p]
+ZH [name]拓也[line]我应该怎么说比较好呢，现在这个时候事情会变得极其可怕……我有这种感觉。[%p]
+
+JA [name]亜由美[line]‥‥‥‥。[%p]
+ZH [name]亚由美[line]…………。[%p]
+
+JA [name]たくや[line]俺、亜由美さんとこうなったからって、後悔なんてしていないぜ。[%p]
+ZH [name]拓也[line]我，会跟亚由美小姐发展成这样的关系，完全没有后悔什么的感觉。[%p]
+
+JA [name]亜由美[line]‥‥本当?[%p]
+ZH [name]亚由美[line]……真的？[%p]
+
+JA [name]たくや[line]本当だよ。[%p]
+ZH [name]拓也[line]真的啊。[%p]
+
+JA [name]亜由美[line]‥‥本当に本当?[%p]
+ZH [name]亚由美[line]……真的是真的？[%p]
+
+JA [name]たくや[line]ほ、本当だよ‥‥。[%p]
+ZH [name]拓也[line]真，真的哦……。[%p]
+
+JA [name]たくや[line](何で女の人って、聞き返すのかな‥‥。)[%p]
+ZH [name]拓也[line](（女人啊，为什么会这样子反复追问……。）。)[%p]
+
+JA [name]亜由美[line]うん‥‥信じる。[%p]
+ZH [name]亚由美[line]嗯……我相信你。[%p]
+
+JA [name]たくや[line]まだ、目、赤いよ。[%p]
+ZH [name]拓也[line]眼睛，还是，红的。[%p]
+
+JA [name]亜由美[line]昨夜は、ちょっぴり泣きすぎちゃったから。[%p]
+ZH [name]亚由美[line]因为昨天晚上，哭得稍微有点过头了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そうだった‥‥。)[%p]
+ZH [name]拓也[line](（对了……。）。)[%p]
+
+JA [name]たくや[line](あれから、俺の胸の上で泣いて‥‥。)[%p]
+ZH [name]拓也[line](（从那之后，就趴在我的胸口哭泣……。）。)[%p]
+
+JA [name]たくや[line](それで、眠っちゃったんだな‥‥子供みたいに。)[%p]
+ZH [name]拓也[line](（然后，就睡过去了……跟个小孩子一样。）。)[%p]
+
+JA [name]亜由美[line]さっきはごめんね。[%p]
+ZH [name]亚由美[line]刚才对不起了。[%p]
+
+JA [name]たくや[line]え‥‥?[%p]
+ZH [name]拓也[line]诶‥‥？[%p]
+
+JA [name]亜由美[line]お鼻をつまんだこと。[%p]
+ZH [name]亚由美[line]捏着你鼻子那件事。[%p]
+
+JA [name]たくや[line]な、なんだ‥‥気にしちゃいないよ。[%p]
+ZH [name]拓也[line]什，什么……你不用在意的啊。[%p]
+
+JA [name]亜由美[line]さっきね、涙でたくやクンの姿が、かすんで見えたの‥‥。[%p]
+ZH [name]亚由美[line]刚才，在眼泪中拓也君的样子，朦朦胧胧有看到……。[%p]
+
+JA [name]たくや[line]うん。[%p]
+ZH [name]拓也[line]唔嗯。[%p]
+
+JA [name]亜由美[line]たくやクンが、どこかへ行ってしまうような‥‥そんな感覚に見舞われて‥‥だから鼻をつまんでみたの。[%p]
+ZH [name]亚由美[line]拓也君，好像要到哪里去了似的……因为有这样的感觉……所以就捏了捏你的鼻子。[%p]
+
+JA [name]たくや[line]ははは‥‥俺はここにいるだろう?[%p]
+ZH [name]拓也[line]哈哈哈……我现在就在这里吧？[%p]
+
+JA [name]亜由美[line]うん‥‥そうね‥‥。[%p]
+ZH [name]亚由美[line]嗯……是的……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、息苦しかったんで、起きちゃったよ‥‥。[%p]
+ZH [name]拓也[line]感觉，呼吸困难了，所以就醒过来了……。[%p]
+
+JA [name]亜由美[line]ウフフ‥‥鼻をつまんでみたの。[%p]
+ZH [name]亚由美[line]嗯呵呵……捏了你的鼻子嘛。[%p]
+
+JA [name]たくや[line]つまんだって‥‥あのね。[%p]
+ZH [name]拓也[line]捏住了……我说啊。[%p]
+
+JA [name]亜由美[line]だって、寝顔があまりに平和だったんだもの。[%p]
+ZH [name]亚由美[line]因为，你的睡脸看上去相当的平和。[%p]
+
+JA [name]たくや[line](うーん‥‥。)[%p]
+ZH [name]拓也[line](嗯——……。)[%p]
+
+JA [name]亜由美[line]似てる‥‥。[%p]
+ZH [name]亚由美[line]（真像啊……。）。[%p]
+
+JA [name]たくや[line]‥‥あの野郎にってのは、勘弁だよ。俺はあいつに似ないのが自慢なんだ。[%p]
+ZH [name]拓也[line]……跟那个混账相像，不能原谅啊。我可是以不像那家伙而自傲的。[%p]
+
+JA [name]亜由美[line]うん、そういうところが、そっくりなの。[%p]
+ZH [name]亚由美[line]嗯，这时候，真的很像呢。[%p]
+
+JA [name]たくや[line]何だ、ヤツも、俺に似ないのが自慢って言っていたのか。[%p]
+ZH [name]拓也[line]什么啊，那家伙也说过，他以不像我而自傲的吗。[%p]
+
+JA [name]亜由美[line]そうね。[%p]
+ZH [name]亚由美[line]对啊，谁呢。[%p]
+
+JA [name]たくや[line]あの野郎‥‥。[%p]
+ZH [name]拓也[line]那个混账……。[%p]
+
+JA [name]亜由美[line]たくやクン。[%p]
+ZH [name]亚由美[line]拓也君。[%p]
+
+JA [name]たくや[line]‥‥え?[%p]
+ZH [name]拓也[line]……誒？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]大丈夫。口では、ああ言っていたけど、本当にたくやクンのことを想っていたわ。彼‥‥。[%p]
+ZH [name]亚由美[line]没事的。嘴巴上，虽然是那样子说的，其实真的是很为拓也君着想的啊。他……。[%p]
+
+JA [name]たくや[line]オヤジが、俺のことを想っていた?[%p]
+ZH [name]拓也[line]老头子，很为我着想？[%p]
+
+JA [name]亜由美[line]そうよ‥‥。[%p]
+ZH [name]亚由美[line]是啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](オヤジの野郎が‥‥。)[%p]
+ZH [name]拓也[line](（老头子那混账……。）。)[%p]
+
+JA [name]たくや[line](だけど、どのオヤジなんだろうな‥‥俺を想っているって。)[%p]
+ZH [name]拓也[line](（不过，他是个怎么样的老头子呢……为我着想。）。)[%p]
+
+JA [name]たくや[line](俺と似ているオヤジ‥‥。)[%p]
+ZH [name]拓也[line](（跟我很像的老头子……。）。)[%p]
+
+JA [name]たくや[line](だけど、俺が知っているオヤジじゃないかも知れないんだ‥‥。)[%p]
+ZH [name]拓也[line](（但是，说不定不是我认识的那个老头子呢……。）。)[%p]
+
+JA [name]たくや[line](いや、オヤジだけじゃない‥‥。)[%p]
+ZH [name]拓也[line](（不对，不只是老头子……。）。)[%p]
+
+JA [name]たくや[line](果たして、目の前にいる亜由美さん‥‥彼女も、俺の知っている亜由美さんなんだろうか?)[%p]
+ZH [name]拓也[line](（有可能，就连在我眼前的亚由美小姐……她也，不是我所认识的亚由美小姐吧？）)[%p]
+
+JA [name]たくや[line](俺が知っている亜由美さんだという保証なんて、どこを探したってありはしないんだ‥‥。)[%p]
+ZH [name]拓也[line](（保证还是我所认识的亚由美小姐这种事，哪里也找不到答案吧……。）。)[%p]
+
+JA [name]たくや[line](そう‥‥。)[%p]
+ZH [name]拓也[line](（对了……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]もう‥‥朝から、ダメよ‥‥。[%p]
+ZH [name]亚由美[line]已经……早上了，不行……。[%p]
+
+JA [name]亜由美[line]昨夜、たくさんしたじゃない‥‥。[%p]
+ZH [name]亚由美[line]昨晚，不是已经做过很多次了吗……。[%p]
+
+JA [name]亜由美[line]‥‥きゃっ。[%p]
+ZH [name]亚由美[line]……啾。[%p]
+
+JA [name]亜由美[line]ダメよ、イタズラしちゃ‥‥。[%p]
+ZH [name]亚由美[line]不行哦，不能恶作剧……。[%p]
+
+JA [name]たくや[line]何だよ、昨夜は‥‥。[%p]
+ZH [name]拓也[line]什么啊，昨天就……。[%p]
+
+JA [name]亜由美[line]昨夜は昨夜。今朝は今朝。[%p]
+ZH [name]亚由美[line]昨晚是昨晚。早上是早上。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ちぇっ、何だか普通の亜由美さんに、戻っちゃったみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（切，感觉平常的亚由美小姐，又回来了似的……。）。)[%p]
+
+JA [name]たくや[line](でも、俺の横にいるのは変わらない‥‥。)[%p]
+ZH [name]拓也[line](（不过，就在我身边这件事是不变的……。）。)[%p]
+
+JA [name]亜由美[line]もっと、身体をくっつけて‥‥。[%p]
+ZH [name]亚由美[line]身体，抱得更紧一些……。[%p]
+
+JA [name]亜由美[line]たくやクンの暖かさを、感じていたい‥‥。[%p]
+ZH [name]亚由美[line]拓也君的温暖，我想多感受一点……。[%p]
+
+JA [name]亜由美[line]痛っ。[%p]
+ZH [name]亚由美[line]好痛。[%p]
+
+JA [name]たくや[line]あっ、ゴメン‥‥。[%p]
+ZH [name]拓也[line]啊、抱歉……。[%p]
+
+JA [name]亜由美[line]フフ‥‥もっと、優しくね。[%p]
+ZH [name]亚由美[line]呵呵……更加，温柔一点吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ヤバ‥‥赤くなってないだろうな。)[%p]
+ZH [name]拓也[line](（糟糕……没有变红吧。）。)[%p]
+
+JA [name]亜由美[line]ん‥‥そんなことしちゃ、ダメよ‥‥。[%p]
+ZH [name]亚由美[line]嗯……这样的事，不行哦……。[%p]
+
+JA [name]たくや[line](この身体を見ていると、反応しちゃうよ‥‥。)[%p]
+ZH [name]拓也[line](（只是看着这个身体，有开始有反应了……。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line](白くて綺麗な身体だ‥‥。)[%p]
+ZH [name]拓也[line](（雪白又美丽的身体……。）。)[%p]
+
+JA [name]たくや[line](俺はゆうべ、この素敵な身体を‥‥。)[%p]
+ZH [name]拓也[line](（昨天晚上，我把这么漂亮的身体……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](優しく、俺のことを見つめている‥‥。)[%p]
+ZH [name]拓也[line](（温柔地，一直在盯着我看……。）。)[%p]
+
+JA [name]たくや[line](起きて、すぐ隣に亜由美さんが寝ている‥‥。)[%p]
+ZH [name]拓也[line](（醒过来，亚由美小姐就睡着我的身边……。）。)[%p]
+
+JA [name]たくや[line](しかも俺のことを見つめて‥‥。)[%p]
+ZH [name]拓也[line](（而且还盯着我看……。）。)[%p]
+
+JA [name]亜由美[line]もう結う必要も、ないのかな‥‥。[%p]
+ZH [name]亚由美[line]已经没有必要，编起来了吧……。[%p]
+
+JA [name]亜由美[line]いつも、髪の毛を結っていたから、クセになっているの。[%p]
+ZH [name]亚由美[line]因为，平时总是把头发编起来的，所以已经养成习惯了。[%p]
+
+JA [name]亜由美[line]髪の毛をおろすと、女に戻ってしまうから‥‥。[%p]
+ZH [name]亚由美[line]把头发解开来之后，就会变回女人了……。[%p]
+
+JA [name]亜由美[line]でも、もう‥‥。[%p]
+ZH [name]亚由美[line]不过，已经……。[%p]
+
+JA [name]たくや[line]亜由美さんが、顔をうずめているマクラだ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，把整个脸埋进了抱枕里面……。[%p]
+
+JA [name]たくや[line]俺はマクラになりたい‥‥。[%p]
+ZH [name]拓也[line]我真想变成抱枕……。[%p]
+
+JA [name]亜由美[line]私は、マクラに顔をうずめるのが好きよ‥‥。[%p]
+ZH [name]亚由美[line]我呢，很喜欢把脸埋进抱枕里哦……。[%p]
+
+JA [name]たくや[line]そっか。[%p]
+ZH [name]拓也[line]是吗。[%p]
+
+JA [name]亜由美[line]でも、たくやクンの方が、もっと好き‥‥。[%p]
+ZH [name]亚由美[line]不过，拓也君的事，我更喜欢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](うおぅっ。)[%p]
+ZH [name]拓也[line](（唔哦哦。）。)[%p]
+
+JA [name]亜由美[line]なに‥‥マクラがどうしたの?[%p]
+ZH [name]亚由美[line]是吗……抱枕怎么了吗？[%p]
+
+JA [name]たくや[line]ふかふかそうだなぁって。[%p]
+ZH [name]拓也[line]看上去软绵绵的样子。[%p]
+
+JA [name]亜由美[line]あっ、ゴメンね、私1人が占有しちゃって。[%p]
+ZH [name]亚由美[line]啊、对不起，被我１个人占用了。[%p]
+
+JA [name]たくや[line]気にしちゃいないよ。[%p]
+ZH [name]拓也[line]不用在意这种事啊。[%p]
+
+JA [name]亜由美[line]半分っこしましょう。ほら、顔をもっと近づけて‥‥。[%p]
+ZH [name]亚由美[line]借一半给你用吧。你看，脸靠得更近些……。[%p]
+
+JA [name]たくや[line]‥‥こう?[%p]
+ZH [name]拓也[line]……这样？[%p]
+
+JA [name]亜由美[line]フフ。[%p]
+ZH [name]亚由美[line]呵呵。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](うおぅっ。)[%p]
+ZH [name]拓也[line](（唔哦哦。）。)[%p]
+
+JA [name]亜由美[line]暖かくしないと、風邪をひくかもしれないしね。[%p]
+ZH [name]亚由美[line]要是不够暖和的话，说不定会得感冒的呢。[%p]
+
+JA [name]亜由美[line]さ‥‥ほら。[%p]
+ZH [name]亚由美[line]来……你看。[%p]
+
+JA [name]たくや[line]亜由美さんと、俺の身体を被っているシーツだ‥‥。[%p]
+ZH [name]拓也[line]JF:这是亚由美和戴着我身体的床单。[%p]
+
+JA [name]亜由美[line]もっとそばに来て。一緒に入りましょう。[%p]
+ZH [name]亚由美[line]再靠我更近一点。一起进来吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]亜由美[line]なんか、当たってる‥‥。[%p]
+ZH [name]亚由美[line]有什么，碰到了……。[%p]
+
+JA [name]たくや[line]しょ、しょうがないだろ‥‥男なんだから。[%p]
+ZH [name]拓也[line]没，没有办法的吧……因为是男人。[%p]
+
+JA [name]亜由美[line]うん‥‥。[%p]
+ZH [name]亚由美[line]嗯……。[%p]
+
+JA [name]たくや[line](‥‥わぁ、赤くなってる。)[%p]
+ZH [name]拓也[line](（……哇啊，脸变红了。）。)[%p]
+
+JA [name]たくや[line](可愛いな‥‥。)[%p]
+ZH [name]拓也[line](（真可爱啊……。）。)[%p]
+
+JA [name]たくや[line]外はもう昼間だ‥‥。[%p]
+ZH [name]拓也[line]外面已经是白天了……。[%p]
+
+JA [name]亜由美[line]何だか、ぐっすり寝ちゃったね‥‥。[%p]
+ZH [name]亚由美[line]感觉，睡得很香甜呢……。[%p]
+
+JA [name]たくや[line](亜由美さんの手だ‥‥。)[%p]
+ZH [name]拓也[line](（亚由美小姐的手……。）。)[%p]
+
+JA [name]たくや[line](ほっそりとしていて、綺麗だな‥‥。)[%p]
+ZH [name]拓也[line](（看起来，即纤细又漂亮……。）。)[%p]
+
+JA [name]亜由美[line]うん‥‥ありがとう‥‥。[%p]
+ZH [name]亚由美[line]嗯……谢谢你……。[%p]
+
+JA [name]亜由美[line]手‥‥にぎってくれるの?[%p]
+ZH [name]亚由美[line]手……要握住吗？[%p]
+
+JA [name]亜由美[line]安心させて‥‥。[%p]
+ZH [name]亚由美[line]安心吧……。[%p]
+
+JA [name]たくや[line](今は無理だよ‥‥。)[%p]
+ZH [name]拓也[line](（现在有点勉强……。）。)[%p]
+
+JA [name]亜由美[line]どうしたの‥‥?[%p]
+ZH [name]亚由美[line]怎么了……？[%p]
+
+JA [name]亜由美[line]そんなにソワソワして‥‥。[%p]
+ZH [name]亚由美[line]这么心神不定的样子……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

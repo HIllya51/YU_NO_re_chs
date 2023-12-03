@@ -1,0 +1,33 @@
+JA [name]たくや[line]セーレスは、家の外に出たみたいだ‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯，好像到家外面去了……。[%p]
+
+JA [name]たくや[line]早く探しに行こうぜ。[%p]
+ZH [name]拓也[line]快点去把她找回来吧。[%p]
+
+JA [name]たくや[line]俺以外、誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]除了我之外，好像没有人在……。[%p]
+
+JA [name]たくや[line]ユーノはここにはいないな‥‥。[%p]
+ZH [name]拓也[line]优诺不在这里啊……。[%p]
+
+JA [name]たくや[line]どこへ行ったんだろう‥‥。[%p]
+ZH [name]拓也[line]到底去哪里了呢……。[%p]
+
+JA [name]たくや[line]未練がましく見るのはよそう‥‥。[%p]
+ZH [name]拓也[line]不要这么恋恋不舍地盯着看了……。[%p]
+
+JA [name]たくや[line]俺と、セーレスのベッドだ‥‥。[%p]
+ZH [name]拓也[line]这是我，和塞蕾斯的床……。[%p]
+
+JA [name]たくや[line]いや、セーレスのベッドだったと言うべきか‥‥。[%p]
+ZH [name]拓也[line]不，应该说是塞蕾斯的床吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]まったく、どこへ行ったんだよ‥‥ユーノ。[%p]
+ZH [name]拓也[line]真是的，到底去哪里了呢……优诺。[%p]
+
+JA 
+ZH 
+

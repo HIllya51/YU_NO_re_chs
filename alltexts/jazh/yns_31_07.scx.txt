@@ -1,0 +1,63 @@
+JA [name]たくや[line]土蔵前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到土藏前面了……。[%p]
+
+JA [name]たくや[line]絵里子先生は、どこを探しているんだろう‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，究竟找到什么地方去了呢……。[%p]
+
+JA [name]たくや[line]壁がかなり損壊しているな‥‥。[%p]
+ZH [name]拓也[line]墙壁损坏得相当严重……。[%p]
+
+JA [name]たくや[line]夜見ると、一層不気味だぞ‥‥。[%p]
+ZH [name]拓也[line]JF:晚上看的话，更让人毛骨悚然。[%p]
+
+JA [name]たくや[line]半壊状態の土蔵だな‥‥。[%p]
+ZH [name]拓也[line]半坏状态的土藏……。[%p]
+
+JA [name]たくや[line]絵里子先生‥‥どこにいるんだろうな。[%p]
+ZH [name]拓也[line]绘里子老师……会在什么地方啊。[%p]
+
+JA [name]たくや[line]雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]感觉像是杂树林……。[%p]
+
+JA [name]たくや[line]緑も、殆ど雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]植物也是，几乎就是杂树林的感觉……。[%p]
+
+JA [name]たくや[line]手入れはまるでされていないみたいだな。[%p]
+ZH [name]拓也[line]好像完全没有整修过啊。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥。[%p]
+ZH [name]拓也[line]阴暗的天空……。[%p]
+
+JA [name]たくや[line]人気はない‥‥。[%p]
+ZH [name]拓也[line]没有人气……。[%p]
+
+JA [name]たくや[line]静かなものだが‥‥‥‥。[%p]
+ZH [name]拓也[line]万籁俱寂…………。[%p]
+
+JA [name]たくや[line]絵里子先生‥‥どこを探しているんだ?[%p]
+ZH [name]拓也[line]绘里子老师……找到什么地方去了呢？[%p]
+
+JA [name]たくや[line]土蔵のカギは開いている‥‥。[%p]
+ZH [name]拓也[line]土藏的锁已经打开了……。[%p]
+
+JA [name]たくや[line]中にはまだ、あの婆ちゃんが‥‥。[%p]
+ZH [name]拓也[line]里面，还是那个老婆婆……。[%p]
+
+JA [name]たくや[line]気は乗らないが‥‥とにかく、中へ入ってみよう。[%p]
+ZH [name]拓也[line]虽然不怎么关心……总之，进里面去看看吧。[%p]
+
+JA [name]たくや[line]戻ってみるか‥‥。[%p]
+ZH [name]拓也[line]回去看看吗……。[%p]
+
+JA [name]たくや[line]向こうは確か、井戸があったな‥‥。[%p]
+ZH [name]拓也[line]我记得那个地方，是有一口井的……。[%p]
+
+JA [name]たくや[line]かなり暗がりだから、気を付けないとな‥‥。[%p]
+ZH [name]拓也[line]相当的昏暗啊，要是不小心的话……。[%p]
+
+JA [name]たくや[line]よし、行ってみよう。[%p]
+ZH [name]拓也[line]好嘞，去看看吧。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,24 @@
+JA [name]たくや[line]ホコリとカビの臭いが充満している‥‥。[%p]
+ZH [name]拓也[line]周围充满了灰尘和霉菌的臭味……。[%p]
+
+JA [name]たくや[line]土蔵の中だ‥‥。[%p]
+ZH [name]拓也[line]这是土藏里面……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]薄暗いな‥‥電灯はないのかな。[%p]
+ZH [name]拓也[line]很昏暗……没有电灯吗。[%p]
+
+JA [name]たくや[line]ホコリとカビの臭いか‥‥。[%p]
+ZH [name]拓也[line]灰尘和霉菌的味道吗……。[%p]
+
+JA [name]たくや[line]長い間、使われていなかったのかもしれない‥‥。[%p]
+ZH [name]拓也[line]也许，已经有很长时间没有用到过了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

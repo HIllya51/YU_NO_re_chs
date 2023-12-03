@@ -1,0 +1,891 @@
+JA [name]たくや[line](絵里子先生‥‥しかし、なんちゅう格好だ。)[%p]
+ZH [name]拓也[line](（绘里子老师……不过，这是什么打扮啊。）。)[%p]
+
+JA [name]たくや[line](いったいこの女性は‥‥。)[%p]
+ZH [name]拓也[line](（究竟这个女性啊……。）。)[%p]
+
+JA [name]たくや[line]昨夜だって、龍蔵寺の屋敷の近くをウロウロしていた‥‥。[%p]
+ZH [name]拓也[line]昨晚也是，在龙藏寺的房子附近东张西望地……。[%p]
+
+JA [name]絵里子[line]あれはキャッチボールだと言ったろう。[%p]
+ZH [name]绘里子[line]我说了那是在玩接球游戏吧。[%p]
+
+JA [name]たくや[line]‥‥じゃあ今はバッティング練習かい?[%p]
+ZH [name]拓也[line]……那么现在是在做击球练习吗？[%p]
+
+JA [name]絵里子[line]うん、それもいいな。[%p]
+ZH [name]绘里子[line]嗯，那也挺不错啊。[%p]
+
+JA [name]たくや[line]あのなぁ‥‥。[%p]
+ZH [name]拓也[line]（话说……。）。[%p]
+
+JA [name]絵里子[line]フフ‥‥君と話していると、本当に飽きないな。[%p]
+ZH [name]绘里子[line]呵呵……跟你聊天，还真是不会厌啊。[%p]
+
+JA [name]たくや[line]‥‥一つ聞かせてくれよ。[%p]
+ZH [name]拓也[line]……我就想问你一件事。[%p]
+
+JA [name]絵里子[line]何かな。[%p]
+ZH [name]绘里子[line]什么啊。[%p]
+
+JA [name]たくや[line]ロッカーの中で俺に言った言葉だ。[%p]
+ZH [name]拓也[line]在衣柜里面时你告诉我的话。[%p]
+
+JA [name]絵里子[line]何か、言ったかな‥‥?[%p]
+ZH [name]绘里子[line]我有，说过什么吗……？[%p]
+
+JA [name]たくや[line]言ったよ。美月さんが‥‥。[%p]
+ZH [name]拓也[line]说了啊。美月是……。[%p]
+
+JA [name]絵里子[line]シッ![%p]
+ZH [name]绘里子[line]嘘！[%p]
+
+JA [name]たくや[line]な、なに‥‥?[%p]
+ZH [name]拓也[line]什，什么……？[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]どうしたんだよ‥‥?[%p]
+ZH [name]拓也[line]怎么了啊……？[%p]
+
+JA [name]たくや[line]お、おい‥‥絵里子先生![%p]
+ZH [name]拓也[line]喂，喂……绘里子老师！[%p]
+
+JA [name]絵里子[line]すまないな、急用が出来たんだ。[%p]
+ZH [name]绘里子[line]对不起，我有急事要办。[%p]
+
+JA [name]たくや[line]ちょっ‥‥
+ZH [name]拓也[line]等……
+
+JA まっ‥‥。[%p]
+ZH 嘛……。[%p]
+
+JA [name]たくや[line]ちょっ‥‥まっ‥‥。
+ZH [name]拓也[line]等……嘛……。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]絵里子先生、行っちまったぞ‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，走掉了呢……。[%p]
+
+JA [name]たくや[line]いったい、急にどうしたって‥‥あれ?[%p]
+ZH [name]拓也[line]究竟，突然怎么了……咦？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺と香織って女性が‥‥彼らも、いつの間にかいなくなってる。[%p]
+ZH [name]拓也[line]龙藏寺和叫香织的女人……他们也，不知在什么时候不见了。[%p]
+
+JA [name]たくや[line]いったい、どういうことなんだ‥‥?[%p]
+ZH [name]拓也[line]到底，怎么回事……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]決まっているじゃないか‥‥。[%p]
+ZH [name]拓也[line]那不是肯定的吗……。[%p]
+
+JA [name]たくや[line]絵里子先生が、彼らを追いかけていったんだ。[%p]
+ZH [name]拓也[line]绘里子老师，是追着他们后面走了吧。[%p]
+
+JA [name]たくや[line]とにかく、俺も行こう![%p]
+ZH [name]拓也[line]总之，我也去看看！[%p]
+
+JA [name]たくや[line]‥‥で?[%p]
+ZH [name]拓也[line]‥‥你想说的是？[%p]
+
+JA [name]絵里子[line]で?[%p]
+ZH [name]绘里子[line]然后？[%p]
+
+JA [name]たくや[line]どういうことだよ。[%p]
+ZH [name]拓也[line]那是怎么回事。[%p]
+
+JA [name]絵里子[line]なにが。[%p]
+ZH [name]绘里子[line]什么事。[%p]
+
+JA [name]たくや[line]あれさ‥‥。[%p]
+ZH [name]拓也[line]那个……。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺たちだ‥‥。[%p]
+ZH [name]拓也[line]是龙藏寺他们……。[%p]
+
+JA [name]絵里子[line]‥‥そう言われてみればそうだな。確かに学長らしい。奇遇だな。[%p]
+ZH [name]绘里子[line]……听你这么一说还真的是啊。的确好像是学长。真是巧啊。[%p]
+
+JA [name]たくや[line]おい。[%p]
+ZH [name]拓也[line]喂。[%p]
+
+JA [name]絵里子[line]フフ、そんな恐い顔をするな。ロッカーの中の君は可愛かったぞ。[%p]
+ZH [name]绘里子[line]呵呵，不要露出这么可怕的表情啊。衣柜里面的你很可爱呢。[%p]
+
+JA [name]たくや[line]ぐっ‥‥それは関係ない。[%p]
+ZH [name]拓也[line]唔……跟那个没关系。[%p]
+
+JA [name]絵里子[line]正直に言ったまでさ。[%p]
+ZH [name]绘里子[line]你可以老实说的。[%p]
+
+JA [name]たくや[line]‥‥理由くらい、聞かせてくれるんだろう。[%p]
+ZH [name]拓也[line]……理由什么的，可以告诉我吧。[%p]
+
+JA [name]絵里子[line]だから、夜な夜な‥‥。[%p]
+ZH [name]绘里子[line]所以说，夜了夜了啊……。[%p]
+
+JA [name]たくや[line]それはいいって。本当の理由だ。だいたい何だよ、その格好は。[%p]
+ZH [name]拓也[line]那个就算了。我说真正的理由。到底是我什么啊，这种打扮。[%p]
+
+JA [name]絵里子[line]知らないのか、賢者は木の葉を隠すときは森へ、小石を隠すときは河原へ向かうそうだ。[%p]
+ZH [name]绘里子[line]你不知道吗，聪明人把叶子隐藏到森林里，把小石头隐藏在河滩上。[%p]
+
+JA [name]たくや[line]‥‥もしかして、その格好で街にとけ込んでるとでも言いたいの?[%p]
+ZH [name]拓也[line]……难道，你想说你打算用这种打扮把自己融入到街上吗？[%p]
+
+JA [name]絵里子[line]おかしいか‥‥?[%p]
+ZH [name]绘里子[line]很怪吗……？[%p]
+
+JA [name]たくや[line]はっきり言って、思いっきり目立ってるぜ。[%p]
+ZH [name]拓也[line]老实说，这样子看上去更显眼。[%p]
+
+JA [name]絵里子[line]そうか‥‥考慮し直す余地はありそうだな。[%p]
+ZH [name]绘里子[line]是吗……看来还是有再考虑的余地啊。[%p]
+
+JA [name]たくや[line]そんなことより![%p]
+ZH [name]拓也[line]比起这种事！[%p]
+
+JA [name]絵里子[line]ん、何かな。[%p]
+ZH [name]绘里子[line]嗯，什么。[%p]
+
+JA [name]たくや[line]なぜあそこに龍蔵寺がいるんだ?[%p]
+ZH [name]拓也[line]为什么那边会坐着龙藏寺呢？[%p]
+
+JA [name]絵里子[line]学長には、学長の都合というものがあろう。[%p]
+ZH [name]绘里子[line]对于学长来说，那是学长的事吧。[%p]
+
+JA [name]たくや[line]じゃあ何か? 龍蔵寺がここにいるのは偶然であって、絵里子先生とは全く関係ないとでも言うのかい。[%p]
+ZH [name]拓也[line]那么？　你是不是想说龙藏寺出现在这里是偶然，跟绘里子老师完全没有关系。[%p]
+
+JA [name]絵里子[line]うん。[%p]
+ZH [name]绘里子[line]唔嗯。[%p]
+
+JA [name]たくや[line]さっきまで、向こうを見ていたじゃないか。[%p]
+ZH [name]拓也[line]到刚才为止，你不是还想着那边看的吗。[%p]
+
+JA [name]絵里子[line]ボーっとしていただけだよ。たまたま、視線の先に彼がいたんだろう。[%p]
+ZH [name]绘里子[line]我只是在发呆而已啊。偶然地，视线落在了他那里吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、どこまで本気なんだ、絵里子先生は‥‥。)[%p]
+ZH [name]拓也[line](（究竟，哪一部分是认真的呢，绘里子老师……。）。)[%p]
+
+JA [name]たくや[line]何をやってるんだよ、こんな所で、こんな姿で。[%p]
+ZH [name]拓也[line]你在做什么啊，这种地方，这种打扮。[%p]
+
+JA [name]絵里子[line]おかしいかな‥‥?[%p]
+ZH [name]绘里子[line]很奇怪吗……？[%p]
+
+JA [name]たくや[line]おかしい。[%p]
+ZH [name]拓也[line]奇怪。[%p]
+
+JA [name]絵里子[line]うーん、しかしこの手の格好は、比較的メジャーという話だが。[%p]
+ZH [name]绘里子[line]嗯——，但是像这种的打扮，据说相对来说是比较主流的。[%p]
+
+JA [name]たくや[line]そういう問題じゃなくて。[%p]
+ZH [name]拓也[line]不是这个问题。[%p]
+
+JA [name]絵里子[line]じゃあ、どういう問題なのかな。[%p]
+ZH [name]绘里子[line]那么，是哪方面的问题呢。[%p]
+
+JA [name]たくや[line]絵里子先生がここにいる理由だ。[%p]
+ZH [name]拓也[line]绘里子老师你会在这里的理由。[%p]
+
+JA [name]絵里子[line]うん、まぁ、話せば長くなる。[%p]
+ZH [name]绘里子[line]嗯，嘛，说来就话长了。[%p]
+
+JA [name]たくや[line]‥‥夜遊びって訳じゃ、なさそうだけど。[%p]
+ZH [name]拓也[line]……说是夜游，看起来又不像。[%p]
+
+JA [name]絵里子[line]いや、実はな‥‥私は夜になると男が恋しくなるんだ。[%p]
+ZH [name]绘里子[line]不是，其实呢……我一到夜里就会爱上男人了。[%p]
+
+JA [name]たくや[line]はあ?[%p]
+ZH [name]拓也[line]哈啊？[%p]
+
+JA [name]絵里子[line]うん、我ながらいい理由だ。だから夜な夜な、繁華街を[ruby-base]徘徊[ruby-text-start]はいかい[ruby-text-end]して男を釣る‥‥とまあこんな所でどうかな。[%p]
+ZH [name]绘里子[line]嗯，连我自己都觉得是好理由。所以到了夜里，我就会在繁华街徘徊（ＰＡＩＨＵＡＩ）钓男人……所以才会在这里，你觉得怎么样。[%p]
+
+JA [name]たくや[line]普段だったら即、信じるけどね。[%p]
+ZH [name]拓也[line]JF:平时的话马上就相信了。[%p]
+
+JA [name]絵里子[line]不本意な謂われようだな。[%p]
+ZH [name]绘里子[line]似乎不是出自本意说的啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どうも、とらえどころのない先生だな‥‥。)[%p]
+ZH [name]拓也[line](（说话，完全不着边际的老师啊……。）。)[%p]
+
+JA [name]目の前の女性[line]えっと、どちらさま?[%p]
+ZH [name]眼前的女性[line]请问，您是哪位？[%p]
+
+JA [name]たくや[line](うーん‥‥何だかどこかで見たような。)[%p]
+ZH [name]拓也[line](（嗯——……总觉得在哪里见过啊。）。)[%p]
+
+JA [name]たくや[line](美人‥‥だよな。)[%p]
+ZH [name]拓也[line](（是个……美人啊。）。)[%p]
+
+JA [name]たくや[line](意外だ‥‥‥‥。)[%p]
+ZH [name]拓也[line](（真意外…………。）。)[%p]
+
+JA [name]絵里子[line]何か、私の顔についているか?[%p]
+ZH [name]绘里子[line]我脸上，有沾了什么东西吗？[%p]
+
+JA [name]たくや[line]い、いやその‥‥随分とイメージが変わるもんだね。[%p]
+ZH [name]拓也[line]没，没有……只是形象变得相当大呢。[%p]
+
+JA [name]絵里子[line]髪の毛?[%p]
+ZH [name]绘里子[line]头发？[%p]
+
+JA [name]たくや[line]うん。[%p]
+ZH [name]拓也[line]唔嗯。[%p]
+
+JA [name]絵里子[line]目が隠れている、いないで、人間の印象は随分と変わるものだ。[%p]
+ZH [name]绘里子[line]把眼睛给遮起来了，看不到的话，人的印象就会有很大的变化。[%p]
+
+JA [name]たくや[line]いや、そういう意味じゃなくて‥‥まぁ、そうなんだけど。[%p]
+ZH [name]拓也[line]不，不是这个意思……嘛，虽然话是没错。[%p]
+
+JA [name]絵里子[line]‥‥?[%p]
+ZH [name]绘里子[line]……？[%p]
+
+JA [name]たくや[line](美人だ、なんて言ったら、ますます図に乗るからな。)[%p]
+ZH [name]拓也[line](（美人，这么一说起来的话，就越发地得意忘形了啊。）。)[%p]
+
+JA [name]たくや[line](止めておこう‥‥。)[%p]
+ZH [name]拓也[line]JF:（停止吧……。）[%p]
+
+JA [name]たくや[line](しかし‥‥。)[%p]
+ZH [name]拓也[line](但是……。)[%p]
+
+JA [name]たくや[line](絵里子先生って、こんなに美人だったんだ‥‥。)[%p]
+ZH [name]拓也[line](（绘里子老师，居然是这样一个大美人……。）。)[%p]
+
+JA [name]たくや[line](何だか、ドキドキするな‥‥。)[%p]
+ZH [name]拓也[line](（感觉，心在扑通扑通跳啊……。）。)[%p]
+
+JA [name]たくや[line](いつも髪の毛で表情や顔が隠れていたからな‥‥。)[%p]
+ZH [name]拓也[line](（因为平时总是用头发把表情和脸遮起来的缘故……。）。)[%p]
+
+JA [name]たくや[line](俺に笑いかけているが‥‥どうも不自然だ。)[%p]
+ZH [name]拓也[line](（对着我笑……看起来很不自然啊。）。)[%p]
+
+JA [name]たくや[line](この顔、どっかで‥‥。)[%p]
+ZH [name]拓也[line](（这个表情，在哪里……。）。)[%p]
+
+JA [name]たくや[line](でも、絵里子先生のタバコ‥‥。)[%p]
+ZH [name]拓也[line](（不过，绘里子老师的香烟……。）。)[%p]
+
+JA [name]たくや[line](実は、いつも同じのを吸ってるんじゃないかって、思うときがあるぞ。)[%p]
+ZH [name]拓也[line](（其实，不会总是在吸着同一支的吧，我偶尔会这么想呢。）。)[%p]
+
+JA [name]絵里子[line]失礼して吸わせてもらっている。[%p]
+ZH [name]绘里子[line]抱歉就让我吸着吧。[%p]
+
+JA [name]たくや[line]別に構わないよ‥‥俺、そういうの気にならないから。[%p]
+ZH [name]拓也[line]也没什么关系……我，并不是在意这件事情。[%p]
+
+JA [name]絵里子[line]フゥーーー‥‥。[%p]
+ZH [name]绘里子[line]呼————……。[%p]
+
+JA [name]たくや[line]ゲホゲホ。[%p]
+ZH [name]拓也[line]咳咳——。[%p]
+
+JA [name]絵里子[line]気にならないかな?[%p]
+ZH [name]绘里子[line]你不在意吗？[%p]
+
+JA [name]たくや[line]あのね‥‥。[%p]
+ZH [name]拓也[line]我说啊……。[%p]
+
+JA [name]たくや[line](やっぱり、絵里子先生だ‥‥。)[%p]
+ZH [name]拓也[line](（果然，是绘里子老师……。）。)[%p]
+
+JA [name]絵里子[line]フフ、まさかこれのせいで、私とわかるとはね‥‥結構盲点だったな。[%p]
+ZH [name]绘里子[line]呵呵，难道是因为这个，才猜到是我的吗……还真是个很大的盲点啊。[%p]
+
+JA [name]たくや[line]絵里子先生と言ったら、タバコ。もう条件反射みたいなもんだね。[%p]
+ZH [name]拓也[line]提起绘里子老师的话，就是香烟。这貌似已经成为条件反射了呢。[%p]
+
+JA [name]絵里子[line]ふむ‥‥今後の課題という訳だな。[%p]
+ZH [name]绘里子[line]呼姆……这个可以作为以后的课题。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](課題‥‥?)[%p]
+ZH [name]拓也[line](（课题……？）)[%p]
+
+JA [name]たくや[line](ナイスバディにタバコ、か‥‥。)
+ZH [name]拓也[line](（好身材吸出来，吗……。）。)
+
+JA [name]たくや[line](タバコ‥‥。)[%p]
+ZH [name]拓也[line](（香烟……。）。)[%p]
+
+JA [name]たくや[line]ああっ!![%p]
+ZH [name]拓也[line]啊啊！！[%p]
+
+JA [name]たくや[line]絵里子先生‥‥絵里子先生だろ!?[%p]
+ZH [name]拓也[line]绘里子老师……是绘里子老师吧！？[%p]
+
+JA [name]絵里子[line]わ、私は絵里子などという名前ではないぞ。[%p]
+ZH [name]绘里子[line]我，我不是叫绘里子这个名字的呢。[%p]
+
+JA [name]たくや[line]口調が絵里子先生になってるよ。[%p]
+ZH [name]拓也[line]语气也变成绘里子老师了。[%p]
+
+JA [name]絵里子[line]絵里子じゃないって、言ってるのに‥‥ブツブツ。[%p]
+ZH [name]绘里子[line]不是说了，我不是绘里子……嘟嘟囔囔。[%p]
+
+JA [name]たくや[line]なにブツブツ言ってるんだよ。[%p]
+ZH [name]拓也[line]你在絮絮叨叨说些什么呢。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]校医の先生、乱れた夜の生活‥‥なんて記事が載りそうだ。[%p]
+ZH [name]拓也[line]校医老师，混乱的夜生活……似乎会成为新闻话题呢。[%p]
+
+JA [name]絵里子[line]ま、ここはそうだな、まぁまぁということで、どうかな?[%p]
+ZH [name]绘里子[line]嘛，在这里似乎是的呢，让你马马虎虎过去，怎么样？[%p]
+
+JA [name]たくや[line]何が言いたいんだ?[%p]
+ZH [name]拓也[line]你想说什么？[%p]
+
+JA [name]絵里子[line]つまり、ここだけの話ってこと。[%p]
+ZH [name]绘里子[line]也就是，就在这里说说的意思。[%p]
+
+JA [name]たくや[line]‥‥それって、俺に口止めを命令してるのかな?[%p]
+ZH [name]拓也[line]……这个，是对我下达封口令的命令吗？[%p]
+
+JA [name]絵里子[line]ンフフーン。[%p]
+ZH [name]绘里子[line]嗯哼哼。[%p]
+
+JA [name]たくや[line]き、気持ち悪いな。[%p]
+ZH [name]拓也[line]很，很不舒服啊。[%p]
+
+JA [name]絵里子[line]今日のたくやは、結構可愛かったな。[%p]
+ZH [name]绘里子[line]今天的拓也相当可爱啊。[%p]
+
+JA [name]たくや[line]な‥‥。[%p]
+ZH [name]拓也[line]那个……。[%p]
+
+JA [name]絵里子[line]ロッカーの中。[%p]
+ZH [name]绘里子[line]柜子里面。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]ってことで、どう?[%p]
+ZH [name]绘里子[line]这事，怎么样？[%p]
+
+JA [name]たくや[line]むぅ‥‥。[%p]
+ZH [name]拓也[line]唔……。[%p]
+
+JA [name]たくや[line](‥‥なんてこった。)[%p]
+ZH [name]拓也[line](（……怎么回事。）。)[%p]
+
+JA [name]たくや[line](弱みを握られちまったみたいだぞ‥‥。)[%p]
+ZH [name]拓也[line](（貌似弱点被她抓到了呢……。）。)[%p]
+
+JA [name]たくや[line](うーん‥‥どっかで見たような‥‥。)[%p]
+ZH [name]拓也[line](（嗯——……好像在哪里见过啊……。）。)[%p]
+
+JA [name]たくや[line](誰かの、トレードマークだったような気も‥‥。)[%p]
+ZH [name]拓也[line](（感觉，似乎是有某个人的特征呢……。）。)[%p]
+
+JA [name]女性[line]な、なに‥‥かしら?[%p]
+ZH [name]女性[line]什，什么……什么事？[%p]
+
+JA [name]たくや[line](あれ? このタバコ、どっかで‥‥。)[%p]
+ZH [name]拓也[line](（咦？　这个香烟，在哪里……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](髪の毛をアップしているな‥‥。)[%p]
+ZH [name]拓也[line](（头发往上梳起来了……。）。)[%p]
+
+JA [name]たくや[line](ガラリと印象が違うぞ‥‥。)[%p]
+ZH [name]拓也[line](（图像和印象不同……。）。)[%p]
+
+JA [name]たくや[line]いつもは下ろしているのに‥‥。[%p]
+ZH [name]拓也[line]一直总是都放下来的说……。[%p]
+
+JA [name]たくや[line]前を少しアップするだけで、ガラリと印象が変わってしまう。[%p]
+ZH [name]拓也[line]虽然前面稍微梳起来了，图像和印象就变了呢。[%p]
+
+JA [name]絵里子[line]それが私の意図するところだからね‥‥。[%p]
+ZH [name]绘里子[line]因为这个就是我的意图呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](意図するところ‥‥?)[%p]
+ZH [name]拓也[line](（意图吗……？）)[%p]
+
+JA [name]たくや[line](流れるような髪の毛だな‥‥。)[%p]
+ZH [name]拓也[line](（很飘逸的头发……。）。)[%p]
+
+JA [name]たくや[line](この髪の毛も、何だか印象に残っているぞ‥‥。)[%p]
+ZH [name]拓也[line](（这个头发，好像也觉得有印象残留着……。）。)[%p]
+
+JA [name]たくや[line](おいおい‥‥絵里子先生にまたバカにされるぞ。)[%p]
+ZH [name]拓也[line](（喂喂……绘里子还打算把我当傻瓜啊。）。)[%p]
+
+JA [name]たくや[line](でも、気になるのは男の悲しいサガ‥‥。)[%p]
+ZH [name]拓也[line](（不过，会在意就是男人的悲哀的天性……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]相変わらずだなぁ、君は。[%p]
+ZH [name]绘里子[line]你还是一点都没变啊。[%p]
+
+JA [name]たくや[line]お、俺はその、良い色の服だなぁって。[%p]
+ZH [name]拓也[line]哦，我觉得，这件衣服的眼神不错。[%p]
+
+JA [name]絵里子[line]ありがとう、フフ‥‥。[%p]
+ZH [name]绘里子[line]谢谢，呵呵……。[%p]
+
+JA [name]たくや[line](ちぇっ‥‥見透かされてるぞ。)[%p]
+ZH [name]拓也[line](（切……感觉呗看透了一样呢。）。)[%p]
+
+JA [name]たくや[line](うーん、この大きさそして形、どこかで見たような‥‥。)[%p]
+ZH [name]拓也[line]JF:（嗯，这个大小和形状，好像在哪里见过……）[%p]
+
+JA [name]たくや[line]いったい何センチあるんだろうな‥‥。[%p]
+ZH [name]拓也[line]究竟是什么罩杯的呢……。[%p]
+
+JA [name]絵里子[line]内緒だ。[%p]
+ZH [name]绘里子[line]秘密。[%p]
+
+JA [name]絵里子[line]君なぁ‥‥私の胸に顔を近づけて、露骨過ぎるぞ。[%p]
+ZH [name]绘里子[line]你啊……把脸靠我的胸部这么近，太露骨了吧。[%p]
+
+JA [name]たくや[line]いやぁ、俺、近眼でさ。[%p]
+ZH [name]拓也[line]不是，我，是近视眼。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]だいたいに於いてだな、そんな服を着ているのが悪い。[%p]
+ZH [name]拓也[line]大致上来说，穿着这种衣服很不好啊。[%p]
+
+JA [name]絵里子[line]なぜ?[%p]
+ZH [name]绘里子[line]为什么？[%p]
+
+JA [name]たくや[line]見てくれって言ってるようなもんだぞ。まったく、男のやむを得ないリビドーを刺激して、何が楽しいんだ。[%p]
+ZH [name]拓也[line]简直像是在说来看吧之类的话呢。真是的，让男人求之不得的欲望加以刺激，有什么乐趣吗。[%p]
+
+JA [name]絵里子[line]別に、見るなとは言っていないと思うが。[%p]
+ZH [name]绘里子[line]我想，我并没有说过不要看的话吧。[%p]
+
+JA [name]たくや[line]えっ? じゃあ、見ていいの?[%p]
+ZH [name]拓也[line]诶？　那么，我可以看喽？[%p]
+
+JA [name]絵里子[line]いい。[%p]
+ZH [name]绘里子[line]好的。[%p]
+
+JA [name]たくや[line]うーん‥‥‥‥でへ。[%p]
+ZH [name]拓也[line]嗯——…………靠近。[%p]
+
+JA [name]絵里子[line]やっぱり、ダメだ。[%p]
+ZH [name]绘里子[line]果然，还是不行。[%p]
+
+JA [name]たくや[line]うわっ‥‥あんなに寄っちゃってるぞ。[%p]
+ZH [name]拓也[line]呜哇……离得都这么近了啊。[%p]
+
+JA [name]たくや[line]なんたるデンジャーな状態なんだ。[%p]
+ZH [name]拓也[line]这是多么危险的状态啊。[%p]
+
+JA [name]たくや[line]しかし俺は敢えて言いたい。デンジャー大いに結構、と。[%p]
+ZH [name]拓也[line]不过。我并不想说，危险大才更好这种话。[%p]
+
+JA [name]絵里子[line]何を言っとるんだ、君は。[%p]
+ZH [name]绘里子[line]你在说些什么呢。[%p]
+
+JA [name]たくや[line](このナイスなバストが、たまらん‥‥じゃなくて。)[%p]
+ZH [name]拓也[line](（这个完美的胸围，受不了了……不对。）。)[%p]
+
+JA [name]たくや[line](うーん、これもどこかで見たような‥‥。)[%p]
+ZH [name]拓也[line](（嗯——，这个似乎也在哪里见到过……。）。)[%p]
+
+JA [name]たくや[line]しかし、信じられん店だな‥‥カップがテーブルにくっついてる。[%p]
+ZH [name]拓也[line]但是，这家店还真是令人难以置信……杯子紧贴在桌子上。[%p]
+
+JA [name]たくや[line]そういう訳で、絵里子先生のあそこは見れない。[%p]
+ZH [name]拓也[line]因为是这样，所以看不到绘里子老师的那个地方。[%p]
+
+JA [name]絵里子[line]見なくていいぞ。[%p]
+ZH [name]绘里子[line]看不到也没关系。[%p]
+
+JA [name]たくや[line]むぉっ‥‥くぬぅ‥‥うぉっ![%p]
+ZH [name]拓也[line]姆……呶……唔哦！[%p]
+
+JA [name]絵里子[line]だから、君はさっきから何をやっているのかね。[%p]
+ZH [name]绘里子[line]我说，你从刚才开始都在做些什么呢。[%p]
+
+JA [name]たくや[line]はぁ‥‥はぁ‥‥。[%p]
+ZH [name]拓也[line]哈啊……哈啊……。[%p]
+
+JA [name]たくや[line]取れない‥‥。[%p]
+ZH [name]拓也[line]拿不到……。[%p]
+
+JA [name]たくや[line]ははは、こんな邪魔なカップはだな‥‥ぬぉっ、むぅ、くっ![%p]
+ZH [name]拓也[line]JF:哈哈，这么碍事的杯子啊……哇，哇，哇！[%p]
+
+JA [name]絵里子[line]何をやっているんだ?[%p]
+ZH [name]绘里子[line]那些人在干什么呢？[%p]
+
+JA [name]たくや[line]はぁ、はぁ‥‥と、取れない。[%p]
+ZH [name]拓也[line]哈啊，哈啊……拿，拿不到。[%p]
+
+JA [name]ウエイトレス[line]はい、接着剤でくっつけてあります。[%p]
+ZH [name]女服务员[line]是的，因为是用胶粘起来的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そんなバカな。)[%p]
+ZH [name]拓也[line](（太傻了吧。）。)[%p]
+
+JA [name]たくや[line]邪魔者は消し去るべし![%p]
+ZH [name]拓也[line]碍事者速速退散！[%p]
+
+JA [name]絵里子[line]あっ‥‥。[%p]
+ZH [name]绘里子[line]啊……。[%p]
+
+JA [name]たくや[line]ごく、ごく、ごくっ‥‥ぷはぁ!![%p]
+ZH [name]拓也[line]咕嘟，咕嘟，咕嘟……噗哈啊！！[%p]
+
+JA [name]たくや[line]お姉ちゃん、このカップ、下げて![%p]
+ZH [name]拓也[line]小姐，快来把这个杯子拿走！[%p]
+
+JA [name]たくや[line](げふっ。)[%p]
+ZH [name]拓也[line](（呃呼。）。)[%p]
+
+JA [name]たくや[line](うーん‥‥少し苦しいぞ。)[%p]
+ZH [name]拓也[line](（嗯——……稍微有点苦呢。）。)[%p]
+
+JA [name]たくや[line]んなモンはなぁ‥‥。[%p]
+ZH [name]拓也[line]就是这样……。[%p]
+
+JA [name]絵里子[line]あっ‥‥。[%p]
+ZH [name]绘里子[line]啊……。[%p]
+
+JA [name]たくや[line]ごく、ごく、ごくっ‥‥ぷはぁ!![%p]
+ZH [name]拓也[line]咕嘟，咕嘟，咕嘟……噗哈啊！！[%p]
+
+JA [name]絵里子[line]それは、私のコーヒー‥‥。[%p]
+ZH [name]绘里子[line]那个，是我的咖啡……。[%p]
+
+JA [name]たくや[line]お姉ちゃん、このカップ、下げて![%p]
+ZH [name]拓也[line]小姐，快来把这个杯子拿走！[%p]
+
+JA [name]絵里子[line]私の、コーヒー‥‥。[%p]
+ZH [name]绘里子[line]我的，咖啡……。[%p]
+
+JA [name]たくや[line]げっぷ。[%p]
+ZH [name]拓也[line]呃噗。[%p]
+
+JA [name]絵里子[line]しょうがないな、君は‥‥。[%p]
+ZH [name]绘里子[line]那你没办法，你是……。[%p]
+
+JA [name]たくや[line](ダメだ‥‥ここを凝視すると、コーヒーが‥‥。)[%p]
+ZH [name]拓也[line](（不行……如果凝视着这里的话，咖啡会……。）。)[%p]
+
+JA [name]たくや[line](しかし、俺の本能が‥‥くっ。)[%p]
+ZH [name]拓也[line](（但是，我的本能……唔。）。)[%p]
+
+JA [name]絵里子[line]なに、目を白黒させているんだ、君は。[%p]
+ZH [name]绘里子[line]什么，你看上去好像很辛苦呢。[%p]
+
+JA [name]たくや[line]いや、コーヒーが来るんじゃないかなぁって。[%p]
+ZH [name]拓也[line]没有，咖啡不是来了吗。[%p]
+
+JA [name]絵里子[line]はあ?[%p]
+ZH [name]绘里子[line]哈啊？[%p]
+
+JA [name]たくや[line](‥‥もしかして、ここを凝視すると、コーヒーが運ばれて来たりするんだろうか。)[%p]
+ZH [name]拓也[line](（……难道说，如果凝视着这里的话，咖啡就会被拿上来了吗。）。)[%p]
+
+JA [name]たくや[line](うーん‥‥あまり見るのは止めておこう。)[%p]
+ZH [name]拓也[line]JF:（嗯……不要看太多。）[%p]
+
+JA [name]たくや[line](よし、今度こそ‥‥。)[%p]
+ZH [name]拓也[line](（好嘞，这次就……。）。)[%p]
+
+JA [name]ウエイトレス[line]おかわりを、お持ち致しました。[%p]
+ZH [name]女服务员[line]好的，已经给您加上了。[%p]
+
+JA [name]たくや[line]あのなぁ![%p]
+ZH [name]拓也[line]我说啊！[%p]
+
+JA [name]絵里子[line]いったいどうしたんだ、君は。[%p]
+ZH [name]绘里子[line]你到底是怎么了啊。[%p]
+
+JA [name]たくや[line]男のロマンが阻害されているんでね、怒っているんだよ。[%p]
+ZH [name]拓也[line]居然妨碍了男人的浪漫，我要生气了哦。[%p]
+
+JA [name]絵里子[line]‥‥はあ?[%p]
+ZH [name]绘里子[line]……哈啊？[%p]
+
+JA [name]たくや[line](フン、だがな、何度でも俺はトライしてやるぞ。)[%p]
+ZH [name]拓也[line](（哼，不过，不管多少次我都要试试看。）。)[%p]
+
+JA [name]たくや[line](そうだ、あそこの[ruby-base]翳[ruby-text-start]かげ[ruby-text-end]り、これが男ごころをくすぐり‥‥。)[%p]
+ZH [name]拓也[line]JF:（对了，那里的阴影，这就是男人的心……）[%p]
+
+JA [name]ウエイトレス[line]おかわりを、お持ち致しました。[%p]
+ZH [name]女服务员[line]好的，已经给您加上了。[%p]
+
+JA [name]たくや[line]なぁぁぁっ![%p]
+ZH [name]拓也[line]呐啊啊啊啊！[%p]
+
+JA [name]絵里子[line]だ、大丈夫か、君は。[%p]
+ZH [name]绘里子[line]你，你没什么事吧。[%p]
+
+JA [name]たくや[line](むぅ‥‥どうしてくれよう!)[%p]
+ZH [name]拓也[line](（姆……要怎么办好呢！）)[%p]
+
+JA [name]たくや[line](むぅ‥‥。)[%p]
+ZH [name]拓也[line](唔……。)[%p]
+
+JA [name]たくや[line](あそこの、デンジャーな[ruby-base]翳[ruby-text-start]かげ[ruby-text-end]りというヤツが、男ごころをくすぐるってもんだ。)[%p]
+ZH [name]拓也[line](（那里的，危险的阴暗（ＹＩＮＡＮ）处，使得男人的心在躁动。）。)[%p]
+
+JA [name]ウエイトレス[line]お待たせ致しました。[%p]
+ZH [name]女服务员[line]让您久等了。[%p]
+
+JA [name]たくや[line]やっぱりぃ![%p]
+ZH [name]拓也[line]果然！[%p]
+
+JA [name]たくや[line]なにおう![%p]
+ZH [name]拓也[line]什么哦！[%p]
+
+JA [name]絵里子[line]何を叫んでいるんだ、君は。[%p]
+ZH [name]绘里子[line]你在叫些什么啊。[%p]
+
+JA [name]たくや[line](見えてるぞ‥‥。)[%p]
+ZH [name]拓也[line](（看到了呢……。）。)[%p]
+
+JA [name]たくや[line](少し、嬉しいが‥‥今はそんなところを見ている場合じゃなくて。)[%p]
+ZH [name]拓也[line](（虽然，有点高兴……不过现在不是看那个地方的时候啊。）。)[%p]
+
+JA [name]たくや[line](足を組んでいるぞ‥‥。)[%p]
+ZH [name]拓也[line](（腿翘起来了……。）。)[%p]
+
+JA [name]たくや[line](足を組んでいるようだ‥‥。)[%p]
+ZH [name]拓也[line](（腿是翘起来的……。）。)[%p]
+
+JA [name]たくや[line](透明テーブルで、足を組むなんて‥‥嬉しいぞ。)[%p]
+ZH [name]拓也[line](（因为是透明的桌子，腿翘起来……让人很高兴呢。）。)[%p]
+
+JA [name]たくや[line](足を組んでいるようだ‥‥。)[%p]
+ZH [name]拓也[line](（腿是翘起来的……。）。)[%p]
+
+JA [name]たくや[line](透明テーブルで、足を組むなんて‥‥嬉しいぞ。)[%p]
+ZH [name]拓也[line](（因为是透明的桌子，腿翘起来……让人很高兴呢。）。)[%p]
+
+JA [name]たくや[line](問題は、絵里子先生がなぜ、ここにいるのかってことだ。)[%p]
+ZH [name]拓也[line](（问题是，绘里子老师，她为什么会在这里出现呢。）。)[%p]
+
+JA [name]たくや[line](なんでだろうな‥‥?)[%p]
+ZH [name]拓也[line](（到底为什么呢……？）)[%p]
+
+JA [name]たくや[line](この格好といい、しぐさといい‥‥若い。)[%p]
+ZH [name]拓也[line](（这种打扮也好，行动举止也好……好年轻。）。)[%p]
+
+JA [name]たくや[line](うーん‥‥どこかで見た感じがする‥‥。)[%p]
+ZH [name]拓也[line](（嗯——……感觉有在哪里见到过……。）。)[%p]
+
+JA [name]たくや[line](どこだったか‥‥。)[%p]
+ZH [name]拓也[line](是在哪里呢……。)[%p]
+
+JA [name]たくや[line]砂糖と塩だよ‥‥。[%p]
+ZH [name]拓也[line]这是砂糖和盐……。[%p]
+
+JA [name]たくや[line]砂糖を大量に口に含み、その後で塩をおもむろに口の中へ入れる。[%p]
+ZH [name]拓也[line]先把大量的砂糖含进嘴里，接着再把盐一点点地往嘴里塞。[%p]
+
+JA [name]たくや[line]すると、どうなるか?[%p]
+ZH [name]拓也[line]这样做的话，会怎么样？[%p]
+
+JA [name]絵里子[line]どうなるんだ?[%p]
+ZH [name]绘里子[line]会怎么样？[%p]
+
+JA [name]たくや[line]わからない。[%p]
+ZH [name]拓也[line]不知道。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line]お一つ、如何っすか?[%p]
+ZH [name]拓也[line]有一件事，能拜托你吗？[%p]
+
+JA [name]絵里子[line]ビンごと渡されても、しょうがないんだが。[%p]
+ZH [name]绘里子[line]就算把罐子交给你，也没有用吧。[%p]
+
+JA [name]たくや[line](砂糖やら塩が載っかっている‥‥。)[%p]
+ZH [name]拓也[line](（装着砂糖和盐……。）。)[%p]
+
+JA [name]たくや[line](もちろん、今はこんなのは関係ないぞ。)[%p]
+ZH [name]拓也[line](（当然，现在跟这个没什么关系。）。)[%p]
+
+JA [name]たくや[line](灰皿には、吸いがらがいくつか置いてある‥‥。)[%p]
+ZH [name]拓也[line](（烟灰缸里，放着好几个烟蒂……。）。)[%p]
+
+JA [name]たくや[line]吸いがらがあるってことは、ここに来てから結構時間が経ってるんだな‥‥。[%p]
+ZH [name]拓也[line]有烟蒂也就意味着，从到这来以后经过了相当一段时间啊……。[%p]
+
+JA [name]絵里子[line]私は一度に3本吸うからな、一概にそうは言えないぞ。[%p]
+ZH [name]绘里子[line]因为我是一次性吸３支的啊，所以不能一概而论呢。[%p]
+
+JA [name]たくや[line]さ、3本‥‥一度に口に咥えて?[%p]
+ZH [name]拓也[line]３，３支……一次性都放进嘴里？[%p]
+
+JA [name]絵里子[line]嘘だ。[%p]
+ZH [name]绘里子[line]骗你的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](灰皿だな‥‥。)[%p]
+ZH [name]拓也[line](（烟灰缸……。）。)[%p]
+
+JA [name]たくや[line](ナイスバディな女性と、灰皿か‥‥何か、思い出しそうだ。)[%p]
+ZH [name]拓也[line](（身材火辣的女性，和烟灰缸吗……貌似，想起什么来了。）。)[%p]
+
+JA [name]たくや[line](しかし、このテーブルを開発したやつには、金一封だな。)[%p]
+ZH [name]拓也[line](（但是，对于开发出这个桌子的人，应该要奖励一笔钱。）。)[%p]
+
+JA [name]たくや[line](なかなか男ごころってヤツが、判っている。)[%p]
+ZH [name]拓也[line](（对于所谓男人的心，完全了解呢。）。)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]絵里子[line]テーブルに顔を近づけて、何をやってるんだ、君は。[%p]
+ZH [name]绘里子[line]把脸靠桌子这么近，你是打算要干嘛啊。[%p]
+
+JA [name]たくや[line]えっと、ちょっと汚れてるなぁって。[%p]
+ZH [name]拓也[line]那个，稍微有点脏啊。[%p]
+
+JA [name]絵里子[line]‥‥‥‥。[%p]
+ZH [name]绘里子[line]…………。[%p]
+
+JA [name]たくや[line](ゴクッ‥‥。)[%p]
+ZH [name]拓也[line](（咕噜……。）。)[%p]
+
+JA [name]たくや[line](ここまでシースルーで、いいのか?)[%p]
+ZH [name]拓也[line](（透明到这种程度，真的可以吗？）)[%p]
+
+JA [name]たくや[line](無論、いい。)[%p]
+ZH [name]拓也[line](（当然，可以。）。)[%p]
+
+JA [name]たくや[line](観葉植物ってやつだな‥‥。)[%p]
+ZH [name]拓也[line](（那个是观叶植物……。）。)[%p]
+
+JA [name]たくや[line](いい色に光合成してやがる‥‥と思ったら、ビニール製の植物だった。)[%p]
+ZH [name]拓也[line]JF:（光合成成好颜色……这样想着，原来是塑料制的植物。）[%p]
+
+JA [name]たくや[line](植え込みだな‥‥向こうに、龍蔵寺と香織がいるぞ。)[%p]
+ZH [name]拓也[line](（那是花丛……对面的，是龙藏寺和香织呢。）。)[%p]
+
+JA [name]たくや[line](絵里子先生が、それを見つめていた‥‥。)[%p]
+ZH [name]拓也[line](（绘里子老师，在盯着那里看……。）。)[%p]
+
+JA [name]たくや[line](植え込みの向こうには‥‥。)[%p]
+ZH [name]拓也[line](（在花丛对面的是……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](絵里子先生は、彼らを見ていたようだ‥‥。)[%p]
+ZH [name]拓也[line](（绘里子老师，似乎是在看着他们……。）。)[%p]
+
+JA [name]たくや[line](いったい、なぜだ‥‥?)[%p]
+ZH [name]拓也[line](（究竟是，为什么……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](植え込みだな‥‥観葉植物ってわけだ。)[%p]
+ZH [name]拓也[line](（那里是花丛……应该是观叶植物。）。)[%p]
+
+JA [name]たくや[line](この向こう側には、龍蔵寺と香織が‥‥。)[%p]
+ZH [name]拓也[line](（在那个对面的，是龙藏寺和香织……。）。)[%p]
+
+JA [name]たくや[line](イヤリングも、随分と派手なヤツだな‥‥。)[%p]
+ZH [name]拓也[line](（耳环也是，相当华丽的饰品啊……。）。)[%p]
+
+JA [name]たくや[line](光り物ってやつか‥‥。)[%p]
+ZH [name]拓也[line](（闪闪发光的样子吗……。）。)[%p]
+
+JA [name]たくや[line](うーん、この性格、どこかで‥‥。)[%p]
+ZH [name]拓也[line](（嗯——，这个性格，在哪里……。）。)[%p]
+
+JA [name]たくや[line](喫茶店の中じゃ、絵里子先生が一番目立っているぜ‥‥。)[%p]
+ZH [name]拓也[line](（在咖啡店里面的话，绘里子老师是最显眼的呢……。）。)[%p]
+
+JA [name]たくや[line](しっかし、ど派手だな‥‥。)[%p]
+ZH [name]拓也[line](（但是，非常艳丽啊……。）。)[%p]
+
+JA [name]たくや[line]店内で、一際目立っているぜ‥‥。[%p]
+ZH [name]拓也[line]JF:店内特别显眼。[%p]
+
+JA [name]絵里子[line]おっかしいなぁ‥‥この格好が、一番目立たないと思ったんだが。[%p]
+ZH [name]绘里子[line]真是奇怪啊……这个打扮，我还以为是最不显眼的呢。[%p]
+
+JA [name]たくや[line]誰だよ、んなこと言ったのは。[%p]
+ZH [name]拓也[line]谁啊，会说这种话。[%p]
+
+JA [name]絵里子[line]確か君だったぞ。[%p]
+ZH [name]绘里子[line]我记得是你吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]ボディコン、ミニスカが、この日本のあるべき女性の姿だと。[%p]
+ZH [name]绘里子[line]说什么紧身衣，迷你裙，这个是日本应该有的女性姿态。[%p]
+
+JA [name]たくや[line]あ、あははは‥‥。[%p]
+ZH [name]拓也[line]啊，啊哈哈哈……。[%p]
+
+JA [name]たくや[line](どこまで本気なんだよ、この先生‥‥。)[%p]
+ZH [name]拓也[line](（这个老师，到哪里为止是认真的呢……。）。)[%p]
+
+JA [name]たくや[line](喫茶店[EVENING]の中だ‥‥。)[%p]
+ZH [name]拓也[line]JF:（咖啡店[EVENING]JF:在里面……。）[%p]
+
+JA [name]たくや[line](今はアイテムを使うときじゃないぞ‥‥。)[%p]
+ZH [name]拓也[line](现在不是使用道具的时候……。)[%p]
+
+JA 
+ZH 
+

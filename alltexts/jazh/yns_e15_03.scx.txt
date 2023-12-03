@@ -1,0 +1,240 @@
+JA [name]たくや[line]あの音は‥‥‥いったいどこからしたんだ?[%p]
+ZH [name]拓也[line]那个声音……到底是从哪里发出来的呢？[%p]
+
+JA [name]たくや[line]そうだ、こっちの方から音がしたんだ‥‥。[%p]
+ZH [name]拓也[line]对了，是这个方向传来的声音……。[%p]
+
+JA [name]たくや[line]ついでに声も‥‥。[%p]
+ZH [name]拓也[line]顺便声音也……。[%p]
+
+JA [name]たくや[line](オヤジの野郎だったら、タダじゃおかねぇからな。)[%p]
+ZH [name]拓也[line](（如果是老头子那混蛋的话，我绝对不会放过他。）。)[%p]
+
+JA [name]たくや[line](まず、2〜3発ぶん殴ってから、縛りあげて、今までの経緯を吐かせてやる。)[%p]
+ZH [name]拓也[line]JF:（首先，先打2～3枪，然后绑起来，让他说出至今为止的经过。）[%p]
+
+JA [name]たくや[line](あの野郎が、いやがったら‥‥‥。)[%p]
+ZH [name]拓也[line](（那个混蛋，要是不愿意的话……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](間違いない、誰かいるぞ。)[%p]
+ZH [name]拓也[line](（没错，有人在。）。)[%p]
+
+JA [name]たくや[line](俺のことを、観察していたのか‥‥?)[%p]
+ZH [name]拓也[line](（是在，观察我吗……？）)[%p]
+
+JA [name]たくや[line](んなことをやるのは、オヤジの野郎以外にありえない。)[%p]
+ZH [name]拓也[line](（会做这种事的，除了老头子没有别人了。）。)[%p]
+
+JA [name]たくや[line]おい、オヤジ! 開けるぞ!![%p]
+ZH [name]拓也[line]喂，老头子！给我开门！！[%p]
+
+JA [name]たくや[line]!!!!!!???[%p]
+ZH [name]拓也[line]!!!!!!???[%p]
+
+JA [name]たくや[line]か、か、か‥‥かーーっ。[%p]
+ZH [name]拓也[line]神，神，神……神——。[%p]
+
+JA [name]神奈[line]有馬さんだったんですか。少しビックリしました。[%p]
+ZH [name]神奈[line]是有马同学啊。吓了我一跳呢。[%p]
+
+JA [name]たくや[line]シャ、シャワー中だったのか‥‥ゴ、ゴメン![%p]
+ZH [name]拓也[line]啊，你正在洗澡啊……对，对不起！[%p]
+
+JA [name]神奈[line]‥‥はい?[%p]
+ZH [name]神奈[line]……嗯？[%p]
+
+JA [name]たくや[line]だ、だって‥‥あの‥‥その‥‥‥。[%p]
+ZH [name]拓也[line]因，因为……那个……那个……。[%p]
+
+JA [name]神奈[line]下に、何か付いていますか?[%p]
+ZH [name]神奈[line]你的下面，有带着什么东西吗？[%p]
+
+JA [name]たくや[line]い、いやとんでもない。とってもグーな‥‥‥じゃなくて![%p]
+ZH [name]拓也[line]什，什么都没有。只是很兴奋……没什么啦！[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](神奈チャンが恥ずかしがらないから、俺が恥ずかしいぜ‥‥。)[%p]
+ZH [name]拓也[line](（神奈一点都不觉得难为情，反而是我开始难为情了……。)[%p]
+
+JA [name]神奈[line]汗をかいてしまったので、シャワーを浴びていたんです。[%p]
+ZH [name]神奈[line]因为出了一身汗，所以就来洗澡了。[%p]
+
+JA [name]たくや[line]そ、そう‥‥それはその、とっても良かったね。[%p]
+ZH [name]拓也[line]是，是吗……那还真是，太好了呢。[%p]
+
+JA [name]たくや[line](何を言っているんだ、俺は‥‥‥。)[%p]
+ZH [name]拓也[line](（我到底在说些什么啊……。)[%p]
+
+JA [name]神奈[line]有馬さんも、シャワーを浴びますか?[%p]
+ZH [name]神奈[line]有马同学，你也要洗澡吗？[%p]
+
+JA [name]たくや[line]い、いや俺はその、一緒だったら‥‥じゃなくて! 今のは無し。[%p]
+ZH [name]拓也[line]不，不用了，那个，我要是一起的话……不是啦！刚才说错了。[%p]
+
+JA [name]神奈[line]‥‥有馬さんがそうしたいのなら、どうぞ。[%p]
+ZH [name]神奈[line]……有马同学你要是想的话，那就请吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]ま、また、今度にするよ‥‥。[%p]
+ZH [name]拓也[line]还，还是，下次再说吧……。[%p]
+
+JA [name]神奈[line]‥‥わかりました。[%p]
+ZH [name]神奈[line]……我知道了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥なにか。[%p]
+ZH [name]神奈[line]……怎么了。[%p]
+
+JA [name]たくや[line]えっ! いや、何でもないよ。ただ、ちょっと名残惜しいかなって。[%p]
+ZH [name]拓也[line]诶！不，没什么事。只是，稍微觉得有点可惜。[%p]
+
+JA [name]神奈[line]はい?[%p]
+ZH [name]神奈[line]嗯？[%p]
+
+JA [name]たくや[line]‥‥失礼します。[%p]
+ZH [name]拓也[line]……我失礼了。[%p]
+
+JA [name]たくや[line]‥‥ふぅ。[%p]
+ZH [name]拓也[line]‥‥呼。[%p]
+
+JA [name]たくや[line]オヤジの野郎と思ったら、神奈チャンだったか‥‥‥。[%p]
+ZH [name]拓也[line]还以为是老头子那混蛋呢，结果是神奈啊……。[%p]
+
+JA [name]たくや[line]ま、あの野郎の裸なぞ、死んでも見たくないモノの1つだからな。[%p]
+ZH [name]拓也[line]嘛，要是那个混蛋的裸体的话，我是连死都不想看到的。[%p]
+
+JA [name]たくや[line]神奈チャンで、半分ラッキーというところか‥‥‥。[%p]
+ZH [name]拓也[line]神奈的话，就稍微有点幸运了呢……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥‥彼女、結局出かけていなかったんだ。[%p]
+ZH [name]拓也[line]呼……结果，她原来没有出去啊。[%p]
+
+JA [name]たくや[line]しかし、もの怖じしない子だよな‥‥‥。[%p]
+ZH [name]拓也[line]不过，还真是个一点都不怕的女孩子啊……。[%p]
+
+JA [name]たくや[line]案外、男として見られていなかったりして‥‥‥。[%p]
+ZH [name]拓也[line]没想到，简直就不像是被男人看到一样……。[%p]
+
+JA [name]たくや[line]‥‥少し悲しいかもしれない。[%p]
+ZH [name]拓也[line]……或许稍微有点悲哀呢。[%p]
+
+JA [name]神奈[line]お待たせしました。[%p]
+ZH [name]神奈[line]稍等一下。[%p]
+
+JA [name]たくや[line](ドキッ。)[%p]
+ZH [name]拓也[line](扑通。)[%p]
+
+JA [name]たくや[line](お風呂上がりの女の子か‥‥。)[%p]
+ZH [name]拓也[line](（刚刚出浴的女孩子吗……。）。)[%p]
+
+JA [name]たくや[line](何だか、いいな‥‥。)[%p]
+ZH [name]拓也[line](（感觉，真不错呢……。）。)[%p]
+
+JA [name]たくや[line]蛍光灯の電波の音か‥‥‥?[%p]
+ZH [name]拓也[line]是荧光灯的电流声吗……？[%p]
+
+JA [name]たくや[line]いや、そんな訳はない。[%p]
+ZH [name]拓也[line]不对，不是那个。[%p]
+
+JA [name]たくや[line]窓の外から‥‥という訳じゃないな。[%p]
+ZH [name]拓也[line]从窗户外面……也不会是那个。[%p]
+
+JA [name]たくや[line]室内から音がしたんだ。[%p]
+ZH [name]拓也[line]是从室内传来的声音。[%p]
+
+JA [name]たくや[line]エアコンは稼働していない‥‥。[%p]
+ZH [name]拓也[line]空调没有在运转……。[%p]
+
+JA [name]たくや[line]薬箱の中に、誰かが‥‥。[%p]
+ZH [name]拓也[line]药箱里面，有谁在……。[%p]
+
+JA [name]たくや[line]‥‥いるわけないか。[%p]
+ZH [name]拓也[line]……不会有人在吧。[%p]
+
+JA [name]たくや[line]こんな所に入れたら、もはや妖怪だぞ。[%p]
+ZH [name]拓也[line]JF:进入这样的地方，已经是妖怪了。[%p]
+
+JA [name]たくや[line]テーブルの上には、薬箱以外はのっかっていない‥‥。[%p]
+ZH [name]拓也[line]桌子上面，除了药箱就没什么别的东西了……。[%p]
+
+JA [name]たくや[line]ゴミ箱の中には‥‥。[%p]
+ZH [name]拓也[line]垃圾箱的里面……。[%p]
+
+JA [name]たくや[line]‥‥誰かがいたら、面白いな。[%p]
+ZH [name]拓也[line]……要是有人在的话，就有意思了。[%p]
+
+JA [name]たくや[line]だが残念なことに、誰も入ってない。[%p]
+ZH [name]拓也[line]不过很遗憾，没有人在啊。[%p]
+
+JA [name]たくや[line]こんなところにいるかよ‥‥。[%p]
+ZH [name]拓也[line]会在这种地方吗……。[%p]
+
+JA [name]たくや[line]もっと真面目に探してくれ。[%p]
+ZH [name]拓也[line]再认真点找吧。[%p]
+
+JA [name]たくや[line]空き缶の中に入っているってのか?[%p]
+ZH [name]拓也[line]会藏在空罐子里面吗？[%p]
+
+JA [name]たくや[line]人喰いアメーバーじゃあないんだ。[%p]
+ZH [name]拓也[line]又不是吃人的阿米巴变形虫。[%p]
+
+JA [name]たくや[line]違う、そこじゃない。[%p]
+ZH [name]拓也[line]错了，不是那里。[%p]
+
+JA [name]たくや[line]冷蔵庫の中に‥‥。[%p]
+ZH [name]拓也[line]在冰箱里面……。[%p]
+
+JA [name]たくや[line]‥‥いるわけないぞ。[%p]
+ZH [name]拓也[line]……不可能会在呢。[%p]
+
+JA [name]たくや[line]冷蔵庫の中に‥‥。[%p]
+ZH [name]拓也[line]在冰箱里面……。[%p]
+
+JA [name]たくや[line]‥‥いるわけないぞ。[%p]
+ZH [name]拓也[line]……不可能会在呢。[%p]
+
+JA [name]たくや[line]そんなところじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]不是那种地方呢……。[%p]
+
+JA [name]たくや[line]コップが1個だけ、のっかっているぜ‥‥。[%p]
+ZH [name]拓也[line]只有１个杯子，倒扣着呢……。[%p]
+
+JA [name]たくや[line]そこじゃない‥‥。[%p]
+ZH [name]拓也[line]不是那里……。[%p]
+
+JA [name]たくや[line]何かを収納するためのもんだな‥‥。[%p]
+ZH [name]拓也[line]是打算放什么东西的啊……。[%p]
+
+JA [name]たくや[line]何も入っていなさそうだけど‥‥。[%p]
+ZH [name]拓也[line]不过似乎什么东西都没有放……。[%p]
+
+JA [name]たくや[line]ベッドじゃない‥‥。[%p]
+ZH [name]拓也[line]不是床上……。[%p]
+
+JA [name]たくや[line]そこは外だぜ‥‥。[%p]
+ZH [name]拓也[line]那里也不是……。[%p]
+
+JA [name]たくや[line]室内から音がしたんだ‥‥。[%p]
+ZH [name]拓也[line]是从室内发出的声音……。[%p]
+
+JA [name]たくや[line]そこじゃない![%p]
+ZH [name]拓也[line]不是那里！[%p]
+
+JA 
+ZH 
+

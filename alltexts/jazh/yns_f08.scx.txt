@@ -1,0 +1,18 @@
+JA [name]たくや[line]とノックしても、誰もいないに決まってる。[%p]
+ZH [name]拓也[line]就算敲了门，肯定也没有人在。[%p]
+
+JA [name]たくや[line]今はもう休みだからな‥‥。[%p]
+ZH [name]拓也[line]因为现在已经放学了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないか‥‥。[%p]
+ZH [name]拓也[line]果然，没人在吗……。[%p]
+
+JA [name]たくや[line]どうするんだい?[%p]
+ZH [name]拓也[line]怎么办呢？[%p]
+
+JA 
+ZH 
+

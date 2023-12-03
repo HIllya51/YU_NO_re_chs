@@ -1,0 +1,5 @@
+[name]Takuya[line]I'm at the coastline.[%p]
+[name]Takuya[line]What are you gonna do?[%p]
+[name]Takuya[line]The coastline.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]I can see Triangle Mountain, aka Sword Cape.[%p]

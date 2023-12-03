@@ -1,0 +1,30 @@
+JA [name]たくや[line]‥‥誰もいないか。[%p]
+ZH [name]拓也[line]……没有人在吗。[%p]
+
+JA [name]たくや[line]‥‥誰もいないか。[%p]
+ZH [name]拓也[line]……没有人在吗。[%p]
+
+JA [name]たくや[line]くそっ、龍蔵寺のヤツは亜由美さんをどこへ連れていったんだ?[%p]
+ZH [name]拓也[line]可恶，龙藏寺那家伙把亚由美小姐带到哪里去了呢？[%p]
+
+JA [name]たくや[line]少し、他のところよりもヒンヤリとするな‥‥。[%p]
+ZH [name]拓也[line]比起其他地方，还是稍微有点凉飕飕的啊……。[%p]
+
+JA [name]たくや[line]気のせいだろうか‥‥?[%p]
+ZH [name]拓也[line]是我的错觉吗……？[%p]
+
+JA [name]たくや[line]ふぅ‥‥いったい出口はどこなんだろう。[%p]
+ZH [name]拓也[line]呼……出口到底在什么地方呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]風を感じる‥‥。[%p]
+ZH [name]拓也[line]感觉有风……。[%p]
+
+JA [name]たくや[line]どこからか、吹いてくるみたいだ‥‥。[%p]
+ZH [name]拓也[line]看样子，是从什么地方吹出来的……。[%p]
+
+JA 
+ZH 
+

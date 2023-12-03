@@ -1,0 +1,12 @@
+JA [name]たくや[line]シティホテルへやってきたけど‥‥。[%p]
+ZH [name]拓也[line]虽然到城市宾馆了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]亜由美さんはいそうもないな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐也不在啊……。[%p]
+
+JA 
+ZH 
+

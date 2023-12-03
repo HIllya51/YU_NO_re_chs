@@ -1,0 +1,18 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、こっちじゃないような気がする。[%p]
+ZH [name]拓也[line]感觉，好像应该不是这边。[%p]
+
+JA [name]たくや[line]どうも、こっちじゃないみたいだぜ‥‥。[%p]
+ZH [name]拓也[line]看起来，应该不是这边呢……。[%p]
+
+JA [name]たくや[line]‥‥さっきの風がやんでいる。[%p]
+ZH [name]拓也[line]……刚才那阵风已经没在吹了。[%p]
+
+JA [name]たくや[line]こっちじゃなかったのかな‥‥?[%p]
+ZH [name]拓也[line]难道不是这边吗……？[%p]
+
+JA 
+ZH 
+

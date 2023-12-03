@@ -1,0 +1,6 @@
+[name]Takuya[line]Here's the hotel.[%p]
+[name]Takuya[line]It's the city hotel.[%p]
+[name]Takuya[line]I heard famous people sometimes stay here.[%p]
+[name]Takuya[line]Kaori is actually a famous person, so I guess that proves it.[%p]
+[name]Takuya[line]I'm pretty sure it was room 1101. That's Kaori's room.[%p]
+[name]Takuya[line]⋯[%p]

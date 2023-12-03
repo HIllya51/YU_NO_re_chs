@@ -1,0 +1,7 @@
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]No matter how many times I come here, there's never anyone I know⋯hmm?[%p]
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]There's about an average amount of customers in today.[%p]
+[name]Takuya[line]It's the Evening Caf⑮.[%p]
+[name]Takuya[line]Doesn't seem like anyone I know is here.[%p]

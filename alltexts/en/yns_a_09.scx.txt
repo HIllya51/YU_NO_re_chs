@@ -1,0 +1,3 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]It's still going⋯[%p]
+[name]Takuya[line]This is one long tunnel.[%p]

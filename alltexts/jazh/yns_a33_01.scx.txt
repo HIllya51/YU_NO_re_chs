@@ -1,0 +1,6 @@
+JA [name]:name:[line]‥‥‥‥。
+ZH [name]:name:[line]…………。
+
+JA 
+ZH 
+

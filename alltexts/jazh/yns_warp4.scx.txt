@@ -1,0 +1,375 @@
+JA [name]たくや[line]遠くから、微かな音だな‥‥。[%p]
+ZH [name]拓也[line]从远处传来的，微弱的声音……。[%p]
+
+JA [name]たくや[line]いったい、どこから聴こえてきたんだろう‥‥?[%p]
+ZH [name]拓也[line]到底，是从哪里传来的……？[%p]
+
+JA [name]たくや[line]外からの音じゃなかったみたいだ‥‥。[%p]
+ZH [name]拓也[line]似乎不是从外面传来的声音……。[%p]
+
+JA [name]たくや[line]いや‥‥外からじゃなかったような気がする。[%p]
+ZH [name]拓也[line]不对……感觉不是从外面传来的声音。[%p]
+
+JA [name]たくや[line]あの音は‥‥もっと何かを隔てたような‥‥。[%p]
+ZH [name]拓也[line]那个声音……应该是隔着什么……。[%p]
+
+JA [name]たくや[line]本当に微かな音だった‥‥。[%p]
+ZH [name]拓也[line]真的是非常微弱的声音啊……。[%p]
+
+JA [name]たくや[line]あっ‥‥開いてる‥‥。[%p]
+ZH [name]拓也[line]啊……打开了……。[%p]
+
+JA [name]たくや[line]昼間は閉まっていたのに‥‥いったいどうしたんだ。[%p]
+ZH [name]拓也[line]正午时明明锁上了……到底怎么回事。[%p]
+
+JA [name]たくや[line]とにかく、先へ行ってみよう‥‥。[%p]
+ZH [name]拓也[line]总之，先出去看看……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]このマシンは‥‥‥‥。[%p]
+ZH [name]拓也[line]这机器是…………。[%p]
+
+JA [name]たくや[line]あれ、マシンのそばに‥‥光ってるモノが落ちてる。[%p]
+ZH [name]拓也[line]啊咧，机器的旁边……掉着发光的物体。[%p]
+
+JA [name]たくや[line]いったい、何だろう‥‥?[%p]
+ZH [name]拓也[line]到底，是怎么回事呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]これは‥‥‥‥。[%p]
+ZH [name]拓也[line]这是…………。[%p]
+
+JA [name]たくや[line]誰かが、ここに落としていったんだろうか‥‥?[%p]
+ZH [name]拓也[line]是某人，掉落在这里的吧……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][宝玉10][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[宝玉10][color index="800000"]JF:得到了。
+
+JA [color index="840000"][宝玉10][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[宝玉10][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]これから、どうするんだ‥‥。[%p]
+ZH [name]拓也[line]今后，该怎么办……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]このマシンは‥‥‥‥。[%p]
+ZH [name]拓也[line]这机器是…………。[%p]
+
+JA [name]たくや[line]!!?[%p]
+ZH [name]拓也[line]!!?[%p]
+
+JA [name]たくや[line](後ろ!?)[%p]
+ZH [name]拓也[line](（后面！？）)[%p]
+
+JA [name]たくや[line](近い‥‥誰かが来る!?)[%p]
+ZH [name]拓也[line](（附近……有谁来了！？）)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line](何の音だ‥‥?)[%p]
+ZH [name]拓也[line](是什么声音……？)[%p]
+
+JA [name]たくや[line](何かを、引きずっているような音だが‥‥。)[%p]
+ZH [name]拓也[line](（如同，在拖动着什么的身影……。）。)[%p]
+
+JA [name]女性の声[line]重いわ‥‥。[%p]
+ZH [name]女性的声音[line]好重……。[%p]
+
+JA [name]女性の声[line]とても、重い‥‥。[%p]
+ZH [name]女性的声音[line]非常，重……。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line](女の人の‥‥声だ‥‥。)[%p]
+ZH [name]拓也[line](（女人的……声音……。）。)[%p]
+
+JA [name]たくや[line](どこかで、聴いたことのあるような‥‥。)[%p]
+ZH [name]拓也[line](（似乎，在哪里听到过……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何かを‥‥運んでいるようだが‥‥。)[%p]
+ZH [name]拓也[line](（好像……在搬运着什么……。）。)[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line](向こうの土蔵へ、行ったみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（似乎走去了对面的仓库……。）。)[%p]
+
+JA [name]たくや[line](いったい誰が‥‥。)[%p]
+ZH [name]拓也[line](究竟是谁……。)[%p]
+
+JA [name]女性の声[line]《‥‥だわ‥‥。》[%p]
+ZH [name]女性的声音[line]《……的呢……。》[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]女性の声[line]《‥‥お母様‥‥あなたがいけないのです‥‥。》[%p]
+ZH [name]女性的声音[line]《……妈……是你的错……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か‥‥話しているみたいだ。)[%p]
+ZH [name]拓也[line](（似乎……在谈论些什么。）。)[%p]
+
+JA [name]たくや[line](もう少し、様子を見よう‥‥。)[%p]
+ZH [name]拓也[line](（再稍微看下情况吧……。）。)[%p]
+
+JA [name]女性の声[line]《あなたは異常ではなかった‥‥異常者のフリをしていたのですね‥‥。》[%p]
+ZH [name]女性的声音[line]《你并没有异常……只是装作异常者而已……。》[%p]
+
+JA [name]女性の声[line]《この日記帳が‥‥いけなかったのよ‥‥。》[%p]
+ZH [name]女性的声音[line]《这本日记本……的错……。》[%p]
+
+JA [name]女性の声[line]《お母様はこれを読んで‥‥知ってしまったのね‥‥‥。》[%p]
+ZH [name]女性的声音[line]《妈妈就是看了这个……才知道的……。》[%p]
+
+JA [name]女性の声[line]《あれに気付いてしまった‥‥だから‥‥。》[%p]
+ZH [name]女性的声音[line]《因为被那个察觉到了……所以……。》[%p]
+
+JA [name]女性の声[line]《気付かなければ、あと十年は長生きできたのに‥‥。》[%p]
+ZH [name]女性的声音[line]《要是没被察觉到的话，明明还能活上十年……。》[%p]
+
+JA [name]女性の声[line]《お母様が悪いんだわ‥‥。》[%p]
+ZH [name]女性的声音[line]《都是妈妈的错……。》[%p]
+
+JA [name]女性の声[line]《うっ‥‥頭が痛い‥‥割れるよう‥‥。》[%p]
+ZH [name]女性的声音[line]《呜……头好痛……仿佛要裂开似的……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、扉の向こう側で、何をしているんだ‥‥?)[%p]
+ZH [name]拓也[line](（到底，在门的对面一侧，做些什么呢……？）)[%p]
+
+JA [name]たくや[line](喋っているみたいだが‥‥もう1人の気配がしない。)[%p]
+ZH [name]拓也[line](（似乎是在交谈……但却没有另一个人的气息。）。)[%p]
+
+JA [name]たくや[line](まさか、ずっと独り言を喋っているのか‥‥?)[%p]
+ZH [name]拓也[line](（难道，一直在自言自语么……？）)[%p]
+
+JA [name]女性の声[line]《お母様‥‥私は‥‥うっ‥‥。》[%p]
+ZH [name]女性的声音[line]《妈妈……我……呜……。》[%p]
+
+JA [name]女性の声[line]《頭が割れる‥‥よう‥‥。》[%p]
+ZH [name]女性的声音[line]《头要裂开……似的……。》[%p]
+
+JA [name]女性の声[line]《せめて‥‥これだけでも‥‥先生の日記帳だけでも‥‥。》[%p]
+ZH [name]女性的声音[line]《至少……只有这个……只有老师的笔记也好……。》[%p]
+
+JA [name]女性の声[line]《彼に見せられれば‥‥‥‥。》[%p]
+ZH [name]女性的声音[line]《让他看看的话…………。》[%p]
+
+JA [name]女性の声[line]《あぁぁぁぁっ! たくや!! 私を助けてっ!!》[%p]
+ZH [name]女性的声音[line]《啊啊啊啊啊！　拓也！！救救我！！》[%p]
+
+JA [name]たくや[line](‥‥!?)[%p]
+ZH [name]拓也[line](……！？)[%p]
+
+JA [name]たくや[line](俺の名前を‥‥!?)[%p]
+ZH [name]拓也[line](（我的名字……！？）)[%p]
+
+JA [name]たくや[line]しまった!?[%p]
+ZH [name]拓也[line]糟了！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]音がしたということは、扉が開いたってことだ‥‥。[%p]
+ZH [name]拓也[line]发出了声音也就是说，门打开了么……。[%p]
+
+JA [name]たくや[line]よし、後をすぐに追いかけ‥‥
+ZH [name]拓也[line]好，快点追在后面……
+
+JA ん?[%p]
+ZH 嗯？[%p]
+
+JA [name]たくや[line]よし、後をすぐに追いかけ‥‥ん?
+ZH [name]拓也[line]好，快点追在后面……嗯？
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]なんだ、あれは。[%p]
+ZH [name]拓也[line]那是什么。[%p]
+
+JA [name]たくや[line]あそこに‥‥なにか‥‥‥‥。[%p]
+ZH [name]拓也[line]那里……有什么…………。[%p]
+
+JA [name]たくや[line]まさか‥‥‥‥。[%p]
+ZH [name]拓也[line]难道…………。[%p]
+
+JA [name]たくや[line]!!!!??[%p]
+ZH [name]拓也[line]!!!!??[%p]
+
+JA [name]たくや[line]この婆ちゃん‥‥確か、龍蔵寺の母親‥‥?[%p]
+ZH [name]拓也[line]这个婆婆……我记得是，龙藏寺的母亲……？[%p]
+
+JA [name]たくや[line]死んでるぞ!![%p]
+ZH [name]拓也[line]死了！！[%p]
+
+JA [name]たくや[line]いったい‥‥誰が‥‥‥‥。[%p]
+ZH [name]拓也[line]到底……被谁…………。[%p]
+
+JA [name]たくや[line](ギクッ!)[%p]
+ZH [name]拓也[line](一惊！)[%p]
+
+JA [name]たくや[line]なんだ、どうした!?[%p]
+ZH [name]拓也[line]什么，怎么了！？[%p]
+
+JA [name]たくや[line]足音だ!‥‥外から音が聴こえてきたぞ。[%p]
+ZH [name]拓也[line]脚步声！……从外面听到了声音。[%p]
+
+JA [name]たくや[line]まさか、さっきの女性か‥‥?[%p]
+ZH [name]拓也[line]难道，是刚才的女性么……？[%p]
+
+JA [name]たくや[line]‥‥誰か、土蔵の外にいたんだっ!![%p]
+ZH [name]拓也[line]……有人，在仓库的外面！！[%p]
+
+JA [name]たくや[line]そして、中を見て、慌てて去っていった‥‥。[%p]
+ZH [name]拓也[line]并且，看了里面，慌慌张张地跑了……。[%p]
+
+JA [name]たくや[line]慌てて逃げていった感じだが‥‥とにかく外へ出よう![%p]
+ZH [name]拓也[line]虽然感觉是慌慌张张逃跑了……总之先到外面吧！[%p]
+
+JA [name]たくや[line]音の出所を探すのが先だ‥‥。[%p]
+ZH [name]拓也[line]先找出声音的出处……。[%p]
+
+JA [name]たくや[line]ちょっと待ってくれ。今は音の出所を探しているんだ‥‥。[%p]
+ZH [name]拓也[line]稍微等下。现在正在找声音的出处……。[%p]
+
+JA [name]たくや[line]あの音はどこから聴こえてきたんだろう‥‥?[%p]
+ZH [name]拓也[line]那个声音是从哪里听到的……？[%p]
+
+JA [name]たくや[line]このドアの向こうに、誰かいるのかも知れない‥‥。[%p]
+ZH [name]拓也[line]这扇门的对面，也许有谁在也说不定……。[%p]
+
+JA [name]たくや[line]そうだ、この向こう側から音がしたような気がする‥‥。[%p]
+ZH [name]拓也[line]对了，感觉是从对面方向发出的声音……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰か‥‥いるのかも知れない‥‥。[%p]
+ZH [name]拓也[line]有谁……在也说不定……。[%p]
+
+JA [name]たくや[line]違う‥‥柱じゃない。[%p]
+ZH [name]拓也[line]不对……不是柱子那边。[%p]
+
+JA [name]たくや[line]土蔵を支えている柱だな‥‥。[%p]
+ZH [name]拓也[line]支撑着仓库的柱子……。[%p]
+
+JA [name]たくや[line]まさか、柱の中から聴こえてきた訳じゃないだろう‥‥。[%p]
+ZH [name]拓也[line]怎么会，不可能是从柱子里听到的吧……。[%p]
+
+JA [name]たくや[line]いったい、あの音はどこから聴こえてきたんだ?[%p]
+ZH [name]拓也[line]到底，那个声音是从哪里听到的？[%p]
+
+JA [name]たくや[line]古い机だな‥‥もうガタがきているみたいだ。[%p]
+ZH [name]拓也[line]很旧的桌子……看起来已经七扭八歪了。[%p]
+
+JA [name]たくや[line]時代物って感じだな‥‥装飾が彫ってあるみたいだ。[%p]
+ZH [name]拓也[line]JF:感觉是时代物……好像雕刻着装饰。[%p]
+
+JA [name]たくや[line]角なんかはもうボロボロだ‥‥随分前の机らしい。[%p]
+ZH [name]拓也[line]边角什么的已经剥落了……似乎是很久以前的桌子了。[%p]
+
+JA [name]たくや[line]音はそこから聴こえてきたんじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]声音不是从那边听到的……。[%p]
+
+JA [name]たくや[line]‥‥こいつは今、関係ないな。[%p]
+ZH [name]拓也[line]……这家伙现在，没有关系。[%p]
+
+JA [name]たくや[line]本だよ‥‥もう読む必要はないぜ。[%p]
+ZH [name]拓也[line]书呢……已经没有读的必要了。[%p]
+
+JA [name]たくや[line]こいつを読んでいて、うとうとしてしまったんだ‥‥。[%p]
+ZH [name]拓也[line]看书的话，又会迷迷糊糊……。[%p]
+
+JA [name]たくや[line]クワだよ‥‥。[%p]
+ZH [name]拓也[line]是锄头呢……。[%p]
+
+JA [name]たくや[line]サビたクワだな‥‥。[%p]
+ZH [name]拓也[line]生锈的锄头……。[%p]
+
+JA [name]たくや[line]今は関係ないと思うが‥‥。[%p]
+ZH [name]拓也[line]我觉得跟现在没有关系……。[%p]
+
+JA [name]たくや[line]カベの中からじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]不是从墙壁里面……。[%p]
+
+JA [name]たくや[line]ここだけ、やけに白い壁だな‥‥。[%p]
+ZH [name]拓也[line]只有这里，墙壁特别白……。[%p]
+
+JA [name]たくや[line]まさかこの中から音が‥‥。[%p]
+ZH [name]拓也[line]难道是从这里面传出声音么……。[%p]
+
+JA [name]たくや[line]‥‥んなわけないか。黒猫じゃあるまいし‥‥。[%p]
+ZH [name]拓也[line]……怎么可能。又不是黑猫……。[%p]
+
+JA [name]たくや[line]ロープだな‥‥取るのか?[%p]
+ZH [name]拓也[line]绳子呢……要取下么？[%p]
+
+JA [color index="840000"][ロープ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:得到了。
+
+JA [color index="840000"][ロープ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]ロープが掛かっていた場所だな‥‥。[%p]
+ZH [name]拓也[line]（挂着绳子的地方……。）。[%p]
+
+JA [name]たくや[line]今はもう、掛かっていない‥‥。[%p]
+ZH [name]拓也[line]现在，已经没有挂着了……。[%p]
+
+JA [name]たくや[line]頑丈そうなロープだ‥‥。[%p]
+ZH [name]拓也[line]看起来挺结实的绳子……。[%p]
+
+JA [name]たくや[line]取ろうと思えば取れるが、今は必要の無いものだな‥‥。[%p]
+ZH [name]拓也[line]想要取下的话就能取下，但现在没有必要……。[%p]
+
+JA [name]たくや[line]違う、そこからじゃない。[%p]
+ZH [name]拓也[line]不对，不是从那里传来。[%p]
+
+JA [name]たくや[line]あの音は‥‥‥‥。[%p]
+ZH [name]拓也[line]那个声音是…………。[%p]
+
+JA [name]たくや[line]どこから聴こえてきたんだ‥‥あの音は。[%p]
+ZH [name]拓也[line]从哪里听到的呢……那个声音。[%p]
+
+JA [name]たくや[line]外には出られない‥‥カギがかかっているんだ。[%p]
+ZH [name]拓也[line]出不去外面……锁上了。[%p]
+
+JA [name]たくや[line]カギがかかってるな、相変わらず‥‥。[%p]
+ZH [name]拓也[line]锁上了，跟往常一样……。[%p]
+
+JA [name]たくや[line]つまり外には出られないということだ。[%p]
+ZH [name]拓也[line]也就是无法出去外面。[%p]
+
+JA 
+ZH 
+

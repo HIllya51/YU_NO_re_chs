@@ -1,0 +1,27 @@
+JA [name]たくや[line]‥‥俺は何で戻ってきたんだ?[%p]
+ZH [name]拓也[line]……我为什么又回来了呢？[%p]
+
+JA [name]たくや[line]香織さんは、ここにはいないぜ‥‥。[%p]
+ZH [name]拓也[line]香织，不在这里呢……。[%p]
+
+JA [name]たくや[line]香織さんは‥‥。[%p]
+ZH [name]拓也[line]香织是……。[%p]
+
+JA [name]たくや[line]1時間も過ぎているんだ‥‥いないかな、やっぱり。[%p]
+ZH [name]拓也[line]都已经过了１个小时了……不在啊，果然。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]客の入りは、中くらいって感じだが‥‥。[%p]
+ZH [name]拓也[line]进出的顾客，给人很普通的感觉……。[%p]
+
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]俺の知っている人は、誰もいないみたいだな。[%p]
+ZH [name]拓也[line]我认识的人，貌似谁都不在啊。[%p]
+
+JA 
+ZH 
+

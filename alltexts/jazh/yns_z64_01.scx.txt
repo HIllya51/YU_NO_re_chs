@@ -1,0 +1,636 @@
+JA [name]たくや[line]酷い傷だ‥‥。[%p]
+ZH [name]拓也[line]JF:很严重的伤。[%p]
+
+JA [name]たくや[line]誰だが知らないが、手当してみようぜ。[%p]
+ZH [name]拓也[line]JF:虽然不知道是谁，但还是津贴一下吧。[%p]
+
+JA [name]たくや[line]室内は灼熱地獄って感じだ‥‥。[%p]
+ZH [name]拓也[line]室内感觉像是在灼热的地狱……。[%p]
+
+JA [name]たくや[line]ま、3日目にもなると、少しは慣れたけどね‥‥。[%p]
+ZH [name]拓也[line]算了，都已经到第３天了，也开始有些习惯了……。[%p]
+
+JA [name]たくや[line]今は昼間だから、太陽がジリジリと室内を焼いているぜ‥‥。[%p]
+ZH [name]拓也[line]现在是白天，所以太阳火辣辣地照射在室内……。[%p]
+
+JA [name]たくや[line]目の前の女性にも、太陽の光が容赦なく降り注いでいる‥‥。[%p]
+ZH [name]拓也[line]眼前的女性，也被阳光毫不留情地暴晒着……。[%p]
+
+JA [name]たくや[line]独房の中だよ‥‥。[%p]
+ZH [name]拓也[line]单人牢房的里面……。[%p]
+
+JA [name]たくや[line]この3日間、ずっとここで暮らしていたんだからな‥‥。[%p]
+ZH [name]拓也[line]在这３天中，我可是一直生活在这小房子里啊……。[%p]
+
+JA [name]たくや[line]さっきの水で、少し元気が出たが‥‥。[%p]
+ZH [name]拓也[line]由于刚才的水，稍微恢复了点精神……。[%p]
+
+JA [name]たくや[line]いったいこの女性は‥‥何者なんだろう。[%p]
+ZH [name]拓也[line]这个女性……到底是什么人呢。[%p]
+
+JA [name]たくや[line]少なくとも、俺は彼女のことを知らない‥‥。[%p]
+ZH [name]拓也[line]至少，我是不认识她的……。[%p]
+
+JA [name]たくや[line]俺の仲間らしい‥‥確かそう言っていたよな。[%p]
+ZH [name]拓也[line]据说是我的同伴……我记得胖子是这么说的。[%p]
+
+JA [name]たくや[line]‥‥その他にも、確か‥‥。[%p]
+ZH [name]拓也[line]……好像，还说了别的……。[%p]
+
+JA [name]たくや[line]そうだ、俺の後ろで糸を引いている人物とか、そんな言い方をしていた‥‥。[%p]
+ZH [name]拓也[line]对了，什么在我背后扯线的人物，好像是说了这样一些话……。[%p]
+
+JA [name]たくや[line]訳がわからないな‥‥。[%p]
+ZH [name]拓也[line]完全搞不懂啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あのデブ野郎に言わせると、俺の仲間らしいぜ‥‥。[%p]
+ZH [name]拓也[line]据那个死胖子所说，她好像是我的同伴呢……。[%p]
+
+JA [name]たくや[line]だが、俺はこの女性を知らない‥‥。[%p]
+ZH [name]拓也[line]但是，我不认识这个女性……。[%p]
+
+JA [name]たくや[line]いったい、誰なんだ‥‥?[%p]
+ZH [name]拓也[line]到底，是什么人呢……？[%p]
+
+JA [name]たくや[line]誰だろう‥‥この女性は。[%p]
+ZH [name]拓也[line]是谁呢……这个女性。[%p]
+
+JA [name]たくや[line]赤毛の女性だな‥‥傷ついていなければ、可愛らしいんだろうけど。[%p]
+ZH [name]拓也[line]一个红头发的女性……要是没有受伤的话，应该会挺可爱的吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]傷は骨にまで達していない‥‥不幸中の幸いだな。[%p]
+ZH [name]拓也[line]还好没有伤到骨头……真是不幸中的万幸啊。[%p]
+
+JA [name]たくや[line]傷は、骨にまでは達していない‥‥。[%p]
+ZH [name]拓也[line]伤口，没有伤到骨头……。[%p]
+
+JA [name]たくや[line]不幸中の幸い‥‥って言うんだろうか?[%p]
+ZH [name]拓也[line]不幸中的万幸……应该可以这么说吧？[%p]
+
+JA [name]たくや[line]とにかく、酷い傷には違いない‥‥。[%p]
+ZH [name]拓也[line]总而言之，伤得很严重是没错的……。[%p]
+
+JA [name]たくや[line]かなり酷い傷だ‥‥。[%p]
+ZH [name]拓也[line]相当严重的伤口……。[%p]
+
+JA [name]たくや[line]早く手当をしないと。[%p]
+ZH [name]拓也[line]要是不给她处理的话。[%p]
+
+JA [name]たくや[line]とりあえず、俺の上着を破いて、包帯がわりにするか‥‥。[%p]
+ZH [name]拓也[line]姑且，先把我的上衣扯破，作为绷带来使用吧……。[%p]
+
+JA [name]たくや[line]あっ‥‥顔にまで傷がある。[%p]
+ZH [name]拓也[line]啊……连脸上都有伤口。[%p]
+
+JA [name]たくや[line]しかし本当に酷いぜ、これは‥‥。[%p]
+ZH [name]拓也[line]不过真的很严重呢，这情况……。[%p]
+
+JA [name]たくや[line]血が服に、べっとりくっついてるところもある‥‥。[%p]
+ZH [name]拓也[line]衣服上都是血，有些部位甚至都粘连在身上了……。[%p]
+
+JA [name]たくや[line]このままじゃ、結構ヤバいんじゃないか‥‥?[%p]
+ZH [name]拓也[line]再这样下去的话，不是会变得很糟糕吗……？[%p]
+
+JA [name]たくや[line]手当をしようにも‥‥。[%p]
+ZH [name]拓也[line]就算帮她处理了也……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]身体中、アザと傷だな‥‥。[%p]
+ZH [name]拓也[line]身体上，有瘀痕和伤口……。[%p]
+
+JA [name]たくや[line]何とか、手当できないだろうか‥‥?[%p]
+ZH [name]拓也[line]不能想个办法，帮她处理一下吗……？[%p]
+
+JA [name]たくや[line]身体中‥‥傷だらけじゃないか。[%p]
+ZH [name]拓也[line]身体上……不全都是伤口吗。[%p]
+
+JA [name]たくや[line]ミミズばれってやつだ‥‥あのデブ野郎のムチでやられたのか。[%p]
+ZH [name]拓也[line]这里应该是鞭痕……是那个死胖子用鞭子抽的吧。[%p]
+
+JA [name]たくや[line]くそっ、ひでぇことしやがる‥‥。[%p]
+ZH [name]拓也[line]可恶，实在是太过分了吧……。[%p]
+
+JA [name]たくや[line]胸まで、ムチで打たれた跡がある‥‥。[%p]
+ZH [name]拓也[line]就连胸上，都有鞭子抽打留下的痕迹……。[%p]
+
+JA [name]たくや[line]ひでぇことをしやがるな‥‥あのデブ野郎め。[%p]
+ZH [name]拓也[line]实在是太过分了啊……那个混蛋死胖子。[%p]
+
+JA [name]たくや[line]女性の胸でときめく歳でもないぜ‥‥。[%p]
+ZH [name]拓也[line]已经不是看着女性胸部心跳的年纪了……。[%p]
+
+JA [name]たくや[line]‥‥と理屈でわかっていても、ときめいてしまう。[%p]
+ZH [name]拓也[line]……道理我虽然懂，不过还是会心跳的。[%p]
+
+JA [name]たくや[line]やはり、これがなくては人類の種の保存はなされない‥‥。[%p]
+ZH [name]拓也[line]果然，要是没有这样的话人类是无法传宗接代下去的……。[%p]
+
+JA [name]たくや[line]‥‥などと考えている場合じゃない![%p]
+ZH [name]拓也[line]……现在可不是想着这些东西的时候！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥はっ。[%p]
+ZH [name]拓也[line]……哈。[%p]
+
+JA [name]たくや[line]そ、そんなところを見ている場合じゃなかった‥‥。[%p]
+ZH [name]拓也[line]现，现在可不是看着那种地方的时候……。[%p]
+
+JA [name]たくや[line]まったく、俺も疲れてるのかな‥‥。[%p]
+ZH [name]拓也[line]真是的，我也已经够累的了吧……。[%p]
+
+JA [name]たくや[line]下着を見るよりも他にあるだろう。[%p]
+ZH [name]拓也[line]比起看着内衣应该还有别的事情吧。[%p]
+
+JA [name]たくや[line]だから、下着だよ‥‥パンツだな。[%p]
+ZH [name]拓也[line]JF:所以，是内衣……是内裤啊。[%p]
+
+JA [name]たくや[line]これがどうかしたか?[%p]
+ZH [name]拓也[line]这东西要怎么办？[%p]
+
+JA [name]たくや[line]当然、下着くらいは身につけるよな‥‥。[%p]
+ZH [name]拓也[line]当然，内衣什么的是穿在身上的……。[%p]
+
+JA [name]たくや[line]赤毛の女性だな‥‥。[%p]
+ZH [name]拓也[line]一个红发的女性……。[%p]
+
+JA [name]たくや[line]柔らかい髪の毛だ‥‥。[%p]
+ZH [name]拓也[line]好柔软的头发啊……。[%p]
+
+JA [name]女性[line]ん‥‥‥‥。[%p]
+ZH [name]女性[line]嗯…………。[%p]
+
+JA [name]たくや[line]柔らかい髪の毛だ‥‥。[%p]
+ZH [name]拓也[line]好柔软的头发啊……。[%p]
+
+JA [name]たくや[line]結構可愛い胸だ‥‥。[%p]
+ZH [name]拓也[line]相当可爱的胸部……。[%p]
+
+JA [name]たくや[line]だが、今は胸を凝視しているときじゃない‥‥。[%p]
+ZH [name]拓也[line]不过，现在可不是凝视着胸部的时候……。[%p]
+
+JA [name]たくや[line]可愛らしい胸だな‥‥。[%p]
+ZH [name]拓也[line]真是好可爱的胸啊……。[%p]
+
+JA [name]たくや[line]‥‥などと見ている場合じゃなくて![%p]
+ZH [name]拓也[line]……现在可不是看着那些地方的时候！[%p]
+
+JA [name]たくや[line]大丈夫だよ、まだ息はある‥‥。[%p]
+ZH [name]拓也[line]没问题的，她还有呼吸呢……。[%p]
+
+JA [name]たくや[line]その確認は、もうしたぜ‥‥。[%p]
+ZH [name]拓也[line]关于这点，已经得到确认了……。[%p]
+
+JA もみもみもみ。[%p]
+ZH 搓揉搓揉搓揉。[%p]
+
+JA [name]たくや[line]‥‥なんてできる訳ないだろう。[%p]
+ZH [name]拓也[line]……这种事现在是干不出来的吧。[%p]
+
+JA [name]たくや[line]真面目にやれよ‥‥目の前の女性は死にそうなんだぞ。[%p]
+ZH [name]拓也[line]给我认真点啊……眼前的女性好像就快要死了呢。[%p]
+
+JA ぷにっ、ぷにっ‥‥。[%p]
+ZH 噗尼，噗尼……。[%p]
+
+JA [name]女性[line]んん‥‥。[%p]
+ZH [name]女性[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]大丈夫だ、まだ息はある。[%p]
+ZH [name]拓也[line]没问题，她还有呼吸呢。[%p]
+
+JA ぷにっ。[%p]
+ZH 噗尼。[%p]
+
+JA [name]女性[line]ん‥‥。[%p]
+ZH [name]女性[line]嗯……。[%p]
+
+JA [name]たくや[line]よし、生きてる。[%p]
+ZH [name]拓也[line]很好，她还活着。[%p]
+
+JA [name]たくや[line]そうだな‥‥下半身も、ちゃんと‥‥。[%p]
+ZH [name]拓也[line]对啊……下半身，也要好好地……。[%p]
+
+JA [name]たくや[line]水がもうないな‥‥くそっ。[%p]
+ZH [name]拓也[line]水已经没有了啊……可恶。[%p]
+
+JA [name]たくや[line]とりあえず、傷口を綺麗にして‥‥あとは包帯でも巻けばOKだ。[%p]
+ZH [name]拓也[line]总之，先把伤口清理干净……然后再用绷带什么的抱起来就ＯＫ了。[%p]
+
+JA [name]たくや[line]包帯か‥‥そんな気の利いたモンはないしな。[%p]
+ZH [name]拓也[line]绷带吗……没有这么方便的东西啊。[%p]
+
+JA [name]たくや[line]しょうがない‥‥俺の上着を破って、そいつを巻いておこう。[%p]
+ZH [name]拓也[line]没办法……撕破我的上衣，把伤口包起来吧。[%p]
+
+JA [name]たくや[line]無いよりはマシだからな‥‥。[%p]
+ZH [name]拓也[line]比起没有总要好多了吧……。[%p]
+
+JA [name]女性[line]んん‥‥‥‥。[%p]
+ZH [name]女性[line]（嗯嗯…………。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あのデブ野郎は、この女性を俺の仲間とか、そんな風に言っていたな‥‥。[%p]
+ZH [name]拓也[line]那个死胖子，居然说这女人是我的同伴什么的话……。[%p]
+
+JA [name]たくや[line]いや‥‥俺の後ろで糸を引いていたとか、何だか訳のわからないことを言っていたぞ。[%p]
+ZH [name]拓也[line]不……他说是她在我身后扯线操纵什么的，简直不知所谓。[%p]
+
+JA [name]たくや[line]なぜ、仲間なんだろう‥‥?[%p]
+ZH [name]拓也[line]为什么，会是我的同伴……？[%p]
+
+JA [name]たくや[line]いや‥‥正確には、なぜ仲間と見なしたのか、と言うべきか。[%p]
+ZH [name]拓也[line]不……准确地来说，为什么会认为她是我的同伴，应该这么说。[%p]
+
+JA [name]たくや[line]あのデブ野郎にとって、この女性と俺は、同列に見なす何かがあるってことか‥‥。[%p]
+ZH [name]拓也[line]在那个死胖子看来，这个女性和我之间，应该是有某种关联会被看做同一类人吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]それに‥‥こんな仕打ちをするってことは、それなりの理由があるはずだ。[%p]
+ZH [name]拓也[line]而且……既然做出了这种行为，应该是有其相应的理由的。[%p]
+
+JA [name]たくや[line]‥‥そうだ、確かこんな風に言っていたぞ。[%p]
+ZH [name]拓也[line]……对了，我记得他是这么说的。[%p]
+
+JA [name]たくや[line]まだ、訊きたいことがあると‥‥。[%p]
+ZH [name]拓也[line]还有想要打听的事……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いったい、この女性はどういう人物なんだろう‥‥。[%p]
+ZH [name]拓也[line]这个女性，到底是什么人呢……。[%p]
+
+JA [name]たくや[line]とにかくだ、俺の上着でも破って、この女性の手当に使おう‥‥。[%p]
+ZH [name]拓也[line]总而言之，先撕破我的上衣，给这个女性治疗一下吧……。[%p]
+
+JA [name]たくや[line]ただし、問題もある‥‥。[%p]
+ZH [name]拓也[line]只不过，还有个问题……。[%p]
+
+JA [name]たくや[line]そう、この女性の体力が持つかどうかだな‥‥。[%p]
+ZH [name]拓也[line]对了，这个女性是不是还有体力呢……。[%p]
+
+JA [name]たくや[line]この灼熱地獄がすぎれば、極寒の世界が‥‥。[%p]
+ZH [name]拓也[line]过了这个灼热地狱之后，又是极寒的世界……。[%p]
+
+JA [name]たくや[line]この過酷な独房の環境に、耐えられるんだろうか‥‥。[%p]
+ZH [name]拓也[line]在这种极度严酷的单人牢房环境下，她能否承受住呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、手当だけでもしておこう‥‥。[%p]
+ZH [name]拓也[line]总而言之，就先给她做一下治疗吧……。[%p]
+
+JA [name]たくや[line]あとは、この女性次第だな‥‥。[%p]
+ZH [name]拓也[line]接下来，就看她自己的了……。[%p]
+
+JA [name]たくや[line]とりあえず、彼女と話をしてみたい‥‥。[%p]
+ZH [name]拓也[line]总之，我还是想跟她谈一谈……。[%p]
+
+JA [name]たくや[line]容態が落ち着くまで、看病をしてみるか‥‥。
+ZH [name]拓也[line]在情况好转之前，先照看着她吧……。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](‥‥ん?)[%p]
+ZH [name]拓也[line](（……嗯？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か、音がしたような‥‥。)[%p]
+ZH [name]拓也[line](（好像，有什么噪音……。）。)[%p]
+
+JA [name]声[line]‥‥さむ‥‥い‥‥‥‥。[%p]
+ZH [name]声音[line]……好……冷…………。[%p]
+
+JA [name]たくや[line](また、した‥‥。)[%p]
+ZH [name]拓也[line](（又听到了……。）。)[%p]
+
+JA [name]たくや[line](音じゃない‥‥声だ‥‥。)[%p]
+ZH [name]拓也[line](（不是噪音……是说话声……。）。)[%p]
+
+JA [name]声[line]ゴホッ、ゴホッ‥‥。[%p]
+ZH [name]声音[line]咳咯，咳咯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]夜だ‥‥。[%p]
+ZH [name]拓也[line]夜晚……。[%p]
+
+JA [name]たくや[line]相変わらず、冷え冷えとしている‥‥。[%p]
+ZH [name]拓也[line]还是一如既往，冷得彻骨啊……。[%p]
+
+JA [name]たくや[line]ははは‥‥初日ほどの辛さはないな‥‥。[%p]
+ZH [name]拓也[line]哈哈哈……已经没有第一天那么难熬了……。[%p]
+
+JA [name]たくや[line]辛くない訳じゃない。ただ、死ぬほど辛い訳でもない‥‥。[%p]
+ZH [name]拓也[line]也不是说不难受。不过，已经没有冷到想死的程度了……。[%p]
+
+JA [name]たくや[line]人間の環境適応能力ってのは、凄いモンがあるぜ‥‥ははは。[%p]
+ZH [name]拓也[line]这就是人类适应环境的能力了，真是了不起啊……哈哈哈。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうか‥‥眠ってしまったんだな、俺は。[%p]
+ZH [name]拓也[line]对了……我刚才已经睡着了啊。[%p]
+
+JA [name]たくや[line]ずっとあの女性の看病をして‥‥そして‥‥。[%p]
+ZH [name]拓也[line]一直都在照看这个女性……然后……。[%p]
+
+JA [name]たくや[line]女‥‥?[%p]
+ZH [name]拓也[line]女……？[%p]
+
+JA [name]たくや[line]あれ‥‥? 何だか、見当たらないぞ‥‥。[%p]
+ZH [name]拓也[line]咦……？　感觉，好像没看到了呢……。[%p]
+
+JA [name]たくや[line]どこへ行ったんだ‥‥?[%p]
+ZH [name]拓也[line]去哪里了‥‥？[%p]
+
+JA [name]声[line]ここだよ‥‥。[%p]
+ZH [name]声音[line]在这里……。[%p]
+
+JA [name]女性[line]ここは‥‥?[%p]
+ZH [name]女性[line]这里是……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]女性[line]ここは‥‥どこだ?[%p]
+ZH [name]女性[line]这是……什么地方？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]女性[line]誰だ、お前は?[%p]
+ZH [name]女性[line]你，是谁？[%p]
+
+JA [name]たくや[line]‥‥俺かい?[%p]
+ZH [name]拓也[line]……问我吗？[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]しかし、大した体力だな。この独房内で、体力回復ができるなんて。[%p]
+ZH [name]拓也[line]不过，你的体力还真是不错啊。在这种单人牢房，居然还能恢复体力。[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]寒いだろう、ちゃんとそこの上着をはおっておけ。[%p]
+ZH [name]拓也[line]很冷吧，你要把那边的上衣穿好啊。[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]寒すぎて、喋ることもできないか?[%p]
+ZH [name]拓也[line]实在太冷了，冻得连话都说不出来了吗？[%p]
+
+JA [name]女性[line]この手当は‥‥?[%p]
+ZH [name]女性[line]是谁包扎的……？[%p]
+
+JA [name]たくや[line]何だ、喋れるのか。[%p]
+ZH [name]拓也[line]怎么，还是能说话的嘛。[%p]
+
+JA [name]女性[line]この手当は、誰がしたんだ?[%p]
+ZH [name]女性[line]这是谁包扎的啊？[%p]
+
+JA [name]たくや[line]俺がした。[%p]
+ZH [name]拓也[line]当然是我。[%p]
+
+JA [name]女性[line]余計なことをするな、あんた‥‥。[%p]
+ZH [name]女性[line]JF:别多管闲事，你。[%p]
+
+JA [name]たくや[line]余計だったか。[%p]
+ZH [name]拓也[line]多余的事吗。[%p]
+
+JA [name]女性[line]今時、他人のためにするヤツがいるんだ。[%p]
+ZH [name]女性[line]JF:现在，有为了别人做的家伙。[%p]
+
+JA [name]たくや[line]お前にここで死なれるのも、困るんでね。[%p]
+ZH [name]拓也[line]你要是就这么死在这里的话，我会为难的。[%p]
+
+JA [name]女性[line]‥‥誰だい、あんたは?[%p]
+ZH [name]女性[line]……你是什么人？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]女性[line]‥‥黙っていちゃわからないよ。[%p]
+ZH [name]女性[line]……你不说话我可不知道哦。[%p]
+
+JA [name]たくや[line]名を訊ねるときは、まずは自分から名乗るもんだぜ。[%p]
+ZH [name]拓也[line]在问别人名字之前，首先要报上自己的名字吧。[%p]
+
+JA [name]女性[line]オレは‥‥。[%p]
+ZH [name]女性[line]俺叫……。[%p]
+
+JA [name]たくや[line]‥‥俺?[%p]
+ZH [name]拓也[line]……俺？[%p]
+
+JA [name]女性[line]オレのことだ。[%p]
+ZH [name]女性[line]就是俺啊。[%p]
+
+JA [name]たくや[line]ああ、オレね。[%p]
+ZH [name]拓也[line]啊啊，俺啊。[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]どうぞ。[%p]
+ZH [name]拓也[line]请说。[%p]
+
+JA [name]女性[line]オレは、アマンダ。[%p]
+ZH [name]女性[line]俺叫，阿曼达。[%p]
+
+JA [name]たくや[line]アマンダ‥‥か。[%p]
+ZH [name]拓也[line]阿曼达……吗。[%p]
+
+JA [name]アマンダ[line]ああ‥‥。[%p]
+ZH [name]阿曼达[line]啊啊……。[%p]
+
+JA [name]たくや[line]俺はたくやだ。[%p]
+ZH [name]拓也[line]俺叫拓也。[%p]
+
+JA [name]アマンダ[line]オレ?[%p]
+ZH [name]阿曼达[line]俺？[%p]
+
+JA [name]たくや[line]俺だ。[%p]
+ZH [name]拓也[line]是俺。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line](目の前の女性は、アマンダっていうのか‥‥。)[%p]
+ZH [name]拓也[line](（眼前的女性，是叫阿曼达啊……。）。)[%p]
+
+JA [name]たくや[line](男っぽい言葉遣いだな‥‥。)[%p]
+ZH [name]拓也[line](（用词很男性化啊……。）。)[%p]
+
+JA [name]たくや[line](でも、アマンダって名前‥‥どこかで聞いたな。)[%p]
+ZH [name]拓也[line](（不过，阿曼达这个名字……好像在哪里听过啊。）。)[%p]
+
+JA [name]たくや[line](どこだったか‥‥‥‥。)[%p]
+ZH [name]拓也[line](（是在哪里呢…………。）。)[%p]
+
+JA [name]たくや[line]上半身は、とりあえず良しとしよう‥‥。[%p]
+ZH [name]拓也[line]上半身，姑且算是处理好了……。[%p]
+
+JA [name]たくや[line]後は‥‥‥‥。[%p]
+ZH [name]拓也[line]接着…………。[%p]
+
+JA [name]たくや[line]それにしても、ひでぇ傷だな‥‥どうやったら、ここまでやれるんだ。[%p]
+ZH [name]拓也[line]不过话说回来，伤口好严重啊……要怎么样，才能伤到这种程度呢。[%p]
+
+JA [name]たくや[line]‥‥あのデブのサディスト野郎め。[%p]
+ZH [name]拓也[line]……那个可恶的虐待狂死胖子。[%p]
+
+JA [name]たくや[line]顔にまで傷をつけてやがる‥‥。[%p]
+ZH [name]拓也[line]居然连脸上都伤到了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし‥‥こんなモンか。[%p]
+ZH [name]拓也[line]好嘞……就这样吧。[%p]
+
+JA [name]たくや[line]骨折までしていないのは、幸いだったな。[%p]
+ZH [name]拓也[line]没有造成骨折，也算是万幸了。[%p]
+
+JA [name]たくや[line]綺麗にしておかないと、傷口からバイ菌が入るからな‥‥。[%p]
+ZH [name]拓也[line]要是不处理干净的话，伤口上可是会长霉菌的……。[%p]
+
+JA [name]たくや[line]傷口は綺麗に洗浄して、包帯を巻くのがいいんだ。応急処置だけどね‥‥やらないよりマシさ。[%p]
+ZH [name]拓也[line]把伤口洗干净，用绷带包起来就可以了。虽然这只是应急处理……不过比较没有总要好多了。[%p]
+
+JA [name]たくや[line]上半身はこれでよし‥‥。[%p]
+ZH [name]拓也[line]上半身这样就行了……。[%p]
+
+JA [name]たくや[line]あとは‥‥‥‥。[%p]
+ZH [name]拓也[line]接着…………。[%p]
+
+JA [name]たくや[line]そうだな‥‥身体を拭いて、傷口をケアしてやらないと。[%p]
+ZH [name]拓也[line]对了……要擦拭身体，必须要把伤口清洁干净。[%p]
+
+JA [name]女性[line]んんっ‥‥。[%p]
+ZH [name]女性[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]傷は、肉が多少そげ落とされたくらいか‥‥。[%p]
+ZH [name]拓也[line]伤口，多多少少要削掉一点肉吧……。[%p]
+
+JA [name]たくや[line]良かったっていうのも変だが、ま、骨折までには至っていない。[%p]
+ZH [name]拓也[line]虽然说太好了是有点奇怪，不过，至少没到骨折的程度还算幸运。[%p]
+
+JA [name]たくや[line]よし、傷口を洗って‥‥
+ZH [name]拓也[line]好嘞，清洗伤口吧……
+
+JA あっ。[%p]
+ZH 啊。[%p]
+
+JA [name]たくや[line]よし、傷口を洗って‥‥あっ。
+ZH [name]拓也[line]好嘞，清洗伤口吧……啊。
+
+JA [name]たくや[line]水なんて、ここにはないぞ‥‥くそっ。[%p]
+ZH [name]拓也[line]水什么的，这里没有呢……可恶。[%p]
+
+JA [name]たくや[line]しょうがない、さっきの飲み水を‥‥‥‥。[%p]
+ZH [name]拓也[line]没办法了，就把刚才的饮用水…………。[%p]
+
+JA [name]女性[line]あっ‥‥。[%p]
+ZH [name]女性[line]啊……。[%p]
+
+JA [name]たくや[line]多少しみるが、我慢してくれよな‥‥傷をこのままにしておいたら、死んじまうぜ。[%p]
+ZH [name]拓也[line]多少会有些痛，不过你要忍住啊……要是这样任由伤口放着不管的话，会死掉的。[%p]
+
+JA [name]女性[line]んん‥‥‥‥。[%p]
+ZH [name]女性[line]（嗯嗯…………。）。[%p]
+
+JA [name]たくや[line]今はもうこれ以上できることはないんじゃないか。[%p]
+ZH [name]拓也[line]JF:现在不是没有比这更好的事情了吗。[%p]
+
+JA [name]たくや[line]さてと‥‥次は‥‥。[%p]
+ZH [name]拓也[line]JF:那么……接下来。[%p]
+
+JA [name]たくや[line]そうだな‥‥傷口に触らないように‥‥気を付けて⋯身体をできるだけ綺麗に拭いてあげよう。[%p]
+ZH [name]拓也[line]JF:是啊……不要碰伤口……要小心……尽量把身体擦干净。[%p]
+
+JA [name]女性[line]んっ‥‥。[%p]
+ZH [name]女性[line]嗯……。[%p]
+
+JA [name]たくや[line]身体に血で張り付いてる部分がある‥‥くそっ。[%p]
+ZH [name]拓也[line]有一部分由于出血粘连在身体上了……可恶。[%p]
+
+JA [name]たくや[line]傷つけないように、そっと‥‥。[%p]
+ZH [name]拓也[line]千万别弄伤了，轻轻地……。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]よし。こんなもんかな。[%p]
+ZH [name]拓也[line]JF:好啊。原来是这样啊。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]頼むから、趣味に走った行動を取らないでくれよ‥‥。[%p]
+ZH [name]拓也[line]拜托了，不要让行为受到兴趣支配了啊……。[%p]
+
+JA [name]たくや[line]もう拭けるようなところはないぞ‥‥。[%p]
+ZH [name]拓也[line]JF:已经没有可以擦的地方了。[%p]
+
+JA [name]たくや[line]傷口の為に身体を拭く為だからな。決してヨコシマな気持ちなんてないぞ。[%p]
+ZH [name]拓也[line]JF:因为是为了伤口擦身体。绝对没有什么好心情。[%p]
+
+JA [name]たくや[line]‥‥って、誰に言い訳しているんだ、俺は。[%p]
+ZH [name]拓也[line]……呃，我这是在对谁解释呢。[%p]
+
+JA [name]たくや[line]ふぅ‥‥さっとやっちまおう。[%p]
+ZH [name]拓也[line]呼……总之先脱下来吧。[%p]
+
+JA [name]たくや[line]外には出られない‥‥。[%p]
+ZH [name]拓也[line]现在走不出外面……。[%p]
+
+JA [name]たくや[line]ここは独房なんだ‥‥外には出られないぜ。[%p]
+ZH [name]拓也[line]这里可是单人牢房……是走不出外面的吧。[%p]
+
+JA [name]たくや[line]とりあえず、目の前の女性が気にならないか?[%p]
+ZH [name]拓也[line]总之，难道不应该先关注眼前的女性吗？[%p]
+
+JA [name]たくや[line]おいおい‥‥そんな簡単に出られたら、苦労しないぜ。[%p]
+ZH [name]拓也[line]喂喂……要是能这么简单走出去的话，我就不用受苦了。[%p]
+
+JA 外れ[%p]
+ZH 错了[%p]
+
+JA 
+ZH 
+

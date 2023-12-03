@@ -1,0 +1,267 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここが聖地なんだろうか? 調べてみようぜ。[%p]
+ZH [name]拓也[line]JF:这里是圣地吗？我查一下吧。[%p]
+
+JA [name]たくや[line]岩山に入口みたいなのがあるぞ。調べてみないか?[%p]
+ZH [name]拓也[line]JF:岩山有入口一样的东西哦。你要不要查一下？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]中に‥‥入ってみようぜ。[%p]
+ZH [name]拓也[line]JF:进去看看吧。[%p]
+
+JA [name]たくや[line]ここが、サラの言う聖地ってとこなんだろうか‥‥。[%p]
+ZH [name]拓也[line]这里，应该就是莎拉嘴里说的圣地了吧……。[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line]大丈夫だ‥‥俺から離れるな。[%p]
+ZH [name]拓也[line]没事的……你别离开我啊。[%p]
+
+JA [name]たくや[line]‥‥あたりはシンと静まり返ってる。[%p]
+ZH [name]拓也[line]……周围真是好寂静啊。[%p]
+
+JA [name]たくや[line]ここが、サラの言う聖地というわけか‥‥。[%p]
+ZH [name]拓也[line]这里，应该就是莎拉说过的圣地了吧……。[%p]
+
+JA [name]ユーノ[line]パパ‥‥帰ろうよ、ユーノ、何だかドキドキするの。[%p]
+ZH [name]优诺[line]爸爸……我们回去吧，优诺，总觉得胆战心惊地。[%p]
+
+JA [name]たくや[line]もう少しだけだよ。もう少し調べさせてくれ。[%p]
+ZH [name]拓也[line]只要稍微看一下。再调查一下就好了。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]正面に入口みたいなのがある‥‥。[%p]
+ZH [name]拓也[line]正面有个像是入口的地方……。[%p]
+
+JA [name]たくや[line]あれ‥‥暗くて気付かなかったが。[%p]
+ZH [name]拓也[line]咦……因为太暗了完全没有发觉呢。[%p]
+
+JA [name]たくや[line]そういえば、正面に入口みたいなのがあるぞ。[%p]
+ZH [name]拓也[line]这么说起来，正面有个像是入口的地方呢。[%p]
+
+JA [name]たくや[line]あそこから‥‥入るのか?[%p]
+ZH [name]拓也[line]是从那里……进去的吗？[%p]
+
+JA [name]たくや[line]岩山をカッティングしただけって感じだが‥‥。[%p]
+ZH [name]拓也[line]感觉就像是把一座岩石山削掉做成的……。[%p]
+
+JA [name]たくや[line]どう見ても、建造物には見えないな‥‥。[%p]
+ZH [name]拓也[line]不管怎么看，也看不到建筑物啊……。[%p]
+
+JA [name]ユーノ[line]何だか、ゴツゴツ痛そうね。[%p]
+ZH [name]优诺[line]感觉，好像凹凸不平的呢。[%p]
+
+JA [name]たくや[line]ああ。岩山をカッティングしただけって感じだ‥‥。[%p]
+ZH [name]拓也[line]啊啊。感觉就像是把一座岩石山削掉做成的……。[%p]
+
+JA [name]たくや[line]目の前に見えるのは‥‥岩山?[%p]
+ZH [name]拓也[line]眼前能够看到的……是岩石山？[%p]
+
+JA [name]ユーノ[line]あれが、しんでん?[%p]
+ZH [name]优诺[line]那个，是神殿？[%p]
+
+JA [name]たくや[line]わからないが‥‥サラから聞いた話だと、そうらしい。[%p]
+ZH [name]拓也[line]我不知道……不过根据从莎拉那里听来的，应该是的。[%p]
+
+JA [name]たくや[line]石が並んでいるな‥‥。[%p]
+ZH [name]拓也[line]石头堆砌起来啊……。[%p]
+
+JA [name]たくや[line]何の意味があるのかはわからないが‥‥。[%p]
+ZH [name]拓也[line]我不知道这是否有某种意义存在……。[%p]
+
+JA [name]たくや[line]痛そうな石が並んでるな‥‥。[%p]
+ZH [name]拓也[line]凹凸不平的石头堆砌起来……。[%p]
+
+JA [name]たくや[line]まるで、目の前の神殿まで誘っているみたいだ‥‥。[%p]
+ZH [name]拓也[line]简直像是，邀请别人到眼前的神殿去呢……。[%p]
+
+JA [name]ユーノ[line]何の意味があるの?[%p]
+ZH [name]优诺[line]有什么意义的吗？[%p]
+
+JA [name]たくや[line]さあな‥‥単なる道しるべ的な意味じゃないかな。[%p]
+ZH [name]拓也[line]谁知道……应该不只是单纯路标的意义吧。[%p]
+
+JA [name]たくや[line]階段が、中へ続いているみたいだ‥‥。[%p]
+ZH [name]拓也[line]阶梯，好像一直延续到里面呢……。[%p]
+
+JA [name]たくや[line]‥‥階段、みたいだな。[%p]
+ZH [name]拓也[line]……好像，是阶梯啊。[%p]
+
+JA [name]たくや[line]中へ続いている‥‥。[%p]
+ZH [name]拓也[line]一直延伸到里面……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]階段が目の前にあるんだぜ‥‥。[%p]
+ZH [name]拓也[line]阶梯就在眼前了……。[%p]
+
+JA [name]たくや[line]上ってみないか‥‥?[%p]
+ZH [name]拓也[line]不登上去看看吗……？[%p]
+
+JA [name]たくや[line]何のためにここへ来たんだ‥‥?[%p]
+ZH [name]拓也[line]为什么会到这里来呢……？[%p]
+
+JA [name]たくや[line]もう少し、調べてみたい‥‥。[%p]
+ZH [name]拓也[line]稍微，再调查一下看看吧……。[%p]
+
+JA [name]たくや[line]ちょっと待ってくれ‥‥もう少し調べたい。[%p]
+ZH [name]拓也[line]稍微等一下……我想再调查看看。[%p]
+
+JA [name]ユーノ[line]戻ろうよ、パパ。[%p]
+ZH [name]优诺[line]我们回去吧，爸爸。[%p]
+
+JA [name]ユーノ[line]パパ! ユーノ‥‥。[%p]
+ZH [name]优诺[line]爸爸！　优诺……。[%p]
+
+JA [name]たくや[line]わかった。ユーノはここに残っているんだ。[%p]
+ZH [name]拓也[line]知道了。优诺你就留在这里吧。[%p]
+
+JA [name]ユーノ[line]えっ‥‥?[%p]
+ZH [name]优诺[line]诶……？[%p]
+
+JA [name]たくや[line]要は、中に入りたくないってことだろう?[%p]
+ZH [name]拓也[line]关键是，你不想进里面去吧？[%p]
+
+JA [name]ユーノ[line]そ、それはそうだけど‥‥でもパパは?[%p]
+ZH [name]优诺[line]话，话虽然是这么说……不过爸爸你呢？[%p]
+
+JA [name]たくや[line]大丈夫さ、ちょっと中を調べて、すぐに戻ってくる。なに、ほんの数分で済む。[%p]
+ZH [name]拓也[line]没事的，我稍微进去里面调查一下，马上就回来了。什么，只要几分钟而已哦。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]ここで待ってるんだ。何かあったら、すぐに俺を呼ぶんだ。いいな?[%p]
+ZH [name]拓也[line]你就留在这里吧。要是有什么事的话，要马上喊我啊。听到了吗？[%p]
+
+JA [name]ユーノ[line]ウ、ウン‥‥。[%p]
+ZH [name]优诺[line]（嗯、嗯‥‥）。[%p]
+
+JA [name]たくや[line]大丈夫だよ‥‥すぐに戻ってくる。[%p]
+ZH [name]拓也[line]没事的……我马上就回来了。[%p]
+
+JA [name]ユーノ[line]パパ‥‥気を付けて。[%p]
+ZH [name]优诺[line]爸爸……你要当心啊。[%p]
+
+JA [name]たくや[line]ああ。大丈夫だ。[%p]
+ZH [name]拓也[line]啊啊。没事的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](神殿、か‥‥。)[%p]
+ZH [name]拓也[line](（神殿，吗……。）。)[%p]
+
+JA [name]たくや[line](聖地という言い方をしていた‥‥。)[%p]
+ZH [name]拓也[line](（用上了圣地这个称呼……。）。)[%p]
+
+JA [name]たくや[line](いったい、中に何があるんだろうか‥‥。)[%p]
+ZH [name]拓也[line](（到底，里面有着什么样的东西呢……。）。)[%p]
+
+JA [name]たくや[line](よし、中に入るぜ‥‥。)[%p]
+ZH [name]拓也[line](（好嘞，到里面去吧……。）。)[%p]
+
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]どうしたんだよ、ユーノ。そんなに不安そうな顔をして。[%p]
+ZH [name]拓也[line]怎么了，优诺。你的表情怎么这么不安啊。[%p]
+
+JA [name]ユーノ[line]パパ‥‥中に行かない方がいいわ。[%p]
+ZH [name]优诺[line]爸爸……你还是不要进去比较好。[%p]
+
+JA [name]たくや[line]なぜ?[%p]
+ZH [name]拓也[line]为什么？[%p]
+
+JA [name]ユーノ[line]何となく‥‥そんな気がするの。[%p]
+ZH [name]优诺[line]我的心里……总有这种感觉。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]ああン‥‥ユーノ胸、ドキドキしてる。もう胸がはちきれそう。[%p]
+ZH [name]优诺[line]啊啊嗯……优诺的胸口，扑通扑通跳个不停。好像快要被撑破了。[%p]
+
+JA [name]たくや[line]ユーノ‥‥。[%p]
+ZH [name]拓也[line]优诺‥‥。[%p]
+
+JA [name]たくや[line](ユーノは、間違いなく何かを感じているんだ‥‥。)[%p]
+ZH [name]拓也[line](（优诺，绝对是感觉到什么了没错……。）。)[%p]
+
+JA [name]たくや[line](俺が認識できない、何かを感じている‥‥。)[%p]
+ZH [name]拓也[line](（我没办法理解，她对于某种事物的感觉……。）。)[%p]
+
+JA [name]たくや[line](それはいったい何だ‥‥?)[%p]
+ZH [name]拓也[line](（那究竟是怎么回事呢……？）)[%p]
+
+JA [name]たくや[line](ユーノは俺のそばで、不安を隠せないでいる‥‥。)[%p]
+ZH [name]拓也[line](（优诺在我的身边，没办法隐藏住她的不安……。）。)[%p]
+
+JA [name]たくや[line](この神殿ってやつに、いったい何があるんだろうか‥‥?)[%p]
+ZH [name]拓也[line](（在这个所谓的神殿里面，到底会有什么样的东西呢……？）)[%p]
+
+JA [name]ユーノ[line]パパ‥‥もう戻ろう![%p]
+ZH [name]优诺[line]爸爸……我们回去吧！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ユーノは、何かを感じているみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（优诺，好像感觉到什么东西了……。）。)[%p]
+
+JA [name]たくや[line](何か不安なこと‥‥。)[%p]
+ZH [name]拓也[line](（什么不安的东西……。）。)[%p]
+
+JA [name]たくや[line](いや、これは恐怖に近い感じだ‥‥。)[%p]
+ZH [name]拓也[line](（不对，应该更接近于恐怖的感觉……。）。)[%p]
+
+JA [name]たくや[line](いったい何だ、それは‥‥。)[%p]
+ZH [name]拓也[line](（那到底是什么呢……。）。)[%p]
+
+JA [name]ユーノ[line]ねぇ、パパ‥‥。[%p]
+ZH [name]优诺[line]呐，爸爸……。[%p]
+
+JA [name]たくや[line]どうした?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]ユーノ[line]ユーノ‥‥ドキドキしてきて、胸が苦しいの。[%p]
+ZH [name]优诺[line]优诺……心在扑通扑通地跳，胸口很难受啊。[%p]
+
+JA [name]たくや[line]砂漠を長い間、歩いてきたからな‥‥。[%p]
+ZH [name]拓也[line]因为长时间在沙漠上，走来的缘故吧……。[%p]
+
+JA [name]ユーノ[line]違うの‥‥そうじゃないの。[%p]
+ZH [name]优诺[line]不是的……不是那样的。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]ユーノ[line]何だか‥‥ママが死んだときと、似たような感じ。[%p]
+ZH [name]优诺[line]是感觉……跟妈妈去世的时候，相似的感觉。[%p]
+
+JA [name]たくや[line]セーレスが死んだとき‥‥?[%p]
+ZH [name]拓也[line]塞蕾斯去世的时候……？[%p]
+
+JA [name]ユーノ[line]あのときと、似ているわ‥‥何だか、ドキドキする。[%p]
+ZH [name]优诺[line]和那个时候，很相似……感觉，心在扑通扑通地跳。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ユーノは何かを感じているんだろうか?)[%p]
+ZH [name]拓也[line](（优诺应该是感觉到什么东西了吧？）)[%p]
+
+JA [name]たくや[line](だが‥‥それはいったい何だ?)[%p]
+ZH [name]拓也[line](（但是……那到底是什么呢？）)[%p]
+
+JA 
+ZH 
+

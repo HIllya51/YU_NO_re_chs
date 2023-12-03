@@ -1,0 +1,36 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]時刻は‥‥10時を少しだけまわったところだ。[%p]
+ZH [name]拓也[line]时间‥‥已经是１０点稍过一点了。[%p]
+
+JA [name]たくや[line]まだ、誰も現れていないようだな‥‥。[%p]
+ZH [name]拓也[line]还没有人现身的样子‥‥。[%p]
+
+JA [name]たくや[line]オヤジのやつ‥‥ビビって来れなくなったんじゃないだろうな。[%p]
+ZH [name]拓也[line]老头子那家伙‥‥不会害怕地不敢来了吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥また来てしまった。[%p]
+ZH [name]拓也[line]‥‥又来到这里。[%p]
+
+JA [name]たくや[line]何か、人を惹き付けるものが、ここにあるのかな‥‥。[%p]
+ZH [name]拓也[line]感觉这里有吸引人注意的东西在‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]三角山のふもと‥‥通称、[ruby-base]社[ruby-text-start]やしろ[ruby-text-end]だ。[%p]
+ZH [name]拓也[line]三角山的脚下……通称为，社（ＹＡＳＨＩＲＯ）。[%p]
+
+JA [name]たくや[line]社と言っても、神様を祭ってあるわけじゃないぜ。[%p]
+ZH [name]拓也[line]虽说称为社，但可不是祭祀神明的地方。[%p]
+
+JA [name]たくや[line]昔から、そう言われているってことだな‥‥。[%p]
+ZH [name]拓也[line]很久之前就这样叫了‥‥。[%p]
+
+JA 
+ZH 
+

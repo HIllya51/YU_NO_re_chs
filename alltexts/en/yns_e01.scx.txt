@@ -1,0 +1,8 @@
+[name]Takuya[line]I haven't been resting much in my room lately.[%p]
+[name]Takuya[line]I don't have time to rest now though.[%p]
+[name]Takuya[line]I'm back in my room.[%p]
+[name]Takuya[line]What am I going to do now?[%p]
+[name]Takuya[line]Whew⋯ It's a relief to be back in my room.[%p]
+[name]Takuya[line]What am I going to do now?[%p]
+[name]Takuya[line]I'm back in my room.[%p]
+[name]Takuya[line]What am I going to do now?[%p]

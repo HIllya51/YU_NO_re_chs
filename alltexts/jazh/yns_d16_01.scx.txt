@@ -1,0 +1,342 @@
+JA [name]たくや[line]龍蔵寺の屋敷前だ‥‥。[%p]
+ZH [name]拓也[line]龙藏寺的房子前面……。[%p]
+
+JA [name]たくや[line]ここには用事はないぜ‥‥。[%p]
+ZH [name]拓也[line]到这里来也没什么事……。[%p]
+
+JA [name]たくや[line]武家屋敷に来たぜ‥‥。[%p]
+ZH [name]拓也[line]到武士住宅来了……。[%p]
+
+JA [name]たくや[line]龍蔵寺は帰ってるだろうか‥‥?[%p]
+ZH [name]拓也[line]龙藏寺应该回来了吧……？[%p]
+
+JA [name]たくや[line]ここが龍蔵寺の屋敷ってわけか‥‥。[%p]
+ZH [name]拓也[line]这里是龙藏寺的房子……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺は、帰っているだろうか‥‥?[%p]
+ZH [name]拓也[line]龙藏寺，还没有回来吗……？[%p]
+
+JA [name]たくや[line]だがこうした緑が嫌味になっていないところが、また凄いな。[%p]
+ZH [name]拓也[line]不过能够种出像这样不会令人看厌的绿色植物，还是很厉害啊。[%p]
+
+JA [name]たくや[line]いたるところに緑が植えられているな‥‥。[%p]
+ZH [name]拓也[line]全都种满了一大片绿色植物啊……。[%p]
+
+JA [name]たくや[line]夏場は虫に泣かされそうだが‥‥。[%p]
+ZH [name]拓也[line]夏天应该会有很多虫子吧……。[%p]
+
+JA [name]たくや[line]石がタイル張りになっている‥‥コンクリの壁にはっつけてあるんだな。[%p]
+ZH [name]拓也[line]混凝土结构的墙壁上……贴着仿石瓷砖。[%p]
+
+JA [name]たくや[line]まさか石を本当に積み上げてるんじゃ‥‥。[%p]
+ZH [name]拓也[line]真是堆满了石头呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ホッ、よかった、石のタイル張りだったか。[%p]
+ZH [name]拓也[line]呵，真不错，贴着仿石瓷砖吗。[%p]
+
+JA [name]たくや[line]‥‥何をホッとしているんだ、俺は。[%p]
+ZH [name]拓也[line]……我在发什么呆啊。[%p]
+
+JA [name]たくや[line]石段ってヤツだな‥‥上ると疲れそうだ。[%p]
+ZH [name]拓也[line]家伙。[%p]
+
+JA [name]たくや[line]‥‥これも石造りか。何だか凄い屋敷だなぁ。[%p]
+ZH [name]拓也[line]……这个也是石头砌的。还真是不得了的房子啊。[%p]
+
+JA [name]たくや[line]学校へ通じる道だ‥‥これを上っていけば、学校へ行けるぜ。[%p]
+ZH [name]拓也[line]通往学校的路……从这里走上去的话，就能到学校了。[%p]
+
+JA [name]たくや[line]学校へ通じている坂道だな‥‥これを上っていくと、境町学園の校門前だ。[%p]
+ZH [name]拓也[line]通往学校的坡道……从这里走上去的话，就是境町学园的校门口了。[%p]
+
+JA [name]たくや[line]俺たちの学校は、高台に位置しているからな‥‥。[%p]
+ZH [name]拓也[line]因为我们学校，就位于高台之上……。[%p]
+
+JA [name]たくや[line]松ノ木だな‥‥この手の樹木が多く植えられているようだ。[%p]
+ZH [name]拓也[line]松树……好像种的大多是这一类树木。[%p]
+
+JA [name]たくや[line]驚いたな、松ノ木まで植えられているぞ。[%p]
+ZH [name]拓也[line]有点惊讶啊，连松树都种上去了呢。[%p]
+
+JA [name]たくや[line]しかも丁寧にカッティングまでされちゃって‥‥すげぇな。[%p]
+ZH [name]拓也[line]而且还修剪得整整齐齐……真厉害啊。[%p]
+
+JA [name]たくや[line]龍蔵寺が住んでいるという屋敷だ‥‥。[%p]
+ZH [name]拓也[line]龙藏寺住着的房子……。[%p]
+
+JA [name]たくや[line]噂の武家屋敷ってやつだ‥‥。[%p]
+ZH [name]拓也[line]传闻中的武士住宅……。[%p]
+
+JA [name]たくや[line]結城の言い分じゃ、タタリの噂、発祥の地ということらしい。[%p]
+ZH [name]拓也[line]按照结城的话来说，这里好像，是作祟神传闻的发祥地。[%p]
+
+JA [name]たくや[line]‥‥ま、これだけの屋敷じゃ無理もないか。[%p]
+ZH [name]拓也[line]……嘛，像这样子的房子也是难免的事。[%p]
+
+JA [name]たくや[line]月夜の晩だ‥‥こりゃ、すげぇハマり具合だな。[%p]
+ZH [name]拓也[line]月圆之夜……跟这里，出奇地合衬啊。[%p]
+
+JA [name]たくや[line]絵に描いたような不気味さだぜ‥‥。[%p]
+ZH [name]拓也[line]JF:就像画上的那样令人毛骨悚然。[%p]
+
+JA [name]たくや[line]月夜の晩なんかは、更に見栄えがするんだろう‥‥。[%p]
+ZH [name]拓也[line]月圆之夜，会显得分外美观吧……。[%p]
+
+JA [name]たくや[line]ちくしょう。[%p]
+ZH [name]拓也[line]可恶。[%p]
+
+JA [name]たくや[line]空もまた屋敷の外観にマッチしている‥‥。[%p]
+ZH [name]拓也[line]天空也跟这所房子的外观很合衬……。[%p]
+
+JA [name]たくや[line]環境によって、見えるモノが違ってくるってことか。[%p]
+ZH [name]拓也[line]环境不同，眼中见到的事物也会不一样吗。[%p]
+
+JA [name]たくや[line]夜になったら、更に不気味な感じがするぜ‥‥このあたりは。[%p]
+ZH [name]拓也[line]JF:到了晚上，感觉更令人毛骨悚然……这一带。[%p]
+
+JA [name]たくや[line]ここに立っていると、重厚な屋敷に圧倒されてしまうぞ。[%p]
+ZH [name]拓也[line]站在这里的话，好像会被厚重的房子压倒似的呢。[%p]
+
+JA [name]たくや[line]夜はさぞかし不気味なんだろうな、このあたりは。[%p]
+ZH [name]拓也[line]JF:晚上一定很可怕吧，这一带。[%p]
+
+JA [name]たくや[line]勝手に中には入れないぜ‥‥。[%p]
+ZH [name]拓也[line]不能随便闯进去……。[%p]
+
+JA [name]たくや[line]それよりも、俺は澪を探しているんじゃないのか?[%p]
+ZH [name]拓也[line]比起这个，我不是正在寻找澪的吗？[%p]
+
+JA [name]たくや[line]えっ‥‥だって、まだ帰って来ていないぜ。[%p]
+ZH [name]拓也[line]呃……因为，她还没有回来呢。[%p]
+
+JA [name]たくや[line]今、あの重そうな扉をノックしたばかりだ。[%p]
+ZH [name]拓也[line]现在，只能去敲敲那扇厚重的大门了。[%p]
+
+JA [name]たくや[line]しばらくしたら、また来ようぜ‥‥。[%p]
+ZH [name]拓也[line]再等一下的话，应该会来吧……。[%p]
+
+JA [name]たくや[line]もう、帰ってきているかな‥‥。[%p]
+ZH [name]拓也[line]已经，回去了吧……。[%p]
+
+JA [name]たくや[line]すみませーん![%p]
+ZH [name]拓也[line]对不起——！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]すみませーん、誰かいませんか?[%p]
+ZH [name]拓也[line]对不起——，请问有人在吗？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]あれ?[%p]
+ZH [name]拓也[line]咦？[%p]
+
+JA [name]たくや[line]誰も出ない‥‥。[%p]
+ZH [name]拓也[line]没人出来……。[%p]
+
+JA [name]たくや[line]さっきまで、あの婆ちゃんがいたと思ったんだけど‥‥。[%p]
+ZH [name]拓也[line]直到刚才，我还以为那个老婆婆会在的说……。[%p]
+
+JA [name]たくや[line]買い物にでも出かけたのかな。[%p]
+ZH [name]拓也[line]出去买东西了吧。[%p]
+
+JA [name]たくや[line]ま、いずれにせよ、龍蔵寺の屋敷には入ることができないみたいだ‥‥。[%p]
+ZH [name]拓也[line]嘛，尽管如此，龙藏寺的房子好像也进不去呢……。[%p]
+
+JA [name]たくや[line]もう、帰ってきているかな‥‥。[%p]
+ZH [name]拓也[line]已经，回去了吧……。[%p]
+
+JA [name]たくや[line]‥‥そうだ、ここは呼び鈴がなかったんだ。[%p]
+ZH [name]拓也[line]……对了，这里连个门铃都没有啊。[%p]
+
+JA [name]たくや[line]しょうがないな‥‥またまたオーソドックスにいくか。[%p]
+ZH [name]拓也[line]没办法了……还是得要堂堂正正地进去吗。[%p]
+
+JA [name]たくや[line]すみませーん![%p]
+ZH [name]拓也[line]对不起——！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここには、耳の遠い婆ちゃんがいるからな、根気強く呼び続けることが必要だ。[%p]
+ZH [name]拓也[line]这里面，住着一位耳朵不太灵光的老婆婆，看来有必要继续大声呼叫啊。[%p]
+
+JA [name]声[line]耳はまだ健在ですが‥‥。[%p]
+ZH [name]声音[line]我耳朵还是可以的……。[%p]
+
+JA [name]たくや[line]どわわっ![%p]
+ZH [name]拓也[line]哦哇哇！[%p]
+
+JA [name]老婆[line]おや、またいつぞやの坊や‥‥。[%p]
+ZH [name]老婆婆[line]哦呀，又是前些时候的小娃娃啊……。[%p]
+
+JA [name]たくや[line](いつぞやって‥‥さっき来たばかりだぞ。)[%p]
+ZH [name]拓也[line](（什么前些时候……明明刚才就有来过的说。）。)[%p]
+
+JA [name]老婆[line]息子ですかね?[%p]
+ZH [name]老婆婆[line]是找我儿子的吧？[%p]
+
+JA [name]たくや[line]は、はあ‥‥。[%p]
+ZH [name]拓也[line]是，是吗……。[%p]
+
+JA [name]老婆[line]あいにくと、まだ帰っていませんよ‥‥。[%p]
+ZH [name]老婆婆[line]恐怕，他现在还没有回来哦……。[%p]
+
+JA [name]たくや[line](まだ、か‥‥。)[%p]
+ZH [name]拓也[line](（没回来，吗……。）。)[%p]
+
+JA [name]たくや[line]わかりました、出直してきますよ。[%p]
+ZH [name]拓也[line]明白了，那我等一下再来吧。[%p]
+
+JA [name]老婆[line]そうしておくれ‥‥。[%p]
+ZH [name]老婆婆[line]那就这样吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、このへんをうろついていても、ダメだな。[%p]
+ZH [name]拓也[line]可恶，就算在这附近徘徊，也没用啊。[%p]
+
+JA [name]たくや[line]もうしばらくしたら、また来てみるか‥‥。[%p]
+ZH [name]拓也[line]再稍微等一等，看她会不会来……。[%p]
+
+JA [name]たくや[line]そうだな‥‥俺は龍蔵寺の家のタペストリーを見に来たんだった。[%p]
+ZH [name]拓也[line]JF:是啊……我是来看龙藏寺家的挂毯的。[%p]
+
+JA [name]たくや[line]誰かいるだろうか‥‥?[%p]
+ZH [name]拓也[line]有人在吗……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]呼び鈴がないぞ。いったいどうすればいいんだ。[%p]
+ZH [name]拓也[line]门铃也没有。到底应该怎么办好呢。[%p]
+
+JA [name]たくや[line]しょうがないな、オーソドックスに‥‥。[%p]
+ZH [name]拓也[line]没办法了，那就堂堂正正地……。[%p]
+
+JA [name]たくや[line]すみませーん![%p]
+ZH [name]拓也[line]对不起——！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰かいませんかーっ!?[%p]
+ZH [name]拓也[line]有人在吗——！？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]声[line]どなたかな‥‥?[%p]
+ZH [name]声音[line]是哪一位啊……？[%p]
+
+JA [name]たくや[line]どわっ![%p]
+ZH [name]拓也[line]呃哇！[%p]
+
+JA [name]老婆[line]すみませんね、よく聞こえなかったもので。[%p]
+ZH [name]老婆婆[line]对不起呢，我听得不是很清楚。[%p]
+
+JA [name]たくや[line]は、はあ‥‥。(ドキドキ‥‥。)[%p]
+ZH [name]拓也[line]哈，哈啊……。（扑通扑通……。）。)[%p]
+
+JA [name]老婆[line]で‥‥どなた様で?[%p]
+ZH [name]老婆婆[line]那么……您是哪一位啊？[%p]
+
+JA [name]たくや[line]え、ええと‥‥俺は境町学園の生徒で、龍蔵寺学長にあるモノを見せてもらうために来たのですが‥‥。[%p]
+ZH [name]拓也[line]那，那个……我是境町学园的学生，为了让龙藏寺学长去看某样东西才过来的。[%p]
+
+JA [name]老婆[line]ほうほう、息子の知り合いでしたか。[%p]
+ZH [name]老婆婆[line]呵呵，是我儿子认识的人吗。[%p]
+
+JA [name]たくや[line](息子‥‥?)[%p]
+ZH [name]拓也[line](（儿子……？）)[%p]
+
+JA [name]たくや[line](ってことは、この婆ちゃん、龍蔵寺の母親‥‥。)[%p]
+ZH [name]拓也[line](（这么说来，这位老婆婆，是龙藏寺的母亲……。）。)[%p]
+
+JA [name]老婆[line]あいにく、まだ戻ってきていないのですよ‥‥。[%p]
+ZH [name]老婆婆[line]恐怕，他现在还没有回来哦……。[%p]
+
+JA [name]たくや[line]そうですか‥‥。[%p]
+ZH [name]拓也[line]这样呀……。[%p]
+
+JA [name]たくや[line](まだ、社とかで何かを調べているんだろうか‥‥。)[%p]
+ZH [name]拓也[line](（他应该，还在社那边调查什么东西吧……。）。)[%p]
+
+JA [name]老婆[line]もう少ししたら、恐らく戻ってくるでしょう。以前と違い、やけに几帳面になりましたからねぇ‥‥。[%p]
+ZH [name]老婆婆[line]应该，再等一下就会回来了吧。他跟以前不一样，变得一丝不苟了呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]老婆[line]もう少ししたら、また来なさい。[%p]
+ZH [name]老婆婆[line]请稍微，再等一下来吧。[%p]
+
+JA [name]たくや[line]は、はあ‥‥。[%p]
+ZH [name]拓也[line]是，是吗……。[%p]
+
+JA [name]老婆[line]なにか?[%p]
+ZH [name]老婆婆[line]怎么了？[%p]
+
+JA [name]たくや[line]いえ‥‥わかりました。またあとで来ます。[%p]
+ZH [name]拓也[line]没事……我明白了。那么我等一下再来。[%p]
+
+JA [name]老婆[line]‥‥‥‥。[%p]
+ZH [name]老婆婆[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]龍蔵寺の母親か‥‥。[%p]
+ZH [name]拓也[line]龙藏寺的母亲吗……。[%p]
+
+JA [name]たくや[line]そうだな‥‥学校へ戻ろう。[%p]
+ZH [name]拓也[line]对了……回学校去吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥学校へ戻るか。[%p]
+ZH [name]拓也[line]对了……回学校去吗。[%p]
+
+JA [name]たくや[line]そうだな‥‥学校へ戻るか。[%p]
+ZH [name]拓也[line]对了……回学校去吗。[%p]
+
+JA [name]たくや[line]龍蔵寺に会ってからだ‥‥。[%p]
+ZH [name]拓也[line]要跟龙藏寺见个面……。[%p]
+
+JA [name]たくや[line]待てよ‥‥龍蔵寺の家に、タペストリーを見にきたんだろう?[%p]
+ZH [name]拓也[line]JF:等一下……你是来龙藏寺家看挂毯的吧？[%p]
+
+JA [name]たくや[line]せっかく来たんだ‥‥入ってみようぜ。[%p]
+ZH [name]拓也[line]好不容易过来了……进去看看吧。[%p]
+
+JA 
+ZH 
+

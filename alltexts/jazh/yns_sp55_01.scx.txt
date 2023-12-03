@@ -1,0 +1,39 @@
+JA [name]たくや[line]寝室だ。[%p]
+ZH [name]拓也[line]JF:是卧室。[%p]
+
+JA [name]たくや[line]キッチンの方から何やらいい匂いがするぜ。[%p]
+ZH [name]拓也[line]JF:厨房那边有什么好闻的味道。[%p]
+
+JA [name]たくや[line]気になるな‥‥この匂い。[%p]
+ZH [name]拓也[line]好在意……这个味道。[%p]
+
+JA [name]たくや[line]キッチンの方から匂ってこないか?[%p]
+ZH [name]拓也[line]从厨房传来的味道么？[%p]
+
+JA [name]たくや[line]俺が寝ていた部屋だ‥‥。[%p]
+ZH [name]拓也[line]我就寝的房间……。[%p]
+
+JA [name]たくや[line]セーレスは、どこへ行ったんだろう‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯，到哪里去了……。[%p]
+
+JA [name]たくや[line]それに、この匂い‥‥クンクン。[%p]
+ZH [name]拓也[line]而且，这个味道……嗅嗅。[%p]
+
+JA [name]たくや[line]ベッドだな‥‥昨夜はセーレスと一緒に寝ちまったんだろうか。[%p]
+ZH [name]拓也[line]是床呢……昨晚和塞蕾斯一起睡的。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]1週間前まで、アイリアが寝ていたベッド‥‥。[%p]
+ZH [name]拓也[line]直到一周前，还是艾丽娅就寝的床铺……。[%p]
+
+JA [name]たくや[line]そうだな‥‥この匂い、キッチンの方からくるみたいだ。[%p]
+ZH [name]拓也[line]对了……这个味道，好像是从厨房那里传来的。[%p]
+
+JA [name]たくや[line]よし、行ってみよう。[%p]
+ZH [name]拓也[line]好嘞，去看看吧。[%p]
+
+JA 
+ZH 
+

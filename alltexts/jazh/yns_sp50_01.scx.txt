@@ -1,0 +1,99 @@
+JA [name]たくや[line]森だ。[%p]
+ZH [name]拓也[line]JF:森林。[%p]
+
+JA [name]たくや[line]‥‥そうだ。セーレスはどこに行ったんだろう?[%p]
+ZH [name]拓也[line]JF:……是的。塞雷斯去哪里了呢？[%p]
+
+JA [name]たくや[line]‥‥もう水はたらふく飲んだぜ。[%p]
+ZH [name]拓也[line]JF:……已经喝了很多水了。[%p]
+
+JA [name]たくや[line]まだ、ここに用があるのか?[%p]
+ZH [name]拓也[line]JF:你还在这里有事吗？[%p]
+
+JA [name]たくや[line]綺麗な森だな‥‥柄にもなく、溜息が出そうだ。[%p]
+ZH [name]拓也[line]好漂亮的森林……不由得，让人心生感叹。[%p]
+
+JA [name]たくや[line]木々が生い茂っているな‥‥。[%p]
+ZH [name]拓也[line]树木繁茂‥‥。[%p]
+
+JA [name]たくや[line]葉っぱの隙間から、陽射しが洩れている‥‥。[%p]
+ZH [name]拓也[line]阳光从叶间缝隙中透了过来‥‥。[%p]
+
+JA [name]たくや[line]魚なんかは見当たらないけど‥‥。[%p]
+ZH [name]拓也[line]虽然没能找到鱼……。[%p]
+
+JA [name]たくや[line]小川だな‥‥。[%p]
+ZH [name]拓也[line]小河啊……。[%p]
+
+JA [name]たくや[line]綺麗な水が流れている‥‥。[%p]
+ZH [name]拓也[line]清澈的河水流淌着‥‥。[%p]
+
+JA [name]たくや[line]何か、妙な形の木もあるな‥‥横に曲がってるぜ。[%p]
+ZH [name]拓也[line]也有些形状奇特的树木‥‥往侧面弯曲着。[%p]
+
+JA [name]たくや[line]木があちこちに立っている‥‥。[%p]
+ZH [name]拓也[line]树木遍地都是啊……。[%p]
+
+JA [name]たくや[line]風で、木の葉がざわめいているな‥‥。[%p]
+ZH [name]拓也[line]微风吹过，树叶沙沙作响‥‥。[%p]
+
+JA [name]たくや[line]丘の上よりも、陽射しが弱いせいか、涼しい感じだ‥‥。[%p]
+ZH [name]拓也[line]比丘陵上面，阳光稍弱些，清爽宜人……。[%p]
+
+JA [name]たくや[line]このまま進むと、例の絶壁に出るぜ‥‥。[%p]
+ZH [name]拓也[line]这样走下去，以前见到的绝壁就要出现了‥‥。[%p]
+
+JA [name]たくや[line]この道に沿っていくと、例の絶壁に出るんだな‥‥。[%p]
+ZH [name]拓也[line]沿着这条小路前行，会遇到那个绝壁……。[%p]
+
+JA [name]たくや[line]まさか、絶壁にセーレスがいるとは思えないが‥‥。[%p]
+ZH [name]拓也[line]怎么可能，我不觉得塞蕾斯会在绝壁……。[%p]
+
+JA [name]たくや[line]‥‥そうだな、丘へ戻ってみよう。[%p]
+ZH [name]拓也[line]‥‥也是呢，回小山去看看吧。[%p]
+
+JA [name]たくや[line]‥‥何度来ても、同じだと思うが。[%p]
+ZH [name]拓也[line]……无论来几次，都是一样。[%p]
+
+JA [name]たくや[line]戻ろう‥‥。[%p]
+ZH [name]拓也[line]（回去吧……。）。[%p]
+
+JA [name]たくや[line]森だ‥‥俺以外、誰もいない。[%p]
+ZH [name]拓也[line]森林啊……除我以外，谁都不在。[%p]
+
+JA [name]たくや[line]そっちは絶壁だぜ‥‥。[%p]
+ZH [name]拓也[line]那边是绝壁哦‥‥。[%p]
+
+JA [name]たくや[line]しょうがないな‥‥行ってみるか。[%p]
+ZH [name]拓也[line]没办法啊‥‥去看看吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]こんなところに、彼女がいる訳がない。[%p]
+ZH [name]拓也[line]她怎么可能，会在这种地方。[%p]
+
+JA [name]たくや[line]でも、彼女と出会ったのは、この付近だったんだな‥‥。[%p]
+ZH [name]拓也[line]但是，和她邂逅，是在这附近呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とりあえず、戻るか。[%p]
+ZH [name]拓也[line]总而言之，先回去吧。[%p]
+
+JA [name]たくや[line]森だ‥‥俺以外、誰もいない。[%p]
+ZH [name]拓也[line]森林啊……除我以外，谁都不在。[%p]
+
+JA [name]たくや[line]セーレスは、ここにはいない‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯，不在这里……。[%p]
+
+JA [name]たくや[line]そういえば、俺がセーレスに会ったのは、この森の中だったな‥‥。[%p]
+ZH [name]拓也[line]说起来，我遇见塞蕾斯，也是在这座森林呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

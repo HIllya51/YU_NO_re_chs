@@ -1,0 +1,84 @@
+JA [name]たくや[line]‥‥暗い小部屋だ。石のカベで囲まれている。[%p]
+ZH [name]拓也[line]……昏暗的小房间。完全被石墙包围起来了。[%p]
+
+JA [name]たくや[line]本当に何も無い部屋だな‥‥。[%p]
+ZH [name]拓也[line]真的是什么都没有的房间……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]今の俺の手持ちじゃ、あの扉をぶっ壊せないんだろうか‥‥。[%p]
+ZH [name]拓也[line]凭我目前手头的东西，应该没办法破坏那扇门吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ふぅ‥‥相変わらず通路が続いている。)[%p]
+ZH [name]拓也[line](（呼……还是一如既往地通道往前延伸。）。)[%p]
+
+JA [name]たくや[line](クワやスキか‥‥。)[%p]
+ZH [name]拓也[line](（铁镐和犁吗……。）。)[%p]
+
+JA [name]たくや[line](そんなもんが、ここにあるとは思えないが‥‥。)[%p]
+ZH [name]拓也[line](（我觉得，那种东西这里应该不会有的……。）。)[%p]
+
+JA [name]たくや[line](要は、あの忌々しい扉をぶち壊せる何かがあればいいんだ。)[%p]
+ZH [name]拓也[line](（关键是，应该要用什么方法才能破坏那扇令人讨厌的门呢。）。)[%p]
+
+JA [name]たくや[line](‥‥だけど、そんなの、ここにあるんだろうか‥‥?)[%p]
+ZH [name]拓也[line](（……不过，那种东西，这里会有吗……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いや、この先には何かあるはずだ。)[%p]
+ZH [name]拓也[line](（不对，这前面应该是有什么东西的。）。)[%p]
+
+JA [name]たくや[line](そのための扉のはずだ。)[%p]
+ZH [name]拓也[line](（所以才会为此做了扇门。）。)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line](あっ‥‥。)[%p]
+ZH [name]拓也[line](啊……。)[%p]
+
+JA [name]たくや[line](入り口があるぞ‥‥やった!)[%p]
+ZH [name]拓也[line](（这里有入口啊……太好了！）)[%p]
+
+JA [name]たくや[line](中に何かあるんだろうか‥‥?)[%p]
+ZH [name]拓也[line](（里面应该有什么东西吧……？）)[%p]
+
+JA [name]たくや[line](とにかく入ってみよう!)[%p]
+ZH [name]拓也[line](（总而言之先进去看看吧！）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗いな‥‥。[%p]
+ZH [name]拓也[line]好黑啊……。[%p]
+
+JA [name]たくや[line]何もない小部屋みたいだ‥‥。[%p]
+ZH [name]拓也[line]是个什么都没有的小房间……。[%p]
+
+JA [name]たくや[line]くそっ、懐中電灯の故障が痛かったな‥‥。[%p]
+ZH [name]拓也[line]可恶，手电筒出故障真是太糟糕了……。[%p]
+
+JA [name]たくや[line]とにかく、調べてみるか‥‥?[%p]
+ZH [name]拓也[line]（总而言之，要调查看看吗……？）[%p]
+
+JA 
+ZH 
+

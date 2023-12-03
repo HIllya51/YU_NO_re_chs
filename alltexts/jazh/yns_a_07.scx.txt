@@ -1,0 +1,9 @@
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]もう、どのくらい歩いたかな‥‥。[%p]
+ZH [name]拓也[line]（已经，走了多远的路啊……。）。[%p]
+
+JA 
+ZH 
+

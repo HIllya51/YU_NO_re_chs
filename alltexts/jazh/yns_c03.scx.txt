@@ -1,0 +1,60 @@
+JA [name]たくや[line]‥‥帰っていないみたいだな。[%p]
+ZH [name]拓也[line]……好像还没有回来啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない部屋だ‥‥。[%p]
+ZH [name]拓也[line]没有人在的房间……。[%p]
+
+JA [name]たくや[line]‥‥やっぱりいないな‥‥。[%p]
+ZH [name]拓也[line]……果然不在啊……。[%p]
+
+JA [name]たくや[line]どこへ行ったんだろう‥‥?[%p]
+ZH [name]拓也[line]（她到哪里去了呢‥‥？）[%p]
+
+JA [name]たくや[line]‥‥あれ?[%p]
+ZH [name]拓也[line]……咦？[%p]
+
+JA [name]たくや[line]亜由美さん、いないぞ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，不在呢……。[%p]
+
+JA [name]たくや[line]守衛さんは、家に電話を掛けてもいないって言っていた‥‥。[%p]
+ZH [name]拓也[line]保安小姐，好像说过家里的电话也没人接……。[%p]
+
+JA [name]たくや[line]本当にいないじゃないか。[%p]
+ZH [name]拓也[line]这么说真的是不在吗。[%p]
+
+JA [name]たくや[line]いったい、どこへ行ったんだ‥‥?[%p]
+ZH [name]拓也[line]究竟，到哪里去了呢……？[%p]
+
+JA [name]たくや[line]‥‥何でここに来たんだ?[%p]
+ZH [name]拓也[line]……为什么我会到这里来？[%p]
+
+JA [name]たくや[line]亜由美さんは今、ここにはいないぜ。[%p]
+ZH [name]拓也[line]亚由美小姐，现在不在这里呢。[%p]
+
+JA [name]たくや[line]どうしたんだろう、亜由美さん‥‥。[%p]
+ZH [name]拓也[line]到底发生什么事了，亚由美小姐……。[%p]
+
+JA [name]たくや[line]頭痛がするって、言っていたのに‥‥。[%p]
+ZH [name]拓也[line]明明才说了，头很痛这种话的说……。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]まだ帰ってきていないらしい‥‥。[%p]
+ZH [name]拓也[line]看样子还没有回来啊……。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]彼女は帰っていないみたいだな‥‥。[%p]
+ZH [name]拓也[line]看起来她还没有回来啊……。[%p]
+
+JA 
+ZH 
+

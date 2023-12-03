@@ -1,0 +1,3 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]The stone door appears open.[%p]
+[name]Takuya[line]What should I do?[%p]

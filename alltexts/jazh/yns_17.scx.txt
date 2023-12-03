@@ -1,0 +1,42 @@
+JA [name]たくや[line]電気が点いてる‥‥だが人の気配はないな。[%p]
+ZH [name]拓也[line]电灯亮着……不过好像没什么人啊。[%p]
+
+JA [name]たくや[line]探すっていっても‥‥いったい何を探せばいいんだ?[%p]
+ZH [name]拓也[line]就算去查看……到底要查看什么好呢？[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗くてわからないが‥‥
+ZH [name]拓也[line]太暗了看不清……
+
+JA あっ。[%p]
+ZH 啊。[%p]
+
+JA [name]たくや[line]暗くてわからないが‥‥あっ。
+ZH [name]拓也[line]太暗了看不清……啊。
+
+JA [name]たくや[line]電気が点いてる‥‥以前、俺が入った居間だ。[%p]
+ZH [name]拓也[line]电灯亮着……这里，是我以前来过的起居室。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]電気が点いている‥‥だが人の気配はない。[%p]
+ZH [name]拓也[line]电灯亮着……不过好像没什么人。[%p]
+
+JA [name]たくや[line]‥‥人の温もりみたいなのが、感じられないんだ。なんでだろう。[%p]
+ZH [name]拓也[line]……似乎还有点人气，可是却感觉不出来。怎么回事呢。[%p]
+
+JA [name]たくや[line]人がいなくなってから、随分と時間が経つということか?[%p]
+ZH [name]拓也[line]因为没有人，所以时间就过得相当快了吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

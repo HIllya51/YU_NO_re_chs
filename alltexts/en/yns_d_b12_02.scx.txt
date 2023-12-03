@@ -1,0 +1,172 @@
+[name]Takuya[line]It's made of stone. It doesn't look like I can open it with my own strength.[%p]
+[name]Yuuki[line]Listen, I can't move it by myself.[%p]
+[name]Takuya[line]No one said you could⋯[%p]
+[name]Takuya[line]What's with this door?[%p]
+[name]Takuya[line]Rather, is it even really a door⋯?[%p]
+[name]Yuuki[line]It looks like a door, but⋯[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]Whoa! What was that sound?[%p]
+[name]Yuuki[line]Well, I saw something that looked like a button⋯[%p]
+[name]Takuya[line]Did you push it?![%p]
+[name]Yuuki[line]Sorry.[%p]
+[name]Takuya[line]You idiot! I told you not to⋯ Huh?[%p]
+[name]Yuuki[line]Is something wrong?[%p]
+[name]Takuya[line]Something's coming out again.[%p]
+[name]Yuuki[line]Uh-huh.[%p]
+[name]Takuya[line]This is⋯[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line](What is this doing here?)[%p]
+[name]Yuuki[line]That's a pretty stone isn't it, Boss Man?[%p]
+[name]Takuya[line]⋯[%p]
+[name]Yuuki[line]Boss Man?[%p]
+[name]Takuya[line]S-Sorry. I was just thinking.[%p]
+[name]Yuuki[line]What do we do with it?[%p]
+[name]Takuya[line]⋯[%p]
+You obtained [color index="840000"][Jewel 6][color index="800000"].
+You obtained [color index="840000"][Jewel 6][color index="800000"].
+[name]Takuya[line]There's some kind of depression next to the door.[%p]
+[name]Takuya[line]There's nothing here.[%p]
+[name]Takuya[line]The White Medal is still in it.[%p]
+[name]Yuuki[line]What should we do?[%p]
+[name]Takuya[line]Oh yeah⋯[%p]
+Take the white medal
+Leave it
+[name]Takuya[line]Okay, I'm taking the medal.[%p]
+You obtained [color index="840000"][White Medal][color index="800000"].
+You obtained [color index="840000"][White Medal][color index="800000"].
+[name]Takuya[line]I got a medal.[%p]
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]The Black Medal is still in it.[%p]
+Take the black medal
+Leave it
+[name]Takuya[line]Okay, I'm taking the medal.[%p]
+You obtained [color index="840000"][Black Medal][color index="800000"].
+You obtained [color index="840000"][Black Medal][color index="800000"].
+[name]Takuya[line]I got a medal.[%p]
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's one white and one black medal inside.[%p]
+[name]Yuuki[line]It's a White Medal. What are you going to do?[%p]
+[name]Takuya[line]⋯[%p]
+Take the white medal
+Leave it
+[name]Takuya[line]Okay, I'm taking the medal.[%p]
+You obtained [color index="840000"][White Medal][color index="800000"].
+You obtained [color index="840000"][White Medal][color index="800000"].
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's another one in it.[%p]
+[name]Yuuki[line]That's the Black Medal.[%p]
+Take the black medal
+Leave it
+[name]Takuya[line]Okay, I'm taking the medal.[%p]
+You obtained [color index="840000"][Black Medal][color index="800000"].
+You obtained [color index="840000"][Black Medal][color index="800000"].
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's some kind of depression next to the door. What could it be?[%p]
+[name]Takuya[line]There's nothing here.[%p]
+[name]Yuuki[line]Yeah⋯ I wonder what it's for.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]There's something inside⋯ What is it?[%p]
+[name]Yuuki[line]There's some kind of White Medal in it.[%p]
+[name]Takuya[line]What does it mean?[%p]
+[name]Yuuki[line]What should we do?[%p]
+[name]Takuya[line]⋯[%p]
+Take the white medal
+Leave it
+You obtained [color index="840000"][White Medal][color index="800000"].
+You obtained [color index="840000"][White Medal][color index="800000"].
+[name]Takuya[line]I got a medal.[%p]
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's something inside.[%p]
+[name]Yuuki[line]There's some kind of Black Medal in it.[%p]
+[name]Takuya[line]What does it mean?[%p]
+[name]Yuuki[line]What should we do?[%p]
+[name]Takuya[line]⋯[%p]
+Take the black medal
+Leave it
+You obtained [color index="840000"][Black Medal][color index="800000"].
+You obtained [color index="840000"][Black Medal][color index="800000"].
+[name]Takuya[line]I got a medal.[%p]
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's something inside.[%p]
+[name]Yuuki[line]There're some kind of black and white medals in it⋯[%p]
+[name]Takuya[line]⋯[%p]
+[name]Yuuki[line]This is the White Medal.[%p]
+[name]Takuya[line]⋯[%p]
+Take the white medal
+Leave it
+[name]Takuya[line]Okay, I'm taking the medal.[%p]
+You obtained [color index="840000"][White Medal][color index="800000"].
+You obtained [color index="840000"][White Medal][color index="800000"].
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Takuya[line]There's another medal in it⋯[%p]
+[name]Yuuki[line]It's a Black Medal. There's an eerie design carved on it.[%p]
+[name]Takuya[line]⋯[%p]
+Take the black medal
+Leave it
+You obtained [color index="840000"][Black Medal][color index="800000"].
+You obtained [color index="840000"][Black Medal][color index="800000"].
+[name]Yuuki[line]Aren't you taking it?[%p]
+[name]Takuya[line]I'll just leave it here for now.[%p]
+[name]Yuuki[line]What could it be?[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]It's wet. Must be from the groundwater.[%p]
+[name]Takuya[line]There are some craggy rocks sticking out.[%p]
+[name]Yuuki[line]It all looks the same.[%p]
+[name]Takuya[line]It's wet. Must be from the groundwater.[%p]
+[name]Takuya[line]There are some craggy rocks sticking out.[%p]
+[name]Yuuki[line]It all looks the same.[%p]
+[name]Takuya[line]There's a stone disc in it now.[%p]
+[name]Yuuki[line]I wonder if it means something.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]There's a depression here⋯ I've no idea what it's for though.[%p]
+[name]Takuya[line]What is this round hole?[%p]
+[name]Takuya[line]It's kinda big⋯somewhere around four inches or so.[%p]
+[name]Takuya[line]What is that?[%p]
+[name]Yuuki[line]It seems like something goes in there⋯[%p]
+[name]Takuya[line]Something, but what⋯[%p]
+[name]Takuya[line]It seems like a really sturdy door⋯[%p]
+[name]Takuya[line]I could never open it under my own power.[%p]
+[name]Takuya[line]It looks like a door carved from stone.[%p]
+*thud*[%p]
+[name]Takuya[line]It's hard. Even with all my strength, it wouldn't budge an inch.[%p]
+[name]Takuya[line]I guess that means it can't be opened by force.[%p]
+[name]Yuuki[line]What is it here for?[%p]
+[name]Takuya[line]It's probably here to keep these two rooms separate.[%p]
+[name]Yuuki[line]Which means what?[%p]
+[name]Takuya[line]It'd be easy if we knew that.[%p]
+[name]Yuuki[line]Uh⋯[%p]
+[name]Takuya[line]I can see the other side.[%p]
+[name]Takuya[line]From here it looks like the passage continues forward⋯[%p]
+[name]Takuya[line]There are some holes here and there. I can see through to the other side.[%p]
+[name]Yuuki[line]What do you see?[%p]
+[name]Takuya[line]The same as always: a tunnel.[%p]
+[name]Yuuki[line]Then I guess there's no reason to open this.[%p]
+[name]Takuya[line]I'm not so sure about that. If there's a door here, that means there's some sort of distinction between this side and that side.[%p]
+[name]Takuya[line]Which means there might be something different on the other side.[%p]
+[name]Yuuki[line]That's why you're the Boss Man. So, what's over there?[%p]
+[name]Takuya[line]How should I know?[%p]
+[name]Takuya[line]There's a door right in front of us⋯[%p]
+[name]Takuya[line]Never expected to find a door here.[%p]
+[name]Yuuki[line]What is it here for?[%p]
+[name]Takuya[line]Right. Let's leave the door.[%p]
+[name]Takuya[line](I can't use it twice.)[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]Huh, but it fits right in.[%p]
+[name]Takuya[line]I can't take it out⋯ I'm sure this must mean something.[%p]
+[name]Yuuki[line]What does it mean?[%p]
+[name]Takuya[line]I have no idea.[%p]
+[name]Yuuki[line]⋯[%p]
+[name]Takuya[line]It's circular, but the size is way different.[%p]
+[name]Takuya[line]I can't put this White Medal in⋯[%p]
+[name]Takuya[line]It's circular, but the size is way different.[%p]
+[name]Takuya[line]I can't put this Black Medal in.[%p]
+[name]Takuya[line]No, I can't use that item.[%p]
+[name]Takuya[line]I can't use that here.[%p]
+[name]Takuya[line]This isn't the time to use items.[%p]

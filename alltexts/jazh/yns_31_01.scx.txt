@@ -1,0 +1,315 @@
+JA [name]たくや[line]随分荒れ放題という感じだな‥‥。[%p]
+ZH [name]拓也[line]感觉像是随随便便荒废掉了……。[%p]
+
+JA [name]たくや[line]あの声は、どこから聴こえてきたんだ‥‥?[%p]
+ZH [name]拓也[line]那个声音，是从哪里传过来的……？[%p]
+
+JA [name]たくや[line]鍵は開いてるが‥‥あの声の主を探す方が先だ。[%p]
+ZH [name]拓也[line]锁虽然已经打开了……不过还是先找找声音的来源。[%p]
+
+JA [name]たくや[line]でっかい南京錠が掛かっているぜ‥‥。[%p]
+ZH [name]拓也[line]锁着一把很大的荷包锁……。[%p]
+
+JA [name]たくや[line]俺の力じゃ、こいつを開けることは出来ないな‥‥。[%p]
+ZH [name]拓也[line]凭我的力量，是不可能把这个给打开的……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]でっかい南京錠が掛かっているぜ‥‥。[%p]
+ZH [name]拓也[line]锁着一把很大的荷包锁……。[%p]
+
+JA [name]たくや[line]ダメだな、開かない‥‥。[%p]
+ZH [name]拓也[line]不行啊，打不开呢……。[%p]
+
+JA [name]たくや[line]しかし‥‥本当に化け物でも出そうな雰囲気だぞ。[%p]
+ZH [name]拓也[line]不过……感觉好像真的会有怪物什么的出现呢。[%p]
+
+JA [name]たくや[line]寒くて暗くて‥‥しかも‥‥‥。[%p]
+ZH [name]拓也[line]既寒冷又黑暗……而且……。[%p]
+
+JA [name]たくや[line]おわっ!![%p]
+ZH [name]拓也[line]哦哇！！[%p]
+
+JA [name]老婆[line]オホホ‥‥。[%p]
+ZH [name]老婆婆[line]哦赫赫……。[%p]
+
+JA [name]たくや[line]はぁ、はぁ‥‥ビ、ビックリしたぁ。[%p]
+ZH [name]拓也[line]哈啊，哈啊……吓，吓了我一跳。[%p]
+
+JA [name]老婆[line]可愛らしいわね、坊や。[%p]
+ZH [name]老婆婆[line]你真的好可爱，孩子。[%p]
+
+JA [name]たくや[line]おおおお、俺にはその、好きな女性がいるんだ。[%p]
+ZH [name]拓也[line]哦哦哦哦，那个，我已经有喜欢的女人了。[%p]
+
+JA [name]老婆[line]オホホ‥‥別に取って喰いはしませんよ。[%p]
+ZH [name]老婆婆[line]哦赫赫……我也没想过把你吃进肚子里。[%p]
+
+JA [name]たくや[line]ホッ‥‥。[%p]
+ZH [name]拓也[line]（哦……。）。[%p]
+
+JA [name]老婆[line]さっきはありがとう、坊や‥‥。[%p]
+ZH [name]老婆婆[line]刚才谢谢你了，孩子……。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]老婆[line]オホホホ‥‥私を庇ってくれたわね、ありがとう。[%p]
+ZH [name]老婆婆[line]哦赫赫赫……你刚才保护了我，谢谢了。[%p]
+
+JA [name]たくや[line]庇う?[%p]
+ZH [name]拓也[line]保护你？[%p]
+
+JA [name]老婆[line]この土蔵に興味があるのかね‥‥?[%p]
+ZH [name]老婆婆[line]你对这个土藏有兴趣吗……？[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]老婆[line]この土蔵はね、およそ400年前に建てられたものを改築したもの。[%p]
+ZH [name]老婆婆[line]这个土藏啊，可是由４００多年前造起来的建筑改建而成的。[%p]
+
+JA [name]たくや[line]それが‥‥なにか?[%p]
+ZH [name]拓也[line]那是……什么意思？[%p]
+
+JA [name]老婆[line]左手の奧には、古い井戸もあるのさ‥‥。[%p]
+ZH [name]老婆婆[line]左边的深处，有一口古井……。[%p]
+
+JA [name]たくや[line]はあ‥‥。[%p]
+ZH [name]拓也[line]哈啊……。[%p]
+
+JA [name]たくや[line](何が言いたいんだ‥‥?)[%p]
+ZH [name]拓也[line](（她在说些什么……？）)[%p]
+
+JA [name]老婆[line]あなたに、いいモノをあげましょう‥‥。[%p]
+ZH [name]老婆婆[line]有个好东西，送给你吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥これは?[%p]
+ZH [name]拓也[line]……这个是？[%p]
+
+JA [name]老婆[line]おや、見てわからないのかい? カギというものよ。[%p]
+ZH [name]老婆婆[line]哦呀，看了还不明白吗？　这个叫做钥匙。[%p]
+
+JA [name]たくや[line]そ、それは見ればわかるけど、いったい何の‥‥。[%p]
+ZH [name]拓也[line]这，这个我看到就明白了，不过这到底是……。[%p]
+
+JA [name]老婆[line]オホホ‥‥それは‥‥‥‥。[%p]
+ZH [name]老婆婆[line]哦赫赫……那是…………。[%p]
+
+JA [name]老婆[line]‥‥と思ったけど、すでに持っているみたいね。それは私のカギよ。[%p]
+ZH [name]老婆婆[line]……这么一想，你好像已经有了呢。那是我的钥匙哦。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]声[line]また、こんなところへ出てきて‥‥。[%p]
+ZH [name]声音[line]你怎么又到这种地方来了……。[%p]
+
+JA [name]老婆[line]ヒッ‥‥。[%p]
+ZH [name]老婆婆[line]噫……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]ほら、家の中へ入りなさい。夜はもう冷える‥‥。[%p]
+ZH [name]龙藏寺[line]好了，快点到家里去吧。晚上已经很冷了……。[%p]
+
+JA [name]老婆[line]‥‥‥‥。[%p]
+ZH [name]老婆婆[line]…………。[%p]
+
+JA [name]たくや[line]あの、これ‥‥。[%p]
+ZH [name]拓也[line]那个，这东西……。[%p]
+
+JA [name]老婆[line]オホホホ‥‥さようなら、坊や。[%p]
+ZH [name]老婆婆[line]哦赫赫赫……告辞了，孩子。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]何か話していたようだが‥‥?[%p]
+ZH [name]龙藏寺[line]她好像跟你说了些什么……？[%p]
+
+JA [name]たくや[line]ええ、実は‥‥。[%p]
+ZH [name]拓也[line]是啊，其实……。[%p]
+
+JA [name]龍蔵寺[line]なにかね?[%p]
+ZH [name]龙藏寺[line]什么事？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](カギのことを話してもいいものだろうか‥‥?)[%p]
+ZH [name]拓也[line](（关于钥匙的事要不要跟他说好呢……？）)[%p]
+
+JA [name]たくや[line](俺の勘が言う‥‥言わない方がいいかも知れないって。)[%p]
+ZH [name]拓也[line](（我的直觉告诉我……也许还是不要说比较好。）。)[%p]
+
+JA カギを渡す
+ZH JF:交钥匙
+
+JA カギを渡さない
+ZH JF:不给钥匙
+
+JA [name]たくや[line](そうだな‥‥やっぱり他人のモノをもらう訳にはいかないぜ。)[%p]
+ZH [name]拓也[line](（对啊……别人的东西果然还是不要拿吧。）。)[%p]
+
+JA [name]たくや[line](龍蔵寺に返そう‥‥。)[%p]
+ZH [name]拓也[line](（交还给龙藏寺……。）。)[%p]
+
+JA [name]たくや[line]これです‥‥。[%p]
+ZH [name]拓也[line]是这个……。[%p]
+
+JA [name]龍蔵寺[line]‥‥それは、土蔵のカギだね。[%p]
+ZH [name]龙藏寺[line]……这个，是土藏的钥匙吧。[%p]
+
+JA [name]たくや[line]ええ‥‥あの人から手渡されました。[%p]
+ZH [name]拓也[line]是啊……是那个人交给我的。[%p]
+
+JA [name]龍蔵寺[line]ふむ、母親は家財を勝手に持ち出すクセがあってね‥‥返してもらおう。[%p]
+ZH [name]龙藏寺[line]呼姆，我母亲有个喜欢把家里的财产带出去的坏毛病……请还给我吧。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]龍蔵寺[line]なにかね?[%p]
+ZH [name]龙藏寺[line]什么事？[%p]
+
+JA [name]たくや[line]いえ、その‥‥別に。[%p]
+ZH [name]拓也[line]没有，那个……没事。[%p]
+
+JA [name]たくや[line](持ち主の手に返っただけのことだ‥‥俺には関係ない。)[%p]
+ZH [name]拓也[line](（只是把东西物归原主而已……跟我没什么关系。）。)[%p]
+
+JA [name]たくや[line](でもあの婆さん、なぜ俺に手渡したんだろう‥‥?)[%p]
+ZH [name]拓也[line](（不过那个老太太，为什么会交给我呢……？）)[%p]
+
+JA [name]たくや[line](そうだな‥‥このカギは、何か意味があるんだろう。)[%p]
+ZH [name]拓也[line](（对了……这把钥匙，应该是有什么意义的吧。）。)[%p]
+
+JA [name]たくや[line](それに俺の勘が、これを龍蔵寺に返さない方がいいと言っているんだ。)[%p]
+ZH [name]拓也[line](（而且，我的直觉也告诉我不要把这个交还给龙藏寺比较好。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]龍蔵寺[line]どうしたのかな。[%p]
+ZH [name]龙藏寺[line]怎么了。[%p]
+
+JA [name]たくや[line]いえ、何でもありません。あの人との間には、何もありませんでした。[%p]
+ZH [name]拓也[line]没有，没什么事。我跟那个人，什么都没说。[%p]
+
+JA [name]龍蔵寺[line]ふむ‥‥まぁいい。わかった。[%p]
+ZH [name]龙藏寺[line]呼姆……那算了。我知道了。[%p]
+
+JA [name]たくや[line](これでいい‥‥と思う。)[%p]
+ZH [name]拓也[line](（这就行了……大概。）。)[%p]
+
+JA [color index="840000"][金色のカギ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[金色钥匙][color index="800000"]JF:得到了。
+
+JA [color index="840000"][金色のカギ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[金色钥匙][color index="800000"]JF:得到了。
+
+JA [name]龍蔵寺[line]さて、出てきたついでだからな。外まで送ろう。[%p]
+ZH [name]龙藏寺[line]那么，你既然要走了。那我就送你出去吧。[%p]
+
+JA [name]たくや[line]すみません‥‥。[%p]
+ZH [name]拓也[line]叨扰了……。[%p]
+
+JA [name]たくや[line](外まで送るじゃなくて、連れていくってことだろう‥‥。)[%p]
+ZH [name]拓也[line](（不是送我出去，而是带我走吧……。）。)[%p]
+
+JA [name]たくや[line](ま、しょうがないな‥‥。)[%p]
+ZH [name]拓也[line](（算了，没办法啊……。）。)[%p]
+
+JA [name]たくや[line]半壊状態の土蔵だな‥‥。[%p]
+ZH [name]拓也[line]半坏状态的土藏……。[%p]
+
+JA [name]たくや[line]別に変というほどでもないな‥‥荒れてはいるけど。[%p]
+ZH [name]拓也[line]也没什么特别奇怪的地方……只是很荒芜了而已。[%p]
+
+JA [name]たくや[line]通常より敷地が数倍広いが、手間も数倍かかる‥‥。[%p]
+ZH [name]拓也[line]虽然面积是平常的数倍，不过打理的花销也是数倍……。[%p]
+
+JA [name]たくや[line]龍蔵寺が言った通りって訳か。[%p]
+ZH [name]拓也[line]正如龙藏寺所言吗。[%p]
+
+JA [name]たくや[line]母親との2人暮らしだそうだからな‥‥当然と言えば当然か。[%p]
+ZH [name]拓也[line]因为是跟母亲２个人一起住的……那肯定是理所当然的吧。[%p]
+
+JA [name]たくや[line]壁がかなり損壊しているな‥‥。[%p]
+ZH [name]拓也[line]墙壁损坏得相当严重……。[%p]
+
+JA [name]たくや[line]この土蔵は、手入れが行き届いていないみたいだ。[%p]
+ZH [name]拓也[line]这个土藏，好像完全没经过整修啊。[%p]
+
+JA [name]たくや[line]土蔵‥‥?[%p]
+ZH [name]拓也[line]土藏……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そっか、美月さんが言っていた変な土蔵ってヤツだな。[%p]
+ZH [name]拓也[line]对了，这就是美月嘴里说的奇怪的土藏。[%p]
+
+JA [name]たくや[line]うん、確かに荒れ放題で見苦しいぞ。[%p]
+ZH [name]拓也[line]嗯，确实这样丢着荒废掉很不体面。[%p]
+
+JA [name]たくや[line]‥‥だけど、何がどう変なんだろう。[%p]
+ZH [name]拓也[line]……不过，好像有什么奇怪的地方。[%p]
+
+JA [name]たくや[line]雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]感觉像是杂树林……。[%p]
+
+JA [name]たくや[line]緑も、殆ど雑木林という感じだ‥‥。[%p]
+ZH [name]拓也[line]植物也是，几乎就是杂树林的感觉……。[%p]
+
+JA [name]たくや[line]手入れはまるでされていないみたいだな。[%p]
+ZH [name]拓也[line]好像完全没有整修过啊。[%p]
+
+JA [name]たくや[line]今はちょうど月が出ていて、少しだけあたりは明るい。[%p]
+ZH [name]拓也[line]现在刚好月亮出来，附近开始有点亮起来了。[%p]
+
+JA [name]たくや[line]暗い空だ‥‥吸い込まれそうだ。[%p]
+ZH [name]拓也[line]黑暗的天空……好像要被吸进去了。[%p]
+
+JA [name]たくや[line]人気はない‥‥。[%p]
+ZH [name]拓也[line]没有人气……。[%p]
+
+JA [name]たくや[line]静かなものだが‥‥‥‥。[%p]
+ZH [name]拓也[line]万籁俱寂…………。[%p]
+
+JA [name]たくや[line]この雰囲気じゃ、タタリとか言われるのもしょうがないぜ。[%p]
+ZH [name]拓也[line]这个气氛，即使被说有作祟神什么的也是没办法的呢。[%p]
+
+JA [name]たくや[line]いかにも何かが出そうじゃないか。[%p]
+ZH [name]拓也[line]确实不是好像有什么要出现的样子吗。[%p]
+
+JA [name]たくや[line]俺のことを呼んだヤツを突き止めてからだ‥‥。[%p]
+ZH [name]拓也[line]要先找到叫我的那个家伙……。[%p]
+
+JA [name]たくや[line]待てよ‥‥あの声の主を突き止めていないぜ。[%p]
+ZH [name]拓也[line]等等……找不到那个声音的主人。[%p]
+
+JA [name]たくや[line]このあたりにいるはずなんだ‥‥。[%p]
+ZH [name]拓也[line]应该是在这附近……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候呢……。[%p]
+
+JA [name]たくや[line]アイテムを使うときじゃない‥‥。[%p]
+ZH [name]拓也[line]不是使用道具的时候……。[%p]
+
+JA [name]たくや[line]声の主を確かめるときだ。[%p]
+ZH [name]拓也[line]现在要先确认声音的主人。[%p]
+
+JA [name]たくや[line]待てって‥‥あの声を突き止めるのが先だ。[%p]
+ZH [name]拓也[line]等一下……先要把那个声音找出来。[%p]
+
+JA 
+ZH 
+

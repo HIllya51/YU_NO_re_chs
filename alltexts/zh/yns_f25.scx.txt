@@ -1,0 +1,8 @@
+[name]拓也[line]……我为什么又回来了呢？[%p]
+[name]拓也[line]香织，不在这里呢……。[%p]
+[name]拓也[line]香织是……。[%p]
+[name]拓也[line]都已经过了１个小时了……不在啊，果然。[%p]
+[name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+[name]拓也[line]进出的顾客，给人很普通的感觉……。[%p]
+[name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+[name]拓也[line]我认识的人，貌似谁都不在啊。[%p]

@@ -1,0 +1,345 @@
+JA [name]たくや[line]電気が点いてる‥‥だが人の気配はないな。[%p]
+ZH [name]拓也[line]电灯亮着……不过好像没什么人啊。[%p]
+
+JA [name]たくや[line]探すっていっても‥‥いったい何を探せばいいんだ?[%p]
+ZH [name]拓也[line]就算去查看……到底要查看什么好呢？[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line]美月さんが言っていたのは、このことだったのか‥‥。[%p]
+ZH [name]拓也[line]美月说的，就是这个吧……。[%p]
+
+JA [name]たくや[line]まさか、こんな造りになっていたとはね‥‥。[%p]
+ZH [name]拓也[line]想不到，这房子竟然有这样的构造……。[%p]
+
+JA [name]たくや[line]改築って話をしていたが‥‥このことも含んでいたのか。[%p]
+ZH [name]拓也[line]好像有说过房子是修缮过的……不过也包含了这个吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし、とにかく先へ進んでみよう。[%p]
+ZH [name]拓也[line]好吧，总之先进里面去看看。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]暗いな‥‥。[%p]
+ZH [name]拓也[line]好黑啊……。[%p]
+
+JA [name]たくや[line]明かりが殆ど無い。足下には十分気を付けないと‥‥。[%p]
+ZH [name]拓也[line]几乎没什么亮光。一定要当心脚下……。[%p]
+
+JA [name]たくや[line]‥‥と頭をぶつけてしまうんだ。[%p]
+ZH [name]拓也[line]……头被撞到了。[%p]
+
+JA [name]たくや[line]痛い‥‥。[%p]
+ZH [name]拓也[line]痛‥‥。[%p]
+
+JA [name]たくや[line]しかし‥‥。[%p]
+ZH [name]拓也[line]但是……。[%p]
+
+JA [name]たくや[line]長いな‥‥‥‥。[%p]
+ZH [name]拓也[line]真长啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]俺の方向感覚が狂っていなければ、この方角は土蔵に到着する。[%p]
+ZH [name]拓也[line]我的方向感要是没有混乱的话，这个位置应该是到土藏了。[%p]
+
+JA [name]たくや[line]土蔵の裏手に、この通路がつながっているってわけか。[%p]
+ZH [name]拓也[line]土藏的背面，应该是跟这条通道连着的吧。[%p]
+
+JA [name]たくや[line]美月さんが言っていたのは、このことだな‥‥。[%p]
+ZH [name]拓也[line]美月说的，就是这个吧……。[%p]
+
+JA [name]たくや[line]土蔵の奧の部屋‥‥ってことか。[%p]
+ZH [name]拓也[line]土藏深处的房间……是吗。[%p]
+
+JA [name]たくや[line]そこで美月さんが見たもの‥‥?[%p]
+ZH [name]拓也[line]美月在这里看到的东西……？[%p]
+
+JA [name]たくや[line]いったい、何なんだ‥‥?[%p]
+ZH [name]拓也[line]究竟是什么‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ドアがある‥‥鉄の扉だ。[%p]
+ZH [name]拓也[line]有门啊……铁制的门。[%p]
+
+JA [name]たくや[line]扉が開いている‥‥。[%p]
+ZH [name]拓也[line]门开着呢……。[%p]
+
+JA [name]たくや[line]土の臭いがする‥‥草に木‥‥。[%p]
+ZH [name]拓也[line]能闻到土腥味……草和树……。[%p]
+
+JA [name]たくや[line]自然の特有の臭いだ‥‥。[%p]
+ZH [name]拓也[line]是自然特有的臭味……。[%p]
+
+JA [name]たくや[line]中に入ってみよう‥‥。[%p]
+ZH [name]拓也[line]进里面去看看吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、これは‥‥。[%p]
+ZH [name]拓也[line]这是什么啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]鈍い音だ‥‥向こう側に反響している。[%p]
+ZH [name]拓也[line]闷闷的声音……背面有回响。[%p]
+
+JA [name]たくや[line]ってことは、向こう側には‥‥。[%p]
+ZH [name]拓也[line]也就是说，背面是……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ん‥‥?[%p]
+ZH [name]拓也[line]嗯……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥何だろう、音がするぞ。[%p]
+ZH [name]拓也[line]……这个声音，是什么呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ほら、僅かな音だが‥‥。[%p]
+ZH [name]拓也[line]听，有微弱的声音传来……。[%p]
+
+JA [name]たくや[line]この壁から?[%p]
+ZH [name]拓也[line]从这个墙壁上？[%p]
+
+JA キーン‥‥
+ZH 叮——……
+
+JA ‥‥
+ZH ……
+
+JA キーン‥‥。[%p]
+ZH 叮——……。[%p]
+
+JA キーン‥‥‥‥キーン‥‥。
+ZH 叮——…………叮——……。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何の音だ‥‥?[%p]
+ZH [name]拓也[line]是什么声音……？[%p]
+
+JA [name]たくや[line]タペストリーが掛かっている以外は、普通のカベだな‥‥。[%p]
+ZH [name]拓也[line]JF:除了挂着挂毯以外，都是普通的卡贝啊。[%p]
+
+JA [name]たくや[line]いや、少し色の違う壁と言えなくもないけど‥‥。[%p]
+ZH [name]拓也[line]不，应该说墙壁的颜色还是稍微有点不一样的……。[%p]
+
+JA [name]たくや[line]ま、確かに変わってると言えば、変わってるけど‥‥。[%p]
+ZH [name]拓也[line]嘛，要是说奇怪的话，确实也可以算作奇怪，不过……。[%p]
+
+JA [name]たくや[line]変わってるから、どうだっていうんだよ。[%p]
+ZH [name]拓也[line]奇怪的地方，到底该怎么说呢。[%p]
+
+JA [name]たくや[line]タペストリーが飾ってある‥‥。[%p]
+ZH [name]拓也[line]JF:装饰着挂毯。[%p]
+
+JA [name]たくや[line]カベの色が少し白いくらいだな‥‥。[%p]
+ZH [name]拓也[line]墙壁的颜色看上去稍微有点白……。[%p]
+
+JA [name]たくや[line]タペストリーの裏側というと‥‥普通の壁だな。[%p]
+ZH [name]拓也[line]JF:说起挂毯的背面……真是普通的墙壁啊。[%p]
+
+JA [name]たくや[line]いや、隣の壁よりも、少し白いかな‥‥。[%p]
+ZH [name]拓也[line]不对，比起旁边的墙壁，稍微有点白啊……。[%p]
+
+JA [name]たくや[line]そっか、何か不自然な感じがしたんだが‥‥こいつのせいか。[%p]
+ZH [name]拓也[line]对了，总感觉有什么不自然的地方……是这个的缘故吗。[%p]
+
+JA [name]たくや[line]統一感ってのが無いんだろうな‥‥。[%p]
+ZH [name]拓也[line]应该说没有统一感吧……。[%p]
+
+JA [name]たくや[line]最近塗ったものかな‥‥?[%p]
+ZH [name]拓也[line]是最近才涂上去的吗……？[%p]
+
+JA [name]たくや[line]‥‥何か絵が掛かっているな。[%p]
+ZH [name]拓也[line]……上面画着一些东西。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、見ていてあまり楽しい絵じゃないな。[%p]
+ZH [name]拓也[line]总感觉，不是什么看上去能让人开心的绘画。[%p]
+
+JA [name]たくや[line]人々が炎みたいのに苦しめられている絵だ‥‥宗教画か何かだろうか。[%p]
+ZH [name]拓也[line]人们被火炎一样的东西包围而承受痛苦的绘画……是宗教画什么的吧。[%p]
+
+JA [name]たくや[line]じゅうたんに絵を描いたような感じだ‥‥タペストリーというヤツだな。[%p]
+ZH [name]拓也[line]JF:就像在地毯上画画一样……是一个叫挂毯的家伙啊。[%p]
+
+JA [name]たくや[line]他にはもう何も‥‥。[%p]
+ZH [name]拓也[line]没有别的东西了……。[%p]
+
+JA [name]たくや[line]少し汚れているな‥‥。[%p]
+ZH [name]拓也[line]稍微有点脏了啊……。[%p]
+
+JA [name]たくや[line]真ん中だけ‥‥何だろう。[%p]
+ZH [name]拓也[line]只有正中间……是什么呢。[%p]
+
+JA [name]たくや[line]普通の壁だな‥‥。[%p]
+ZH [name]拓也[line]普通的墙壁……。[%p]
+
+JA [name]たくや[line]真ん中の壁に比べると、少しくすんだ色だ‥‥。[%p]
+ZH [name]拓也[line]比起正中间的墙壁，颜色有点深……。[%p]
+
+JA [name]たくや[line]年月を感じさせる‥‥。[%p]
+ZH [name]拓也[line]能够感受到岁月……。[%p]
+
+JA [name]たくや[line]意味は無さそうだぜ‥‥。[%p]
+ZH [name]拓也[line]好像没什么意义呢……。[%p]
+
+JA [name]たくや[line]何かの文字が書いてある‥‥。[%p]
+ZH [name]拓也[line]上面写着些什么文字……。[%p]
+
+JA [name]たくや[line]漢文だな‥‥俺には読めない。[%p]
+ZH [name]拓也[line]是汉语啊……我不认识。[%p]
+
+JA [name]たくや[line]ま、一般の家庭にはとんと縁のないものだな。[%p]
+ZH [name]拓也[line]嘛，在一般家庭基本上无缘看到的东西啊。[%p]
+
+JA [name]たくや[line][ruby-base]欄間[ruby-text-start]らんま[ruby-text-end]というやつだな。[%p]
+ZH [name]拓也[line]是叫做透笼板的东西。（注：传统日式房间里位于门顶与天花板之间的细工镶板）。[%p]
+
+JA [name]たくや[line]和風の屋敷には良く見かけるもんだけど‥‥。[%p]
+ZH [name]拓也[line]在一些和式房子里面经常能看到……。[%p]
+
+JA [name]たくや[line]だが、切り倒すための道具はなかった‥‥。[%p]
+ZH [name]拓也[line]不过，没有能割下来的道具……。[%p]
+
+JA [name]たくや[line]ちくしょう。[%p]
+ZH [name]拓也[line]可恶。[%p]
+
+JA [name]たくや[line]大きな柱があるな‥‥。[%p]
+ZH [name]拓也[line]有根很大的柱子……。[%p]
+
+JA [name]たくや[line]これを切り倒すと、どうなるんだろう。[%p]
+ZH [name]拓也[line]如果把这个给砍倒的话，会变得怎么样呢。[%p]
+
+JA [name]たくや[line]‥‥うーん、やってみたい。[%p]
+ZH [name]拓也[line]……嗯，真想试试看啊。[%p]
+
+JA [name]たくや[line]この屋敷の天井に、いくつか張り巡らされているみたいだ。[%p]
+ZH [name]拓也[line]这个房子的天花板上，好像围上了好几个哦。[%p]
+
+JA [name]たくや[line]はりというヤツだな。[%p]
+ZH [name]拓也[line]那是房梁。[%p]
+
+JA [name]たくや[line]あの微妙な木の歪みが、いかにも自然の大木を使っていますという自己主張につながっているんだろう。[%p]
+ZH [name]拓也[line]那种微妙的树木翘曲方式，完全就是被带上了所谓的使用自然界大树的自我风格吧。[%p]
+
+JA [name]たくや[line]天井だな‥‥。[%p]
+ZH [name]拓也[line]天花板啊‥‥。[%p]
+
+JA [name]たくや[line]天井だ‥‥2階は、確かあるみたいだけど。[%p]
+ZH [name]拓也[line]天花板……虽然说，应该还有２楼的说。[%p]
+
+JA [name]たくや[line]あまり家の中をうろつくのも何だし‥‥。[%p]
+ZH [name]拓也[line]就算在家里徘徊走动也什么都找不到……。[%p]
+
+JA [name]たくや[line]でも、ここまで来ちまったら、五十歩百歩って感じもするし‥‥。[%p]
+ZH [name]拓也[line]不过，都已经走到这里来了，完全就是以五十步笑百步……。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA [name]たくや[line]洋服ダンスみたいだが‥‥。[%p]
+ZH [name]拓也[line]似乎是个洋装衣柜……。[%p]
+
+JA [name]たくや[line]中には何も入っていないみたいだ。[%p]
+ZH [name]拓也[line]不过里面好像什么都没有啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]見事に何もない。[%p]
+ZH [name]拓也[line]完全是一干二净。[%p]
+
+JA [name]たくや[line]どういうことだろうな‥‥中には何も入っていないぞ。[%p]
+ZH [name]拓也[line]到底是怎么回事啊……里面完全没有东西呢。[%p]
+
+JA [name]たくや[line]茶ダンスってやつかな‥‥。[%p]
+ZH [name]拓也[line]放茶的橱柜……。[%p]
+
+JA [name]たくや[line]開けてみるかい?[%p]
+ZH [name]拓也[line]要打开看看吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も入っていない‥‥。[%p]
+ZH [name]拓也[line]什么都没有……。[%p]
+
+JA [name]たくや[line]うーん、ここは空き家か? まったく‥‥。[%p]
+ZH [name]拓也[line]嗯～，这是所空房子吗？　真是的……。[%p]
+
+JA [name]たくや[line]板張りの床だ‥‥。[%p]
+ZH [name]拓也[line]木板铺的地板……。[%p]
+
+JA [name]たくや[line]走ってきてスーという遊びは、もちろんしないぞ。[%p]
+ZH [name]拓也[line]一边在跑一边嘴里大声喊的游戏，我当然不会去做了。[%p]
+
+JA [name]たくや[line]床は板張りってやつだな‥‥。[%p]
+ZH [name]拓也[line]地板是用木板铺成的……。[%p]
+
+JA [name]たくや[line]フローリングという言葉もあるが、これは板張りと形容した方がしっくりする。[%p]
+ZH [name]拓也[line]也有ｆｌｏｏｒｉｎｇ这个词，但是这里的还是用木板来形容比较贴切。[%p]
+
+JA [name]たくや[line]なんでだ?[%p]
+ZH [name]拓也[line]为什么呢？[%p]
+
+JA [name]たくや[line]‥‥龍蔵寺の屋敷の居間だ。[%p]
+ZH [name]拓也[line]……龙藏寺家里的起居间。[%p]
+
+JA [name]たくや[line]何か、不自然な印象がある‥‥。[%p]
+ZH [name]拓也[line]总觉得，有些不自然的印象……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥そうだな。[%p]
+ZH [name]拓也[line]呼……是呢。[%p]
+
+JA [name]たくや[line]中庭に戻ろう‥‥。[%p]
+ZH [name]拓也[line]回中庭去吧……。[%p]
+
+JA [name]たくや[line]ここで使うアイテムは、今持っていないんじゃないか?[%p]
+ZH [name]拓也[line]能在这里使用的道具，现在不是没有带吗？[%p]
+
+JA [name]たくや[line]違う‥‥それは使えない。[%p]
+ZH [name]拓也[line]不对……这个用不了。[%p]
+
+JA [name]たくや[line]ここで、これはふさわしくない‥‥。[%p]
+ZH [name]拓也[line]在这个地方，用这东西可不合适啊……。[%p]
+
+JA 
+ZH 
+

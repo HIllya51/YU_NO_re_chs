@@ -1,0 +1,90 @@
+JA [name]たくや[line]元の入り口のところだ‥‥。[%p]
+ZH [name]拓也[line]这是原来的入口……。[%p]
+
+JA [name]たくや[line]後ろに下がれば、外に出られるけど‥‥。[%p]
+ZH [name]拓也[line]虽然说，转身回去的话就可以出去了……。[%p]
+
+JA [name]たくや[line]地面は濡れている‥‥。[%p]
+ZH [name]拓也[line]地面很潮湿……。[%p]
+
+JA [name]たくや[line]土じゃなくて、殆どが岩だな‥‥。[%p]
+ZH [name]拓也[line]不是泥土，几乎全是岩石啊……。[%p]
+
+JA [name]たくや[line]水が少しずつ、しみ出しているみたいだ‥‥。[%p]
+ZH [name]拓也[line]水好像在一点点地，慢慢往外渗……。[%p]
+
+JA [name]たくや[line]海水じゃあない‥‥しょっぱくないからな。[%p]
+ZH [name]拓也[line]并不是海水……因为没有咸味。[%p]
+
+JA [name]たくや[line]暗くて、よくわからないぜ‥‥。[%p]
+ZH [name]拓也[line]很昏暗，几乎什么都看不见……。[%p]
+
+JA [name]たくや[line]‥‥暗くて、よくわからないな。[%p]
+ZH [name]拓也[line]……很昏暗，几乎什么都看不见。[%p]
+
+JA [name]たくや[line]調べるなら、懐中電灯の光のところにしよう。[%p]
+ZH [name]拓也[line]想要调查的话，就调查手电筒照得到的地方吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥先へ進んでみよう。[%p]
+ZH [name]拓也[line]对了……先往里面走走看吧。[%p]
+
+JA [name]たくや[line]戻る必要はない‥‥。[%p]
+ZH [name]拓也[line]现在没必要回去……。[%p]
+
+JA [name]たくや[line]今は先へ進むときだ。[%p]
+ZH [name]拓也[line]现在应该要往里面走。[%p]
+
+JA [name]たくや[line]‥‥戻るのか?[%p]
+ZH [name]拓也[line]……要回去吗？[%p]
+
+JA [name]たくや[line]入り口が‥‥岩で閉まっている。[%p]
+ZH [name]拓也[line]入口的……岩石已经合上了。[%p]
+
+JA [name]たくや[line]これで、外には出られないって訳か‥‥。[%p]
+ZH [name]拓也[line]这么一来，外面应该就出不去了吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥しかし、なんだって俺は‥‥。[%p]
+ZH [name]拓也[line]……但是，我为什么会……。[%p]
+
+JA [name]たくや[line]こんなにも落ち着いていられるんだろうな‥‥。[%p]
+ZH [name]拓也[line]为什么还能这么保持这么冷静的状态呢……。[%p]
+
+JA [name]たくや[line]戻る必要はない‥‥今は前進あるのみだ。[%p]
+ZH [name]拓也[line]没必要回去……现在也只能向前进了。[%p]
+
+JA [name]たくや[line]‥‥戻るのか?[%p]
+ZH [name]拓也[line]……要回去吗？[%p]
+
+JA [name]たくや[line]‥‥ちょっと待てよ。[%p]
+ZH [name]拓也[line]……稍等一下。[%p]
+
+JA [name]たくや[line]ここまできて、外に出るのか?[%p]
+ZH [name]拓也[line]都已经进到这里了，还要出去吗？[%p]
+
+JA [name]たくや[line]何のために俺はここへ来たんだよ‥‥。[%p]
+ZH [name]拓也[line]我是为了什么才会到这里面来的啊……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]とにかく、先に進むほかはないな‥‥。[%p]
+ZH [name]拓也[line]总而言之，现在也只能向前进了啊……。[%p]
+
+JA [name]たくや[line]だから、アイテムを使うときじゃないってば。[%p]
+ZH [name]拓也[line]所以说，现在不是使用道具的时候啊。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

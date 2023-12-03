@@ -1,0 +1,741 @@
+JA [name]たくや[line](神奈チャンが近くにいる‥‥。)[%p]
+ZH [name]拓也[line](（神奈在旁边……。）。)[%p]
+
+JA [name]たくや[line]そういえば、首にかけてるネックレス‥‥大切なモノなんだって?[%p]
+ZH [name]拓也[line]这么说起来，脖子上戴着的项链……是重要的东西？[%p]
+
+JA [name]神奈[line]‥‥なぜ、有馬さんが知っているのですか。[%p]
+ZH [name]神奈[line]……为什么，有马同学会知道。[%p]
+
+JA [name]たくや[line]えっ、そ、それはその‥‥。[%p]
+ZH [name]拓也[line]诶，这、这是那个……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]保健室でベッドに寝ていたときに、胸に輝いていたから‥‥何だか大切そうだなって。[%p]
+ZH [name]拓也[line]因为你在保健室的床上睡着的时候，它在你胸前耀耀生辉……总觉得看上去很重要的样子。[%p]
+
+JA [name]神奈[line]そうですか‥‥。[%p]
+ZH [name]神奈[line]这样呀……。[%p]
+
+JA [name]たくや[line]大切なモノなんだろう?[%p]
+ZH [name]拓也[line]是重要的东西吧？[%p]
+
+JA [name]神奈[line]これが無くなれば、私は死にます。[%p]
+ZH [name]神奈[line]没有这个的话，我会死。[%p]
+
+JA [name]たくや[line]死ぬ‥‥?[%p]
+ZH [name]拓也[line]死……？[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]ははは‥‥なるほど。それだけ、大切なモノってわけか。[%p]
+ZH [name]拓也[line]哈哈哈……原来如此。这样的话，我就明白了那是很重要的东西。[%p]
+
+JA [name]神奈[line]なぜ、このネックレスを気にするのですか。[%p]
+ZH [name]神奈[line]为什么，你会在意这个项链呢。[%p]
+
+JA [name]たくや[line]別に、ただ単に綺麗だったな‥‥って。[%p]
+ZH [name]拓也[line]没什么，只是单纯觉得它很漂亮……。[%p]
+
+JA [name]神奈[line]‥‥そうですか。[%p]
+ZH [name]神奈[line]……这样啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥ここは噴水の近くですから、気を付けないと。[%p]
+ZH [name]神奈[line]……这里离喷泉很近，如果不注意的话。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]神奈[line]この宝石は、水に漬けると変質してしまいます。だから、噴水のそばはダメなのです。[%p]
+ZH [name]神奈[line]这个宝石，如果沾了水的话会变质的。所以，才不能在喷泉的附近。[%p]
+
+JA [name]たくや[line]水に漬けると‥‥変質? 何のことだい?[%p]
+ZH [name]拓也[line]沾水的话会……变质？什么意思啊？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]それよりもさ、気分はどう?[%p]
+ZH [name]拓也[line]比起这个，你的身体怎么样？[%p]
+
+JA [name]神奈[line]‥‥?[%p]
+ZH [name]神奈[line]……？[%p]
+
+JA [name]たくや[line]昨日は2回も倒れたじゃないか。だから、気分はどうって?[%p]
+ZH [name]拓也[line]昨天不是倒下了两次吗。所以，现在身体怎么样？[%p]
+
+JA [name]神奈[line]大丈夫です。今日は比較的‥‥。[%p]
+ZH [name]神奈[line]没事的。今天比较好点了……。[%p]
+
+JA [name]たくや[line]そっか。それは良かった。[%p]
+ZH [name]拓也[line]这样啊。这就好啦。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]いつも、そうなのかい?[%p]
+ZH [name]拓也[line]一直，都像这样子吗？[%p]
+
+JA [name]神奈[line]何がですか。[%p]
+ZH [name]神奈[line]什么。[%p]
+
+JA [name]たくや[line]ムスッとしてる。[%p]
+ZH [name]拓也[line]冷淡。[%p]
+
+JA [name]神奈[line]していません。[%p]
+ZH [name]神奈[line]没有。[%p]
+
+JA [name]たくや[line]してるよ。[%p]
+ZH [name]拓也[line]有哦。[%p]
+
+JA [name]神奈[line]これが普通です。[%p]
+ZH [name]神奈[line]这就是平常样子。[%p]
+
+JA [name]たくや[line]でも、写真の中の神奈チャン、結構可愛く笑っていたぜ。[%p]
+ZH [name]拓也[line]但是，照片中的神奈，很可爱地笑着。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]あんな笑顔、見せることもあるんだ。[%p]
+ZH [name]拓也[line]也曾展现过，那样的笑容。[%p]
+
+JA [name]神奈[line]‥‥![%p]
+ZH [name]神奈[line]……！[%p]
+
+JA [name]神奈[line]勝手に見るなんて、酷いんですね。[%p]
+ZH [name]神奈[line]擅自看了什么的，你很过分哦。[%p]
+
+JA [name]たくや[line]悪いとは思いつつ、見たよ。[%p]
+ZH [name]拓也[line]虽然觉得抱歉，但我看到了。[%p]
+
+JA [name]神奈[line]‥‥だから、私のことを気にかけるんですね。[%p]
+ZH [name]神奈[line]……所以，才对我的事情上心吧。[%p]
+
+JA [name]たくや[line]それもある。だけど、それだけじゃない。[%p]
+ZH [name]拓也[line]也有这个原因。但是，并不仅仅如此。[%p]
+
+JA [name]神奈[line]他に何か?[%p]
+ZH [name]神奈[line]还有别的什么？[%p]
+
+JA [name]たくや[line]気になるんだ、君が。[%p]
+ZH [name]拓也[line]很在意，对你。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥私の、何が気になるんですか。[%p]
+ZH [name]神奈[line]……对我的，什么在很意。[%p]
+
+JA [name]たくや[line]俺もよくわからないんだが、君と一緒にいると、なぜかドキドキする。ここ最近、ずっとだ。[%p]
+ZH [name]拓也[line]我也不太明白，和你在一起的话，为什么心会扑通扑通地跳。最近，一直是这样。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]変な意味じゃないぜ。何というか、妙な感覚なんだ。[%p]
+ZH [name]拓也[line]没有奇怪的意思。总有种，奇妙的感觉。[%p]
+
+JA [name]神奈[line]‥‥思い過ごしです。[%p]
+ZH [name]神奈[line]……你想多了。[%p]
+
+JA [name]たくや[line]君は、こうはならないのかい?[%p]
+ZH [name]拓也[line]你似乎在口吃哦？[%p]
+
+JA [name]神奈[line]‥‥なりません。[%p]
+ZH [name]神奈[line]……不会。[%p]
+
+JA [name]たくや[line]本当に?[%p]
+ZH [name]拓也[line]真的吗？[%p]
+
+JA [name]神奈[line]ほ、本当です。[%p]
+ZH [name]神奈[line]真、真的。[%p]
+
+JA [name]たくや[line]どもったような気が。[%p]
+ZH [name]拓也[line]你似乎结巴了。[%p]
+
+JA [name]神奈[line]どもってません![%p]
+ZH [name]神奈[line]才没有结巴！[%p]
+
+JA [name]たくや[line]オーケー、そういうことにしておこう。[%p]
+ZH [name]拓也[line]ｏｋ，那就当是这样吧。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]なぜ‥‥。[%p]
+ZH [name]神奈[line]为什么……。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]神奈[line]なぜ、色々と訊かないんですか?[%p]
+ZH [name]神奈[line]为什么，不问我这样那样的事？[%p]
+
+JA [name]たくや[line]訊いたら、答えてくれるのかな。[%p]
+ZH [name]拓也[line]问了的话，你会回答我吗。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]もしも、俺のオヤジ‥‥あのロートルに酷いことをされたなら、俺が責任を取るよ。[%p]
+ZH [name]拓也[line]如果，我的老头子……那个老头子对你做了什么过分的事情，我会负责的。[%p]
+
+JA [name]神奈[line]‥‥彼はそういう人ではありません。[%p]
+ZH [name]神奈[line]……他不是这样的人。[%p]
+
+JA [name]たくや[line]か、彼‥‥?[%p]
+ZH [name]拓也[line]他、他……？[%p]
+
+JA [name]たくや[line](の野郎、神奈チャンに彼呼ばわりされるとは。)[%p]
+ZH [name]拓也[line](（那个家伙，被神奈称呼为他实在是。）。)[%p]
+
+JA [name]神奈[line]自分のお父様のこと、何もわかっていないんですね。[%p]
+ZH [name]神奈[line]你对自己的父亲，完全不了解呢。[%p]
+
+JA [name]たくや[line]わかってるぜ、スケベで節操のない、男の風上にもおけない‥‥。[%p]
+ZH [name]拓也[line]我知道啊，没有节操的的老色鬼，也没有男人的风度……。[%p]
+
+JA [name]たくや[line]あっ、神奈チャン‥‥。[%p]
+ZH [name]拓也[line]啊、神奈……。[%p]
+
+JA [name]神奈[line]‥‥帰ります。[%p]
+ZH [name]神奈[line]……我回去了。[%p]
+
+JA [name]たくや[line]ちょ、ちょっと‥‥。[%p]
+ZH [name]拓也[line]等、等等……。[%p]
+
+JA [name]神奈[line]色々と、ありがとうございました。[%p]
+ZH [name]神奈[line]之前种种，非常感谢。[%p]
+
+JA [name]たくや[line]礼なんかいいよ‥‥。[%p]
+ZH [name]拓也[line]感谢什么的就不用了……。[%p]
+
+JA [name]神奈[line]ごめんなさい、ありがとう、さようなら。[%p]
+ZH [name]神奈[line]对不起，谢谢，再见。[%p]
+
+JA [name]たくや[line]ちょ、ちょっと‥‥
+ZH [name]拓也[line]等、等等……
+
+JA 神奈チャン![%p]
+ZH 神奈！[%p]
+
+JA [name]たくや[line]ちょ、ちょっと‥‥神奈チャン!
+ZH [name]拓也[line]等、等等……神奈！
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]俺がオヤジのことを、わかっていない、か‥‥。[%p]
+ZH [name]拓也[line]我对老头子的事情，不了解，吗……。[%p]
+
+JA [name]たくや[line]‥‥神奈チャンは、いったい何を知っていたんだろう。[%p]
+ZH [name]拓也[line]……神奈她，到底知道些什么。[%p]
+
+JA [name]たくや[line]訊きたいことなんて、山ほどあったのに‥‥。[%p]
+ZH [name]拓也[line]想问她的事情，太多太多了……。[%p]
+
+JA [name]たくや[line]でも、最後、妙な感じだった‥‥。[%p]
+ZH [name]拓也[line]但是，最后，有奇妙的感觉……。[%p]
+
+JA [name]たくや[line]何を言いたかったんだろう‥‥。[%p]
+ZH [name]拓也[line]我都说了什么呀……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]神奈チャンは行ってしまったからな‥‥ここにいても、しょうがないか。[%p]
+ZH [name]拓也[line]神奈都走了……再在这里，也没什么可做了。[%p]
+
+JA [name]たくや[line]高台へ戻ろう‥‥。[%p]
+ZH [name]拓也[line]回到高台去吧……。[%p]
+
+JA [name]神奈[line]あっ‥‥。[%p]
+ZH [name]神奈[line]啊……。[%p]
+
+JA [name]たくや[line]子犬だ‥‥可愛いな。[%p]
+ZH [name]拓也[line]小狗……好可爱啊。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]首輪をしていないってことは、野良犬か。ったく、また付近の住民が捨てたんだな。[%p]
+ZH [name]拓也[line]没有戴项圈，是野狗吗。实在是，又或许是附近居民丢掉的吧。[%p]
+
+JA [name]神奈[line]そうなんですか?[%p]
+ZH [name]神奈[line]这样吗？[%p]
+
+JA [name]たくや[line]社会問題にもなってるじゃないか。ペットを飼いきれなくなって捨てる飼い主が多いんだ。[%p]
+ZH [name]拓也[line]不是已经成了社会问题了吗。因为不能饲养宠物而将之丢弃的主人多着呢。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]人間って勝手なもんだよな。可愛くて飼い始めたはいいが、すぐに飽きたりして捨ててしまう。[%p]
+ZH [name]拓也[line]所谓的人类啊就是自私呢。虽然因为觉得可爱而开始饲养，但很快腻了又会将之抛弃。[%p]
+
+JA [name]神奈[line]‥‥人間は勝手だと思います。[%p]
+ZH [name]神奈[line]……人类好自私。[%p]
+
+JA [name]たくや[line]環境保護の立場からも?[%p]
+ZH [name]拓也[line]从环保的立场而言也？[%p]
+
+JA [name]神奈[line]私はそういう運動はしていません。[%p]
+ZH [name]神奈[line]我没有参加那样运动。[%p]
+
+JA [name]たくや[line]その割には、現場監督の野郎に、随分と詰め寄っていたじゃないか。[%p]
+ZH [name]拓也[line]虽然如此，但你不是狠狠的逼迫了现场监督的家伙吗。[%p]
+
+JA [name]神奈[line]彼らのために言っただけです。[%p]
+ZH [name]神奈[line]我是为他们好才说了那样的话。[%p]
+
+JA [name]たくや[line]なるほど、環境破壊は、めぐりめぐって、彼らのためにはならないと。[%p]
+ZH [name]拓也[line]原来如此，环境破坏，兜兜转转，如果不是为了他们的话。[%p]
+
+JA [name]神奈[line]私はそういう運動はしていません。[%p]
+ZH [name]神奈[line]我没有参加那样运动。[%p]
+
+JA [name]たくや[line]ふぅん‥‥。[%p]
+ZH [name]拓也[line]哼……。[%p]
+
+JA [name]たくや[line]神奈チャンにすり寄ってるんだぜ。[%p]
+ZH [name]拓也[line]正在靠近神奈。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]ママと間違えているんじゃないか?[%p]
+ZH [name]拓也[line]把你和妈妈弄错了了吗？[%p]
+
+JA [name]神奈[line]私は‥‥ママじゃありません。[%p]
+ZH [name]神奈[line]我……不是妈妈。[%p]
+
+JA [name]たくや[line]俺に言わないで、その子犬に言いなよ。[%p]
+ZH [name]拓也[line]不是在说我，是在说这条小狗。[%p]
+
+JA [name]神奈[line]動物は‥‥好きではありません。[%p]
+ZH [name]神奈[line]我……不喜欢动物。[%p]
+
+JA [name]たくや[line]なぜ好きじゃないんだい?[%p]
+ZH [name]拓也[line]为什么不喜欢？[%p]
+
+JA [name]神奈[line]嫌いだからです。[%p]
+ZH [name]神奈[line]因为讨厌啊。[%p]
+
+JA [name]たくや[line]論理的だな。[%p]
+ZH [name]拓也[line]真是会理论。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]理由を訊いていい?[%p]
+ZH [name]拓也[line]我可以问原因吗？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]無理にとは言わないけど。[%p]
+ZH [name]拓也[line]虽说不能勉强。[%p]
+
+JA [name]神奈[line]‥‥子犬みたいに、何も考えることなく人生を満喫できたら、人は幸せでしょうね。[%p]
+ZH [name]神奈[line]……像小狗一样，什么都不用考虑只用享受人生的话，会很幸福吧。[%p]
+
+JA [name]たくや[line]何も考えないのが、幸せだと思っているんだ、神奈チャンは。[%p]
+ZH [name]拓也[line]什么都不用考虑，就是幸福，神奈你是这么觉得。[%p]
+
+JA [name]神奈[line]そうは言っていません。ただ、怒りや悩み、悲しみ、寂しさからは無縁でいられます。[%p]
+ZH [name]神奈[line]我没有这么说。只是，也就与，愤怒、烦恼、悲伤、寂寞之类的无缘了吧。[%p]
+
+JA [name]たくや[line]怒りや悲しみがあるから、人生が充実するんだと思うぜ。喜びがより引き立つという見方もできるしね。[%p]
+ZH [name]拓也[line]我觉得正因为有愤怒和悲伤，人生才会充实。才更能体会喜悦的感觉。[%p]
+
+JA [name]神奈[line]それは、本当の怒りや悲しみを味わったことの無い人が、言う言葉です。[%p]
+ZH [name]神奈[line]这是，没有真正尝过愤怒与悲伤滋味的人，才会说的话。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](本当の怒りや、悲しみ‥‥?)[%p]
+ZH [name]拓也[line](（真正的愤怒和，悲伤……？）)[%p]
+
+JA [name]たくや[line]神奈チャンは、それを味わったのかい?[%p]
+ZH [name]拓也[line]神奈，你知道这个的意思吗？[%p]
+
+JA [name]神奈[line]裏切られたり、憎まれたり‥‥もうたくさんです。[%p]
+ZH [name]神奈[line]被背叛，被憎恶……太多了。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]神奈[line]‥‥何でもありません。[%p]
+ZH [name]神奈[line]……没什么。[%p]
+
+JA [name]たくや[line]へへっ、こいつ、本当に何も考えていなさそうだよな。ただ単純に「好き」って感情で動いているんだ。[%p]
+ZH [name]拓也[line]嘿嘿，这家伙，真是什么都没在思考的样子。仅仅的单纯的凭着所谓［喜欢］的这种感情在行动。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]神奈チャンに、懐いてるんだぜ。[%p]
+ZH [name]拓也[line]它很，亲近神奈你呢。[%p]
+
+JA [name]神奈[line]そんなこと‥‥ありません。この子犬は、私がどういう人間かを知らないんです。[%p]
+ZH [name]神奈[line]才……才没有。这只小狗，不知道我是什么样的人。[%p]
+
+JA [name]たくや[line]どういう人間なんだい?[%p]
+ZH [name]拓也[line]是什么样的人？[%p]
+
+JA [name]神奈[line]私は‥‥有馬さんが考えているような人ではありません。[%p]
+ZH [name]神奈[line]我……不是像有马同学你所想的那样的人。[%p]
+
+JA [name]たくや[line]俺が、神奈チャンを、どう考えていると考えてるの?[%p]
+ZH [name]拓也[line]我，所想的神奈，是怎么样的？[%p]
+
+JA [name]神奈[line]ズルいです。私から話を訊こうとばかりして。[%p]
+ZH [name]神奈[line]真是狡猾。只想着套我的话。[%p]
+
+JA [name]たくや[line]‥‥わかった。やめよう。[%p]
+ZH [name]拓也[line]……知道啦。我不这样了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]あっ‥‥行っちまった。[%p]
+ZH [name]拓也[line]啊……走掉了。[%p]
+
+JA [name]神奈[line]私に飽きてしまったのでしょう。[%p]
+ZH [name]神奈[line]对我已经腻了吧。[%p]
+
+JA [name]たくや[line]でも、やたらとスリよってきていたね。[%p]
+ZH [name]拓也[line]但是，你喂它的话它又会凑过来了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]子犬ってのは、いいヤツ、悪いヤツってのを本能的に見分けるっていうぜ。[%p]
+ZH [name]拓也[line]小狗啊，对于好家伙坏家伙，会凭着本能去分辨出来哦。[%p]
+
+JA [name]神奈[line]‥‥そんなこと、ありません。[%p]
+ZH [name]神奈[line]……才没有，这种事。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]有馬さんみたいな人、初めてです‥‥。[%p]
+ZH [name]神奈[line]有马同学这样的人，我第一次遇到……。[%p]
+
+JA [name]たくや[line]そうかな。[%p]
+ZH [name]拓也[line]这样吗。[%p]
+
+JA [name]神奈[line]とらえどころがありません。[%p]
+ZH [name]神奈[line]捉摸不透。[%p]
+
+JA [name]たくや[line]お互いさまだろう?[%p]
+ZH [name]拓也[line]你也差不多吧？[%p]
+
+JA [name]神奈[line]‥‥なぜ、何もしなかったのですか?[%p]
+ZH [name]神奈[line]……为什么，什么都不做？[%p]
+
+JA [name]たくや[line]何もしないって‥‥何のことさ。[%p]
+ZH [name]拓也[line]什么都不做是指……什么东西。[%p]
+
+JA [name]神奈[line]昨夜です。[%p]
+ZH [name]神奈[line]昨晚。[%p]
+
+JA [name]たくや[line]‥‥もしかして、傷ついた?[%p]
+ZH [name]拓也[line]……难道，受伤了？[%p]
+
+JA [name]神奈[line]いいえ、でも有馬さんみたいな人、初めてですから。[%p]
+ZH [name]神奈[line]不是的，但是像有马同学这样的人，是初次遇见。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どう解釈すればいいんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（应该解释成什么才好呢……。）。)[%p]
+
+JA [name]たくや[line](俺みたいに手を出さなかった男が、初めてってことか‥‥?)[%p]
+ZH [name]拓也[line](（像我这样没有对她出手的男人，是初次遇到……？）)[%p]
+
+JA [name]たくや[line](それじゃあ、まるで‥‥。)[%p]
+ZH [name]拓也[line](（这样的话，就好像……。）。)[%p]
+
+JA [name]神奈[line]恐い顔をしていますね。[%p]
+ZH [name]神奈[line]表情很惊恐呢。[%p]
+
+JA [name]たくや[line]いやその、はっはっは、笑ってるぞ。[%p]
+ZH [name]拓也[line]没有，我这是，哈哈哈哈哈，你笑了哦。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]神奈チャンこそ、あまり笑わないんだね。[%p]
+ZH [name]拓也[line]神奈你才是，都不怎么笑。[%p]
+
+JA [name]神奈[line]そうでしょうか。[%p]
+ZH [name]神奈[line]说的很有道理。[%p]
+
+JA [name]たくや[line]ニコッて笑ってくれない?[%p]
+ZH [name]拓也[line]不能微笑一下吗？[%p]
+
+JA [name]神奈[line]無理です。[%p]
+ZH [name]神奈[line]不行。[%p]
+
+JA [name]たくや[line]よし、俺が笑わせてやろう。コチョコチョっと。[%p]
+ZH [name]拓也[line]好吧，那我来逗笑你。咯嘻咯嘻。[%p]
+
+JA [name]神奈[line]男の人って、みんな同じことを言うんですね。[%p]
+ZH [name]神奈[line]男人什么的，大家都说一样的话呢。[%p]
+
+JA [name]たくや[line]んなことを言う、変態野郎がいるのか?[%p]
+ZH [name]拓也[line]有说那种话的变态家伙吗，？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]あっ、俺のことか。[%p]
+ZH [name]拓也[line]啊、是在说我啊。[%p]
+
+JA [name]神奈[line]‥‥有馬さん、面白い人ですね。[%p]
+ZH [name]神奈[line]……有马同学，真是个有趣的人。[%p]
+
+JA [name]たくや[line]んー、惜しいな。もうちょっとだったか。[%p]
+ZH [name]拓也[line]嗯，真可惜啊。还差一点吗。[%p]
+
+JA [name]神奈[line]私を笑わせると、何かいいことでもあるんですか?[%p]
+ZH [name]神奈[line]让我笑出来，有什么好处吗？[%p]
+
+JA [name]たくや[line]俺の心がときめくんだ。[%p]
+ZH [name]拓也[line]我的心会跳动不已。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]俺なんて、青空を見上げながら、笑うことだってあるぞ。[%p]
+ZH [name]拓也[line]我啊，会一边仰望着天空，一边笑哦。[%p]
+
+JA [name]神奈[line]それではまるで‥‥。[%p]
+ZH [name]神奈[line]这就好像是……。[%p]
+
+JA [name]たくや[line]その先は言わなくていいよ‥‥でも、そうしてるときに限って、遠巻きに女生徒たちがヒソヒソ話したりするんだよな。[%p]
+ZH [name]拓也[line]JF:之后不用说了……但是，只有在这样做的时候，女学生们才会在远处窃窃私语吧。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]あっ、いま少し笑ったろう。[%p]
+ZH [name]拓也[line]啊、现在不是稍微笑了吗。[%p]
+
+JA [name]神奈[line]笑っていません。[%p]
+ZH [name]神奈[line]我才没有笑。[%p]
+
+JA [name]たくや[line]笑ったよ。[%p]
+ZH [name]拓也[line]笑了哦。[%p]
+
+JA [name]神奈[line]いません。[%p]
+ZH [name]神奈[line]没有。[%p]
+
+JA [name]たくや[line]ふぅん、俺の目を見ながら言える?[%p]
+ZH [name]拓也[line]哼，你能看着我的眼睛说嘛？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]笑いは心の潤滑油って、昔から言うだろう?[%p]
+ZH [name]拓也[line]笑是心的润滑油，以前不是有句话这么说的吗？[%p]
+
+JA [name]神奈[line]誰の言葉ですか?[%p]
+ZH [name]神奈[line]谁说的？[%p]
+
+JA [name]たくや[line]俺の言葉。[%p]
+ZH [name]拓也[line]我说的。[%p]
+
+JA [name]神奈[line]‥‥有馬さんって、変な人です。[%p]
+ZH [name]神奈[line]……有马同学，真实奇怪的人。[%p]
+
+JA [name]たくや[line]君ほどじゃないけどね。[%p]
+ZH [name]拓也[line]可赶不上你的程度。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]平和だねぇ‥‥。[%p]
+ZH [name]拓也[line]真是和平啊……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]小鳥がさえずり、噴水が輝く‥‥そのそばで、戯れる母と子。これを平和と言わずして、何と言えよう。[%p]
+ZH [name]拓也[line]小鸟在鸣叫，喷泉在闪耀……旁边游玩的母子，如果这都称不上和平。应该称作什么呢。[%p]
+
+JA [name]神奈[line]そう見えるかも知れませんね。[%p]
+ZH [name]神奈[line]也许确实可以这么看。[%p]
+
+JA [name]たくや[line]ふぅん‥‥異議あり?[%p]
+ZH [name]拓也[line]恩……你有不同看法？[%p]
+
+JA [name]神奈[line]小鳥たちは、いつ外敵に狙われているかわかりません。噴水は、自然を破壊している人間の、単なる免罪符です。[%p]
+ZH [name]神奈[line]小鸟们，不知道什么时候会被外敌狙击。喷泉，只是破坏自然的人类，一厢情愿的免罪符。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]私たちの生活は、微妙な緊張感とバランスの上に成り立っているんです。[%p]
+ZH [name]神奈[line]我们的生活，是在微妙的紧张感和平和的基础上才能成立的。[%p]
+
+JA [name]たくや[line]うん、一理あるね。[%p]
+ZH [name]拓也[line]恩，确实有一定的道理。[%p]
+
+JA [name]神奈[line]一理ではありません。真理です。[%p]
+ZH [name]神奈[line]不是一定的道理。这是真理。[%p]
+
+JA [name]たくや[line]真理ときたか。凄いな。[%p]
+ZH [name]拓也[line]又来真理。真是厉害啊。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]そんな目で見つめないでくれよ。恥ずかしいぜ。[%p]
+ZH [name]拓也[line]不要用这种眼神看我。我会害羞的。[%p]
+
+JA [name]神奈[line]わかりません‥‥。[%p]
+ZH [name]神奈[line]不明白……。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]平和に見えるのは、見えないよりも良いことだと思います。[%p]
+ZH [name]神奈[line]能看见和平，比起看不见始终是好的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]親子が戯れてるな‥‥平和な光景だ。[%p]
+ZH [name]拓也[line]家长与孩子在玩耍……真是和平的光景。[%p]
+
+JA [name]神奈[line]確かに、平和に見えますね‥‥。[%p]
+ZH [name]神奈[line]确实，能看见和平……。[%p]
+
+JA [name]たくや[line]‥‥やけにトゲがあるじゃないか。[%p]
+ZH [name]拓也[line]……相当棘手不是吗。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]子供の笑い声なんかが聞こえてくる公園だ‥‥。[%p]
+ZH [name]拓也[line]能听到孩子们的笑声的公园……。[%p]
+
+JA [name]たくや[line]人が何人かいるな‥‥。[%p]
+ZH [name]拓也[line]会有什么人在呢……。[%p]
+
+JA [name]たくや[line]子供連れの母親が多いみたいだ‥‥。[%p]
+ZH [name]拓也[line]带着孩子的妈妈好像很多……。[%p]
+
+JA [name]たくや[line](憂いがかった表情だ‥‥。)[%p]
+ZH [name]拓也[line](（表情忧虑……。）。)[%p]
+
+JA [name]たくや[line](いったい、何を考えているんだろう‥‥。)[%p]
+ZH [name]拓也[line](（到底，在想些什么呢……。）。)[%p]
+
+JA [name]たくや[line](イタズラはよそう‥‥。)[%p]
+ZH [name]拓也[line](（在计划恶作剧的样子……。）。)[%p]
+
+JA [name]たくや[line](それよりも、神奈チャンの話を聞いてみようぜ‥‥。)[%p]
+ZH [name]拓也[line](（比起这个，听听神奈的话吧……。）。)[%p]
+
+JA [name]たくや[line]ふはぁぁ‥‥。[%p]
+ZH [name]拓也[line]呼啊……。[%p]
+
+JA [name]神奈[line]‥‥有馬さんの行動が、時々わからなくなります。[%p]
+ZH [name]神奈[line]……有马同学你的行动，时常让人不明白。[%p]
+
+JA [name]たくや[line]いやぁ、誉められちゃった。[%p]
+ZH [name]拓也[line]哎呀，被夸奖了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]真顔で呆れないでくれる?[%p]
+ZH [name]拓也[line]你能不要吃惊得那么一本正经吗？[%p]
+
+JA [name]たくや[line]ふぅぅ。[%p]
+ZH [name]拓也[line]呵呵。[%p]
+
+JA [name]神奈[line]‥‥なにか。[%p]
+ZH [name]神奈[line]……怎么了。[%p]
+
+JA [name]たくや[line]いや‥‥。[%p]
+ZH [name]拓也[line]没有……。[%p]
+
+JA [name]たくや[line](綺麗な髪の毛だな‥‥。)[%p]
+ZH [name]拓也[line](（一头漂亮的秀发……。）。)[%p]
+
+JA [name]たくや[line](手ですくと、気持ちよさそうだ‥‥。)[%p]
+ZH [name]拓也[line](（好像用手拂过，会有很舒服的感觉……。）。)[%p]
+
+JA [name]たくや[line](長い髪の毛が、肩にかかっている‥‥。)[%p]
+ZH [name]拓也[line](（长长的秀发，垂到肩膀……。）。)[%p]
+
+JA [name]たくや[line](環境破壊の免罪符だそうだ‥‥。)[%p]
+ZH [name]拓也[line](（环境破坏的免罪符啊……。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line]噴水だな‥‥。[%p]
+ZH [name]拓也[line]是喷水池……。[%p]
+
+JA [name]神奈[line]環境破壊の、免罪符ですね‥‥。[%p]
+ZH [name]神奈[line]这是环境破坏的，免罪符……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]柵だよ‥‥。[%p]
+ZH [name]拓也[line]篱笆……。[%p]
+
+JA [name]たくや[line]人が落っこちないように、柵が立ててある。[%p]
+ZH [name]拓也[line]像是为了禁止人翻越，立了篱笆。[%p]
+
+JA [name]たくや[line]乗り越えて、飛び込めば関係ないよな‥‥要はうっかり落ちてしまうのを防ぐってことだろう。[%p]
+ZH [name]拓也[line]要翻越的话，跳进去应该没有关系……重要的是要谨防不要忽然掉下来了。[%p]
+
+JA [name]神奈[line]‥‥あの、それがどうかしましたか?[%p]
+ZH [name]神奈[line]……啊，这个是出什么事了吗？[%p]
+
+JA [name]たくや[line]どうもしません。[%p]
+ZH [name]拓也[line]没怎么样。[%p]
+
+JA [name]たくや[line](彼女と話してみようぜ‥‥。)[%p]
+ZH [name]拓也[line](（和她说话试试……。）。)[%p]
+
+JA [name]たくや[line](神奈チャン‥‥何を考えているんだろう。)[%p]
+ZH [name]拓也[line](（神奈……在想什么啊。）。)[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないようだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

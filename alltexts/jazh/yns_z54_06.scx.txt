@@ -1,0 +1,84 @@
+JA [name]たくや[line]おかしいな‥‥用意をしておけって、言ってあったのに。[%p]
+ZH [name]拓也[line]奇怪啊‥‥我可说了让她事先准备好的。[%p]
+
+JA [name]たくや[line]あのトカゲのクンクンもいないな‥‥。[%p]
+ZH [name]拓也[line]那只蜥蜴昆昆也没在‥‥。[%p]
+
+JA [name]たくや[line]どうしたんだ‥‥?[%p]
+ZH [name]拓也[line]（怎么回事‥‥？）[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]4年も経つのに、ほんっとに代わり映えのしない居間だよな‥‥。[%p]
+ZH [name]拓也[line]都过去４年了，这起居室一点都没改变‥‥。[%p]
+
+JA [name]たくや[line]ここで家族3人、食事をしたんだった‥‥。[%p]
+ZH [name]拓也[line]我们一家３口就是在这里用餐的‥‥。[%p]
+
+JA [name]たくや[line]キッチンだ‥‥セーレスはいない。[%p]
+ZH [name]拓也[line]这是厨房‥‥塞蕾斯没在这儿。[%p]
+
+JA [name]たくや[line]いつもあそこで、セーレスが食器を洗っていた‥‥。[%p]
+ZH [name]拓也[line]JF:总是在那里，塞雷斯在洗餐具。[%p]
+
+JA [name]たくや[line]すっかり家事が、俺よりも上手くなってしまった‥‥。[%p]
+ZH [name]拓也[line]家务她已经全都比我熟练了‥‥。[%p]
+
+JA [name]たくや[line]もう、それを見ることもない‥‥。[%p]
+ZH [name]拓也[line]已经看不到那个了‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今は片づいている‥‥ユーノが、後片付けをしたんだな。[%p]
+ZH [name]拓也[line]现在先收拾这里‥‥一会儿再去处理优诺。[%p]
+
+JA [name]たくや[line]もう、ここで3人揃って食事をすることもないか‥‥。[%p]
+ZH [name]拓也[line]已经再也不能３人在这里一起吃饭了‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]もう、未練がましく見るのはよそうぜ‥‥。[%p]
+ZH [name]拓也[line]估计会有些依依不舍吧‥‥。[%p]
+
+JA [name]たくや[line]コップやら、皿やら‥‥いろいろと収納されてる。[%p]
+ZH [name]拓也[line]杯子啊，盘子啊‥‥各种东西都存放在这里。[%p]
+
+JA [name]たくや[line]みんな3人分あるところがミソだよな。[%p]
+ZH [name]拓也[line]特点是都有３人份的。[%p]
+
+JA [name]たくや[line]3人分、か‥‥。[%p]
+ZH [name]拓也[line]３人份，吗‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここにユーノはいないぜ‥‥。[%p]
+ZH [name]拓也[line]优诺并不在这里‥‥。[%p]
+
+JA [name]たくや[line]おーい、ユーノ![%p]
+ZH [name]拓也[line]喂，优诺！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おーいユーノ、いないのか!?[%p]
+ZH [name]拓也[line]喂～优诺，不在吗！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何をやってるんだろう‥‥。[%p]
+ZH [name]拓也[line]她在干什么呢‥‥。[%p]
+
+JA [name]たくや[line]今入ってきたばかりだぜ‥‥しょうがないな。[%p]
+ZH [name]拓也[line]刚刚才进来不久‥‥真没办法。[%p]
+
+JA [name]たくや[line]寝室‥‥?[%p]
+ZH [name]拓也[line]卧室‥‥？[%p]
+
+JA 
+ZH 
+

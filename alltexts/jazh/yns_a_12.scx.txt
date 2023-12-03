@@ -1,0 +1,12 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥石の扉は、開いているみたいだ。[%p]
+ZH [name]拓也[line]……一扇石头门，现在好像开着呢。[%p]
+
+JA [name]たくや[line]どうするんだ‥‥?[%p]
+ZH [name]拓也[line]怎么做呢‥‥？[%p]
+
+JA 
+ZH 
+

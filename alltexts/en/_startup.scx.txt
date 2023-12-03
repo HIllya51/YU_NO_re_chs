@@ -1,0 +1,129 @@
+[color index="A0160000"]メッセージオーバー
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Return to Title Menu?
+OK
+Cancel
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+You have not saved, so your progress will be lost.
+Return to Title Menu?
+*You can only save during certain scenes.
+Yes
+No
+Save?
+This will overwrite your previously saved data.
+Yes
+No
+Saving. Please do not turn off the system.
+Return to Title Menu?
+Yes
+No
+You have not saved, so your progress will be lost.
+Return to Title Menu?
+Yes
+No
+Return to Title Menu?
+OK
+Cancel
+シーン回想を中断しますか?
+はい
+いいえ
+Return to Default Settings?
+OK
+Cancel
+Return to Default Settings.
+Saving System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Saving System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Load this Data?
+OK
+Cancel
+このセーブファイルはインストールが完了するまで
+開始することができません。
+インストールが完了するまでお待ちください。
+ロードしない
+Load this Data?
+All unsaved game progress will be lost.
+OK
+Cancel
+All Save Data are locked.
+If all save data will be locked, you can not select the QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+All Save Data are locked.
+If all save data will be locked, you can not select the QUICK SAVE.
+If you would like to select QUICK SAVE.
+Please unlock the unnecessary Save Data.
+Save Data already exists.
+If you choose to overwrite this data, the previous save will be lost.
+Overwrite the Save Data?
+Overwrite
+Cancel
+This Save Data is locked.
+If you would like to overwrite the Save Data, please unlock it.
+There exists the corrupted Save Data.
+If overwrite, it will be lost the previous Save Data.
+Overwrite to the corrupted Save Data?
+Overwrite
+Cancel
+Saving data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Saving System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Checking System Data.
+Loading System Data.
+System Data could not be found.
+System Data created.
+Creating System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+Use hint assisting feature?
+You can change this feature in the Options
+Menu at any time.
+Use
+Do not use
+Saving System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+System Data is corrupted.
+System Data are repaired.
+Repairing System Data.
+Please do not turn off the system. 
+Please do not turn off the PlayStation⑨4 system. 
+This System Data is another user's data.
+Please exit the game and delete System Data.
+System Data is corrupted.
+It failed to load System Data.
+It failed to load System Data.
+Please exit the game and retry.
+It failed to create System Data.
+Please exit the game and retry.

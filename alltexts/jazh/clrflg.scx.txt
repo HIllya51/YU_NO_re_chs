@@ -1,0 +1,135 @@
+JA 
+ZH 
+
+JA [color index="A01F0000"]Dライン[color index="800000"]を送信しました
+ZH [color index="A01F0000"]JF:D线[color index="800000"]JF:已发送
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA [color index="800000"]タイトルメニューに
+ZH [color index="800000"]JF:在标题菜单中
+
+JA [color index="A01F0000"]『EXTRA』メニュー
+ZH [color index="A01F0000"]JF:“EXTRA”菜单
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『EXTRA』メニューに
+ZH [color index="800000"]JF:在“EXTRA”菜单上
+
+JA [color index="A01F0000"]CLEAR LIST
+ZH [color index="A01F0000"]CLEAR LIST
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『EXTRA』メニューに
+ZH [color index="800000"]JF:在“EXTRA”菜单上
+
+JA [color index="A01F0000"]CG LIBRARY
+ZH [color index="A01F0000"]CG LIBRARY
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『EXTRA』メニューに
+ZH [color index="800000"]JF:在“EXTRA”菜单上
+
+JA [color index="A01F0000"]SOUND LIBRARY
+ZH [color index="A01F0000"]SOUND LIBRARY
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『EXTRA』メニューに
+ZH [color index="800000"]JF:在“EXTRA”菜单上
+
+JA [color index="A01F0000"]MOVIE LIBRARY
+ZH [color index="A01F0000"]MOVIE LIBRARY
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『EXTRA』メニューに
+ZH [color index="800000"]JF:在“EXTRA”菜单上
+
+JA [color index="A01F0000"]TIPS
+ZH [color index="A01F0000"]TIPS
+
+JA [color index="800000"]が追加されました。
+ZH [color index="800000"]JF:已添加。
+
+JA [color index="800000"]『TIPS』の
+ZH [color index="800000"]JF:《TIPS》的
+
+JA [color index="A01F0000"]新しい項目
+ZH [color index="A01F0000"]JF:新项目
+
+JA [color index="800000"]が開放されました。
+ZH [color index="800000"]JF:开放了。
+
+JA [color index="800000"]『CG LIBRARY』で
+ZH [color index="800000"]JF:在《CG LIBRARY》中
+
+JA [color index="A01F0000"]新しい項目
+ZH [color index="A01F0000"]JF:新项目
+
+JA [color index="800000"]が開放されました。
+ZH [color index="800000"]JF:开放了。
+
+JA [color index="800000"]RINEトリガーの『設定』→『壁紙設定』で
+ZH [color index="800000"]JF:RINE触发器的“设定”→“壁纸设定”
+
+JA [color index="A01F0000"]新しい壁紙
+ZH [color index="A01F0000"]JF:新建壁纸
+
+JA [color index="800000"]が開放されました。
+ZH [color index="800000"]JF:开放了。
+
+JA [color index="A01F0000"][name]盟誓のリナシメント[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:盟誓的精神[line][color index="800000"]JF:清除
+
+JA [color index="A01F0000"][name]存在証明のオートマトン[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:存在证明自动机[line][color index="800000"]JF:清除
+
+JA [color index="A01F0000"][name]相互再帰のマザーグース[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:互递归的母牛[line][color index="800000"]JF:清除
+
+JA [color index="A01F0000"][name]無限遠点のアルタイル[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:无限远点的磁砖[line][color index="800000"]JF:清除
+
+JA [color index="A01F0000"][name]私秘鏡裏のスティグマ[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:我秘镜里的斯蒂格玛[line][color index="800000"]JF:清除
+
+JA [color index="A01F0000"][name]交差座標のスターダスト[line][color index="800000"] クリア
+ZH [color index="A01F0000"][name]JF:相交坐标星尘[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]盟誓のリナシメント[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:盟誓的精神[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]存在証明のオートマトン[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:存在证明自动机[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]相互再帰のマザーグース[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:互递归的母牛[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]無限遠点のアルタイル[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:无限远点的磁砖[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]私秘鏡裏のスティグマ[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:我秘镜里的斯蒂格玛[line][color index="800000"]JF:清除
+
+JA [color index="810000"][name]交差座標のスターダスト[line][color index="800000"] クリア
+ZH [color index="810000"][name]JF:相交坐标星尘[line][color index="800000"]JF:清除
+
+JA 
+ZH 
+

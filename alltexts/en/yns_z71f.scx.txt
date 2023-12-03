@@ -1,0 +1,2 @@
+[name]Takuya[line]The floor is slippery, so I should be careful.[%p]
+[name]Takuya[line]How long does this path go on for?[%p]

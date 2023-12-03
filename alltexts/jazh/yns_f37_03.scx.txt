@@ -1,0 +1,195 @@
+JA 石を取る
+ZH JF:取石头
+
+JA 石を取らない
+ZH JF:不取石
+
+JA [name]たくや[line]わかった‥‥俺がやる。[%p]
+ZH [name]拓也[line]好吧……我来拿。[%p]
+
+JA [name]香織[line]そうこなくちゃ。[%p]
+ZH [name]香织[line]就这么定了。[%p]
+
+JA [name]たくや[line]堅いな‥‥。[%p]
+ZH [name]拓也[line]很硬啊……。[%p]
+
+JA [name]香織[line]いちおう、硬質ガラスみたいだしね。[%p]
+ZH [name]香织[line]似乎是用了硬质玻璃呀。[%p]
+
+JA [name]たくや[line]よし、ガラスを割るぜ‥‥香織さんは下がっていてくれ。[%p]
+ZH [name]拓也[line]好吧，我要砸碎玻璃咯……香织小姐让开一下。[%p]
+
+JA [name]香織[line]ウフフ‥‥OK。[%p]
+ZH [name]香织[line]嗯哼……ＯＫ。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]きゃっ。[%p]
+ZH [name]香织[line]呀。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][超念石][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[超念石][color index="800000"]JF:得到了。
+
+JA [color index="840000"][超念石][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[超念石][color index="800000"]JF:得到了。
+
+JA [name]香織[line]荒っぽいのね‥‥。[%p]
+ZH [name]香织[line]真是太粗暴了……。[%p]
+
+JA [name]たくや[line]まあね。[%p]
+ZH [name]拓也[line]是嘛。[%p]
+
+JA [name]香織[line]さっ、それを渡してもらえる?[%p]
+ZH [name]香织[line]来，把它交给我吧？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]どうしたのよ‥‥ここまできて。あなたには必要のないものよ。[%p]
+ZH [name]香织[line]怎么了……都到这步了。再说这东西对你来说没必要吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]‥‥どうしたのよ。[%p]
+ZH [name]香织[line]……怎么了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]ここまできて‥‥いいわ、わかった。私がやるわ。[%p]
+ZH [name]香织[line]都到这步了……好吧，我知道了。我来干。[%p]
+
+JA [name]たくや[line]な、何をやっているんだ?[%p]
+ZH [name]拓也[line]你、你在干什么啊？[%p]
+
+JA [name]香織[line]手に、ハンカチを巻いているのよ。少し離れていてちょうだい。[%p]
+ZH [name]香织[line]我在用手帕包手呢。你先让开一下吧。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥でも、何のためにハンカチなんか?[%p]
+ZH [name]拓也[line]啊，啊啊……可是，为什么要用手帕……？[%p]
+
+JA [name]香織[line]こうするためよ![%p]
+ZH [name]香织[line]就是为了这样啊！[%p]
+
+JA [name]たくや[line]うわっ![%p]
+ZH [name]拓也[line]（呜哇！）[%p]
+
+JA [name]たくや[line]あ、荒っぽいな‥‥。[%p]
+ZH [name]拓也[line]太、太乱来……。[%p]
+
+JA [name]香織[line]フフ、まあね。手に入れるための手段は選んでいられないから。[%p]
+ZH [name]香织[line]呵呵，算是吧。这也是为了入手而必须选择的手段。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]さてと‥‥たくや。[%p]
+ZH [name]香织[line]接下来……拓也。[%p]
+
+JA [name]たくや[line]なんだい?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]香織[line]石は手に入れた‥‥あとは逃げるだけ。[%p]
+ZH [name]香织[line]石头到手啦……接下来就是逃走了。[%p]
+
+JA [name]たくや[line]‥‥俺はまだ、目的を果たしていないぜ。[%p]
+ZH [name]拓也[line]……我还、没达成我的目的啊。[%p]
+
+JA [name]香織[line]大丈夫よ、私の目的は果たされるから。[%p]
+ZH [name]香织[line]没关系，我的目的已经达到了。[%p]
+
+JA [name]たくや[line]なんだって?[%p]
+ZH [name]拓也[line]是什么？[%p]
+
+JA [name]香織[line]例えばよ、例えばの話。[%p]
+ZH [name]香织[line]打个比方啊、比方。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]あなたは、ジオ・テクニクスでは完全に部外者。そして有馬主任の息子さん。[%p]
+ZH [name]香织[line]你、完全是Ｇｅｏ　ｔｅｃｈｎｉｃｓ的外部人员呢。而且还是有马主任的儿子。[%p]
+
+JA [name]たくや[line]‥‥何が言いたいんだ?[%p]
+ZH [name]拓也[line]‥‥你什么意思？[%p]
+
+JA [name]香織[line]このままあなたがここに残れば、駆けつけた警備員はどう考えるかしらね。[%p]
+ZH [name]香织[line]要是把你留在这儿，赶过来的警备员会怎么想呢。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]香織[line]実行犯はあなたで、それを指図したのが有馬亜由美さんということにならないかしら。[%p]
+ZH [name]香织[line]可能就把你当成现行犯，把有马亚由美当成你的指使者。[%p]
+
+JA [name]たくや[line]何の話をしている。[%p]
+ZH [name]拓也[line]你在说什么啊。[%p]
+
+JA [name]香織[line]意外に鋭くないのね‥‥私のパートナーには、ちょっと役者としての才能が不足していたみたい。[%p]
+ZH [name]香织[line]意外地不灵敏呢……我的合作者似乎还欠缺了一点能人应有的才干啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]私と行動をともにするなら、もっと先見の明を持つべきだったわ。坊や。[%p]
+ZH [name]香织[line]和我共同行动的话，就必须有点先见之明啊。小朋友。[%p]
+
+JA [name]たくや[line]ぼ、坊や‥‥。[%p]
+ZH [name]拓也[line]小，小娃娃……。[%p]
+
+JA [name]香織[line]じゃね。[%p]
+ZH [name]香织[line]再见咯。[%p]
+
+JA [name]たくや[line]ちょっ‥‥ま、待て![%p]
+ZH [name]拓也[line]等、等一下……！[%p]
+
+JA [name]たくや[line]ここで香織さんを逃がす訳にはいかないぞ。[%p]
+ZH [name]拓也[line]怎么能让香织小姐在这里逃掉呢。[%p]
+
+JA [name]たくや[line]追いかけるんだ![%p]
+ZH [name]拓也[line]追上去！[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]なんだ‥‥どうしたんだ!?[%p]
+ZH [name]拓也[line]怎么回事……出什么情况了！？[%p]
+
+JA [name]アナウンス[line]《D12地区へ侵入者です。警備員は直ちにD12地区へと急行して下さい‥‥。》[%p]
+ZH [name]广播[line]《Ｄ１２地区出现入侵者。警备员请立即前往Ｄ１２区……。》[%p]
+
+JA [name]アナウンス[line]《繰り返します、D12地区へ侵入者です‥‥。》[%p]
+ZH [name]广播[line]《重复一遍，Ｄ１２地区出现入侵者……。》[%p]
+
+JA [name]たくや[line]まさかこのD12地区ってのは‥‥。[%p]
+ZH [name]拓也[line]难道这个Ｄ１２地区就是……。[%p]
+
+JA [name]アナウンス[line]《警備員は、直ちに出入口の封鎖を急いで下さい。》[%p]
+ZH [name]广播[line]《警备员请立即封锁出入口。》[%p]
+
+JA [name]アナウンス[line]《繰り返します。警備員は直ちに出入口の‥‥。》[%p]
+ZH [name]广播[line]《重复一遍，警备员请立即封锁出入口……。》[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やけに騒々しいぜ‥‥。[%p]
+ZH [name]拓也[line]怎么这么吵啊……。[%p]
+
+JA [name]たくや[line]このままだと、とっ捕まってしまう‥‥。[%p]
+ZH [name]拓也[line]就这样下去、会被抓住的‥‥。[%p]
+
+JA [name]たくや[line]かといって、出入口は封鎖されてるだろうし‥‥。[%p]
+ZH [name]拓也[line]可是，出入口应该被封锁了……。[%p]
+
+JA [name]たくや[line]どうする‥‥どこへ行く?[%p]
+ZH [name]拓也[line]怎么办……要去哪里？[%p]
+
+JA 
+ZH 
+

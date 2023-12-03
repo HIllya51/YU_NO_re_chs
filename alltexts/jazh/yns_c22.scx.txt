@@ -1,0 +1,210 @@
+JA [name]たくや[line]‥‥社にやってきたぜ。[%p]
+ZH [name]拓也[line]……来到社了。[%p]
+
+JA [name]たくや[line]誰もいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]たくや[line]三角山だ‥‥。[%p]
+ZH [name]拓也[line]三角山……。[%p]
+
+JA [name]たくや[line]澪は確か、こう言ったんだよな‥‥。[%p]
+ZH [name]拓也[line]我记得，澪这么说过……。[%p]
+
+JA [name]たくや[line]『私の仮説が間違っていなかったら、ここから‥‥』[%p]
+ZH [name]拓也[line]『如果我的假设没有弄错的话，从这里……』[%p]
+
+JA [name]たくや[line]いったい、どういう意味なんだろうな‥‥。[%p]
+ZH [name]拓也[line]到底，是什么意思呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]寒いな‥‥。[%p]
+ZH [name]拓也[line]好冷啊……。[%p]
+
+JA [name]たくや[line]‥‥何で俺はここに来たんだろう。[%p]
+ZH [name]拓也[line]……我为什么会到这里来啊。[%p]
+
+JA [name]たくや[line]やっぱり、ここには何か、人を惹き付けるものがあるんだろうか。[%p]
+ZH [name]拓也[line]果然，这里应该会有什么，能够吸引人的东西在吧。[%p]
+
+JA [name]たくや[line]三角山のふともだ‥‥。[%p]
+ZH [name]拓也[line]三角山的脚下……。[%p]
+
+JA [name]たくや[line]静かだ‥‥誰もいない。[%p]
+ZH [name]拓也[line]很安静……谁都不在。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]三角山のふもと‥‥社だ。[%p]
+ZH [name]拓也[line]三角山的脚下……社。[%p]
+
+JA [name]たくや[line]当たり前だが、亜由美さんはここにはいないぜ‥‥。[%p]
+ZH [name]拓也[line]虽然是理所应该的，不过亚由美小姐不在这里呢……。[%p]
+
+JA [name]たくや[line]静かな所だ‥‥誰も、いないみたいだ。[%p]
+ZH [name]拓也[line]安静的场所……似乎，谁都不在呢。[%p]
+
+JA [name]たくや[line]夜の社というと、あの時を思い出すな‥‥。[%p]
+ZH [name]拓也[line]提到夜晚的社，就回忆起了那个时候……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]三角山のふもとだ‥‥。[%p]
+ZH [name]拓也[line]三角山的脚下……。[%p]
+
+JA [name]たくや[line]三角山のふもとだ‥‥。[%p]
+ZH [name]拓也[line]三角山的脚下……。[%p]
+
+JA [name]たくや[line]三角山のふもとだ‥‥。[%p]
+ZH [name]拓也[line]三角山的脚下……。[%p]
+
+JA [name]たくや[line]神奈チャンが、花を添えていた場所だ‥‥。[%p]
+ZH [name]拓也[line]神奈，供花的场所……。[%p]
+
+JA [name]たくや[line]三角山のふもとだ‥‥。[%p]
+ZH [name]拓也[line]三角山的脚下……。[%p]
+
+JA [name]たくや[line]そういえば澪のやつ、ここで何かを調べていたよな‥‥。[%p]
+ZH [name]拓也[line]这么说来，澪那家伙好像在这里做什么调查啊……。[%p]
+
+JA [name]たくや[line]何をやっていたんだろう‥‥?[%p]
+ZH [name]拓也[line]到底是在做什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]岩の陰に‥‥誰かいる。[%p]
+ZH [name]拓也[line]岩石的背后……有人在。[%p]
+
+JA [name]たくや[line]誰だろう‥‥。[%p]
+ZH [name]拓也[line]是谁呢……。[%p]
+
+JA [name]たくや[line]‥‥神奈チャンじゃないか。[%p]
+ZH [name]拓也[line]……这不是神奈吗。[%p]
+
+JA [name]神奈[line]こんにちは、有馬さん。[%p]
+ZH [name]神奈[line]你好，有马同学。[%p]
+
+JA [name]たくや[line]何をやっていたんだい?[%p]
+ZH [name]拓也[line]你在做什么呢？[%p]
+
+JA [name]神奈[line]お祈り。[%p]
+ZH [name]神奈[line]祈福。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]神奈[line]犠牲者がまた出ないように、お祈りを捧げていたの。[%p]
+ZH [name]神奈[line]希望牺牲者不要再出现了，做这样的祈福。[%p]
+
+JA [name]たくや[line]犠牲者って‥‥。[%p]
+ZH [name]拓也[line]牺牲者是……。[%p]
+
+JA [name]神奈[line]今日か明日あたり、また出るかも知れません。[%p]
+ZH [name]神奈[line]今天或是明天，这附近说不定还会发生。[%p]
+
+JA [name]たくや[line]出るかもって‥‥なにが?[%p]
+ZH [name]拓也[line]说不定发生……发生什么？[%p]
+
+JA [name]神奈[line]有馬さんも気を付けて下さい。[%p]
+ZH [name]神奈[line]有马同学也请当心了。[%p]
+
+JA [name]たくや[line]ちょっ‥‥。[%p]
+ZH [name]拓也[line]等……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行ってしまった‥‥。[%p]
+ZH [name]拓也[line]走掉了……。[%p]
+
+JA [name]たくや[line]いったい彼女、何をやっていたんだろう‥‥あっ。[%p]
+ZH [name]拓也[line]她到底，是在做什么呢……啊。[%p]
+
+JA [name]たくや[line]花だ‥‥。[%p]
+ZH [name]拓也[line]是花……。[%p]
+
+JA [name]たくや[line]花が添えてある‥‥。[%p]
+ZH [name]拓也[line]有花供着……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]犠牲者が出るかも知れない‥‥?[%p]
+ZH [name]拓也[line]说不定会出现牺牲者……？[%p]
+
+JA [name]たくや[line]神奈チャン、いったい何を言おうとしていたんだろう‥‥。[%p]
+ZH [name]拓也[line]神奈，到底想说些什么呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]剣ノ岬のふもと‥‥通称、社だ。[%p]
+ZH [name]拓也[line]剑之岬的山脚……通称为，社。[%p]
+
+JA [name]たくや[line]静かだな‥‥海の音が聞こえてくるだけだ。[%p]
+ZH [name]拓也[line]很安静啊……只能听到海浪的声音。[%p]
+
+JA [name]たくや[line]‥‥全ては、ここから始まったのか‥‥。[%p]
+ZH [name]拓也[line]……全部，都是从这里开始的吗……。[%p]
+
+JA [name]たくや[line]三角山のふもと‥‥通称「社」だ。[%p]
+ZH [name]拓也[line]三角山的脚下……通称为［社］。[%p]
+
+JA [name]たくや[line]相変わらず、誰もいな‥‥あれ?[%p]
+ZH [name]拓也[line]一如既往，谁都不……咦？[%p]
+
+JA [name]たくや[line]岩のところにうずくまっている女性がいるぞ。[%p]
+ZH [name]拓也[line]有个女性蹲在岩石的位置呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](あれ‥‥?)[%p]
+ZH [name]拓也[line](咦……？)[%p]
+
+JA [name]たくや[line](澪じゃないか‥‥何をやっているんだろう。)[%p]
+ZH [name]拓也[line](（那不是澪吗……她在做什么呢。）。)[%p]
+
+JA [name]澪[line]双子岩に関しては、情報量が少なすぎるのよ‥‥。[%p]
+ZH [name]澪[line]有关于双子岩，情报量实在太少了啊……。[%p]
+
+JA [name]澪[line]この文字プレートが、人工物というのは疑いないところね‥‥。[%p]
+ZH [name]澪[line]这块文字板，毫无疑问应该是人工物的吧……。[%p]
+
+JA [name]澪[line]ただ、そうすると‥‥。[%p]
+ZH [name]澪[line]只不过，如果这样的话……。[%p]
+
+JA [name]澪[line]キャッ![%p]
+ZH [name]澪[line]呀！[%p]
+
+JA [name]たくや[line]よっ、お嬢様、何をやってるんだい?[%p]
+ZH [name]拓也[line]哟，大小姐，你在做什么啊？[%p]
+
+JA [name]澪[line]あ、有馬君‥‥何でここに。[%p]
+ZH [name]澪[line]啊，有马君……你怎么在这里。[%p]
+
+JA [name]たくや[line]そりゃ、俺のセリフだよ‥‥お嬢様が、こんな岩場でいったい何をしてるんだい。[%p]
+ZH [name]拓也[line]这句话，应该是我问你的……大小姐，到这种岩场来究竟是干什么的呢。[%p]
+
+JA [name]澪[line]私は‥‥‥‥。[%p]
+ZH [name]澪[line]我是…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](岩を調べていたのかな‥‥。)[%p]
+ZH [name]拓也[line](（调查岩吧……。）。)[%p]
+
+JA [name]たくや[line](だけど、何でこんな岩場を調べる必要があるんだ‥‥?)[%p]
+ZH [name]拓也[line](（不过，有什么必要来调查这个岩场吗……？）)[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,507 @@
+JA [name]たくや[line]‥‥セーレスの手料理だ。腹も減っているし食べてやろうぜ。[%p]
+ZH [name]拓也[line]JF:……塞雷斯亲手做的菜。肚子也饿了，给你吃吧。[%p]
+
+JA [name]たくや[line](目の前にセーレスが座ってるぜ‥‥。)[%p]
+ZH [name]拓也[line](（塞蕾斯坐在眼前……。）。)[%p]
+
+JA [name]たくや[line](食事でもしよう‥‥。)[%p]
+ZH [name]拓也[line](（先吃饭吧……。）。)[%p]
+
+JA [name]たくや[line](セーレスと2人きりで食事か‥‥。)[%p]
+ZH [name]拓也[line](（和塞蕾斯两人一起吃饭……。）。)[%p]
+
+JA [name]たくや[line](何か、ほのぼのしてるよな‥‥。)[%p]
+ZH [name]拓也[line](（不由觉得，有些温暖……。）。)[%p]
+
+JA [name]たくや[line](いったい彼女は、どういう人間なんだろう。)[%p]
+ZH [name]拓也[line](（她到底，是什么人呢。）。)[%p]
+
+JA [name]たくや[line](何で、ああも笑っていられるんだ‥‥?)[%p]
+ZH [name]拓也[line](（为什么，能笑得这么开心呢……？）)[%p]
+
+JA [name]たくや[line](なんだか、楽しそうだよな‥‥。)[%p]
+ZH [name]拓也[line](（不知为什么，会那么开心……。）。)[%p]
+
+JA [name]たくや[line](いったい、何だってそんなに笑っていられるんだ?)[%p]
+ZH [name]拓也[line](（到底，为什么会笑得那么开心呢？）)[%p]
+
+JA [name]たくや[line]食べられるときに食べろ。[%p]
+ZH [name]拓也[line]能吃的时候就吃。[%p]
+
+JA [name]たくや[line]というわけで、食べようぜ。[%p]
+ZH [name]拓也[line]就是这么回事，快吃吧。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line](‥‥とりあえず、目の前にある食事は、食べられるらしい。)[%p]
+ZH [name]拓也[line](（……总之，眼前的食物，应该能吃吧。）。)[%p]
+
+JA [name]たくや[line](食べられるときに食べろ‥‥ってのは、オヤジによく聞かされた言葉だ。)[%p]
+ZH [name]拓也[line](（能吃的时候就吃……这是，老头子经常挂在嘴边的。）。)[%p]
+
+JA [name]たくや[line](そうだよな‥‥いつ食べれらなくなるか、わからないし。)[%p]
+ZH [name]拓也[line](（是啊……也不知道什么时候，再也吃不到了。）。)[%p]
+
+JA [name]たくや[line](セーレスが作った食事だ‥‥。)[%p]
+ZH [name]拓也[line](（塞蕾斯烹饪的食物……。）。)[%p]
+
+JA [name]たくや[line](アイリアが貯蔵していた食物が、まだ残っているみたいだな‥‥。)[%p]
+ZH [name]拓也[line](（艾丽娅储存的食物，还留着一些……。）。)[%p]
+
+JA [name]たくや[line](この辺は、何が食べられて何が食べられないか、まだわからない部分も多いしな‥‥。)[%p]
+ZH [name]拓也[line](（这附近，什么能吃什么不能吃，还有很多部分不明白……。）。)[%p]
+
+JA [name]たくや[line](迂闊に、草を取ってきて食べる訳にもいかない‥‥。)[%p]
+ZH [name]拓也[line](（也不能，稀里糊涂地拔草来吃……。）。)[%p]
+
+JA [name]たくや[line](そんな訳で、彼女が料理したもんを食べてる訳さ‥‥。)[%p]
+ZH [name]拓也[line](（因为这个，她烹饪的料理应该能吃吧……。）。)[%p]
+
+JA [name]たくや[line]どうやら俺は腹が減っているらしい。[%p]
+ZH [name]拓也[line]看来我肚子饿了。[%p]
+
+JA [name]たくや[line]せっかくだからな、食べてやろうぜ。[%p]
+ZH [name]拓也[line]这么难得，就吃吧。[%p]
+
+JA [name]たくや[line]寝る![%p]
+ZH [name]拓也[line]睡了！[%p]
+
+JA [name]たくや[line]‥‥前に、食べよう。[%p]
+ZH [name]拓也[line]……睡前，先吃饭吧。[%p]
+
+JA [name]たくや[line](もう十分に食ったよ‥‥。)[%p]
+ZH [name]拓也[line](（已经吃得够饱了……。）。)[%p]
+
+JA [name]たくや[line](俺の次なる欲求は、睡眠欲だぜ‥‥。)[%p]
+ZH [name]拓也[line](（我的下一个欲求是，睡眠欲……。）。)[%p]
+
+JA [name]たくや[line](もう十分に食ったよ‥‥。)[%p]
+ZH [name]拓也[line](（已经吃得够饱了……。）。)[%p]
+
+JA [name]たくや[line](食欲が満たされたら、次にくるのは‥‥。)[%p]
+ZH [name]拓也[line](（满足了食欲，之后……。）。)[%p]
+
+JA 性欲に決まってる
+ZH JF:一定是性欲
+
+JA 疲れたから睡眠欲
+ZH JF:因为累了所以睡眠欲
+
+JA [name]たくや[line]性欲に決まってるぞ。[%p]
+ZH [name]拓也[line]明显是性欲啊。[%p]
+
+JA [name]たくや[line]俺は今、猛烈に燃えている![%p]
+ZH [name]拓也[line]我现在，正猛烈地燃烧着！[%p]
+
+JA [name]たくや[line]‥‥などという元気があったらいいよな。ははは。[%p]
+ZH [name]拓也[line]……要是这么有精神的话就好了。哈哈哈。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]何でもないです‥‥。[%p]
+ZH [name]拓也[line]没什么事啦……。[%p]
+
+JA [name]たくや[line]疲れたから睡眠欲、だよな。[%p]
+ZH [name]拓也[line]累了所以先满足睡眠欲，也是呢。[%p]
+
+JA [name]たくや[line]そうだよ、今日もあちこちを駆けずり回ったんだった‥‥。[%p]
+ZH [name]拓也[line]就是如此，今天也是四处奔波……。[%p]
+
+JA [name]たくや[line]俺はもうヘトヘトに疲れ切っていたんだ‥‥。[%p]
+ZH [name]拓也[line]JF:我已经筋疲力尽了。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line](とっとっと、セーレスがそばにいたんだった‥‥。)[%p]
+ZH [name]拓也[line](（嘟嘟嘟，塞蕾斯还在身边……。）。)[%p]
+
+JA [name]たくや[line](迂闊なことは言うのをよそう‥‥。)[%p]
+ZH [name]拓也[line](（还是别说些傻话了……。）。)[%p]
+
+JA [name]たくや[line]森の中へ、1人で、黙ってか?[%p]
+ZH [name]拓也[line]瞒着我，一个人，前往森林么？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]ばかっ![%p]
+ZH [name]拓也[line]傻瓜！[%p]
+
+JA [name]セーレス[line]ビクッ。[%p]
+ZH [name]塞蕾斯[line]惊吓。[%p]
+
+JA [name]たくや[line]あれほど、1人で外を出歩くなと、言っただろう!?[%p]
+ZH [name]拓也[line]我不是，说了那么多次，别一个人到外面散步么！？[%p]
+
+JA [name]セーレス[line]クスン‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣‥‥。[%p]
+
+JA [name]たくや[line]アイリアがどうなったのか、忘れちまった訳じゃないよな。[%p]
+ZH [name]拓也[line]你不可能忘了，艾丽娅成了什么样子吧。[%p]
+
+JA [name]セーレス[line]コクン‥‥。[%p]
+ZH [name]塞蕾斯[line]点头……。[%p]
+
+JA [name]たくや[line]何かあったら、どうするつもりなんだよっ。[%p]
+ZH [name]拓也[line]要是出了什么事，你打算怎么办。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]いいか、俺は全知全能じゃないんだ。君を守るといっても、君がそのことを自覚して行動してくれなきゃ‥‥。[%p]
+ZH [name]拓也[line]听好，我不是全知全能。虽然说了要保护好你，但你不抱着自觉采取行动的话……。[%p]
+
+JA [name]セーレス[line]クスン‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]だいたい何なんだよ、君は。[%p]
+ZH [name]拓也[line]你到底，是怎么回事啊。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]家にも帰らず、ここに居着くつもりかい?[%p]
+ZH [name]拓也[line]也不回家，想在这里居住么？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]言っておくがな。[%p]
+ZH [name]拓也[line]话说在前。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]1週間、何も進展がないからといって、俺は自分の世界へ帰ることを諦めた訳じゃないぞ。[%p]
+ZH [name]拓也[line]虽说，这一周完全没有什么进展，但不代表我已经放弃了回归自己的世界。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]こんなところで、いつまでも油を売ってる訳にはいかないんだ。俺にはまだ‥‥。[%p]
+ZH [name]拓也[line]我不能一直，在这种地方浪费时间。我还有……。[%p]
+
+JA [name]セーレス[line]シュン‥‥。[%p]
+ZH [name]塞蕾斯[line]咻……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]グスッ‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣……。[%p]
+
+JA [name]たくや[line]その‥‥今後、気を付けてくれたらいいよ。[%p]
+ZH [name]拓也[line]那个……今后，多加小心就好。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]言い過ぎた。ゴメン。[%p]
+ZH [name]拓也[line]我说得太过分了。抱歉。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line](ちぇっ、しょうがないな‥‥。)[%p]
+ZH [name]拓也[line](（切，没办法……。）。)[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]うおっ、この木の実、すっげぇウマいぞ![%p]
+ZH [name]拓也[line]唔噢，这颗树果，超好吃的！[%p]
+
+JA [name]セーレス[line]‥‥![%p]
+ZH [name]塞蕾斯[line]……！[%p]
+
+JA [name]たくや[line]このイタめ具合というか、調理が絶妙だ。今度、俺が森へ行ったときにでも、取ってくるかな。[%p]
+ZH [name]拓也[line]这翻炒的火候，烹调真是绝妙。下次，我前往森林的时候，也摘些回来。[%p]
+
+JA [name]セーレス[line]ニコニコッ。[%p]
+ZH [name]塞蕾斯[line]笑眯眯。[%p]
+
+JA [name]たくや[line]セーレスの手料理は、ホントにおいしいよな。[%p]
+ZH [name]拓也[line]塞蕾斯亲手做的料理，真的非常好吃。[%p]
+
+JA [name]セーレス[line]ポッ‥‥。[%p]
+ZH [name]塞蕾斯[line]啵……。[%p]
+
+JA [name]たくや[line](まったく‥‥俺はいったいなにをやってるんだ。)[%p]
+ZH [name]拓也[line](（真是的……我到底在干些什么。）。)[%p]
+
+JA [name]たくや[line](おいしいけど‥‥今はバクバク食べる気分じゃない。)[%p]
+ZH [name]拓也[line](（虽然好吃……现在也没有狼吞虎咽的心情。）。)[%p]
+
+JA [name]たくや[line](なんていうと、また「クスン」とか言うに決まってる。)[%p]
+ZH [name]拓也[line](（怎么说呢，感觉她又会开始［啜泣］。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]たくや[line](悪ぃな‥‥今は食べる気分じゃない。)[%p]
+ZH [name]拓也[line](（抱歉……现在没有吃饭的心情。）。)[%p]
+
+JA [name]たくや[line](だってそうだろう? この1週間というもの、あっちをフラフラ、こっちをフラフラ‥‥。)[%p]
+ZH [name]拓也[line](（因为是这样啊？这一周期间，这边溜达，那边闲逛……。）。)[%p]
+
+JA [name]たくや[line](無駄足という言葉は、今の俺のためにあるようなもんだ‥‥。)[%p]
+ZH [name]拓也[line](（白费功夫这一词，简直就是为了现在的我而准备的……。）。)[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]チョイチョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳戳戳。[%p]
+
+JA [name]たくや[line]わあってる。食べてるよ。[%p]
+ZH [name]拓也[line]明白了啦。吃就是了。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥ただ、少し食欲がないんでね。[%p]
+ZH [name]拓也[line]……只是，稍微有些没食欲。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]誰にだって、ブルーなときがあるだろう?[%p]
+ZH [name]拓也[line]无论是谁，都会有忧郁的时候吧？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]今の俺が、まさにそれなんだよ。[%p]
+ZH [name]拓也[line]现在的我，正处于那种时候。[%p]
+
+JA [name]セーレス[line]コクンコクン。[%p]
+ZH [name]塞蕾斯[line]点头点头。[%p]
+
+JA [name]たくや[line]‥‥しかしそれにしても。[%p]
+ZH [name]拓也[line]……不过就算是这样。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]君はここ1週間というもの、毎日毎日、俺をこうして待っている‥‥いったい君の目的はなんなんだ?[%p]
+ZH [name]拓也[line]你在这一周期间，每一天，都这么等着我么……你的目的到底是？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line](話せない人に質問したって、無意味なだけだよな‥‥。)[%p]
+ZH [name]拓也[line](（就是质问不会说话的人，也毫无意义啊……。）。)[%p]
+
+JA [name]たくや[line](わかってるよ‥‥ただ、話しかけたくもなるんだ。)[%p]
+ZH [name]拓也[line](（我也知道……只是，不由得想要搭话。）。)[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]食べてるよ‥‥だいたい、パンとコーンスープくらいないのか、この世界は。[%p]
+ZH [name]拓也[line]会吃的啦……话说，这世界，除了面包和玉米汤就没别的了么。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]コーンスープってのは、黄色くてトウモロコシのコシが効いてて、ちょっとドロっとしていて‥‥。[%p]
+ZH [name]拓也[line]玉米汤是指，黄色的玉米棒才有效，稍微沾了点泥土……。[%p]
+
+JA [name]セーレス[line]フンフン。[%p]
+ZH [name]塞蕾斯[line]嗯嗯。[%p]
+
+JA [name]たくや[line]‥‥何でそんなことを説明しなきゃならないんだっ。[%p]
+ZH [name]拓也[line]……为什么我必须说明这种事情啊。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥そういえば、この料理。[%p]
+ZH [name]拓也[line]奇怪……这么说起来，这份料理。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]こんな木の実、家の[ruby-base]備蓄[ruby-text-start]びちく[ruby-text-end]にあったかな?[%p]
+ZH [name]拓也[line]这种树果，家里的储蓄有么？[%p]
+
+JA [name]セーレス[line]プルンプルン。[%p]
+ZH [name]塞蕾斯[line]摇头摇头。[%p]
+
+JA [name]たくや[line]でも、食卓の上にはある。[%p]
+ZH [name]拓也[line]但是，餐桌上却有。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]アイリアが残した食料じゃないとすると‥‥。[%p]
+ZH [name]拓也[line]不是艾丽娅留下的食量的话……。[%p]
+
+JA [name]セーレス[line]ツンツン。[%p]
+ZH [name]塞蕾斯[line]神气十足。[%p]
+
+JA [name]たくや[line]何だよ、自分を指さしたりして。[%p]
+ZH [name]拓也[line]指着自己，做什么呢。[%p]
+
+JA [name]セーレス[line]ニコニコ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]君が‥‥?[%p]
+ZH [name]拓也[line]是你摘的么……？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line](まさか‥‥セーレスが、これを?)[%p]
+ZH [name]拓也[line](（难道……是塞蕾斯，摘来这个？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]パクパク。[%p]
+ZH [name]塞蕾斯[line]吞咽吞咽。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]もぐもぐ。[%p]
+ZH [name]塞蕾斯[line]咀嚼咀嚼。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]ごっくん。[%p]
+ZH [name]塞蕾斯[line]咕嘟咕嘟。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]何なんだよ、君はっ。[%p]
+ZH [name]拓也[line]你，做什么啊。[%p]
+
+JA [name]セーレス[line]ビクッ。[%p]
+ZH [name]塞蕾斯[line]惊吓。[%p]
+
+JA [name]たくや[line]まったく‥‥。[%p]
+ZH [name]拓也[line]实在是‥‥。[%p]
+
+JA [name]たくや[line](1人で平和そうなんだからな‥‥俺の気も知らないでさ。)[%p]
+ZH [name]拓也[line](（一个人平静生活着……连我的心情都不了解么。）。)[%p]
+
+JA [name]たくや[line](ガミガミ怒ってどうするんだよ‥‥。)[%p]
+ZH [name]拓也[line](（严厉发火也无济于事啊……。）。)[%p]
+
+JA [name]たくや[line](俺はそんなことをしたくないくらい、ブルーなんだ‥‥。)[%p]
+ZH [name]拓也[line](（忧郁得，连都懒得发怒了……。）。)[%p]
+
+JA [name]たくや[line]ガミガミガミガミ‥‥ゲホゲホッ![%p]
+ZH [name]拓也[line]凶神恶煞……咳咳！[%p]
+
+JA [name]たくや[line]せ、背中を叩いてくれてありがと‥‥。[%p]
+ZH [name]拓也[line]谢，谢谢你帮我敲背……。[%p]
+
+JA [name]セーレス[line]クスッ。[%p]
+ZH [name]塞蕾斯[line]嘻～。[%p]
+
+JA [name]たくや[line](今度は笑われてしまった‥‥。)[%p]
+ZH [name]拓也[line](（这回则是笑了……。）。)[%p]
+
+JA [name]たくや[line](アホらしい、もう止めてメシを食おう。)[%p]
+ZH [name]拓也[line]JF:（好像是阿霍，停下来吃饭吧。）[%p]
+
+JA [name]たくや[line]ガミガミガミ![%p]
+ZH [name]拓也[line]凶神恶煞！[%p]
+
+JA [name]セーレス[line]ビクビク![%p]
+ZH [name]塞蕾斯[line]心惊胆战！[%p]
+
+JA [name]たくや[line](‥‥やめよう。)[%p]
+ZH [name]拓也[line](……算了吧。)[%p]
+
+JA [name]たくや[line](でも、なんだかおもしろいぞ。)[%p]
+ZH [name]拓也[line](（但是，好像挺有趣的。）。)[%p]
+
+JA [name]たくや[line]ガミガミ![%p]
+ZH [name]拓也[line]鬼脸！[%p]
+
+JA [name]セーレス[line]ビクッ。[%p]
+ZH [name]塞蕾斯[line]惊吓。[%p]
+
+JA [name]たくや[line](驚いてるじゃないか‥‥やめよう。)[%p]
+ZH [name]拓也[line](（不是吓到她了么……还是算了。）。)[%p]
+
+JA [name]たくや[line](やめようぜ‥‥。)[%p]
+ZH [name]拓也[line](（还是算了吧……。）。)[%p]
+
+JA [name]たくや[line](彼女にあたったところで、虚しいだけだ‥‥。)[%p]
+ZH [name]拓也[line](（捉弄她玩，也只是徒留空虚……。）。)[%p]
+
+JA [name]たくや[line]てめぇ‥‥は、もうやめよう。[%p]
+ZH [name]拓也[line]你……哈，快住手。[%p]
+
+JA [name]たくや[line]彼女が怯えてしまう。[%p]
+ZH [name]拓也[line]她会害怕的。[%p]
+
+JA [name]たくや[line]てめぇこの野郎![%p]
+ZH [name]拓也[line]你这家伙！[%p]
+
+JA [name]セーレス[line]ドキッ![%p]
+ZH [name]塞蕾斯[line]（扑通！）[%p]
+
+JA [name]たくや[line](‥‥などと彼女に当たってもしょうがないよな。)[%p]
+ZH [name]拓也[line](（……迁怒于她也无可奈何啊。）。)[%p]
+
+JA [name]たくや[line](メシを食おうぜ‥‥。)[%p]
+ZH [name]拓也[line](（还是吃饭吧……。）。)[%p]
+
+JA [name]たくや[line](あのな‥‥今はそんなおふざけをする気分じゃないんだ。)[%p]
+ZH [name]拓也[line](（那个……现在没有恶作剧的心情。）。)[%p]
+
+JA [name]たくや[line](もう叫んだよ‥‥それで勘弁してくれ。)[%p]
+ZH [name]拓也[line](（已经开始惊叫了……这样就饶了她吧。）。)[%p]
+
+JA [name]たくや[line]貴様それでも軍人かっ![%p]
+ZH [name]拓也[line]你这家伙这也算是军人么！[%p]
+
+JA [name]セーレス[line]?????[%p]
+ZH [name]塞蕾斯[line]?????[%p]
+
+JA [name]たくや[line]‥‥何でもない。叫びたくなる時が、誰しもあるということだ。[%p]
+ZH [name]拓也[line]……没什么事。无论是谁，都会有想要喊叫的时候。[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](納得されてしまった‥‥。)[%p]
+ZH [name]拓也[line](（她竟然接受了……。）。)[%p]
+
+JA [name]たくや[line](すまんな‥‥今はギャグをする気分でもないんだ。)[%p]
+ZH [name]拓也[line](（抱歉……现在没有玩梗的心情。）。)[%p]
+
+JA 
+ZH 
+

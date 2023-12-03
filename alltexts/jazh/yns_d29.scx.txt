@@ -1,0 +1,96 @@
+JA [name]たくや[line]中庭へ戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]回到中庭来了……。[%p]
+
+JA [name]たくや[line]美月さん、まだかな‥‥。[%p]
+ZH [name]拓也[line]美月，还没好吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ここが龍蔵寺の中庭か‥‥。)[%p]
+ZH [name]拓也[line](（这里是龙藏寺家的中庭……。）。)[%p]
+
+JA [name]たくや[line](純和風って感じだな‥‥。)[%p]
+ZH [name]拓也[line](（纯和风的感觉……。）。)[%p]
+
+JA [name]たくや[line](随分と、手を加えている感じがするな‥‥。)[%p]
+ZH [name]拓也[line](（感觉，经过了相当厉害的装修啊……。）。)[%p]
+
+JA [name]たくや[line](だけど‥‥‥‥。)[%p]
+ZH [name]拓也[line](只是…………。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ところどころ、寂れている部分もある‥‥。)[%p]
+ZH [name]拓也[line](（在有些地方，也有会觉得寂寞的部分……。）。)[%p]
+
+JA [name]美月[line]たくや。[%p]
+ZH [name]美月[line]拓也[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]どうしたのよ、急に立ち止まって‥‥。[%p]
+ZH [name]美月[line]怎么了，突然停下来……。[%p]
+
+JA [name]たくや[line]えっ‥‥なに?[%p]
+ZH [name]拓也[line]诶……什么？[%p]
+
+JA [name]美月[line]‥‥この庭が、気になるの?[%p]
+ZH [name]美月[line]……这个庭院，你很关心？[%p]
+
+JA [name]たくや[line]いやその‥‥何て言うんだろう。[%p]
+ZH [name]拓也[line]没有……应该怎么说好呢。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]手入れしてある部分と、されてない部分が、随分目立つなって。[%p]
+ZH [name]拓也[line]有经过休整的部分，和没有休整过的部分，相当的明显啊。[%p]
+
+JA [name]美月[line]‥‥相変わらず、凄い観察ね。[%p]
+ZH [name]美月[line]……还是老样子，了不起的观察力。[%p]
+
+JA [name]たくや[line]オヤジの影響だよ、たぶん。[%p]
+ZH [name]拓也[line]大概，是受老头子的影响吧。[%p]
+
+JA [name]美月[line]以前の先生だったら、ヘルパーさんを呼んできちんとお手入れしていたんだけど‥‥。[%p]
+ZH [name]美月[line]如果是以前的老师，肯定会找个工人来好好休整一番的……。[%p]
+
+JA [name]たくや[line]ふぅん‥‥。[%p]
+ZH [name]拓也[line]哼……。[%p]
+
+JA [name]美月[line]あっ、そうだわ。お母様に断りをいれてこなくちゃならないわ。[%p]
+ZH [name]美月[line]啊、对了。你一定要回绝她母亲哦。[%p]
+
+JA [name]たくや[line]お母さんって‥‥あの妙齢の婆ちゃん?[%p]
+ZH [name]拓也[line]母亲……是说那个妙龄的老太太？[%p]
+
+JA [name]美月[line]そんな言い方、ダメよ。いちおう、あの人に断っておかなくてはならないの。[%p]
+ZH [name]美月[line]别用那种说法方式啊。不过怎么说，你一定要回绝那个人。[%p]
+
+JA [name]たくや[line]待ってるよ、ここで。[%p]
+ZH [name]拓也[line]那我，就在这里等。[%p]
+
+JA [name]美月[line]‥‥時々、お母様、いなくなってしまうのよね。今も、出てくる気配がないし。[%p]
+ZH [name]美月[line]……他母亲，经常会消失不见呢。现在，感觉也不会出来。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]すぐに戻るわ。ここで待っていて。[%p]
+ZH [name]美月[line]我马上回来。你就在这里等吧。[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さんは行ってしまったか‥‥。[%p]
+ZH [name]拓也[line]美月已经走掉了……。[%p]
+
+JA 
+ZH 
+

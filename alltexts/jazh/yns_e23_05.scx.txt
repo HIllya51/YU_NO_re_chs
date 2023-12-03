@@ -1,0 +1,252 @@
+JA [name]たくや[line]あれれ‥‥?[%p]
+ZH [name]拓也[line]咦咦……？[%p]
+
+JA [name]たくや[line]何で俺はここに戻ってきたんだ‥‥?[%p]
+ZH [name]拓也[line]为什么我会回到这里来啊……？[%p]
+
+JA [name]たくや[line]501号室に来たぜ‥‥神奈チャンの部屋だ。[%p]
+ZH [name]拓也[line]来到了５０１号房间……神奈的房间。[%p]
+
+JA [name]たくや[line]彼女、いるだろうか‥‥?[%p]
+ZH [name]拓也[line]她，应该在的吧……？[%p]
+
+JA [name]たくや[line]ドアとにらめっこしていても、しょうがないんだが‥‥。[%p]
+ZH [name]拓也[line]就算盯着门看，也没有用啊……。[%p]
+
+JA [name]たくや[line]鉄でできたドアだな‥‥意外に丈夫そうだ。[%p]
+ZH [name]拓也[line]铁做的门……出人意料的坚固。[%p]
+
+JA [name]たくや[line]プレートには、『波多乃』と書いてある‥‥。[%p]
+ZH [name]拓也[line]门牌上，写着『波多乃』……。[%p]
+
+JA [name]たくや[line]名前が書いてあるプレートだな‥‥。[%p]
+ZH [name]拓也[line]写着姓氏的门牌……。[%p]
+
+JA [name]たくや[line]『波多乃』と書いてあるぜ。[%p]
+ZH [name]拓也[line]『写着『波多乃』几个字。[%p]
+
+JA [name]たくや[line]おいおい‥‥中にまた入るのか?[%p]
+ZH [name]拓也[line]喂喂……还要进里面去吗？[%p]
+
+JA [name]たくや[line]あれ‥‥開いてる。[%p]
+ZH [name]拓也[line]咦……门开着。[%p]
+
+JA [name]たくや[line]彼女‥‥戻っているのか?[%p]
+ZH [name]拓也[line]她……回来了吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]中に入ってみよう。[%p]
+ZH [name]拓也[line]进里面去看看吧。[%p]
+
+JA [name]たくや[line]神奈チャンとは、もう一度話してみたい。[%p]
+ZH [name]拓也[line]想跟神奈，再说一回话。[%p]
+
+JA [name]たくや[line]よし、中に入るぞ。[%p]
+ZH [name]拓也[line]好嘞，进家里去吧。[%p]
+
+JA [name]たくや[line]ダメだ‥‥鍵がかかっていて、中には入れない。[%p]
+ZH [name]拓也[line]不行啊……门锁着，里面进不去。[%p]
+
+JA [name]たくや[line]そうだ、さっきまで開いていたから‥‥。[%p]
+ZH [name]拓也[line]对了，因为刚才还是开着的……。[%p]
+
+JA [name]たくや[line]あれ?[%p]
+ZH [name]拓也[line]咦？[%p]
+
+JA [name]たくや[line]鍵が掛かってる‥‥。[%p]
+ZH [name]拓也[line]门锁了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おいおい、また中に入るのか‥‥?[%p]
+ZH [name]拓也[line]喂喂，还要进里面去吗……？[%p]
+
+JA [name]たくや[line]しょうがないな‥‥。[%p]
+ZH [name]拓也[line]没办法啊‥‥。[%p]
+
+JA [name]たくや[line]あれ、開いてる‥‥‥。[%p]
+ZH [name]拓也[line]咦，开着的……。[%p]
+
+JA [name]たくや[line]ドアが開いているぜ‥‥。[%p]
+ZH [name]拓也[line]门是开着的呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]神奈チャン、帰ってるんだろうか‥‥?[%p]
+ZH [name]拓也[line]神奈，回来了吧……？[%p]
+
+JA [name]たくや[line]神奈チャン、いるのかい? 入るぜ?[%p]
+ZH [name]拓也[line]神奈，在不在？　我进来了哦？[%p]
+
+JA [name]たくや[line]‥‥鍵が掛かっていて、入れない。[%p]
+ZH [name]拓也[line]……门锁着，进不去。[%p]
+
+JA [name]たくや[line]‥‥開かない。[%p]
+ZH [name]拓也[line]JF:……打不开。[%p]
+
+JA [name]たくや[line]‥‥どうやら、鍵がかかっているようだ。[%p]
+ZH [name]拓也[line]JF:……好像锁上了。[%p]
+
+JA [name]たくや[line]‥‥閉まってる。[%p]
+ZH [name]拓也[line]……门关着。[%p]
+
+JA [name]たくや[line]そんなことをしたって、彼女はいないよ‥‥。[%p]
+ZH [name]拓也[line]还在做这种事，她不在啊……。[%p]
+
+JA [name]たくや[line]神奈チャンは、あそこに行ったはずなんだ![%p]
+ZH [name]拓也[line]神奈她，应该是去了那个地方了吧！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いないんだろうか‥‥。[%p]
+ZH [name]拓也[line]不在吗……。[%p]
+
+JA [name]たくや[line]‥‥誰も出ない。[%p]
+ZH [name]拓也[line]……谁都没出来。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]どうやら、今は留守らしいぜ‥‥。[%p]
+ZH [name]拓也[line]看来，现在应该出去了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]留守‥‥だろうか。[%p]
+ZH [name]拓也[line]出去……了吧。[%p]
+
+JA [name]たくや[line]静かなマンションだな‥‥。[%p]
+ZH [name]拓也[line]安静的公寓啊……。[%p]
+
+JA [name]たくや[line]意外と言っちゃなんだけど、結構綺麗だよな‥‥。[%p]
+ZH [name]拓也[line]虽然说有点意外，不过还挺干净的呢……。[%p]
+
+JA [name]たくや[line]管理が行き届いているって感じだ‥‥。[%p]
+ZH [name]拓也[line]感觉管理做得不错呢……。[%p]
+
+JA [name]たくや[line]管理費プラス維持費ってのが、べらぼうに高いに違いないぞ。[%p]
+ZH [name]拓也[line]管理费加上维持费用的话，一定很贵吧。[%p]
+
+JA [name]たくや[line]無駄だよ‥‥向こう側から見ないと意味がないぜ。[%p]
+ZH [name]拓也[line]没用……从这边看不到的话就没有意义了。[%p]
+
+JA [name]たくや[line]いわゆる、覗き穴ってヤツだな。[%p]
+ZH [name]拓也[line]这个就是，所谓的窥视孔了。[%p]
+
+JA [name]たくや[line]逆からは、絶対に中が見えないようになっているんだ。[%p]
+ZH [name]拓也[line]反过来的话，里面肯定是能看到的。[%p]
+
+JA [name]たくや[line]レンズの特性上ね。[%p]
+ZH [name]拓也[line]由于透镜的特性吧。[%p]
+
+JA [name]たくや[line]絵画を照らすライトだ‥‥。[%p]
+ZH [name]拓也[line]灯光照耀着绘画……。[%p]
+
+JA [name]たくや[line]絵画を照らしているライトだな‥‥。[%p]
+ZH [name]拓也[line]灯光照耀着绘画……。[%p]
+
+JA [name]たくや[line]インテリアってヤツだろうか。[%p]
+ZH [name]拓也[line]这就是所谓的室内装饰吧。[%p]
+
+JA [name]たくや[line]はっきり言うが、俺には芸術がわからない。[%p]
+ZH [name]拓也[line]老实说，我对艺术完全不明白。[%p]
+
+JA [name]たくや[line]つまり、この絵画の価値もわからん。[%p]
+ZH [name]拓也[line]也就是说，这幅绘画的价值也不懂。[%p]
+
+JA [name]たくや[line]‥‥こういう場所に飾ってある絵画ってのは、例外なく無難な模様か風景が多いんだ。[%p]
+ZH [name]拓也[line]……在这种地方装饰的绘画，毫无例外大多是些无可非议的风景。[%p]
+
+JA [name]たくや[line]無難ってのは、別の言い方をすれば、人々の心にとまりにくいってことさ。[%p]
+ZH [name]拓也[line]所谓的无可非议，用其他说法的话，就是不容易留住人心的意思。[%p]
+
+JA [name]たくや[line]つまり、何だっていいってことになる。[%p]
+ZH [name]拓也[line]也就是说，会变得挺好的感觉。[%p]
+
+JA [name]たくや[line]天井の電灯だ‥‥。[%p]
+ZH [name]拓也[line]天花板的电灯……。[%p]
+
+JA [name]たくや[line]天井に据え付けてある電灯だ‥‥。[%p]
+ZH [name]拓也[line]挂在天花板上的电灯……。[%p]
+
+JA [name]たくや[line]今は、廊下を照らしているぜ‥‥。[%p]
+ZH [name]拓也[line]现在，正照耀着走廊呢……。[%p]
+
+JA [name]たくや[line]観葉植物だな‥‥どこにでも飾ってあるぜ。[%p]
+ZH [name]拓也[line]观叶植物……哪里都有装饰着呢。[%p]
+
+JA [name]たくや[line]観葉植物ってヤツだな‥‥。[%p]
+ZH [name]拓也[line]（那个是观叶植物……。）。[%p]
+
+JA [name]たくや[line]何だか息苦しく感じるのは、こいつらが酸素呼吸をしているせいか?[%p]
+ZH [name]拓也[line]不知为何有种沉闷的感觉，是因为这些东西呼吸氧气的缘故吗？[%p]
+
+JA [name]たくや[line]‥‥今は昼間だからな、光合成の時間のはずだけど。[%p]
+ZH [name]拓也[line]……因为现在还是白天，还是光合作用的时候而已。[%p]
+
+JA [name]たくや[line]置物インテリアの灰皿だ‥‥。[%p]
+ZH [name]拓也[line]装饰摆设用的烟灰缸……。[%p]
+
+JA [name]たくや[line]あれ、でも中には吸い殻がない。[%p]
+ZH [name]拓也[line]咦，里面连吸过的烟头也没有。[%p]
+
+JA [name]たくや[line]ってことは、これも置物みたいなものか?[%p]
+ZH [name]拓也[line]也就是说，这个也是类似于装饰品的东西吗？[%p]
+
+JA [name]たくや[line]灰皿‥‥だろうか。[%p]
+ZH [name]拓也[line]烟灰缸……是吧。[%p]
+
+JA [name]たくや[line]まさか、神奈チャンが吸うわけないよな‥‥。[%p]
+ZH [name]拓也[line]莫非，神奈她应该不会吸烟的吧……。[%p]
+
+JA [name]たくや[line]非常用のホースが入っているんだろう‥‥。[%p]
+ZH [name]拓也[line]紧急用的水管放在里面吧……。[%p]
+
+JA [name]たくや[line]ここを押すと、サイレンが鳴って、消防車が来て、警察が来て、ついでに野次馬も大量に出てくるんだ。[%p]
+ZH [name]拓也[line]只要按了这里，警报器就会响起来，消防车过来，警察过来，然后也会出现很多看热闹的人吧。[%p]
+
+JA [name]たくや[line]大人の時間をいそしんでいる夫婦なんかも、外に飛び出してくることだろう。[%p]
+ZH [name]拓也[line]JF:忙着大人时间的夫妇也会跑到外面来吧。[%p]
+
+JA [name]たくや[line]‥‥押してみる?[%p]
+ZH [name]拓也[line]……按按看吗？[%p]
+
+JA [name]たくや[line]この中には、非常用のホースが、とぐろのように巻いてあるんだ。[%p]
+ZH [name]拓也[line]这里面，紧急用的水管，卷曲地缠绕在一起。[%p]
+
+JA [name]たくや[line]‥‥何だか、言っていて気持ち悪くなってきたな。[%p]
+ZH [name]拓也[line]……感觉，说不出的不舒服。[%p]
+
+JA [name]たくや[line]ドアだよ‥‥。[%p]
+ZH [name]拓也[line]这是门……。[%p]
+
+JA [name]たくや[line]俺が用事あるのは、正面のドアのはずだ。[%p]
+ZH [name]拓也[line]我有事的，应该是正面的那扇门吧。[%p]
+
+JA [name]たくや[line]隣のドアだな‥‥。[%p]
+ZH [name]拓也[line]隔壁的门……。[%p]
+
+JA [name]たくや[line]表札がかかっていないところを見ると、誰も入居していないんだろうか?[%p]
+ZH [name]拓也[line]看到没有挂着门牌的样子，应该是没有人住进来的缘故吧？[%p]
+
+JA [name]たくや[line]‥‥神奈チャンはいないらしい。[%p]
+ZH [name]拓也[line]……神奈好像不在啊。[%p]
+
+JA [name]たくや[line]外に出ようぜ‥‥。[%p]
+ZH [name]拓也[line]去外边吧……。[%p]
+
+JA [name]たくや[line]そうだな‥‥外へ出よう。[%p]
+ZH [name]拓也[line]对啊……到外面去吧。[%p]
+
+JA [name]たくや[line]‥‥外へ出るのか。[%p]
+ZH [name]拓也[line]……到外面去吗。[%p]
+
+JA 
+ZH 
+

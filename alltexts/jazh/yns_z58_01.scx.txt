@@ -1,0 +1,342 @@
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]大丈夫だ‥‥だが、俺から離れるなよ。[%p]
+ZH [name]拓也[line]没事的……不过，你别离开我的身边哦。[%p]
+
+JA [name]ユーノ[line]うん‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい、これは‥‥。)[%p]
+ZH [name]拓也[line](（这个，到底是……。）。)[%p]
+
+JA [name]たくや[line]まるで道しるべだな‥‥。[%p]
+ZH [name]拓也[line]简直像是个路标啊……。[%p]
+
+JA [name]たくや[line]これに沿っていくと、もしかしたら‥‥。[%p]
+ZH [name]拓也[line]沿着这个指示的方向过去，莫非就是……。[%p]
+
+JA [name]ユーノ[line]でも、綺麗ね‥‥こう綺麗に並んでると。[%p]
+ZH [name]优诺[line]JF:但是，好漂亮啊……这么漂亮地排队的话。[%p]
+
+JA [name]たくや[line]綺麗に‥‥並んでる?[%p]
+ZH [name]拓也[line]漂亮地……摆放着？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]確かに‥‥よく見てみると石像の並びに、何だか方向性がある。[%p]
+ZH [name]拓也[line]的确……仔细一看的话，石像的摆放方式好像是有某种方向性的。[%p]
+
+JA [name]ユーノ[line]ほーこーせい?[%p]
+ZH [name]优诺[line]方——向——性？[%p]
+
+JA [name]たくや[line]ああ。ほら、無秩序に並んでるんじゃなくて、ずっと向こうまで連なっている‥‥。[%p]
+ZH [name]拓也[line]啊啊。比如说，就是不是无秩序地摆放起来，一直连到那边方向……。[%p]
+
+JA [name]ユーノ[line]道しるべ![%p]
+ZH [name]优诺[line]路标！[%p]
+
+JA [name]たくや[line]道しるべか‥‥もしかしたら、神殿ってヤツまで連なっているのかもしれない。[%p]
+ZH [name]拓也[line]路标吗……说不定，会一直连到那边的神殿也说不定哦。[%p]
+
+JA [name]ユーノ[line]パパ‥‥どうするの?[%p]
+ZH [name]优诺[line]爸爸……我们怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]静まり返っているが‥‥。[%p]
+ZH [name]拓也[line]四周一片寂静……。[%p]
+
+JA [name]たくや[line]あたりに散らばっている石像は、いったい何なんだ‥‥?[%p]
+ZH [name]拓也[line]周围四处散落着的石像，到底是怎么回事呢……？[%p]
+
+JA [name]ユーノ[line]何だか‥‥寒いね。[%p]
+ZH [name]优诺[line]感觉……好冷啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あたりはシンと静まっている‥‥。[%p]
+ZH [name]拓也[line]附近安静得落针可闻……。[%p]
+
+JA [name]たくや[line]石像の持つ、重々しい雰囲気が伝わってくる‥‥。[%p]
+ZH [name]拓也[line]这石像，给人一种很沉重的气氛……。[%p]
+
+JA [name]ユーノ[line]あちこちに、似たようなのが埋まってるね。[%p]
+ZH [name]优诺[line]这附近，埋了很多相似的石像呢。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]たくや[line](いったい、こいつは‥‥。)[%p]
+ZH [name]拓也[line](（这些东西，到底是……。）。)[%p]
+
+JA [name]ユーノ[line]ひろーい砂漠に、たっくさん埋まってる‥‥。[%p]
+ZH [name]优诺[line]广——阔的沙漠上，埋藏了大量的石像……。[%p]
+
+JA [name]たくや[line]ああ‥‥もう少し調べてみよう。[%p]
+ZH [name]拓也[line]啊啊……稍微再多调查看看吧。[%p]
+
+JA [name]ユーノ[line]たっくさん、埋まっているね。[%p]
+ZH [name]优诺[line]到处都是，埋藏了好多呢。[%p]
+
+JA [name]たくや[line]ああ‥‥石像みたいなのが、たくさん埋まっている‥‥。[%p]
+ZH [name]拓也[line]啊啊……埋藏了好多，像是石像的东西……。[%p]
+
+JA [name]たくや[line]いったい、これは‥‥。[%p]
+ZH [name]拓也[line]（这个，到底是……。）。[%p]
+
+JA [name]たくや[line]‥‥よくみると、棺桶のように見える。[%p]
+ZH [name]拓也[line]……仔细看看的话，好像是棺材一样呢。[%p]
+
+JA [name]たくや[line]‥‥中まで、石が詰まっていそうだがな。[%p]
+ZH [name]拓也[line]……里面，似乎是堆满了石头啊。[%p]
+
+JA [name]たくや[line]人が詰まっていたりしたら、どうしよう‥‥。[%p]
+ZH [name]拓也[line]要是堆满了人的话，该怎么办好呢……。[%p]
+
+JA [name]ユーノ[line]パパ‥‥どうするの?[%p]
+ZH [name]优诺[line]爸爸……我们怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](棺桶かどうか、確かめようがないしな‥‥。)[%p]
+ZH [name]拓也[line](（是棺材还是别的什么，也没办法确认啊……。）。)[%p]
+
+JA [name]たくや[line](仮に確かめたとして、どうなるもんでもない‥‥。)[%p]
+ZH [name]拓也[line](（即使确认了，我也做不了什么事……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]石でできていて、重くて、等身大か‥‥。[%p]
+ZH [name]拓也[line]由石头做成的，很沉重，等身大小吗……。[%p]
+
+JA [name]たくや[line]まるで[ruby-base]棺桶[ruby-text-start]かんおけ[ruby-text-end]だな‥‥。[%p]
+ZH [name]拓也[line]简直像是棺材（ｋａｎｏｋｅ）……。[%p]
+
+JA [name]ユーノ[line]かんおけ‥‥ってなーに?[%p]
+ZH [name]优诺[line]棺材……那是什么？[%p]
+
+JA [name]たくや[line]死んだ人を箱に納めて、葬るためのもんさ‥‥。[%p]
+ZH [name]拓也[line]能把死去的人收到箱子里，方便埋葬的东西……。[%p]
+
+JA [name]ユーノ[line]じゃあ、中に人が入ってるの?[%p]
+ZH [name]优诺[line]那么，里面是有人的喽？[%p]
+
+JA [name]たくや[line]‥‥![%p]
+ZH [name]拓也[line]……！[%p]
+
+JA [name]たくや[line](中に‥‥人が?)[%p]
+ZH [name]拓也[line](（里面……有人？）)[%p]
+
+JA [name]たくや[line](んな、バカな‥‥。)[%p]
+ZH [name]拓也[line](（怎么，可能啊……。）。)[%p]
+
+JA [name]たくや[line]あちこちに散らばっている‥‥いったいこの石像は何なんだ?[%p]
+ZH [name]拓也[line]四处都有散布着……这个石像到底是怎么回事呢？[%p]
+
+JA [name]ユーノ[line]何なんだ?[%p]
+ZH [name]优诺[line]怎么回事呢？[%p]
+
+JA [name]たくや[line]真似すんなよ‥‥まったく。[%p]
+ZH [name]拓也[line]别模仿我啊……真是的。[%p]
+
+JA [name]たくや[line]石‥‥なんだろうか?[%p]
+ZH [name]拓也[line]应该……是石头吧？[%p]
+
+JA [name]たくや[line]‥‥硬いモノだな。[%p]
+ZH [name]拓也[line]……好硬啊。[%p]
+
+JA [name]ユーノ[line]あっ、ユーノにも触らせて![%p]
+ZH [name]优诺[line]啊、也让优诺摸摸看吧！[%p]
+
+JA [name]たくや[line]こら、俺のそばから離れるなって。[%p]
+ZH [name]拓也[line]喂，我不是说别离开我的身边了吗。[%p]
+
+JA [name]ユーノ[line]ふぅん‥‥。[%p]
+ZH [name]优诺[line]哼……。[%p]
+
+JA [name]たくや[line]何だい。[%p]
+ZH [name]拓也[line]什么事。[%p]
+
+JA [name]ユーノ[line]何だか、すっごいチョーコクみたいね。[%p]
+ZH [name]优诺[line]感觉，好像是很厉害的雕刻呢。[%p]
+
+JA [name]たくや[line]彫刻、か‥‥確かに表面に何か彫られているな。[%p]
+ZH [name]拓也[line]雕刻，吗……确实这表面上是雕刻着什么东西啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]人の形の浮き彫りだ‥‥。[%p]
+ZH [name]拓也[line]是人形的浮雕……。[%p]
+
+JA [name]たくや[line]だが、何のためかはわからない‥‥。[%p]
+ZH [name]拓也[line]但是，不知道为什么雕刻上去的……。[%p]
+
+JA [name]たくや[line]‥‥人の形が彫られている。浮き彫りってやつだな。[%p]
+ZH [name]拓也[line]……上面雕刻着人形。也就是所谓的浮雕。[%p]
+
+JA [name]たくや[line]でも、いったい何のために‥‥?[%p]
+ZH [name]拓也[line]不过，到底是为什么呢……？[%p]
+
+JA [name]ユーノ[line]‥‥何だか、見ていると寒くなっちゃう。[%p]
+ZH [name]优诺[line]……感觉，一眼看上去就有股寒意呢。[%p]
+
+JA [name]たくや[line]ああ‥‥そうだな。[%p]
+ZH [name]拓也[line]啊啊……是的呢。[%p]
+
+JA [name]たくや[line]‥‥そうだな。[%p]
+ZH [name]拓也[line]……对了。[%p]
+
+JA [name]たくや[line]方向性を指し示してるっていうなら、それに従ってやろう。[%p]
+ZH [name]拓也[line]如果是用来指示方向的话，那就跟着它的指示走吧。[%p]
+
+JA [name]ユーノ[line]パパ‥‥ユーノ、何だか胸がドキドキするの。[%p]
+ZH [name]优诺[line]爸爸……优诺，感觉胸口在扑通扑通地跳呢。[%p]
+
+JA [name]たくや[line]胸が? 擦ってやろうか?[%p]
+ZH [name]拓也[line]JF:胸部？要不要擦一下？[%p]
+
+JA [name]ユーノ[line]パパ‥‥本当よ。ユーノの胸が熱いの‥‥。[%p]
+ZH [name]优诺[line]爸爸……真的啊。优诺的胸口在发热呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](以前も、そんなときがあったな‥‥。)[%p]
+ZH [name]拓也[line](（以前，也出现过这样的情况啊……。）。)[%p]
+
+JA [name]たくや[line](あのときは、地震があって‥‥。)[%p]
+ZH [name]拓也[line](（那个时候，发生了地震……。）。)[%p]
+
+JA [name]たくや[line](家へ帰ると、セーレスが‥‥。)[%p]
+ZH [name]拓也[line](（回到家之后，塞蕾斯就被……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何かの予感なのか‥‥?)[%p]
+ZH [name]拓也[line](（是某种预感吗……？）)[%p]
+
+JA [name]たくや[line](凶兆の前触れってヤツじゃなきゃいいが‥‥。)[%p]
+ZH [name]拓也[line](（不要是凶兆降临前的预警就好了……。）。)[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line]大丈夫だ。俺のそばを決して離れるなよ。[%p]
+ZH [name]拓也[line]没事的。绝对不要离开我的身边哦。[%p]
+
+JA [name]ユーノ[line]ウン‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、先へ進んでみよう‥‥。[%p]
+ZH [name]拓也[line]总而言之，先向前进看看吧……。[%p]
+
+JA [name]たくや[line]もうちょっと調べてからにしよう‥‥。[%p]
+ZH [name]拓也[line]稍微调查一下之后再说吧……。[%p]
+
+JA [name]たくや[line]‥‥ちょっと待ってくれ。気にならないのか?[%p]
+ZH [name]拓也[line]……稍微等一下。你难道不在意吗？[%p]
+
+JA [name]たくや[line]もう少し、色々と調べてみようぜ‥‥。[%p]
+ZH [name]拓也[line]稍微，在四处调查看看再说吧……。[%p]
+
+JA [name]たくや[line]どこにも行かないったら。今は調べるのが先だ。[%p]
+ZH [name]拓也[line]现在哪里都不去。首先要调查一下看看。[%p]
+
+JA [name]ユーノ[line]あン、パパ、またどこへ行くの?[%p]
+ZH [name]优诺[line]啊嗯，爸爸，你要去什么地方吗？[%p]
+
+JA [name]たくや[line]‥‥どこにもいかないぞ。[%p]
+ZH [name]拓也[line]……哪里都不去哦。[%p]
+
+JA [name]たくや[line]‥‥そうだな、戻るか。[%p]
+ZH [name]拓也[line]……是啊，要回去吗。[%p]
+
+JA [name]ユーノ[line]戻る? どこに?[%p]
+ZH [name]优诺[line]回去？　回哪里去？[%p]
+
+JA [name]たくや[line]‥‥俺はどこに戻ればいいんだろう。[%p]
+ZH [name]拓也[line]……我应该要回哪里去好呢。[%p]
+
+JA [name]ユーノ[line]パパ‥‥大丈夫? 疲れてるみたい。[%p]
+ZH [name]优诺[line]爸爸……没事吧？　你看起来很累啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とてもじゃないが、動かせない‥‥。[%p]
+ZH [name]拓也[line]虽然不是特别重，不过我挪不动……。[%p]
+
+JA [name]ユーノ[line]パパとユーノが一緒でも、動かせないね。[%p]
+ZH [name]优诺[line]就算爸爸和优诺一起，也挪不动吧。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]たくや[line]‥‥とてもじゃないが、俺の力じゃ動かないぜ。[%p]
+ZH [name]拓也[line]……虽然不是特别重，不过凭我的力气挪不动呢。[%p]
+
+JA [name]たくや[line]人間の等身大ってところか‥‥百キロは超えそうだぜ。[%p]
+ZH [name]拓也[line]有人类等身大小吗……应该超过一百公斤了吧。[%p]
+
+JA [name]ユーノ[line]うーん、うーんしょ‥‥ぷはぁ。[%p]
+ZH [name]优诺[line]嗯——，嗯——咻……噗哈啊。[%p]
+
+JA [name]たくや[line]ユーノには無理だよ‥‥。[%p]
+ZH [name]拓也[line]优诺你不可能的……。[%p]
+
+JA [name]たくや[line]ユーノはもういい‥‥。[%p]
+ZH [name]拓也[line]优诺就算了……。[%p]
+
+JA [name]ユーノ[line]そんな悲しいこと言わないでっ。[%p]
+ZH [name]优诺[line]JF:不要说那么悲伤的话。[%p]
+
+JA [name]たくや[line]‥‥何の話だ。[%p]
+ZH [name]拓也[line]……什么意思。[%p]
+
+JA [name]ユーノ[line]もう、パパったらまたぁ‥‥。[%p]
+ZH [name]优诺[line]真是的，爸爸你又来了……。[%p]
+
+JA [name]たくや[line]‥‥俺はいったい何をやってるんだ。[%p]
+ZH [name]拓也[line]……我到底在干什么啊。[%p]
+
+JA [name]ユーノ[line]ユーノを抱きしめてるわっ。[%p]
+ZH [name]优诺[line]你在紧紧抱着优诺啊。[%p]
+
+JA [name]たくや[line]‥‥やめよう。[%p]
+ZH [name]拓也[line]……算了吧。[%p]
+
+JA [name]ユーノ[line]あン‥‥もっともっと、抱いて欲しかったのに。[%p]
+ZH [name]优诺[line]啊嗯……明明就希望，你能够再多多地抱抱我呢。[%p]
+
+JA [name]たくや[line]危険な言い方だ‥‥。[%p]
+ZH [name]拓也[line]危险的说话方式……。[%p]
+
+JA [name]ユーノ[line]あン‥‥そんなに抱きしめて。パパったら。[%p]
+ZH [name]优诺[line]啊嗯……抱得这么紧。爸爸真是的。[%p]
+
+JA [name]たくや[line]‥‥やめよう。[%p]
+ZH [name]拓也[line]……算了吧。[%p]
+
+JA [name]ユーノ[line]ンもう‥‥もっともっと、して欲しかったのに。[%p]
+ZH [name]优诺[line]真是的……明明就希望，你能够再多多地抱抱我呢。[%p]
+
+JA [name]たくや[line]何だか、危険な言い方だな‥‥。[%p]
+ZH [name]拓也[line]感觉，好像是很危险的说法……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,1344 @@
+JA たくや
+ZH 拓也
+
+JA 見る・調べる
+ZH 观察·调查
+
+JA 話す
+ZH 交谈
+
+JA たたく・なぐる
+ZH 敲打·殴打
+
+JA 押す
+ZH 按下
+
+JA 開ける
+ZH 打开
+
+JA 取る
+ZH 取走
+
+JA キスする
+ZH 亲吻
+
+JA さわる
+ZH 触摸
+
+JA もむ
+ZH 揉捏
+
+JA なめる
+ZH 舔舐
+
+JA かむ
+ZH 咬下
+
+JA   
+ZH   
+
+JA ???
+ZH ???
+
+JA 移動
+ZH JF:移动
+
+JA オヤジの手紙
+ZH 父亲的信
+
+JA 磁気カード
+ZH 磁卡
+
+JA 銀のメダル
+ZH 银色徽章
+
+JA 生徒手帳
+ZH 学生手册
+
+JA 金色のカギ
+ZH 金色钥匙
+
+JA 澪のメモ帳
+ZH 澪的记事本
+
+JA 円盤
+ZH 圆盘
+
+JA 鉄の剣
+ZH 铁剑
+
+JA 木刀
+ZH JF:木刀
+
+JA ロープ
+ZH 绳子
+
+JA 20ページ目の書類
+ZH 文件第２０页
+
+JA 機密書類
+ZH 机密文件
+
+JA 豊富の密会写真
+ZH 丰富的密会照片
+
+JA 白いメダル
+ZH 白色徽章
+
+JA 黒いメダル
+ZH 黑色徽章
+
+JA ハンディコンピュータ
+ZH 笔记本电脑
+
+JA ブルーカード
+ZH 蓝卡
+
+JA 超念石
+ZH JF:超念石
+
+JA   
+ZH   
+
+JA 書斎のカギ
+ZH 书房钥匙
+
+JA 宝玉
+ZH JF:宝玉
+
+JA そこ
+ZH 那里
+
+JA 宝玉1
+ZH JF:宝玉1
+
+JA 宝玉2
+ZH JF:宝玉2
+
+JA 宝玉3
+ZH JF:宝玉3
+
+JA 宝玉4
+ZH JF:宝玉4
+
+JA 宝玉5
+ZH JF:宝玉5
+
+JA 宝玉6
+ZH JF:宝玉6
+
+JA 宝玉7
+ZH JF:宝玉7
+
+JA 宝玉8
+ZH JF:宝玉8
+
+JA 移動/オフィス
+ZH JF:移动/办公室
+
+JA 移動/先へ
+ZH JF:移动/转至
+
+JA 移動/戻る
+ZH JF:移动/后退
+
+JA 移動/中に入る
+ZH JF:移动/进入
+
+JA 移動/右へ
+ZH JF:移动/向右
+
+JA 移動/左へ
+ZH JF:移动/向左
+
+JA 使う/オヤジの手紙
+ZH JF:用/父亲的信
+
+JA 使う/磁気カード
+ZH JF:使用/磁卡
+
+JA 使う/銀のメダル
+ZH JF:使用/银牌
+
+JA 使う/生徒手帳
+ZH JF:使用/学生手册
+
+JA 使う/金色のカギ
+ZH JF:使用/金色钥匙
+
+JA 使う/澪のメモ帳
+ZH JF:使用/澪的记事本
+
+JA 使う/円盤
+ZH JF:使用/圆盘
+
+JA 使う/鉄の剣
+ZH JF:使用/铁剑
+
+JA 使う/木刀
+ZH JF:使用，使用
+
+JA 使う/ロープ
+ZH JF:使用/绳索
+
+JA 使う/20ページ目の書類
+ZH JF:使用/第20页的文件
+
+JA 使う/機密書類
+ZH JF:使用/机密文件
+
+JA 使う/豊富の密会写真
+ZH JF:使用/丰富的密会照片
+
+JA 使う/白いメダル
+ZH JF:使用/白色奖牌
+
+JA 使う/黒いメダル
+ZH JF:使用/黑色奖牌
+
+JA 使う/ハンディコンピュータ
+ZH JF:使用/手持计算机
+
+JA 使う/ブルーカード
+ZH JF:使用/蓝卡
+
+JA 使う/超念石
+ZH JF:使用，使用
+
+JA   
+ZH   
+
+JA 使う/書斎のカギ
+ZH JF:使用/书房钥匙
+
+JA 使う/宝玉
+ZH JF:使用，使用
+
+JA ◆使う/オヤジの手紙◆
+ZH JF:◆使用/父亲的信◆
+
+JA ◆使う/磁気カード◆
+ZH JF:◆使用/磁卡◆
+
+JA ◆使う/銀のメダル◆
+ZH JF:◆使用/银牌◆
+
+JA ◆使う/生徒手帳◆
+ZH JF:◆使用/学生手册◆
+
+JA ◆使う/金色のカギ◆
+ZH JF:◆使用/金色钥匙◆
+
+JA ◆使う/澪のメモ帳◆
+ZH JF:◆使用/澪的记事本◆
+
+JA ◆使う/円盤◆
+ZH JF:◆使用/圆盘◆
+
+JA ◆使う/鉄の剣◆
+ZH JF:◆使用/铁剑◆
+
+JA ◆使う/木刀◆
+ZH JF:◆使用/木刀◆
+
+JA ◆使う/ロープ◆
+ZH JF:◆使用/绳索◆
+
+JA ◆使う/20ページ目の書類◆
+ZH JF:◆使用/第20页的文件◆
+
+JA ◆使う/機密書類◆
+ZH JF:◆使用/机密文件◆
+
+JA ◆使う/豊富の密会写真◆
+ZH JF:◆使用/丰富的密会照片◆
+
+JA ◆使う/白いメダル◆
+ZH JF:◆使用/白色奖牌◆
+
+JA ◆使う/黒いメダル◆
+ZH JF:◆使用/黑色奖牌◆
+
+JA ◆使う/ハンディコンピュータ◆
+ZH JF:◆使用/手持电脑◆
+
+JA ◆使う/ブルーカード◆
+ZH JF:◆使用/蓝卡◆
+
+JA ◆使う/超念石◆
+ZH JF:◆使用/超念石◆
+
+JA   
+ZH   
+
+JA ◆使う/書斎のカギ◆
+ZH JF:◆使用/书房的钥匙◆
+
+JA ◆使う/宝玉◆
+ZH JF:◆使用/宝玉◆
+
+JA 宝玉1
+ZH JF:宝玉1
+
+JA 宝玉2
+ZH JF:宝玉2
+
+JA 宝玉3
+ZH JF:宝玉3
+
+JA 宝玉4
+ZH JF:宝玉4
+
+JA 宝玉5
+ZH JF:宝玉5
+
+JA 宝玉6
+ZH JF:宝玉6
+
+JA 宝玉7
+ZH JF:宝玉7
+
+JA 宝玉8
+ZH JF:宝玉8
+
+JA 宝玉9
+ZH JF:宝玉9
+
+JA 宝玉10
+ZH JF:宝玉10
+
+JA 現在地
+ZH JF:现在所在地
+
+JA 宝玉セーブ1
+ZH JF:宝玉保存1
+
+JA 宝玉セーブ2
+ZH JF:宝玉保存2
+
+JA 宝玉セーブ3
+ZH JF:宝玉保存3
+
+JA 宝玉セーブ4
+ZH JF:宝玉保存4
+
+JA 宝玉セーブ5
+ZH JF:宝玉保存5
+
+JA 宝玉セーブ6
+ZH JF:宝玉保存6
+
+JA 宝玉セーブ7
+ZH JF:宝玉保存7
+
+JA 宝玉セーブ8
+ZH JF:宝玉保存8
+
+JA 宝玉セーブ9
+ZH JF:宝玉保存9
+
+JA 宝玉セーブ10
+ZH JF:宝玉保存10
+
+JA うず巻き
+ZH JF:涡流
+
+JA ???
+ZH ???
+
+JA 拘束エンド
+ZH JF:约束端点
+
+JA 共謀エンド
+ZH JF:共谋终结
+
+JA 真相エンド
+ZH JF:真相终结
+
+JA 生存エンド
+ZH JF:生存端
+
+JA 死亡エンド
+ZH JF:死亡结束
+
+JA 絶望エンド
+ZH JF:绝望的结局
+
+JA 運命エンド
+ZH JF:命运的终结
+
+JA 脱出エンド
+ZH JF:脱出端
+
+JA 孤独エンド
+ZH JF:孤独的结局
+
+JA 崩壊エンド
+ZH JF:崩溃端
+
+JA 自殺エンド
+ZH JF:自杀结束
+
+JA 愛欲エンド
+ZH JF:爱欲终结
+
+JA  達成率
+ZH JF:完成率
+
+JA %
+ZH %
+
+JA 設置位置 
+ZH JF:安装位置
+
+JA 見る・調べる
+ZH 观察·调查
+
+JA 話す
+ZH 交谈
+
+JA たたく・なぐる
+ZH 敲打·殴打
+
+JA 押す
+ZH 按下
+
+JA 開ける
+ZH 打开
+
+JA 取る
+ZH 取走
+
+JA キスする
+ZH 亲吻
+
+JA さわる
+ZH 触摸
+
+JA もむ
+ZH 揉捏
+
+JA なめる
+ZH 舔舐
+
+JA かむ
+ZH 咬下
+
+JA   
+ZH   
+
+JA ???
+ZH ???
+
+JA 移動
+ZH JF:移动
+
+JA 寝る
+ZH JF:睡觉
+
+JA 考える
+ZH JF:思考
+
+JA 訊く
+ZH JF:询问
+
+JA 捜す
+ZH JF:寻找
+
+JA 抱きしめる
+ZH JF:紧紧拥抱
+
+JA 拭く
+ZH JF:擦拭
+
+JA 掘る
+ZH JF:挖掘
+
+JA 食べる
+ZH JF:吃，吃
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 自室
+ZH JF:自己的房间
+
+JA リビング
+ZH JF:客厅
+
+JA 亜由美の部屋
+ZH JF:亚由美的房间
+
+JA 自宅前
+ZH JF:自家门前
+
+JA 学校前
+ZH JF:校前
+
+JA ホール
+ZH JF:大厅
+
+JA 廊下
+ZH JF:走廊
+
+JA 研究室
+ZH JF:研究室
+
+JA 保健室
+ZH JF:保健室
+
+JA 屋上
+ZH JF:屋顶
+
+JA 屋敷前
+ZH JF:屋前
+
+JA 澪の部屋
+ZH JF:澪的房间
+
+JA マンション前
+ZH JF:公寓前
+
+JA 神奈の部屋
+ZH JF:神奈的房间
+
+JA 屋敷前
+ZH JF:屋前
+
+JA 屋敷内
+ZH JF:屋内
+
+JA 海岸
+ZH JF:海岸
+
+JA ホテル前
+ZH JF:酒店前面
+
+JA 香織の客室
+ZH JF:香织的客房
+
+JA 街
+ZH JF:街道
+
+JA 社
+ZH JF:公司
+
+JA 神奈の部屋前
+ZH JF:神奈的房间前
+
+JA 会社前
+ZH JF:公司前
+
+JA 喫茶店
+ZH JF:咖啡馆
+
+JA 社内
+ZH JF:内部
+
+JA 高台
+ZH JF:高台
+
+JA 公園
+ZH 公园
+
+JA 中庭
+ZH JF:院子
+
+JA 井戸
+ZH JF:水井
+
+JA 土蔵前
+ZH JF:土藏前
+
+JA 土蔵
+ZH 土藏
+
+JA オヤジの書斎前
+ZH JF:爸爸的书房前
+
+JA オヤジの書斎
+ZH JF:父亲的书房
+
+JA オヤジの書斎
+ZH JF:父亲的书房
+
+JA オフィス
+ZH JF:办公室
+
+JA 研究室
+ZH JF:研究室
+
+JA 進行不可エリア
+ZH JF:不可前进区域
+
+JA ???
+ZH ???
+
+JA 社
+ZH JF:公司
+
+JA 玄関
+ZH JF:大门
+
+JA 中庭
+ZH JF:院子
+
+JA 会社前
+ZH JF:公司前
+
+JA 社内
+ZH JF:内部
+
+JA オフィス
+ZH JF:办公室
+
+JA 研究室
+ZH JF:研究室
+
+JA 土蔵前
+ZH JF:土藏前
+
+JA 井戸前
+ZH JF:井前
+
+JA 土蔵
+ZH 土藏
+
+JA 森
+ZH JF:森林
+
+JA 最果ての崖
+ZH JF:最边远的悬崖
+
+JA 丘
+ZH JF:山丘
+
+JA 家
+ZH 没事
+
+JA キッチン
+ZH JF:厨房
+
+JA 寝室
+ZH JF:卧室
+
+JA 砂漠
+ZH JF:沙漠
+
+JA オアシス
+ZH JF:绿洲
+
+JA 砂漠
+ZH JF:沙漠
+
+JA 神殿
+ZH JF:神殿
+
+JA 神殿の中
+ZH JF:在神殿中
+
+JA 作業場
+ZH JF:车间
+
+JA 寝床
+ZH JF:床铺
+
+JA 塔
+ZH JF:塔楼
+
+JA 牢屋
+ZH JF:牢房
+
+JA 崩壊した作業場
+ZH JF:倒塌的车间
+
+JA 帝都
+ZH JF:帝都
+
+JA 路地裏
+ZH JF:小巷里
+
+JA 地下道
+ZH JF:地道
+
+JA 広間
+ZH JF:大厅
+
+JA 庭園
+ZH JF:庭园
+
+JA 祭壇
+ZH JF:祭坛
+
+JA 謎の装置
+ZH JF:神秘装置
+
+JA 奥の道
+ZH JF:里路
+
+JA 手前の道
+ZH JF:前面的路
+
+JA 遠くに見える家
+ZH JF:远处的房子
+
+JA 家の中
+ZH JF:在家中
+
+JA 奥の部屋
+ZH JF:里面的房间
+
+JA 神殿内
+ZH JF:神殿内
+
+JA 祭壇
+ZH JF:祭坛
+
+JA 遠くの塔
+ZH JF:远处的塔
+
+JA 先に進む
+ZH JF:前进
+
+JA 帝都に向かう
+ZH JF:前往帝都
+
+JA 遠くに見える城
+ZH JF:远处的城堡
+
+JA 奥の通路
+ZH JF:里面的通道
+
+JA 戻る
+ZH JF:后退
+
+JA 右の通路
+ZH JF:右边的通道
+
+JA 奥の通路
+ZH JF:里面的通道
+
+JA 戻る
+ZH JF:后退
+
+JA 奥の通路
+ZH JF:里面的通道
+
+JA 台座
+ZH JF:底座
+
+JA 奥の通路
+ZH JF:里面的通道
+
+JA 廊下
+ZH JF:走廊
+
+JA 祭壇へ向かう
+ZH JF:走向祭坛
+
+JA 奥に進む
+ZH JF:往里走
+
+JA 地下へ戻る
+ZH JF:返回地下
+
+JA 水の中
+ZH JF:在水中
+
+JA セーレスを助ける
+ZH JF:帮助塞雷斯
+
+JA セーレスの膝の上
+ZH JF:塞雷斯的膝盖上
+
+JA 左の通路
+ZH JF:左边的通道
+
+JA 社内
+ZH JF:内部
+
+JA フロント
+ZH JF:前厅
+
+JA バスルーム
+ZH JF:浴室
+
+JA 井戸前
+ZH JF:井前
+
+JA 屋敷内
+ZH JF:屋内
+
+JA 奥に進む
+ZH JF:往里走
+
+JA 戻る
+ZH JF:后退
+
+JA 奥に進む
+ZH JF:往里走
+
+JA 洞窟
+ZH JF:山洞
+
+JA 右へ進む
+ZH JF:向右
+
+JA 左へ進む
+ZH JF:向左
+
+JA 洞窟
+ZH JF:山洞
+
+JA 扉付近
+ZH JF:门附近
+
+JA 奥へ進む
+ZH JF:往里走
+
+JA 扉前
+ZH JF:门前
+
+JA 小部屋
+ZH JF:小房间
+
+JA 戻る
+ZH JF:后退
+
+JA 扉前
+ZH JF:门前
+
+JA 奥へ進む
+ZH JF:往里走
+
+JA 小部屋
+ZH JF:小房间
+
+JA 遺体のそば
+ZH JF:遗体旁边
+
+JA 戻る
+ZH JF:后退
+
+JA 奥へ進む
+ZH JF:往里走
+
+JA 水路
+ZH JF:水道
+
+JA 扉前
+ZH JF:门前
+
+JA 奥へ進む
+ZH JF:往里走
+
+JA 絵里子のアジト
+ZH JF:绘里子的基地
+
+JA 神帝の部屋
+ZH JF:神帝的房间
+
+JA 塔
+ZH JF:塔楼
+
+JA 塔
+ZH JF:塔楼
+
+JA 奥へ進む
+ZH JF:往里走
+
+JA 小部屋
+ZH JF:小房间
+
+JA 開かずの間
+ZH JF:打不开的时候
+
+JA 山の裏側
+ZH JF:山的背面
+
+JA 地下留置場
+ZH JF:地下拘留所
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA 
+ZH 
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]マップは開けないみたいだ‥‥。[%p]
+ZH [name]拓也[line]地图好像打不开啊……。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]おかしいな‥‥マップを開くことができない。[%p]
+ZH [name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+
+JA [name]たくや[line]そうか‥‥宝玉がいま1つも手元にない。[%p]
+ZH [name]拓也[line]对了……现在手上连１块宝玉都没有。[%p]
+
+JA [name]たくや[line]くそっ、マズったな‥‥どうする?[%p]
+ZH [name]拓也[line]可恶，糟糕了啊……怎么办呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]マップは開けないみたいだ‥‥。[%p]
+ZH [name]拓也[line]地图好像打不开啊……。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]おかしいな‥‥マップを開くことができない。[%p]
+ZH [name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+
+JA [name]たくや[line]懐中電灯のときといい、何だかおかしいな‥‥この場所は。[%p]
+ZH [name]拓也[line]用手电筒的时候也是，感觉好奇怪啊……这个地方。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]おかしいな‥‥マップを見ることができない。[%p]
+ZH [name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+
+JA [name]たくや[line]懐中電灯のときといい、何だかおかしいな‥‥。[%p]
+ZH [name]拓也[line]用手电筒的时候也是，感觉好奇怪啊……。[%p]
+
+JA そのとき、手元の《超念石》が、キラキラと輝きだした‥‥。[%p]
+ZH 那个时候，手上的《超念石》，开始熠熠生辉了……。[%p]
+
+JA ロードする
+ZH JF:加载
+
+JA ロードしない
+ZH JF:不加载
+
+JA ロードする
+ZH JF:加载
+
+JA ロードしない
+ZH JF:不加载
+
+JA [color index="840000"][宝玉1][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉1][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉1][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉1][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉2][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉2][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉2][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉2][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉3][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉3][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉3][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉3][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉4][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉4][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉4][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉4][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉5][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉5][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉5][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉5][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉6][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉6][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉6][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉6][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉7][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉7][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉7][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉7][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉8][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉8][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉8][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉8][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉9][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉9][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉9][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉9][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉10][color index="800000"]をロードしました。[%p]
+ZH [color index="840000"]JF:[宝玉10][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [center][color index="840000"][宝玉10][color index="800000"]をロードしました。[%p]
+ZH [center][color index="840000"]JF:[宝玉10][color index="800000"]JF:已加载。[%p]
+
+JA –––––––––––––––––––––––––––
+ZH JF:–––––––––––––––––––––––––––
+
+JA [color index="840000"][宝玉][color index="800000"]が戻りました。[%p]
+ZH [color index="840000"]JF:[宝玉][color index="800000"]JF:回来了。[%p]
+
+JA [color index="840000"][宝玉][color index="800000"]が戻りました。[%p]
+ZH [color index="840000"]JF:[宝玉][color index="800000"]JF:回来了。[%p]
+
+JA [color index="840000"]おめでとうございます。達成率100パーセントです。[linebreak]音楽室の扉が開きましたので、探してみて下さい。[%p]
+ZH [color index="840000"]恭喜。达成率１００％。[linebreak]音乐室的大门已打开，请将它找出来吧。[%p]
+
+JA [color index="840000"]ヒント:夜の学校内です。ですが今この時間は開いていません。[%p]
+ZH [color index="840000"]提示：在夜晚的学校内。但是现在这个时间无法打开。[%p]
+
+JA [color index="840000"][オヤジの手紙][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[爸爸的信][color index="800000"]JF:没有了。
+
+JA [color index="840000"][オヤジの手紙][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[爸爸的信][color index="800000"]JF:没有了。
+
+JA [color index="840000"][磁気カード][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:磁卡[color index="800000"]JF:没有了。
+
+JA [color index="840000"][磁気カード][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:磁卡[color index="800000"]JF:没有了。
+
+JA [color index="840000"][銀のメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[银牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][銀のメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[银牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][生徒手帳][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[学生手册][color index="800000"]JF:没有了。
+
+JA [color index="840000"][生徒手帳][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[学生手册][color index="800000"]JF:没有了。
+
+JA [color index="840000"][金色のカギ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[金色钥匙][color index="800000"]JF:没有了。
+
+JA [color index="840000"][金色のカギ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[金色钥匙][color index="800000"]JF:没有了。
+
+JA [color index="840000"][澪のメモ帳][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[澪的记事本][color index="800000"]JF:没有了。
+
+JA [color index="840000"][澪のメモ帳][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[澪的记事本][color index="800000"]JF:没有了。
+
+JA [color index="840000"][円盤][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:圆盘[color index="800000"]JF:没有了。
+
+JA [color index="840000"][円盤][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:圆盘[color index="800000"]JF:没有了。
+
+JA [color index="840000"][鉄の剣][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:没有了。
+
+JA [color index="840000"][鉄の剣][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:没有了。
+
+JA [color index="840000"][木刀][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[木刀][color index="800000"]JF:没有了。
+
+JA [color index="840000"][木刀][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[木刀][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ロープ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ロープ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:没有了。
+
+JA [color index="840000"][20ページ目の書類][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[20页文件][color index="800000"]JF:没有了。
+
+JA [color index="840000"][20ページ目の書類][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[20页文件][color index="800000"]JF:没有了。
+
+JA [color index="840000"][機密書類][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[机密文件][color index="800000"]JF:没有了。
+
+JA [color index="840000"][機密書類][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[机密文件][color index="800000"]JF:没有了。
+
+JA [color index="840000"][豊富の密会写真][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[丰富的密会照片][color index="800000"]JF:没有了。
+
+JA [color index="840000"][豊富の密会写真][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[丰富的密会照片][color index="800000"]JF:没有了。
+
+JA [color index="840000"][白いメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][白いメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[白色奖牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][黒いメダル][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[黑色奖牌][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ハンディコンピュータ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[手持计算机][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ハンディコンピュータ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[手持计算机][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ブルーカード][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[蓝卡][color index="800000"]JF:没有了。
+
+JA [color index="840000"][ブルーカード][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[蓝卡][color index="800000"]JF:没有了。
+
+JA [color index="840000"][超念石][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[超念石][color index="800000"]JF:没有了。
+
+JA [color index="840000"][超念石][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[超念石][color index="800000"]JF:没有了。
+
+JA [color index="840000"][書斎のカギ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[书房的钥匙][color index="800000"]JF:没有了。
+
+JA [color index="840000"][書斎のカギ][color index="800000"]がなくなりました。
+ZH [color index="840000"]JF:[书房的钥匙][color index="800000"]JF:没有了。
+
+JA セーブしますか?
+ZH JF:是否保存？
+
+JA 以前のデータは上書きされます。
+ZH JF:以前的数据将被覆盖。
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA 保存しています。本体の電源を切らないでください。
+ZH JF:正在保存。请不要切断主机的电源。
+
+JA セーブしますか?
+ZH JF:是否保存？
+
+JA 以前のデータは上書きされます。
+ZH JF:以前的数据将被覆盖。
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA 保存しています。本体の電源を切らないでください。
+ZH JF:正在保存。请不要切断主机的电源。
+
+JA タイトルメニューへ戻りますか?
+ZH JF:回到标题菜单吗？
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA セーブされていない現在プレイ中のデータは失われます。
+ZH JF:未保存的当前正在播放的数据将丢失。
+
+JA タイトルメニューへ戻りますか?
+ZH JF:回到标题菜单吗？
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA [color index="840000"][宝玉1][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉1][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉2][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉2][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉3][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉3][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉4][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉4][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉5][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉5][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉6][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉6][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉7][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉7][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉8][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉8][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉9][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉9][color index="800000"]JF:是否加载？
+
+JA [color index="840000"][宝玉10][color index="800000"]をロードしますか?
+ZH [color index="840000"]JF:[宝玉10][color index="800000"]JF:是否加载？
+
+JA セーブしますか?
+ZH JF:是否保存？
+
+JA 以前のデータは上書きされます。
+ZH JF:以前的数据将被覆盖。
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA 保存しています。本体の電源を切らないでください。
+ZH JF:正在保存。请不要切断主机的电源。
+
+JA セーブされていない現在プレイ中のデータは失われます。
+ZH JF:未保存的当前正在播放的数据将丢失。
+
+JA このままセーブしなくてもよろしいですか?
+ZH JF:可以不保存吗？
+
+JA はい
+ZH 是啊
+
+JA いいえ
+ZH 没关系
+
+JA 音楽モードが[トップメニュー]に追加されました。
+ZH 在［标题菜单］追加了音乐模式。
+
+JA 
+ZH 
+

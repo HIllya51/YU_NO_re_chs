@@ -1,0 +1,282 @@
+JA [name]結城[line]話というのは、なんでしょうか‥‥。[%p]
+ZH [name]结城[line]要跟我说的事，是什么呢……。[%p]
+
+JA [name]たくや[line]まぁいい。結城のヅラなんかに興味はない。[%p]
+ZH [name]拓也[line]JF:算了。我对结城的仙鹤什么的不感兴趣。[%p]
+
+JA [name]結城[line]だから違うっていうのに‥‥。[%p]
+ZH [name]结城[line]都说了你弄错啦……。[%p]
+
+JA [name]たくや[line]最近のヅラは見分けがつかないらしいからな。[%p]
+ZH [name]拓也[line]JF:因为最近的仙鹤好像分不清。[%p]
+
+JA [name]結城[line]全然、地毛なんで‥‥。[%p]
+ZH [name]结城[line]JF:完全是地毛。[%p]
+
+JA [name]たくや[line]怪しいぞ‥‥。[%p]
+ZH [name]拓也[line]（真奇怪……。）。[%p]
+
+JA [name]結城[line]怪しくありません。[%p]
+ZH [name]结城[line]不可疑啦。[%p]
+
+JA [name]たくや[line]結城のトレードマークだな、ヘアピンは‥‥。[%p]
+ZH [name]拓也[line]JF:这是结城的标志，网前球是。[%p]
+
+JA [name]たくや[line]あの下は、つるっぱげだそうだ。[%p]
+ZH [name]拓也[line]在帽子下面是一个大光头。[%p]
+
+JA [name]結城[line]違いますよう。[%p]
+ZH [name]结城[line]才不是那样呢。[%p]
+
+JA [name]たくや[line]亜由美さんをどこで見たかってことだ。[%p]
+ZH [name]拓也[line]你是在哪里看到亚由美小姐的。[%p]
+
+JA [name]結城[line]えっ?[%p]
+ZH [name]结城[line]诶？[%p]
+
+JA [name]たくや[line]だから、どこで見たんだ、今日。[%p]
+ZH [name]拓也[line]都说了，你在哪里看到的，今天。[%p]
+
+JA [name]結城[line]学校内で見かけましたが。[%p]
+ZH [name]结城[line]是在学校里看到的。[%p]
+
+JA [name]たくや[line]学校内の、どこ。[%p]
+ZH [name]拓也[line]学校里，在哪里。[%p]
+
+JA [name]結城[line]ホールと学校前で見かけました。[%p]
+ZH [name]结城[line]在大厅和学校前面看到的。[%p]
+
+JA [name]たくや[line]何で2カ所なんだよ。分身でもしていたのか。[%p]
+ZH [name]拓也[line]为什么有２个地方啊。难道你会分身术吗。[%p]
+
+JA [name]結城[line]単に2回会っただけですよ。[%p]
+ZH [name]结城[line]只是碰见了２次而已。[%p]
+
+JA [name]たくや[line]2回?[%p]
+ZH [name]拓也[line]２次？[%p]
+
+JA [name]結城[line]一度目は、たくやさんに電話を掛ける前、2度目は有馬さん‥‥たくやさんのお母さんが帰られる時ですね。[%p]
+ZH [name]结城[line]第一次，是给拓也同学你打电话之前，第２次是有马小姐……拓也同学你的母亲回来的时候吧。[%p]
+
+JA [name]たくや[line]帰ったって!?[%p]
+ZH [name]拓也[line]回来的时候！？[%p]
+
+JA [name]結城[line]うわぁ、殴らないで下さいー。[%p]
+ZH [name]结城[line]呜哇，请不要打我——。[%p]
+
+JA [name]たくや[line]どこへ行った。[%p]
+ZH [name]拓也[line]她去哪里了。[%p]
+
+JA [name]結城[line]これから視察とかなんとか、言っていたような気が‥‥。[%p]
+ZH [name]结城[line]接下来要去视察什么的，我记得她好像说过这样的话……。[%p]
+
+JA [name]たくや[line](‥‥視察?)[%p]
+ZH [name]拓也[line](（……视察？）)[%p]
+
+JA [name]結城[line]あのぉ‥‥。[%p]
+ZH [name]结城[line]请问……。[%p]
+
+JA [name]たくや[line]なんだ。[%p]
+ZH [name]拓也[line]什么。[%p]
+
+JA [name]結城[line]差し出がましいようですが、何かあったんですか?[%p]
+ZH [name]结城[line]我可能有点多管闲事了，不过发生什么事了吗？[%p]
+
+JA [name]たくや[line]何も無かったみたいだから、何かあると思ってるんだろ。[%p]
+ZH [name]拓也[line]因为看上去没发生事情，所以我才觉得会有什么事发生吧。[%p]
+
+JA [name]結城[line]はあ‥‥?[%p]
+ZH [name]结城[line]哈啊……？[%p]
+
+JA [name]たくや[line]これから俺は亜由美さんを探しに行く。[%p]
+ZH [name]拓也[line]我接下来要去找亚由美小姐了。[%p]
+
+JA [name]結城[line]えっ、補習は出られないんですか?[%p]
+ZH [name]结城[line]诶，你不是还没去补课吗？[%p]
+
+JA [name]たくや[line]大丈夫だ、代返という手があるからな。[%p]
+ZH [name]拓也[line]没问题，我可是有人代签的。[%p]
+
+JA [name]結城[line]さすがですね、そんな手ゴマを用意してるなんて。[%p]
+ZH [name]结城[line]真是了不起啊，居然有这一手准备。[%p]
+
+JA [name]たくや[line]お前のことだ。[%p]
+ZH [name]拓也[line]是说你啊。[%p]
+
+JA [name]結城[line]へ?[%p]
+ZH [name]结城[line]诶？[%p]
+
+JA [name]たくや[line]代返、頼んだぞ。行け![%p]
+ZH [name]拓也[line]代签，拜托你了。走了！[%p]
+
+JA [name]結城[line]そ、そんなぁ‥‥僕は僕の補習が‥‥。[%p]
+ZH [name]结城[line]怎，怎么这样……我有我自己的课……。[%p]
+
+JA [name]たくや[line]お前は単に、澪に会いに学校へ来ただけだろう?[%p]
+ZH [name]拓也[line]你只是单纯过来找澪才到学校来的吧？[%p]
+
+JA [name]結城[line]違いますよう、僕はちゃんと勉学に‥‥あわわ、そんな恐い顔をしないで下さい。[%p]
+ZH [name]结城[line]你弄错了，我是为了好好学习……啊哇哇，不要露出那么可怕的表情啊。[%p]
+
+JA [name]たくや[line]澪も補習に出席するぞ。しかも、同じ教室だ。[%p]
+ZH [name]拓也[line]澪也会参加补课的。而且，还是同一间教室。[%p]
+
+JA [name]結城[line]行きます、行かせて貰います。[%p]
+ZH [name]结城[line]我要去，请让我去。[%p]
+
+JA [name]たくや[line]よし、行け![%p]
+ZH [name]拓也[line]好嘞，走了！[%p]
+
+JA [name]結城[line]ひゅぃーー![%p]
+ZH [name]结城[line]咻——！[%p]
+
+JA [name]たくや[line]‥‥なんだ、それは。[%p]
+ZH [name]拓也[line]……那是什么意思。[%p]
+
+JA [name]結城[line]知らないんですか、世界征服を企む謎の国際的秘密組織ですよう。[%p]
+ZH [name]结城[line]JF:不知道吗，是企图征服世界的神秘国际秘密组织。[%p]
+
+JA [name]たくや[line]はあ?[%p]
+ZH [name]拓也[line]哈啊？[%p]
+
+JA [name]結城[line]昨夜、このタイミングを考えていたんですよう。面白かったですか?[%p]
+ZH [name]结城[line]昨晚，我仔细考虑了这个时机。很有意思吧？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]あ、あははは‥‥その表情で、何となく答えがわかっちゃいました。では結城正勝、代返に行ってきます![%p]
+ZH [name]结城[line]啊，啊哈哈哈……这个表情，你什么都不用回答我就知道了。那么结城正胜，要去代签了！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]のやろう、澪の名前を出した途端だ。現金なヤツだよな‥‥。[%p]
+ZH [name]拓也[line]这家伙，一提到澪的名字就来劲了。真是个势利的家伙……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さてと、俺は亜由美さんの方だ。彼女は視察と言っていたのか‥‥。[%p]
+ZH [name]拓也[line]那么，我就去找亚由美小姐了。她好像说过是来视察的吧……。[%p]
+
+JA [name]たくや[line]視察といったら‥‥。[%p]
+ZH [name]拓也[line]说到视察的话……。[%p]
+
+JA [name]たくや[line]今朝、俺のところに電話をしたろう?[%p]
+ZH [name]拓也[line]今天早上，你给我打过电话吧？[%p]
+
+JA [name]結城[line]あ、あれはたくやさんが、モーニングコールを欲しがっていたから‥‥今度からもう少し遅く電話をします。[%p]
+ZH [name]结城[line]啊，那个是拓也同学你说，因为想要让我我叫你早起……以后我会稍微晚一点给你打电话的。[%p]
+
+JA [name]たくや[line]じゃなくて。[%p]
+ZH [name]拓也[line]不对。）。[%p]
+
+JA [name]結城[line]じゃなくて?[%p]
+ZH [name]结城[line]不对？[%p]
+
+JA [name]たくや[line]電話の内容だ。お前‥‥。[%p]
+ZH [name]拓也[line]我说电话的内容。你……。[%p]
+
+JA [name]結城[line]すみません、ギャグが受けなかったんですね。[%p]
+ZH [name]结城[line]对不起，我没迎合你的笑话呢。[%p]
+
+JA [name]たくや[line]はあ?[%p]
+ZH [name]拓也[line]哈啊？[%p]
+
+JA [name]結城[line]確か、ウジウジしているウジ虫チャンじゃなくて‥‥。[%p]
+ZH [name]结城[line]我记得，不是扭来扭去的蛆虫酱……。[%p]
+
+JA [name]たくや[line]ウジはお前だ。いいか‥‥。[%p]
+ZH [name]拓也[line]蛆虫是你。算了……。[%p]
+
+JA [name]結城[line]そうだ、キビキビしていてキビダンゴ、これですね。ははははー、これなんか最高に受け‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]结城[line]对了，是麻利的黍子面团子，就是这个了。哈哈哈哈——，这种的最受欢迎……。[auto-forward][linebreak][linebreak]
+
+JA [name]結城[line]何をするんですかー。[%p]
+ZH [name]结城[line]你做什么啊——。[%p]
+
+JA [name]たくや[line]んなことを訊いているんじゃない。[%p]
+ZH [name]拓也[line]我不是在问这种事。[%p]
+
+JA [name]結城[line]じゃあ、なんです?[%p]
+ZH [name]结城[line]那么，是什么？[%p]
+
+JA [name]たくや[line]亜由美さんだ。[%p]
+ZH [name]拓也[line]是亚由美小姐。[%p]
+
+JA [name]結城[line]素敵ですよね。[%p]
+ZH [name]结城[line]真漂亮呢。[%p]
+
+JA [name]たくや[line]そうじゃない。[%p]
+ZH [name]拓也[line]不对。[%p]
+
+JA [name]結城[line]えっ、素敵じゃないと思っているんですか?[%p]
+ZH [name]结城[line]诶，难道你觉得她不漂亮吗？[%p]
+
+JA [name]たくや[line]ばっ‥‥素敵だよ。[%p]
+ZH [name]拓也[line]傻……很漂亮啊。[%p]
+
+JA [name]結城[line]ですよね。[%p]
+ZH [name]结城[line]我就说吧。[%p]
+
+JA [name]たくや[line]うむ‥‥じゃなくて![%p]
+ZH [name]拓也[line]唔姆……不对！[%p]
+
+JA [name]結城[line]はあ、いったい何を仰りたいんでしょうか。[%p]
+ZH [name]结城[line]哈啊，你到底想说些什么啊。[%p]
+
+JA [name]たくや[line]むぅ‥‥。[%p]
+ZH [name]拓也[line]唔……。[%p]
+
+JA [name]たくや[line](だんだん、頭が悪くなっていくようだ‥‥。)[%p]
+ZH [name]拓也[line](（脑袋，好像开始越来越痛了……。）。)[%p]
+
+JA [name]結城[line]ナイスガイの結城君だ。[%p]
+ZH [name]结城[line]我是好男孩结城君。[%p]
+
+JA [name]たくや[line]お前が言うな、お前が。[%p]
+ZH [name]拓也[line]你不要说话。[%p]
+
+JA [name]結城[line]たくやさん、第一の部下、結城でやんすー。[%p]
+ZH [name]结城[line]拓也同学，头号手下，结城是也。[%p]
+
+JA [name]たくや[line]誰だお前。[%p]
+ZH [name]拓也[line]你是谁。[%p]
+
+JA [name]たくや[line]ポケットに手を入れているな。[%p]
+ZH [name]拓也[line]两只手正插在口袋里。[%p]
+
+JA [name]たくや[line]だから、どうということはないぞ。[%p]
+ZH [name]拓也[line]所以说，这个没什么特别的意思。[%p]
+
+JA [name]たくや[line]ズボンのポケットに手を突っ込んでいるな。[%p]
+ZH [name]拓也[line]JF:别把手伸进裤兜里。[%p]
+
+JA [name]たくや[line]何か危ないものを持っているのだろうか。[%p]
+ZH [name]拓也[line]JF:你有什么危险的东西吗。[%p]
+
+JA [name]結城[line]何も持ってないです、心配ご無用です。[%p]
+ZH [name]结城[line]JF:什么都没有，不用担心。[%p]
+
+JA [name]たくや[line]あの手先がどうなっているのかは、誰も知らない。[%p]
+ZH [name]拓也[line]这双伸进口袋里的手到底是在干嘛呢，谁都不知道。[%p]
+
+JA [name]結城[line]普通の手先ですよう。[%p]
+ZH [name]结城[line]只是很普通的而已。[%p]
+
+JA [name]結城[line]パーカーですよ、バーカじゃないですよ。[%p]
+ZH [name]结城[line]这是风衣，不是疯子。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]結城のトレードマークだな‥‥いつも同じパーカーを着ている。[%p]
+ZH [name]拓也[line]这个是结城的注册商标啊……他总是穿着同一件卫衣呢。[%p]
+
+JA [name]結城[line]違いますよう、同じのを何着も持っているんです。[%p]
+ZH [name]结城[line]你搞错了，我有好多件相同款式的卫衣啊。[%p]
+
+JA 
+ZH 
+

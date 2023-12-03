@@ -1,0 +1,150 @@
+JA [name]たくや[line]‥‥おっかしいな。[%p]
+ZH [name]拓也[line]JF:……好可怕啊。[%p]
+
+JA [name]たくや[line]どこへ行ったんだ、澪のやつ‥‥。[%p]
+ZH [name]拓也[line]到底去哪里了呢，澪那家伙……。[%p]
+
+JA [name]たくや[line]この席に澪はいないな‥‥。[%p]
+ZH [name]拓也[line]这位置上没有澪啊……。[%p]
+
+JA [name]たくや[line]‥‥この辺に座っていそうなもんだけど。[%p]
+ZH [name]拓也[line]……本来应该是坐在那边位置上的说。[%p]
+
+JA [name]たくや[line]誰も座っていない‥‥。[%p]
+ZH [name]拓也[line]没有人坐着……。[%p]
+
+JA [name]たくや[line]さっきまで、ここに座っていたんだけど‥‥。[%p]
+ZH [name]拓也[line]到刚才为止，还应该是坐在这里的说……。[%p]
+
+JA [name]たくや[line]まさか、帰っちゃったとか?[%p]
+ZH [name]拓也[line]难道说，已经回去了吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おーーーーいっ。[%p]
+ZH [name]拓也[line]喂————。[%p]
+
+JA [name]たくや[line]澪ちゃーーーん!![%p]
+ZH [name]拓也[line]澪酱————！！[%p]
+
+JA [name]声[line]ちょっと、バカ、止めてよっ。[%p]
+ZH [name]声音[line]JF:喂，笨蛋，停下来。[%p]
+
+JA [name]たくや[line]何だ、いるんじゃないか‥‥。[%p]
+ZH [name]拓也[line]什么，不是在的吗……。[%p]
+
+JA [name]澪[line]喫茶店で、恥ずかしい真似はよしてよ。[%p]
+ZH [name]澪[line]在咖啡店，别做这种羞耻的行为。[%p]
+
+JA [name]たくや[line]どこへ行っていたんだよ、探したぞ。[%p]
+ZH [name]拓也[line]你到哪里去了啊，我在找你呢。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]あっ、お通じか。ったく、喫茶店でンコをするなんて‥‥。[%p]
+ZH [name]拓也[line]啊、知道了。真是的，居然在咖啡店大便……。[%p]
+
+JA [name]澪[line]ばっ‥‥な、なに言ってるのよ。[%p]
+ZH [name]澪[line]傻……你，你在说什么呢。[%p]
+
+JA [name]たくや[line]お前な、もろ図星って顔をするなよな。[%p]
+ZH [name]拓也[line]我说你啊，这表情是完全被我猜中了啊。[%p]
+
+JA [name]澪[line]図星なわけないじゃない、ちょっとお手洗いよ。[%p]
+ZH [name]澪[line]才不可能被你猜中吧，我只是去洗个手而已。[%p]
+
+JA [name]たくや[line]なんだ、そうなんじゃないか。[%p]
+ZH [name]拓也[line]什么，不是这样的吗。[%p]
+
+JA [name]澪[line]小さい方があるって、忘れてるんじゃないの。[%p]
+ZH [name]澪[line]有小的这种事，你不是忘掉了吗。[%p]
+
+JA [name]たくや[line]小さい方‥‥。[%p]
+ZH [name]拓也[line]小事……。[%p]
+
+JA [name]澪[line]や、やだ‥‥私ったら、大声で何を‥‥。[%p]
+ZH [name]澪[line]讨，讨厌……我也真是，大声说什么……。[%p]
+
+JA [name]たくや[line](‥‥結構、面白いぞ。)[%p]
+ZH [name]拓也[line](（……貌似，相当有趣呢。）。)[%p]
+
+JA [name]澪[line]フン‥‥。[%p]
+ZH [name]澪[line]哼……。[%p]
+
+JA [name]たくや[line]お、おい‥‥ちょっと待てよ。[%p]
+ZH [name]拓也[line]喂，喂……等我一下。[%p]
+
+JA [name]たくや[line]なに、プリプリしているんだよ。[%p]
+ZH [name]拓也[line]什么，怎么怒气冲冲的啊。[%p]
+
+JA [name]たくや[line](まったく、しょうがないな‥‥。)[%p]
+ZH [name]拓也[line](（真是的，没办法啊……。）。)[%p]
+
+JA [name]澪[line]本は‥‥あった?[%p]
+ZH [name]澪[line]书……有了吗？[%p]
+
+JA [name]たくや[line]ん? なかった。[%p]
+ZH [name]拓也[line]嗯？　没有。[%p]
+
+JA [name]澪[line]えっ、嘘![%p]
+ZH [name]澪[line]诶，骗人！[%p]
+
+JA [name]たくや[line]嘘。[%p]
+ZH [name]拓也[line]骗人。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]んな顔をすんなよ、ほら。[%p]
+ZH [name]拓也[line]不要这种表情嘛，你看。[%p]
+
+JA [name]澪[line]‥‥あ、ありがとう。助かったわ。[%p]
+ZH [name]澪[line]……谢，谢谢你。帮我大忙了。[%p]
+
+JA [name]たくや[line]へぇ、ちゃんとお礼を言えるんだ。[%p]
+ZH [name]拓也[line]嘿，还真是够礼貌的啊。[%p]
+
+JA [name]澪[line]な、なによ‥‥本当に感謝してるんだから。[%p]
+ZH [name]澪[line]什，什么啊……我是真的感谢你啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]本当に帰ったのか‥‥?[%p]
+ZH [name]拓也[line]真的要回去了吗……？[%p]
+
+JA [name]たくや[line]くそっ、澪のヤツ、俺を置き去りにして‥‥。[%p]
+ZH [name]拓也[line]可恶，澪这家伙，把我丢下走掉了……。[%p]
+
+JA [name]たくや[line]この持ってる本、どうすればいいんだ?[%p]
+ZH [name]拓也[line]拿着的这本书，要怎么处理呢？[%p]
+
+JA [name]たくや[line]もしかして、帰っちゃったのか‥‥?[%p]
+ZH [name]拓也[line]难道说，回去了吗……？[%p]
+
+JA [name]たくや[line]可能性はあるけど‥‥。[%p]
+ZH [name]拓也[line]虽然也有这个可能……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥そこに澪はいないな。[%p]
+ZH [name]拓也[line]……那里没有澪在啊。[%p]
+
+JA [name]たくや[line]いったいどこにいるんだ?[%p]
+ZH [name]拓也[line]到底在哪里呢？[%p]
+
+JA [name]たくや[line](だから、アイテムは関係ないって。)[%p]
+ZH [name]拓也[line](（所以说，。跟道具没什么关系）。)[%p]
+
+JA [name]たくや[line](アイテムを使うときじゃ、ないようだぞ‥‥。)[%p]
+ZH [name]拓也[line](（现在，貌似不是使用道具的时候呢……。）。)[%p]
+
+JA [name]たくや[line](おいおい‥‥そんなのを使ってる場合か?)[%p]
+ZH [name]拓也[line](（喂喂……现在是使用这种东西的时候吗？）)[%p]
+
+JA 
+ZH 
+

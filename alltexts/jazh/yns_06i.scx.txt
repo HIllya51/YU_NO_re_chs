@@ -1,0 +1,33 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]:selitem:は:selatr:に使えないぜ‥‥。[%p]
+ZH [name]拓也[line]JF:：selitem:是：selatr:不能用。[%p]
+
+JA [name]たくや[line]無理言うな、:selitem:を:selatr:にどうしろっていうんだ。[%p]
+ZH [name]拓也[line]JF:不要勉强，：selitem:怎么办。[%p]
+
+JA [name]たくや[line]もうちょっと考えてくれよ‥‥。[%p]
+ZH [name]拓也[line]（再稍微思考一下吧……。）。[%p]
+
+JA [name]たくや[line]そいつは、あまり相応しい組み合わせじゃ無いと思うが‥‥。[%p]
+ZH [name]拓也[line]那东西，我并不觉得是现在能够用得上的组合……。[%p]
+
+JA [name]たくや[line]:selitem:はそこには使えない。[%p]
+ZH [name]拓也[line]JF:：selitem:不能在那里使用。[%p]
+
+JA [name]たくや[line]こいつは:selatr:に使用するものじゃ、ないんじゃないか?[%p]
+ZH [name]拓也[line]JF:这家伙不是用来做：selatr:的，不是吗？[%p]
+
+JA [name]たくや[line]こいつは今、使うモノじゃないな‥‥。[%p]
+ZH [name]拓也[line]这个，不是现在要使用的东西啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も起こらないな‥‥ま、当たり前か。[%p]
+ZH [name]拓也[line]什么都没有发生啊……嘛，那是肯定的。[%p]
+
+JA 
+ZH 
+

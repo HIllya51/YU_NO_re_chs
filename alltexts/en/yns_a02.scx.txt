@@ -1,0 +1,3 @@
+[name]Takuya[line]The living room⋯ Nobody's here.[%p]
+[name]Takuya[line]What am I going to do now?[%p]
+[name]Takuya[line]What am I going to do now?[%p]

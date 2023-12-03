@@ -1,0 +1,4 @@
+[name]Takuya[line]So, this is the Imperial Capital.[%p]
+[name]Takuya[line]It's not much of a modern city at all.[%p]
+[name]Takuya[line]This is where Celes used to live.[%p]
+[name]Takuya[line]This place⋯[%p]

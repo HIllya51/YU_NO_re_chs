@@ -1,0 +1,2 @@
+[name]Takuya[line]I'm in front of the door to the study.[%p]
+[name]Takuya[line]⋯[%p]

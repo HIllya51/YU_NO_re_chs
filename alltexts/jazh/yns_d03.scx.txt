@@ -1,0 +1,48 @@
+JA [name]たくや[line]亜由美さんはいないな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐不在啊……。[%p]
+
+JA [name]たくや[line]まだ会社なんだろうか‥‥?[%p]
+ZH [name]拓也[line]还在公司里上班吗……？[%p]
+
+JA [name]たくや[line]わっ。[%p]
+ZH [name]拓也[line]哇。[%p]
+
+JA [name]たくや[line]電話だ‥‥電話が鳴っている。[%p]
+ZH [name]拓也[line]是电话……电话响起来了。[%p]
+
+JA [name]たくや[line]鏡台のところに、コードレスの子機があるぜ。[%p]
+ZH [name]拓也[line]在梳妆台那里，有个室内无绳电话的分机。[%p]
+
+JA [name]たくや[line]亜由美さんは、まだ帰ってきていないみたいだ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，看起来还没有回来呢……。[%p]
+
+JA [name]たくや[line]‥‥何で俺はここに来たんだろうな。[%p]
+ZH [name]拓也[line]……为什么我会到这里来啊。[%p]
+
+JA [name]たくや[line]亜由美さんはいないぜ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐不在啊……。[%p]
+
+JA [name]たくや[line]‥‥何で俺はここに来たんだろうな。[%p]
+ZH [name]拓也[line]……为什么我会到这里来啊。[%p]
+
+JA [name]たくや[line]疲れているとか‥‥。[%p]
+ZH [name]拓也[line]是太累了吗……。[%p]
+
+JA [name]たくや[line]わっ。[%p]
+ZH [name]拓也[line]哇。[%p]
+
+JA [name]たくや[line]電話だ‥‥電話が鳴っている。[%p]
+ZH [name]拓也[line]是电话……电话响起来了。[%p]
+
+JA [name]たくや[line]鏡台のところに、コードレスの子機があるぜ。[%p]
+ZH [name]拓也[line]在梳妆台那里，有个室内无绳电话的分机。[%p]
+
+JA [name]たくや[line]亜由美さんの部屋だ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的房间……。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA 
+ZH 
+

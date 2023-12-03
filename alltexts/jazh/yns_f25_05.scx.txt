@@ -1,0 +1,360 @@
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]たくや[line]香織さんは‥‥いないみたいだが。[%p]
+ZH [name]拓也[line]香织小姐……貌似不在啊。[%p]
+
+JA [name]店員[line]‥‥申し訳ありませんが、どなたかをお探しで?[%p]
+ZH [name]店员[line]……很抱歉打扰了，请问您是在找人吗？[%p]
+
+JA [name]たくや[line]えっ‥‥ええと、セミロングで少し遊び人っぽい女性なんだけど‥‥。[%p]
+ZH [name]拓也[line]诶……那个，有没有看到一个中短发稍微有点爱玩类型的女性……。[%p]
+
+JA [name]店員[line]もしかすると、お客様は、有馬たくや様で?[%p]
+ZH [name]店员[line]难道，客人您是叫，有马拓也先生吗？[%p]
+
+JA [name]たくや[line]そ、そうですが‥‥。[%p]
+ZH [name]拓也[line]是、是我‥‥。[%p]
+
+JA [name]店員[line]朝倉香織様より、伝言がございます。[%p]
+ZH [name]店员[line]朝仓香织小姐，有留言给您。[%p]
+
+JA [name]たくや[line]えっ‥‥。[%p]
+ZH [name]拓也[line]诶……。[%p]
+
+JA [name]店員[line]よろしいでしょうか‥‥シティホテル、1101号室にてお待ちしているとのことです。[%p]
+ZH [name]店员[line]可以吗……她说在城市宾馆，１１０１号房间等您。[%p]
+
+JA [name]たくや[line]シティホテル‥‥1101号室?[%p]
+ZH [name]拓也[line]城市宾馆……１１０１号房？[%p]
+
+JA [name]店員[line]はい。そのように伝えれば、おわかり頂けるとのことです。[%p]
+ZH [name]店员[line]是的。她留下这样的留言，让我传达给您。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]店員[line]それでは‥‥。[%p]
+ZH [name]店员[line]我先走了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](シティホテルって言ったら、セントラル街から見える、あそこだよな‥‥。)[%p]
+ZH [name]拓也[line](（说到城市宾馆的话，就是从中央街能看到的，那个地方吧……。）。)[%p]
+
+JA [name]たくや[line](そこで彼女が、俺を待っているっていうのか‥‥。)[%p]
+ZH [name]拓也[line](（她在那里，等着我吗……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]古風なライトだ‥‥。[%p]
+ZH [name]拓也[line]很有古风的灯……。[%p]
+
+JA [name]たくや[line]随分と、古風なライトだな‥‥。[%p]
+ZH [name]拓也[line]相当，有古风的灯呢……。[%p]
+
+JA [name]たくや[line]でも、そのぶん雰囲気が出ているぜ‥‥。[%p]
+ZH [name]拓也[line]不过，那一部分的气氛都出来了呢……。[%p]
+
+JA [name]たくや[line]香織さんは、出てくる気配がないが‥‥。[%p]
+ZH [name]拓也[line]香织小姐，感觉不到要出去的迹象说……。[%p]
+
+JA [name]たくや[line]当たり前だ。彼女はホテルで俺を待っている‥‥。[%p]
+ZH [name]拓也[line]那当然了。她说在宾馆等着我……。[%p]
+
+JA [name]たくや[line]‥‥トイレは左奥だな。[%p]
+ZH [name]拓也[line]JF:厕所在左边里面啊。[%p]
+
+JA [name]たくや[line]香織さん、トイレにいるなんてことは‥‥ないだろうな。[%p]
+ZH [name]拓也[line]香织小姐，在厕所里面…不可能会有这种事吧…。[%p]
+
+JA [name]たくや[line]考えてみたら、彼女はホテルで俺を待っているんだった‥‥。[%p]
+ZH [name]拓也[line]仔细想想的话，她说在宾馆里面等着我……。[%p]
+
+JA [name]たくや[line]テーブルを見ても香織さんは出てこないぜ‥‥。[%p]
+ZH [name]拓也[line]就算看着桌子香织小姐也不会出来呢……。[%p]
+
+JA [name]たくや[line]彼女はホテルにいるはずだ‥‥。[%p]
+ZH [name]拓也[line]她应该是在宾馆里面……。[%p]
+
+JA [name]たくや[line]いないな‥‥。[%p]
+ZH [name]拓也[line]不在这里……。[%p]
+
+JA [name]たくや[line]ここに香織さんは座っていない‥‥。[%p]
+ZH [name]拓也[line]香织小姐没有坐在这里……。[%p]
+
+JA [name]たくや[line]ここには座っていないな‥‥。[%p]
+ZH [name]拓也[line]没有坐在这里啊……。[%p]
+
+JA [name]たくや[line]やっぱり、帰ってしまったのかな‥‥。[%p]
+ZH [name]拓也[line]果然，已经回去了吧……。[%p]
+
+JA [name]たくや[line]ライトだな‥‥。[%p]
+ZH [name]拓也[line]似乎是灯‥‥。[%p]
+
+JA [name]たくや[line]丸ナスのようなライトがぶら下がっているな‥‥。[%p]
+ZH [name]拓也[line]JF:像圆茄子一样的灯挂着。[%p]
+
+JA [name]たくや[line]香織さんはこの中に‥‥入っている訳ないか。[%p]
+ZH [name]拓也[line]香织小姐进到里面去……没有这种可能吧。[%p]
+
+JA [name]たくや[line]香織さんは、恐らくホテルで俺を待っている‥‥。[%p]
+ZH [name]拓也[line]香织小姐，恐怕是在宾馆等着我……。[%p]
+
+JA [name]たくや[line]さっき、そう聞いたろう?[%p]
+ZH [name]拓也[line]刚才，是这么听说的吧？[%p]
+
+JA [name]たくや[line]店のこだわりなんだろうな。[%p]
+ZH [name]拓也[line]JF:是店里的讲究吧。[%p]
+
+JA [name]たくや[line]カーテンってのは、珍しいんじゃないか。[%p]
+ZH [name]拓也[line]JF:窗帘不是很少见吗。[%p]
+
+JA [name]たくや[line]最近はロールスクリーンなんかが主流だ。[%p]
+ZH [name]拓也[line]JF:最近，卷帘之类的是主流。[%p]
+
+JA [name]たくや[line]よくわからんが、芸術品らしいな‥‥。[%p]
+ZH [name]拓也[line]虽然看不懂，不过似乎是艺术品啊……。[%p]
+
+JA [name]たくや[line]悠長に絵画を観ている場合か‥‥?[%p]
+ZH [name]拓也[line]现在是从容地观赏绘画的时候吗……？[%p]
+
+JA [name]たくや[line]何のためにここへ来たんだ。香織さんを探そうぜ‥‥。[%p]
+ZH [name]拓也[line]我到底是为什么到这里来的啊。赶快去找香织小姐……。[%p]
+
+JA [name]たくや[line]‥‥と思ったけど、ここを探しても彼女はいないんだった。[%p]
+ZH [name]拓也[line]……话虽这么说，就算在这里找了她也不在呢。[%p]
+
+JA [name]たくや[line]彼女はシティホテルだぜ‥‥。[%p]
+ZH [name]拓也[line]她现在在城市宾馆呢……。[%p]
+
+JA [name]女[line]えっ、ホテルぅ?[%p]
+ZH [name]女人[line]诶，宾馆？[%p]
+
+JA [name]女[line]あなた、随分と直接的ね‥‥ナンパはもう少し、穏やかにするものよ。[%p]
+ZH [name]女人[line]你这个人，真是相当的直接呢……就算是搭讪，也要一步一步来哦。[%p]
+
+JA [name]女[line]私以外で、美人は知らないわねぇ‥‥。[%p]
+ZH [name]女人[line]除了我以为，不认识其他美女呢……。[%p]
+
+JA [name]女[line]だから、美人でセミロングで、可愛らしい女性でしょ?[%p]
+ZH [name]女人[line]所以说，是个中短发的美女，看上去很可爱的女性吧？[%p]
+
+JA [name]女[line]ほら、よーく目を凝らして見なさいよ‥‥ちょっと、スカートの下を見なくていいのっ。[%p]
+ZH [name]女人[line]你看，要仔～细地盯着我看哦……等一下，不用往裙子底下看也可以的。[%p]
+
+JA [name]女[line]美人でセミロングで、ちょっと遊び人っぽいけど、可愛らしい女性?[%p]
+ZH [name]女人[line]中短发的美女，有点爱玩的打扮，不过很可爱的女性？[%p]
+
+JA [name]女[line]ウフフーン、ほらほら、目の前にいるじゃない、ほら。[%p]
+ZH [name]女人[line]嗯呵呵，你看你看，不就在你眼前吗，你看。[%p]
+
+JA [name]女[line]あっ、ちょっと、どこへ行くのよ。[%p]
+ZH [name]女人[line]啊、等一下，你要去哪里啊。[%p]
+
+JA [name]男A[line]このあたりでホテルって言ったら、セントラル街の突き当たりの、あそこだろうな。[%p]
+ZH [name]男人Ａ[line]说到这附近的宾馆的话，就是在中央街尽头，那个位置的吧。[%p]
+
+JA [name]男A[line]あそこは、結構有名人とかが宿泊したりするんだぜ、知っていたかい?[%p]
+ZH [name]男人Ａ[line]那里啊，有很多名人之类的住宿呢，你知道吗？[%p]
+
+JA [name]男A[line]セミロングなんて、知らないよ‥‥。[%p]
+ZH [name]男人Ａ[line]中短发什么的，我不知道……。[%p]
+
+JA [name]男A[line]セミロングで、少し遊び人っぽい女性を見なかったかって‥‥?[%p]
+ZH [name]男人Ａ[line]问我有没有看到过中短发，有点爱玩打扮的女性……？[%p]
+
+JA [name]男A[line]悪いけど、オレの趣味じゃないなぁ‥‥。[%p]
+ZH [name]男人Ａ[line]抱歉，那不合我的兴趣啊……。[%p]
+
+JA [name]男B[line]えっ、ホテルへ一緒に行こう?[%p]
+ZH [name]男人Ｂ[line]诶，一起去宾馆吗？[%p]
+
+JA [name]男B[line]僕、いたってノーマルなんですけどぉ‥‥。[%p]
+ZH [name]男人Ｂ[line]我可是，取向很正常的说……。[%p]
+
+JA [name]男B[line]えっ、朝倉香織が、この喫茶店にいた?[%p]
+ZH [name]男人Ｂ[line]诶，香织香织吗，在这个咖啡店里？[%p]
+
+JA [name]男B[line]またまた、あんな有名人がいるわけないじゃないですか‥‥。[%p]
+ZH [name]男人Ｂ[line]没有没有，像那样子的名人不可能会在这里的吧……。[%p]
+
+JA [name]男B[line]は? 朝倉香織さん‥‥ですか?[%p]
+ZH [name]男人Ｂ[line]哈？　朝仓香织小姐……是吗？[%p]
+
+JA [name]男B[line]あー人気報道番組の『ニュース・プレゼンス』ですね。よく観ますよ。[%p]
+ZH [name]男人Ｂ[line]是那个很受欢迎的报道节目『新闻·现场』吧。我经常看哦。[%p]
+
+JA [name]男B[line]あの女性キャスター、可愛らしい顔をして、結構キツいことを言うんですよねぇ。[%p]
+ZH [name]男人Ｂ[line]那个女主播，脸长得很可爱，却老是说些很严厉的话呢。[%p]
+
+JA [name]男B[line]でも、そこが現代男性の支持を得ている理由なのかも知れません。[%p]
+ZH [name]男人Ｂ[line]不过，说不定那一点就是得到现代男性支持的理由呢。[%p]
+
+JA [name]たくや[line]植え込みを見ても、香織さんが出てくる訳じゃない。[%p]
+ZH [name]拓也[line]就算盯着花丛看，香织小姐也不可能从那里钻出来。[%p]
+
+JA [name]たくや[line]彼女はホテルで俺を待っているって話だが‥‥。[%p]
+ZH [name]拓也[line]她说过在宾馆里面等着我的……。[%p]
+
+JA [name]たくや[line]植え込みだ‥‥香織さんはいない。[%p]
+ZH [name]拓也[line]花丛……香织小姐不在。[%p]
+
+JA [name]たくや[line]植え込みってヤツだな‥‥。[%p]
+ZH [name]拓也[line]那里是花丛……。[%p]
+
+JA [name]たくや[line]まさか、この陰に香織さんが‥‥隠れている訳ないぞ。[%p]
+ZH [name]拓也[line]难道说，香织小姐藏在这个阴暗处……没那种可能呢。[%p]
+
+JA [name]たくや[line]人は、まばらだな‥‥。[%p]
+ZH [name]拓也[line]行人，稀稀拉拉的……。[%p]
+
+JA [name]たくや[line]喫茶店、[EVENING]だな‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是啊。[%p]
+
+JA [name]たくや[line]シャレていて、それでいてゴミゴミとしていないんだ‥‥。[%p]
+ZH [name]拓也[line]开玩笑地说，这个不算是杂乱无章吧……。[%p]
+
+JA [name]たくや[line]そうだな‥‥外へ出よう。[%p]
+ZH [name]拓也[line]对啊……到外面去吧。[%p]
+
+JA [name]たくや[line]‥‥ちょっと待ってくれ。[%p]
+ZH [name]拓也[line]……稍等一下。[%p]
+
+JA [name]たくや[line]香織さんを、もう少し探してみようぜ‥‥。[%p]
+ZH [name]拓也[line]香织小姐，再稍微找找看吧……。[%p]
+
+JA [name]たくや[line]ジュークボックスってヤツだな‥‥。[%p]
+ZH [name]拓也[line]那是叫做投币式点唱机的东西……。[%p]
+
+JA [name]たくや[line]今は、1曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像放了第一首歌。[%p]
+
+JA [name]たくや[line]今は、2曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第二首歌。[%p]
+
+JA [name]たくや[line]今は、3曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第三首歌。[%p]
+
+JA [name]たくや[line]今は、4曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第四首歌。[%p]
+
+JA [name]たくや[line]今は、5曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第五首歌。[%p]
+
+JA [name]たくや[line]今は、6曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第6首曲子。[%p]
+
+JA [name]たくや[line]今は、7曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第7首歌。[%p]
+
+JA [name]たくや[line]今は、8曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第8首歌。[%p]
+
+JA [name]たくや[line]今は、9曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像是第9首曲子。[%p]
+
+JA [name]たくや[line]今は、10曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]拓也[line]JF:现在好像有第10首曲子。[%p]
+
+JA [name]たくや[line]もっとも、ゆったりと曲を聴いている場合でもないけど‥‥。[%p]
+ZH [name]拓也[line]不过，现在应该不是悠闲地听歌的时候吧……。[%p]
+
+JA [name]たくや[line]やめるなら、右下のEXITボタンを押せば、元に戻るからな。[%p]
+ZH [name]拓也[line]要结束的话，只要按下右下角的ＥＸＩＴ按键，就可以恢复原样了。[%p]
+
+JA 『Clair de lune』[%p]
+ZH 『Clair de lune』[%p]
+
+JA 『Pianoforte』[%p]
+ZH 『Pianoforte』[%p]
+
+JA 『Saw Atmosphere』[%p]
+ZH 『Saw Atmosphere』[%p]
+
+JA 『Crystal Glock』[%p]
+ZH 『Crystal Glock』[%p]
+
+JA 『TB』[%p]
+ZH 『TB』[%p]
+
+JA 『Honky Tonk』[%p]
+ZH 『Honky Tonk』[%p]
+
+JA 『Ancestral』[%p]
+ZH 『Ancestral』[%p]
+
+JA 『Gamelan』[%p]
+ZH 『Gamelan』[%p]
+
+JA 『Yui Narusawa』[%p]
+ZH 『Yui Narusawa』[%p]
+
+JA 『Wanpaku』[%p]
+ZH 『Wanpaku』[%p]
+
+JA 『Lower Grade Girl』[%p]
+ZH 『Lower Grade Girl』[%p]
+
+JA 『Stair Way』[%p]
+ZH 『Stair Way』[%p]
+
+JA 『Moog Square』[%p]
+ZH 『Moog Square』[%p]
+
+JA [name]たくや[line]よし、元に戻るぜ‥‥。[%p]
+ZH [name]拓也[line]好嘞，恢复原样吧……。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、いかにも喫茶店って感じだよな。[%p]
+ZH [name]拓也[line]但是听到这首歌的话，就有种咖啡店的感觉了。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、以前、屋上で絵里子先生と話したときを思い出すな。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，就想起了以前在屋顶和绘里子老师说话的时候。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、何か、しんみりとしてくるな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，总觉得有点沉静。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、焦る気持ちにさせるよな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌的话，会让人着急的。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、軽快にはね回りたくなるな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，就想轻快地跳起来。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、何か、懐かしい感じがするな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，总觉得有点怀念。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、外を移動しているような感じがしてくるな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，感觉像是在外面移动。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、なぜか、お兄ちゃんって言いたくなるな‥‥。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，不知为什么就想说哥哥。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、ポップなリズムが楽しさを演出しているって感じがするな。[%p]
+ZH [name]拓也[line]JF:但是听了这首曲子，感觉流行的节奏在演出快乐。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、なぜか徹夜をしなくちゃって気がしてくるな。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，不知为什么感觉必须熬夜。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、あのゲームを思い出すな。[%p]
+ZH [name]拓也[line]JF:但是听了这首歌，就想起了那个游戏。[%p]
+
+JA [name]たくや[line]う〜ん、なんだったっけ‥‥。[%p]
+ZH [name]拓也[line]JF:嗯，是什么来着。[%p]
+
+JA [name]たくや[line]しかしこの曲を聴いてると、こんな不思議な曲もあるんだなぁって気になってくる。[%p]
+ZH [name]拓也[line]JF:但是听了这首曲子，也有这么不可思议的曲子啊。[%p]
+
+JA [name]たくや[line]‥‥なんだそれ。[%p]
+ZH [name]拓也[line]……那是什么。[%p]
+
+JA [name]たくや[line]‥‥おいおい、そんなところを押したってダメだよ。[%p]
+ZH [name]拓也[line]……喂喂，那个地方是不能按的哦。[%p]
+
+JA [name]たくや[line]ボタンを押すんだって。[%p]
+ZH [name]拓也[line]按按键吧。[%p]
+
+JA 
+ZH 
+

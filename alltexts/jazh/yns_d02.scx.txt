@@ -1,0 +1,66 @@
+JA [name]たくや[line]‥‥家には誰もいないみたいだ。[%p]
+ZH [name]拓也[line]……家里面好像谁都不在啊。[%p]
+
+JA [name]たくや[line]俺、1人か‥‥。[%p]
+ZH [name]拓也[line]我，１个人吗……。[%p]
+
+JA [name]たくや[line]亜由美さんは、いないな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，不在啊……。[%p]
+
+JA [name]たくや[line]今頃、会社で大変なんじゃないかな‥‥。[%p]
+ZH [name]拓也[line]现在，不是在公司够呛的吗……。[%p]
+
+JA [name]たくや[line]‥‥あれ?[%p]
+ZH [name]拓也[line]……咦？[%p]
+
+JA [name]たくや[line]テレビが点けっぱなしだ‥‥。[%p]
+ZH [name]拓也[line]电视机没有关啊……。[%p]
+
+JA [name]たくや[line]誰が点けたんだろう?[%p]
+ZH [name]拓也[line]是谁开起来的呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]リビングだ‥‥誰もいないな。[%p]
+ZH [name]拓也[line]那是客厅……谁都不在啊。[%p]
+
+JA [name]たくや[line]ただいまーーっ。[%p]
+ZH [name]拓也[line]我回来了——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ただいまー、亜由美さーん。[%p]
+ZH [name]拓也[line]我回来了——，亚由美小姐——。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]よし。亜由美さんは、いないみたいだ。会社へ行っているんだろうか。[%p]
+ZH [name]拓也[line]好吧。亚由美小姐，好像不在啊。应该是到公司去了吧。[%p]
+
+JA [name]たくや[line]ま、いま会ったら、ボロが出ちまいそうで恐ろしいぞ。[%p]
+ZH [name]拓也[line]算了，现在碰到的话，恐怕也会露出破绽来的。[%p]
+
+JA [name]たくや[line]リビングだ‥‥。[%p]
+ZH [name]拓也[line]客厅……。[%p]
+
+JA [name]たくや[line]俺は何でリビングに来たんだろうな‥‥。[%p]
+ZH [name]拓也[line]我为什么要到客厅来呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]早く外に出よう。[%p]
+ZH [name]拓也[line]快点到外面去吧。[%p]
+
+JA [name]たくや[line]リビングだ‥‥。[%p]
+ZH [name]拓也[line]客厅……。[%p]
+
+JA [name]たくや[line]亜由美さんは、まだ会社から帰っていないのかな‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，还没有从公司回来吗……。[%p]
+
+JA 
+ZH 
+

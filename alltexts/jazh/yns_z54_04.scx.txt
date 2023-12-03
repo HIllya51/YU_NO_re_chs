@@ -1,0 +1,189 @@
+JA [name]たくや[line]なんなんだよ? こいつらは‥‥。[%p]
+ZH [name]拓也[line]JF:这是什么？这些家伙。[%p]
+
+JA [name]たくや[line]ま、まさか?[%p]
+ZH [name]拓也[line]JF:啊，不会吧？[%p]
+
+JA [name]たくや[line]セーレス! 今助けるからな!![%p]
+ZH [name]拓也[line]JF:塞雷斯！我现在帮你！！[%p]
+
+JA [name]たくや[line](まわりを見回してる場合じゃない!)[%p]
+ZH [name]拓也[line](（是四处张望的时候吗！）)[%p]
+
+JA [name]たくや[line](セーレスの姿は見えない‥‥。)[%p]
+ZH [name]拓也[line](（没看到塞蕾斯的踪影‥‥）。)[%p]
+
+JA [name]たくや[line](どこへ行ったんだろう‥‥?)[%p]
+ZH [name]拓也[line](（她到哪里去了呢‥‥？）)[%p]
+
+JA [name]たくや[line](セーレスはいない‥‥代わりに男達が3人。)[%p]
+ZH [name]拓也[line](（塞蕾斯没在‥‥却有３个男人在。）。)[%p]
+
+JA [name]たくや[line](いったい‥‥俺の家で何をやっているんだ!?)[%p]
+ZH [name]拓也[line](（究竟‥‥在我家里干什么呢！？）)[%p]
+
+JA [name]たくや[line](男たちが‥‥セーレスを!?)[%p]
+ZH [name]拓也[line](（那些男人‥‥把塞蕾斯给！？）)[%p]
+
+JA [name]たくや[line](男たちの隙間から、見えるのは‥‥。)[%p]
+ZH [name]拓也[line](（从那些男人中间，能看到‥‥）。)[%p]
+
+JA [name]たくや[line](あれ‥‥男たちの隙間から‥‥。)[%p]
+ZH [name]拓也[line](（咦‥‥那些男人的中间‥‥）。)[%p]
+
+JA [name]たくや[line](あれは‥‥?)[%p]
+ZH [name]拓也[line](（那是‥‥？）)[%p]
+
+JA [name]たくや[line](しかし‥‥俺んちの居間で、いったい何をやっているんだ?)[%p]
+ZH [name]拓也[line](（可是‥‥究竟在我们家的起居室干什么呢？）)[%p]
+
+JA [name]たくや[line](目の前に‥‥妙なマスクをかぶった奴等がいる!)[%p]
+ZH [name]拓也[line](（眼前‥‥有一帮带着奇怪面具的家伙们！）)[%p]
+
+JA [name]たくや[line](セーレスとユーノ以外で、初めて見る人間だ!)[%p]
+ZH [name]拓也[line]JF:（除了塞雷斯和尤诺以外，是第一次看到的人！）[%p]
+
+JA [name]たくや[line]セーレス!?[%p]
+ZH [name]拓也[line]塞蕾斯！？[%p]
+
+JA [name]セーレス[line]‥‥!!?[%p]
+ZH [name]塞蕾斯[line]……！！？[%p]
+
+JA [name]たくや[line]セーレス、いったいこれは、どうしたんだよ!?[%p]
+ZH [name]拓也[line]塞蕾斯，这到底，是怎么回事！？[%p]
+
+JA [name]セーレス[line]たくや‥‥私‥‥。[%p]
+ZH [name]塞蕾斯[line]拓也‥‥我‥‥。[%p]
+
+JA [name]たくや[line]喋れるのか‥‥セーレス!?[%p]
+ZH [name]拓也[line]你能说话了吗‥‥塞蕾斯！？[%p]
+
+JA [name]セーレス[line]見ないで‥‥見ないで![%p]
+ZH [name]塞蕾斯[line]不要看‥‥不要看！[%p]
+
+JA [name]たくや[line]セーレス!?[%p]
+ZH [name]拓也[line]塞蕾斯！？[%p]
+
+JA [name]男A[line]何だ、貴様はっ![%p]
+ZH [name]男人Ａ[line]你小子干什么的！[%p]
+
+JA [name]たくや[line]貴様らこそ、何者だ!?[%p]
+ZH [name]拓也[line]我倒想问你们是干什么的！？[%p]
+
+JA [name]男B[line]フン、俺たちのこの服装を見て、わからないのか?[%p]
+ZH [name]男人Ｂ[line]哼，看了我们这身装束，就明白了吧？[%p]
+
+JA [name]たくや[line]服装‥‥?[%p]
+ZH [name]拓也[line]装束‥‥？[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line](白い[ruby-base]甲胄[ruby-text-start]かっちゅう[ruby-text-end]を身にまとっている‥‥。)[%p]
+ZH [name]拓也[line](（身上穿着白色甲胄（ｋａｃｃｈｕｕ）‥‥）。)[%p]
+
+JA [name]男C[line]フン‥‥とんだ田舎者だな。我らを知らぬとは。[%p]
+ZH [name]男人Ｃ[line]哼‥‥怎么样，乡巴佬。不认识我们吗。[%p]
+
+JA [name]たくや[line]誰だ、お前らは!?[%p]
+ZH [name]拓也[line]你们是谁！？[%p]
+
+JA [name]男C[line]だから、見てわからないかと言っている。[%p]
+ZH [name]男人Ｃ[line]所以我不是说你看了就明白了么。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どこを見ろっていうんだ‥‥?)[%p]
+ZH [name]拓也[line](（你让我看哪里啊‥‥？）)[%p]
+
+JA [name]たくや[line](白い足‥‥まさか!?)[%p]
+ZH [name]拓也[line](（雪白的腿‥‥难道是！？）)[%p]
+
+JA [name]たくや[line]セーレス‥‥!!?[%p]
+ZH [name]拓也[line]塞蕾斯‥‥！！？[%p]
+
+JA [name]たくや[line]まさか‥‥セーレス!!?[%p]
+ZH [name]拓也[line]难道是‥‥塞蕾斯！！？[%p]
+
+JA [name]たくや[line](足だ‥‥白くて透けるような足だ。)[%p]
+ZH [name]拓也[line](（腿‥‥晶莹洁白的双腿。）。)[%p]
+
+JA [name]たくや[line](しかも‥‥見覚えがある!)[%p]
+ZH [name]拓也[line](（而且‥‥我很眼熟！）)[%p]
+
+JA [name]たくや[line](嫌な予感がする‥‥!!)[%p]
+ZH [name]拓也[line](（有种不好的预感‥‥！！）)[%p]
+
+JA [name]たくや[line](何だよ‥‥あれは。)[%p]
+ZH [name]拓也[line](（那‥‥是什么啊。）。)[%p]
+
+JA [name]たくや[line](足‥‥?)[%p]
+ZH [name]拓也[line](（腿‥‥？）)[%p]
+
+JA [name]たくや[line](冗談言うな!)[%p]
+ZH [name]拓也[line](（说什么傻话！）)[%p]
+
+JA [name]たくや[line](この状況で、外に出ろというのか!?)[%p]
+ZH [name]拓也[line](（这种情况下，要到外面去吗！？）)[%p]
+
+JA [name]たくや[line](待てよ‥‥あいつらは、いったい何をやっているんだ!?)[%p]
+ZH [name]拓也[line](（等等啊‥‥那些家伙们究竟干什么来的！？）)[%p]
+
+JA [name]たくや[line](外に逃げ出す訳にはいかない‥‥!)[%p]
+ZH [name]拓也[line](（不能就这么逃到外面去‥‥！）)[%p]
+
+JA [name]たくや[line](寝室に行っている場合か‥‥!?)[%p]
+ZH [name]拓也[line](（现在是去卧室的时候吗‥‥！？）)[%p]
+
+JA [name]たくや[line](冗談言うなよ‥‥この状況で寝室なんて行けるか!)[%p]
+ZH [name]拓也[line](（别开玩笑了‥‥这种情况怎么可能到卧室去！）)[%p]
+
+JA [name]たくや[line](目の前の男たちが‥‥セーレスを!!?)[%p]
+ZH [name]拓也[line](（眼前的男人们‥‥把塞蕾斯给！！？）)[%p]
+
+JA [name]たくや[line](まさか‥‥あの下に組み敷かれているのは!?)[%p]
+ZH [name]拓也[line](（难道说‥‥那个被按倒在地上的是！？）)[%p]
+
+JA [name]たくや[line](もっとよく見てみよう!)[%p]
+ZH [name]拓也[line](（再看清楚点！）)[%p]
+
+JA [name]たくや[line]おい、お前たち‥‥。[%p]
+ZH [name]拓也[line]喂，你们‥‥。[%p]
+
+JA [name]男A[line]おい、もっと押さえるんだ。[%p]
+ZH [name]男人Ａ[line]喂，再按紧一些。[%p]
+
+JA [name]男C[line]わかっているが、こいつ、ジタバタと‥‥。[%p]
+ZH [name]男人Ｃ[line]我知道呀，可这家伙手脚不安分‥‥。[%p]
+
+JA [name]たくや[line](ちくしょう、全然聞こえていないぜ。)[%p]
+ZH [name]拓也[line](（可恶，完全听不清楚。）。)[%p]
+
+JA [name]たくや[line](だけど‥‥。)[%p]
+ZH [name]拓也[line](可是……。)[%p]
+
+JA [name]たくや[line](セーレスとユーノ以外で見た、初めての人間‥‥。)[%p]
+ZH [name]拓也[line](（塞蕾斯和优诺之外我第一次见到的人‥‥）。)[%p]
+
+JA [name]たくや[line](妙なマスクはしているが、確かに人間だ‥‥。)[%p]
+ZH [name]拓也[line](（虽然带着奇怪的面具，但确实是人类‥‥）。)[%p]
+
+JA [name]たくや[line](いったい‥‥何をしているんだ‥‥?)[%p]
+ZH [name]拓也[line](（究竟‥‥在干什么呢‥‥？）)[%p]
+
+JA [name]男A[line]おい、もっと押さえつけていろよ‥‥。[%p]
+ZH [name]男人Ａ[line]喂，再按紧一点儿啊‥‥。[%p]
+
+JA [name]男B[line]こいつ‥‥ジタバタしやがって。[%p]
+ZH [name]男人Ｂ[line]这家伙‥‥实在太不安分了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](まさか‥‥あの下に組み敷かれているのは‥‥。)[%p]
+ZH [name]拓也[line](（难道说‥‥那个被按倒在地上的是‥‥）。)[%p]
+
+JA 
+ZH 
+

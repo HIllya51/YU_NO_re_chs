@@ -1,0 +1,90 @@
+JA [name]たくや[line]一本道だからな、迷うってことは無いと思うが‥‥。[%p]
+ZH [name]拓也[line]只有一条路啊，所以再怎么走也不可能迷路的吧……。[%p]
+
+JA [name]たくや[line]だが、慎重に移動するに、越したことはないぜ‥‥。[%p]
+ZH [name]拓也[line]不过，要慎重地移动，那样子再好不过了吧……。[%p]
+
+JA [name]美月[line]そうね‥‥気をつけて行きましょう。[%p]
+ZH [name]美月[line]是呢……一定要小心谨慎地走啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](まだ続くのか‥‥?)[%p]
+ZH [name]拓也[line](（还要继续吗……？）)[%p]
+
+JA [name]たくや[line](ふぅ‥‥いったいどこまで行けばいいんだ?)[%p]
+ZH [name]拓也[line](（呼……到底要走到哪里才算是尽头呢？）)[%p]
+
+JA [name]美月[line]ねぇ‥‥。[%p]
+ZH [name]美月[line]呐……。[%p]
+
+JA [name]たくや[line]ん?[%p]
+ZH [name]拓也[line]嗯？[%p]
+
+JA [name]美月[line]本当にこの道でいいの?[%p]
+ZH [name]美月[line]走这条路真的对吗？[%p]
+
+JA [name]たくや[line](マズいな‥‥顔に出ちまったか。)[%p]
+ZH [name]拓也[line](（糟糕……脸上的表情暴露了吗。）。)[%p]
+
+JA [name]美月[line]さっきからずっと、このままじゃない‥‥本当にこの道で大丈夫なの?[%p]
+ZH [name]美月[line]从刚才开始，你不是都一直这样子吗……走这条路真的没问题吗？[%p]
+
+JA [name]たくや[line]だって、一本道じゃないか。[%p]
+ZH [name]拓也[line]可是，这里不就是一条路吗。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]間違えっこないよ。[%p]
+ZH [name]拓也[line]绝对不会搞错的。[%p]
+
+JA [name]美月[line]絶対に‥‥神に誓って?[%p]
+ZH [name]美月[line]绝对……你敢发誓吗？[%p]
+
+JA [name]たくや[line]絶対に、神に誓って。[%p]
+ZH [name]拓也[line]绝对，我对天发誓。[%p]
+
+JA [name]美月[line]ウソっぽいわね‥‥。[%p]
+ZH [name]美月[line]看起来像是骗人……。[%p]
+
+JA [name]たくや[line]あのなぁ、じゃあ何に誓えばいいんだよ。[%p]
+ZH [name]拓也[line]我说你啊，那你说我该怎么保证才行啊。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]何なら、美月さんだけでも引き返していいんだぜ。結城と一緒に待っていなよ。[%p]
+ZH [name]拓也[line]要不然的话，美月你一个人回去也可以。跟结城一起等着我吧。[%p]
+
+JA [name]美月[line]そんなこと‥‥。[%p]
+ZH [name]美月[line]那种事……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](美月さんの不安を、屁理屈で一蹴してしまった‥‥。)[%p]
+ZH [name]拓也[line](（美月的不安，被我的强词夺理直接打败了……。）。)[%p]
+
+JA [name]たくや[line](俺って、嫌なヤツだぜ‥‥まったく。)[%p]
+ZH [name]拓也[line](（我啊，真是个讨厌的家伙……受不了。）。)[%p]
+
+JA [name]たくや[line](だけど、この場合どうしようもない。俺だって、誰かに保証してもらいたいくらいだ。)[%p]
+ZH [name]拓也[line](（不过，这种情况下也没有别的办法了。我也是，只希望有个人能够给我一个保证。）。)[%p]
+
+JA [name]たくや[line](くそっ‥‥。)[%p]
+ZH [name]拓也[line](（可恶……。）。)[%p]
+
+JA [name]美月[line]‥‥行くわ。私も。[%p]
+ZH [name]美月[line]……我也要一起走。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](意外にタフだな、美月さん‥‥。)[%p]
+ZH [name]拓也[line](（出人意料地坚强呢，美月……。）。)[%p]
+
+JA 
+ZH 
+

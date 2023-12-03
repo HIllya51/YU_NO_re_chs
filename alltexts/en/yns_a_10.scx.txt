@@ -1,0 +1,2 @@
+[name]Takuya[line]The path is branching in two again⋯[%p]
+[name]Takuya[line]Which way should I go?[%p]

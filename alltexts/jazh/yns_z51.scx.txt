@@ -1,0 +1,174 @@
+JA [name]たくや[line]‥‥ここが[ボーダー]と言われる由縁ってところだな。[%p]
+ZH [name]拓也[line]‥‥这里被称为［边沿］的原因就在这里。[%p]
+
+JA [name]たくや[line]切り立った絶壁だ‥‥底は雲海で見ることができない。[%p]
+ZH [name]拓也[line]陡峭的悬崖‥‥由于中间有云海望不到底。[%p]
+
+JA [name]たくや[line]あれれ‥‥絶壁に戻ってきてしまった。[%p]
+ZH [name]拓也[line]咦咦‥‥又回到悬崖来了。[%p]
+
+JA [name]たくや[line]ふぅ‥‥ちょっと疲れてるのかな。[%p]
+ZH [name]拓也[line]呼‥‥有些疲惫了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]相変わらず、もの凄く切り立っているな‥‥。[%p]
+ZH [name]拓也[line]这里还是一如既往的那么陡峭啊‥‥。[%p]
+
+JA [name]たくや[line]下の方をずっと見ていると、吸い込まれてしまいそうだ‥‥。[%p]
+ZH [name]拓也[line]一直看着下面的话，有种会被吸进去的感觉‥‥。[%p]
+
+JA [name]たくや[line]この断崖絶壁を、毎日観察するのが俺の日課なんだ。[%p]
+ZH [name]拓也[line]观察这悬崖峭壁是我每天的必修课。[%p]
+
+JA [name]たくや[line]あの雲海の向こうには、何があるんだろうな‥‥。[%p]
+ZH [name]拓也[line]云海的那一边会是什么呢‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]相変わらず、凄い絶壁だな‥‥。[%p]
+ZH [name]拓也[line]悬崖仍旧是非常陡峭‥‥。[%p]
+
+JA [name]たくや[line]下の方を見ているだけで、目眩がしてくるな‥‥。[%p]
+ZH [name]拓也[line]光往下面看看就会头晕‥‥。[%p]
+
+JA [name]たくや[line]あの下の方に見える雲まで、どのくらいあるんだろう‥‥?[%p]
+ZH [name]拓也[line]从这里到下面的云那里有多远呢‥‥？[%p]
+
+JA [name]たくや[line]相当の距離があるな‥‥100メートル、いや、数百メートルはありそうだ。[%p]
+ZH [name]拓也[line]有很长的距离吧‥‥似乎会有１００米，啊不，有数百米吧。[%p]
+
+JA [name]たくや[line]つまり、落ちたらまず、一巻の終わりってことだ。[%p]
+ZH [name]拓也[line]也就是说，一旦落下大概一生休矣。[%p]
+
+JA [name]たくや[line]見ていると、吸い込まれそうだな‥‥危ない危ない。[%p]
+ZH [name]拓也[line]光看看就感觉会被吸进去‥‥危险危险。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]アイリアは、ここを[ボーダー]だと言う。[%p]
+ZH [name]拓也[line]艾丽娅把这里叫做［边沿］。[%p]
+
+JA [name]たくや[line][ボーダー]とは、国境のことか‥‥?[%p]
+ZH [name]拓也[line]［边沿］就是指国境吗‥‥？[%p]
+
+JA [name]たくや[line]だとしたら、この雲の向こうには、いったいどんな国があるっていうんだ‥‥?[%p]
+ZH [name]拓也[line]要是这样的话，这云的那一边究竟会有什么样的国家呢‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥こんなところにいても、しょうがないな。[%p]
+ZH [name]拓也[line]呼‥‥即便在这种地方呆着也没用啊。[%p]
+
+JA [name]たくや[line]さてと、次はどこを探そうか‥‥
+ZH [name]拓也[line]接下来到下个地方找找吧‥‥
+
+JA あれ?[%p]
+ZH 咦？[%p]
+
+JA [name]たくや[line]さてと、次はどこを探そうか‥‥あれ?
+ZH [name]拓也[line]接下来到下个地方找找吧‥‥咦？
+
+JA [name]たくや[line]あそこにいるのは‥‥。[%p]
+ZH [name]拓也[line]（在那边的是……。）。[%p]
+
+JA [name]たくや[line]まさか‥‥。[%p]
+ZH [name]拓也[line]（难道是……。）。[%p]
+
+JA [name]たくや[line]セーレス‥‥?[%p]
+ZH [name]拓也[line]（塞蕾斯……？）[%p]
+
+JA [name]たくや[line]あ、あんな絶壁の際に座り込んで‥‥何をやっているんだ。[%p]
+ZH [name]拓也[line]在、在悬崖那里坐着不动‥‥是在干嘛。[%p]
+
+JA [name]たくや[line]‥‥花?[%p]
+ZH [name]拓也[line]JF:花？[%p]
+
+JA [name]たくや[line]花を摘んでいるのか‥‥あんな崖で。[%p]
+ZH [name]拓也[line]在那么危险的悬崖上‥‥摘花吗。[%p]
+
+JA [name]たくや[line]まったく、いなくなったと思ったら、こんな危ない場所で‥‥。[%p]
+ZH [name]拓也[line]实在是，我还以为她失踪了，原来在这么危险的地方‥‥。[%p]
+
+JA [name]たくや[line]セーレス![%p]
+ZH [name]拓也[line]塞蕾斯！[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]なにやってるんだよ、そんなところで。[%p]
+ZH [name]拓也[line]你在这种地方干什么呀。[%p]
+
+JA [name]セーレス[line]‥‥![%p]
+ZH [name]塞蕾斯[line]……！[%p]
+
+JA [name]たくや[line]な、何だよ、その花‥‥。[%p]
+ZH [name]拓也[line]这、这花算怎么回事‥‥。[%p]
+
+JA [name]セーレス[line]ニコニコッ。[%p]
+ZH [name]塞蕾斯[line]笑眯眯。[%p]
+
+JA [name]たくや[line]俺に‥‥?[%p]
+ZH [name]拓也[line]和我……？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]バカだな‥‥そんなモンのために、わざわざこんな危ない場所まで‥‥。[%p]
+ZH [name]拓也[line]你好傻啊‥‥为了这东西特地跑到这么危险的地方‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]ほら、もう行こう‥‥アイリアが心配していたぜ。[%p]
+ZH [name]拓也[line]好啦，可以走了‥‥艾丽娅在担心你哦。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]この辺は、危ないんだってさ。[%p]
+ZH [name]拓也[line]因为这一带挺危险啊。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]彼女は、獣がどうとか言っていたが、それ以前にここは崖っぷちだからな。別の意味で危ないぜ。[%p]
+ZH [name]拓也[line]虽然她说会有野兽什么的会比较危险，可我以前差一点从悬崖上掉下去，这是另一种意义的危险。[%p]
+
+JA [name]セーレス[line]‥‥コクン。[%p]
+ZH [name]塞蕾斯[line]‥‥点头。[%p]
+
+JA [name]たくや[line]さっ、早くここから‥‥。[%p]
+ZH [name]拓也[line]好了，快点离开这里‥‥。[%p]
+
+JA [name]たくや[line]な、何だ‥‥どうしたんだ!?[%p]
+ZH [name]拓也[line]是、是什么‥‥发生什么了！？[%p]
+
+JA [name]たくや[line]何かの‥‥叫び声だ。[%p]
+ZH [name]拓也[line]不知是什么东西的‥‥叫声。[%p]
+
+JA [name]たくや[line]いったい、何なんだ‥‥?[%p]
+ZH [name]拓也[line]究竟是什么‥‥？[%p]
+
+JA [name]たくや[line]この腹に響くような叫び声は‥‥。[%p]
+ZH [name]拓也[line]这像是在腹腔中回响的叫声‥‥。[%p]
+
+JA [name]たくや[line]うわぁぁぁっ!![%p]
+ZH [name]拓也[line]唔哇啊啊啊！！[%p]
+
+JA [name]たくや[line]な、何だ‥‥。[%p]
+ZH [name]拓也[line]是、是什么‥‥。[%p]
+
+JA [name]たくや[line]何だ!? あれは!!?[%p]
+ZH [name]拓也[line]那！？　是什么！！？[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,27 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいない‥‥俺1人か。[%p]
+ZH [name]拓也[line]没人在……只有我１个吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]地下留置場に降りてきたぜ‥‥。[%p]
+ZH [name]拓也[line]走到地下拘留室来了……。[%p]
+
+JA [name]たくや[line]当たり前だが、もう龍蔵寺は吊るされていない‥‥。[%p]
+ZH [name]拓也[line]虽然是肯定的事，不过龙藏寺已经没有吊在那里了……。[%p]
+
+JA [name]たくや[line]上と違って、やけに静かだ‥‥。[%p]
+ZH [name]拓也[line]跟上面不一样，显得特别安静……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]な、何だよ‥‥ここは‥‥。[%p]
+ZH [name]拓也[line]什，什么啊……这里是……。[%p]
+
+JA 
+ZH 
+

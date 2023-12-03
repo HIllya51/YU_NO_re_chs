@@ -1,0 +1,219 @@
+JA [name]たくや[line]中庭に戻ってきたぜ‥‥。[%p]
+ZH [name]拓也[line]又回到中庭来了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]静まりかえっている‥‥。[%p]
+ZH [name]拓也[line]周围万籁俱寂……。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないんだろうか‥‥?[%p]
+ZH [name]拓也[line]果然，谁都不在吧……？[%p]
+
+JA [name]絵里子[line]半壊した車をあのままにしておいたのは、マズかったな。[%p]
+ZH [name]绘里子[line]就这样子把半坏的车子丢在这里，太糟糕了。[%p]
+
+JA [name]たくや[line]どうかしたの?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]絵里子[line]さっき、カップルが車を眺めて何か話していた。そのうち通報される。[%p]
+ZH [name]绘里子[line]JF:刚才，一对情侣望着车在说什么。不久就会被通报。[%p]
+
+JA [name]たくや[line]‥‥まるで、通報されるとマズいみたいだね。[%p]
+ZH [name]拓也[line]……完全，简直就像是被举报就糟糕了似的。[%p]
+
+JA [name]絵里子[line]確認するまではね。今しないと、機会を逸してしまう。[%p]
+ZH [name]绘里子[line]一直要到确认好为止吧。现在不做的话，机会就要逃走了。[%p]
+
+JA [name]たくや[line]す、するって‥‥?[%p]
+ZH [name]拓也[line]做，做什么……？[%p]
+
+JA [name]絵里子[line]なにドキドキした顔をしている。[%p]
+ZH [name]绘里子[line]别摆出一副心跳加速的样子。[%p]
+
+JA [name]たくや[line]別に‥‥しかし、不法侵入に、恐らく器物破損。立派にハクがつくよな。[%p]
+ZH [name]拓也[line]没有……不过，不法侵入，恐怕还有损坏财物。都得要老老实实交代清楚。[%p]
+
+JA [name]絵里子[line]なに、バレなければいい。[%p]
+ZH [name]绘里子[line]什么，只要别被揭穿就好了。[%p]
+
+JA [name]たくや[line](教師の言う言葉かよ‥‥。)[%p]
+ZH [name]拓也[line](（这是老师该说的话吗……。）。)[%p]
+
+JA [name]絵里子[line]学長は今日、家には不在だ。そして彼の母親は‥‥。[%p]
+ZH [name]绘里子[line]校长今天，不在家里。然后他的母亲……。[%p]
+
+JA [name]たくや[line]土蔵の中で、ぶら下がり健康中だ。[%p]
+ZH [name]拓也[line]在土藏里，正健康地悬挂着呢。[%p]
+
+JA [name]絵里子[line]誰かが来るまで、十数分というところだろう。手っ取り早くすませなくては。[%p]
+ZH [name]绘里子[line]到有人过来为止，大概还要十多分钟吧。得尽早取得线索才行啊。[%p]
+
+JA [name]たくや[line]何を?[%p]
+ZH [name]拓也[line]什么？[%p]
+
+JA [name]絵里子[line]手分けした方がいいかも知れない。私はまず、例の土蔵へ行ってみる。[%p]
+ZH [name]绘里子[line]我们说不定分头行动比较好。首先，我要先去那个土藏看看。[%p]
+
+JA [name]たくや[line]‥‥腰ぬかすぜ。[%p]
+ZH [name]拓也[line]……别被吓瘫了。[%p]
+
+JA [name]絵里子[line]フフ、気を付けよう。君は他を探してみてくれ。[%p]
+ZH [name]绘里子[line]呵呵，我会注意的。你就先去找找别的东西。[%p]
+
+JA [name]たくや[line]だから、何を探すの?[%p]
+ZH [name]拓也[line]那么，要我找什么？[%p]
+
+JA [name]絵里子[line]普通じゃないモノだ。[%p]
+ZH [name]绘里子[line]不同寻常的东西。[%p]
+
+JA [name]たくや[line]普通じゃない‥‥もの?[%p]
+ZH [name]拓也[line]不同寻常的……东西？[%p]
+
+JA [name]絵里子[line]どんなに些細なモノでもいい。見つけたら、すぐに私を呼んでくれ。時計は?[%p]
+ZH [name]绘里子[line]不管是多么细微的东西也好。要是有发现的话，记得马上喊我。有表吗？[%p]
+
+JA [name]たくや[line]あ、ああ‥‥いちおう、持ってるけど。[%p]
+ZH [name]拓也[line]啊，有啊……算是，有带着吧。[%p]
+
+JA [name]絵里子[line]では15分後にしよう。何もなくても、15分後にここだ。[%p]
+ZH [name]绘里子[line]那么就１５分钟后汇合。就算没有发现，１５分钟后也要到这来。[%p]
+
+JA [name]たくや[line]わかったけど、
+ZH [name]拓也[line]JF:我知道了
+
+JA ちょっ‥‥絵里子先生![%p]
+ZH 等……绘里子老师！[%p]
+
+JA [name]たくや[line]わかったけど‥‥ちょっ、絵里子先生!
+ZH [name]拓也[line]我知道了……等，绘里子老师！
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行っちまった‥‥相変わらずマイペースな先生だな。[%p]
+ZH [name]拓也[line]走掉了……还是一如既往地我行我素的老师。[%p]
+
+JA [name]たくや[line]でも‥‥探す?[%p]
+ZH [name]拓也[line]不过……要找吗？[%p]
+
+JA [name]たくや[line]普通じゃないモノ‥‥。[%p]
+ZH [name]拓也[line]不同寻常的东西……。[%p]
+
+JA [name]たくや[line]なんだ、それは?[%p]
+ZH [name]拓也[line]究竟，是什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]静まりかえっている‥‥。[%p]
+ZH [name]拓也[line]周围万籁俱寂……。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないんだろうか‥‥?[%p]
+ZH [name]拓也[line]果然，谁都不在吧……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]不法侵入‥‥そして恐らく、器物破損くらいはするかも知れないな。[%p]
+ZH [name]拓也[line]不法侵入……而且恐怕，说不定还要加上损坏财物这一条。[%p]
+
+JA [name]たくや[line]これで俺も、立派な不良って訳だ。ははは‥‥。[%p]
+ZH [name]拓也[line]这样的话，我就彻底成为不良少年了。哈哈哈……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、さっきのはいったい誰だったんだ?[%p]
+ZH [name]拓也[line]但是，刚才的到底是谁呢？[%p]
+
+JA [name]たくや[line]俺の目の錯覚じゃないと思うんだが‥‥。[%p]
+ZH [name]拓也[line]我不觉得是我眼睛的错觉……。[%p]
+
+JA [name]たくや[line]それに、母屋の方も、静かだな‥‥。[%p]
+ZH [name]拓也[line]而且，主屋方向也，很安静……。[%p]
+
+JA [name]たくや[line]いったい、どうなってるんだ‥‥?[%p]
+ZH [name]拓也[line]这究竟，是怎么回事啊……？[%p]
+
+JA [name]たくや[line]土蔵前にはいなかったな‥‥。[%p]
+ZH [name]拓也[line]不要回土藏前面去了……。[%p]
+
+JA [name]たくや[line]まったく、人を呼び出しておいて、どこへ行ったんだ?[%p]
+ZH [name]拓也[line]真是的，把人给叫出来，究竟要到哪里去啊？[%p]
+
+JA [name]たくや[line]明るいというだけで、随分雰囲気変わるな‥‥。[%p]
+ZH [name]拓也[line]虽然很明亮，不过感觉气氛相当的奇怪啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]それにしても美月さん、どこにいるんだろうな。[%p]
+ZH [name]拓也[line]话说回来，美月她究竟到哪里去了呢。[%p]
+
+JA [name]たくや[line]母屋の方‥‥かな?[%p]
+ZH [name]拓也[line]主屋方向……是吗？[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](最後のはちょっと余計だったか‥‥?)[%p]
+ZH [name]拓也[line](（最后的稍微有点多余了吗……？）)[%p]
+
+JA [name]たくや[line](いや、あのくらいのカマはかけておいて、いいはずだ。)[%p]
+ZH [name]拓也[line](（不对，准备那种程度的锅，应该是可以的。）。)[%p]
+
+JA [name]たくや[line](いずれ、何らかのリアクションがあるかもしれないしな‥‥。)[%p]
+ZH [name]拓也[line](（说不定，早晚会有什么反作用呢……。）。)[%p]
+
+JA [name]たくや[line]さてと、そろそろ‥‥。[%p]
+ZH [name]拓也[line]那么，我就……。[%p]
+
+JA [name]声[line]坊や‥‥‥‥。[%p]
+ZH [name]声音[line]孩子…………。[%p]
+
+JA [name]たくや[line]‥‥えっ?[%p]
+ZH [name]拓也[line]……诶？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今、何か声が聴こえたような気が‥‥。[%p]
+ZH [name]拓也[line]刚才，好像有听到什么声音……。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]俺の気のせいか‥‥?[%p]
+ZH [name]拓也[line]是我的错觉吗……？[%p]
+
+JA [name]声[line]坊や‥‥こっちへおいで。[%p]
+ZH [name]声音[line]孩子……到这边来。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ゴクッ‥‥。[%p]
+ZH [name]拓也[line]（咕噜……。）。[%p]
+
+JA [name]たくや[line]いったい‥‥どこから聴こえてきたんだ?[%p]
+ZH [name]拓也[line]究竟……是从哪里传来的声音呢？[%p]
+
+JA 
+ZH 
+

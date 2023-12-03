@@ -1,0 +1,9 @@
+JA [name]たくや[line]道が二股に分かれている‥‥。[%p]
+ZH [name]拓也[line]路在这里分成了二条……。[%p]
+
+JA [name]たくや[line]どっちに進むんだ‥‥?[%p]
+ZH [name]拓也[line]应该往哪边走好呢……？[%p]
+
+JA 
+ZH 
+

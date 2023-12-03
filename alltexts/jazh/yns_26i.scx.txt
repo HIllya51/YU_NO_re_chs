@@ -1,0 +1,198 @@
+JA [name]たくや[line]もうドアは開いてるぜ‥‥。[%p]
+ZH [name]拓也[line]门已经打开了‥‥。[%p]
+
+JA [name]たくや[line]もう使ったよ‥‥後はコンパネを押すだけだ。[%p]
+ZH [name]拓也[line]已经使用过了……接着只要按控制面板就行了。[%p]
+
+JA [name]たくや[line]カードを使うぞ。[%p]
+ZH [name]拓也[line]使用卡片吧。[%p]
+
+JA [name]たくや[line]よし、これで後は‥‥。[%p]
+ZH [name]拓也[line]好了，接下来就要……。[%p]
+
+JA [name]香織[line]何度もやること、ないんじゃない?[%p]
+ZH [name]香织[line]不需要再做好几遍了吧？[%p]
+
+JA [name]たくや[line]カードを使うぞ。[%p]
+ZH [name]拓也[line]使用卡片吧。[%p]
+
+JA [name]たくや[line]よし、これで後は‥‥。[%p]
+ZH [name]拓也[line]好了，接下来就要……。[%p]
+
+JA [name]香織[line]コンパネを操作するだけね。[%p]
+ZH [name]香织[line]只需要按控制面板就行了吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何でそんなことを、知ってるんだろう‥‥?)[%p]
+ZH [name]拓也[line](（为什么她连这种事情都会知道呢……？）)[%p]
+
+JA [name]たくや[line]何度もやるもんじゃないぜ。[%p]
+ZH [name]拓也[line]不需要做好几遍了吧。[%p]
+
+JA [name]たくや[line]カードを使うぞ。[%p]
+ZH [name]拓也[line]使用卡片吧。[%p]
+
+JA [name]たくや[line]よし、これで後は‥‥。[%p]
+ZH [name]拓也[line]好了，接下来就要……。[%p]
+
+JA [name]たくや[line]おいおい、もうドアが開いてるよ‥‥。[%p]
+ZH [name]拓也[line]喂喂，门已经打开了啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何度やっても同じか‥‥。[%p]
+ZH [name]拓也[line]不管做几遍都一样吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おかしいな‥‥ドアが開かないぜ。[%p]
+ZH [name]拓也[line]真奇怪啊……门打不开呢。[%p]
+
+JA [name]たくや[line]こっちにも使ってみるか‥‥?[%p]
+ZH [name]拓也[line]也要在这地方用用看吗……？[%p]
+
+JA [name]たくや[line]向こうと同じか‥‥。[%p]
+ZH [name]拓也[line]跟那边一样的吗……。[%p]
+
+JA [name]たくや[line]何も起きないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好想什么都没有发生啊‥‥。[%p]
+
+JA [name]たくや[line]そうだな、このみぞは、カードの差し込み口みたいだ。[%p]
+ZH [name]拓也[line]对了，这个沟槽，看上去好像是卡片的插入口呢。[%p]
+
+JA [name]たくや[line]よし、差し込んでみよう‥‥。[%p]
+ZH [name]拓也[line]好嘞，试着插进去看看吧……。[%p]
+
+JA [name]たくや[line]おっ、何か音がしたぞ。これでドアが‥‥。[%p]
+ZH [name]拓也[line]哦，好像发出了什么声音呢。这样门就……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ? 何も起きないみたいぞ‥‥。[%p]
+ZH [name]拓也[line]咦？　好像什么都没发生呢……。[%p]
+
+JA [name]たくや[line]使う必要は、ないみたいだが‥‥?[%p]
+ZH [name]拓也[line]看样子，已经没有用的必要了……？[%p]
+
+JA [name]たくや[line]何度やっても、中には入れないぜ‥‥このカードじゃね。[%p]
+ZH [name]拓也[line]不管做几遍，就是进不去里面啊……这张卡片不行呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここに入るためには、ブルーカードが必要らしい。[%p]
+ZH [name]拓也[line]看来要进到这里面去，需要用到蓝卡。[%p]
+
+JA [name]たくや[line]そしてそのカードは香織さんが持っている。[%p]
+ZH [name]拓也[line]而那张卡片就在香织小姐的手上。[%p]
+
+JA [name]たくや[line]ということは、俺はここには入れないってことだ。[%p]
+ZH [name]拓也[line]意思就是说，我是没办法进到这里面去的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いちおう、使ったぜ‥‥。[%p]
+ZH [name]拓也[line]姑且，先使用了……。[%p]
+
+JA [name]たくや[line]こっちの扉に使うのか‥‥?[%p]
+ZH [name]拓也[line]要在这边的门上使用吗……？[%p]
+
+JA [name]たくや[line]亜由美さんのオフィスは、こっちじゃないぜ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐的办公室，不在那边方向呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いちおう、使ったけど‥‥。[%p]
+ZH [name]拓也[line]姑且，先使用了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ダメみたいだ‥‥。[%p]
+ZH [name]拓也[line]看来不行呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おかしいな‥‥。[%p]
+ZH [name]拓也[line]真奇怪啊……。[%p]
+
+JA [name]たくや[line]開きそうなものだけど‥‥。[%p]
+ZH [name]拓也[line]本来还以为能够打开呢……。[%p]
+
+JA [name]たくや[line]こっちにも使ってみるか‥‥?[%p]
+ZH [name]拓也[line]也要在这地方用用看吗……？[%p]
+
+JA [name]たくや[line]向こうと同じか‥‥。[%p]
+ZH [name]拓也[line]跟那边一样的吗……。[%p]
+
+JA [name]たくや[line]何も起きないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好想什么都没有发生啊‥‥。[%p]
+
+JA [name]たくや[line]そうだな、このみぞは、カードの差し込み口みたいだ。[%p]
+ZH [name]拓也[line]对了，这个沟槽，看上去好像是卡片的插入口呢。[%p]
+
+JA [name]たくや[line]よし、差し込んでみよう‥‥。[%p]
+ZH [name]拓也[line]好嘞，试着插进去看看吧……。[%p]
+
+JA [name]たくや[line]おっ、何か音がしたぞ。これでドアが‥‥。[%p]
+ZH [name]拓也[line]哦，好像发出了什么声音呢。这样门就……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ? 何も起きないみたいぞ‥‥。[%p]
+ZH [name]拓也[line]咦？　好像什么都没发生呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も起きない‥‥。[%p]
+ZH [name]拓也[line]什么都没发生……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も起きないな‥‥うーん。[%p]
+ZH [name]拓也[line]什么都没发生啊……嗯。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]:selitem:は:selatr:に使えないぜ‥‥。[%p]
+ZH [name]拓也[line]JF:：selitem:是：selatr:不能用。[%p]
+
+JA [name]たくや[line]無理言うな、:selitem:を:selatr:にどうしろっていうんだ。[%p]
+ZH [name]拓也[line]JF:不要勉强，：selitem:怎么办。[%p]
+
+JA [name]たくや[line]もうちょっと考えてくれよ‥‥。[%p]
+ZH [name]拓也[line]（再稍微思考一下吧……。）。[%p]
+
+JA [name]たくや[line]そいつは、あまり相応しい組み合わせじゃ無いと思うが‥‥。[%p]
+ZH [name]拓也[line]那东西，我并不觉得是现在能够用得上的组合……。[%p]
+
+JA [name]たくや[line]:selitem:はそこには使えない。[%p]
+ZH [name]拓也[line]JF:：selitem:不能在那里使用。[%p]
+
+JA [name]たくや[line]こいつは:selatr:に使用するものじゃ、ないんじゃないか?[%p]
+ZH [name]拓也[line]JF:这家伙不是用来做：selatr:的，不是吗？[%p]
+
+JA [name]たくや[line]こいつは今、使うモノじゃないな‥‥。[%p]
+ZH [name]拓也[line]这个，不是现在要使用的东西啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も起こらないな‥‥ま、当たり前か。[%p]
+ZH [name]拓也[line]什么都没有发生啊……嘛，那是肯定的。[%p]
+
+JA 
+ZH 
+

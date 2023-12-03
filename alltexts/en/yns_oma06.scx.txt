@@ -1,0 +1,4 @@
+[name]Takuya[line]It's the main hall of the school.[%p]
+[name]Takuya[line]If I want to return to the regular route, I need to head to either the coastline or my house.[%p]
+[name]Takuya[line]I never expected to get into the school this late at night.[%p]
+[name]Takuya[line]Hmm, I feel something.[%p]

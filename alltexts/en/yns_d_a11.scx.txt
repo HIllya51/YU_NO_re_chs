@@ -1,0 +1,4 @@
+[name]Takuya[line]More of this soggy ground⋯[%p]
+[name]Takuya[line]How far have I walked already⋯?[%p]
+[name]Mitsuki[line]There was a door up ahead, right?[%p]
+[name]Mitsuki[line]Right.[%p]

@@ -1,0 +1,366 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]人影は‥‥見えないな。[%p]
+ZH [name]拓也[line]看不到……人影。[%p]
+
+JA [name]たくや[line]神奈チャンも‥‥あの北条って野郎も‥‥。[%p]
+ZH [name]拓也[line]神奈也……那个叫北条的家伙也……。[%p]
+
+JA [name]たくや[line]だが、さっきの携帯電話では、確かにここと指定していた。[%p]
+ZH [name]拓也[line]但是，刚才在手机里，确实是指的是这个地方。[%p]
+
+JA [name]たくや[line]どこかに、いるはずだ。[%p]
+ZH [name]拓也[line]总之，应该在的。[%p]
+
+JA [name]たくや[line]‥‥夜の公園だ。[%p]
+ZH [name]拓也[line]……夜晚的公园。[%p]
+
+JA [name]たくや[line]夜の10時は‥‥まだ、あと少しというところだな。[%p]
+ZH [name]拓也[line]晚上的１０点……还有，一点点的时间。[%p]
+
+JA [name]たくや[line]ここでずっと待っていても、しょうがないしな‥‥。[%p]
+ZH [name]拓也[line]在这里一直等下去，也没什么事……。[%p]
+
+JA [name]たくや[line]‥‥高台に戻ろう。[%p]
+ZH [name]拓也[line]……回到高台吧。[%p]
+
+JA [name]たくや[line]‥‥夜の公園だ。[%p]
+ZH [name]拓也[line]……夜晚的公园。[%p]
+
+JA [name]たくや[line]夜の10時までには、まだ時間がある‥‥。[%p]
+ZH [name]拓也[line]距离夜晚的１０点，还有些时间……。[%p]
+
+JA [name]たくや[line]‥‥高台に戻ろうぜ。[%p]
+ZH [name]拓也[line]……回高台去吧。[%p]
+
+JA [name]たくや[line]‥‥夜の公園だ。[%p]
+ZH [name]拓也[line]……夜晚的公园。[%p]
+
+JA [name]たくや[line]北条のヤツは‥‥まだ来ていないよな。[%p]
+ZH [name]拓也[line]北条那家伙……还没有来。[%p]
+
+JA [name]たくや[line]夜の10時までには、まだ時間がある‥‥。[%p]
+ZH [name]拓也[line]距离夜晚的１０点，还有些时间……。[%p]
+
+JA [name]たくや[line]その前に、神奈チャンを捕まえなくちゃ、意味がないぜ。[%p]
+ZH [name]拓也[line]在这之前，不逮到神奈，就没有意义了。[%p]
+
+JA [name]たくや[line]情報の交換が、条件だからな‥‥。[%p]
+ZH [name]拓也[line]情报交换，是有条件的……。[%p]
+
+JA [name]たくや[line]つまり、今ここにいてもしょうがないってことだぞ。[%p]
+ZH [name]拓也[line]也就是说，现在即使在这里也什么都做不了。[%p]
+
+JA [name]たくや[line]‥‥高台に戻ろう。[%p]
+ZH [name]拓也[line]……回到高台吧。[%p]
+
+JA [name]たくや[line]明雲寺公園に来たけど‥‥。[%p]
+ZH [name]拓也[line]虽然都到了明云寺公园……。[%p]
+
+JA [name]たくや[line]何だか今は誰もいないな‥‥。[%p]
+ZH [name]拓也[line]总觉得今天一个人也没有……。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]あそこに座っているのは‥‥。[%p]
+ZH [name]拓也[line]在那里坐着的是……。[%p]
+
+JA [name]たくや[line]神奈チャン‥‥!?[%p]
+ZH [name]拓也[line]神奈……！？[%p]
+
+JA [name]たくや[line](神奈チャンだ‥‥。)[%p]
+ZH [name]拓也[line](（是神奈……。）。)[%p]
+
+JA [name]たくや[line](子犬と戯れてる‥‥。)[%p]
+ZH [name]拓也[line](（和小狗在嬉闹着……。）。)[%p]
+
+JA [name]神奈[line]アハハ‥‥フフ。[%p]
+ZH [name]神奈[line]啊哈哈……呵呵。[%p]
+
+JA [name]子犬[line]くぅん‥‥ぺろぺろっ。[%p]
+ZH [name]小狗[line]唔嗯……舔舔。[%p]
+
+JA [name]神奈[line]ダメよ‥‥ウフフ、ダメったら。[%p]
+ZH [name]神奈[line]不行哦……哇呵呵，不可以啦。[%p]
+
+JA [name]神奈[line]こらっ、もう‥‥。[%p]
+ZH [name]神奈[line]可拉，已经……。[%p]
+
+JA [name]神奈[line]ウフフ、アハハハ‥‥。[%p]
+ZH [name]神奈[line]唔呵呵，啊哈哈哈……。[%p]
+
+JA [name]たくや[line](‥‥‥‥。)[%p]
+ZH [name]拓也[line](…………。)[%p]
+
+JA [name]たくや[line](神奈チャンが‥‥笑ってるぜ。)[%p]
+ZH [name]拓也[line](（神奈……在笑。）。)[%p]
+
+JA [name]たくや[line](初めて見たような気がする‥‥。)[%p]
+ZH [name]拓也[line](（感觉好像第一次看到……。）。)[%p]
+
+JA [name]たくや[line](何て言うか‥‥。)[%p]
+ZH [name]拓也[line](（怎么说呢……。）。)[%p]
+
+JA [name]たくや[line](綺麗だ‥‥‥‥。)[%p]
+ZH [name]拓也[line](（真美…………。）。)[%p]
+
+JA [name]神奈[line]ウフフ‥‥んもう、しょうがない子ね。[%p]
+ZH [name]神奈[line]唔呵呵……哎，真是让人没办法的孩子。[%p]
+
+JA [name]子犬[line]ペロペロ‥‥ペロペロ。[%p]
+ZH [name]小狗[line]舔舔……舔舔。[%p]
+
+JA [name]神奈[line]ああン、ダメよ、耳の中まで‥‥ンフフ。[%p]
+ZH [name]神奈[line]啊啊，不行啦，耳朵里……嗯呵呵。[%p]
+
+JA [name]神奈[line]こら、イタズラっこなんだから。[%p]
+ZH [name]神奈[line]可拉，真是爱恶作剧的孩子。[%p]
+
+JA [name]子犬[line]くぅん‥‥くぅん‥‥。[%p]
+ZH [name]小狗[line]唔嗯…………唔嗯。[%p]
+
+JA [name]神奈[line]ウフフ‥‥しょうがない子ね‥‥甘えん坊さん。[%p]
+ZH [name]神奈[line]唔呵呵……真是让人没办法的孩子……爱撒娇的孩子。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]‥‥ごめんね。[%p]
+ZH [name]神奈[line]……对不起了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]ごめんね、今日でもう最後‥‥。[%p]
+ZH [name]神奈[line]对不起，今天是最后的……。[%p]
+
+JA [name]神奈[line]だから、たっぷり甘えさせてあげる‥‥。[%p]
+ZH [name]神奈[line]所以，让你好好撒娇个够吧……。[%p]
+
+JA [name]神奈[line]明日から、また私‥‥。[%p]
+ZH [name]神奈[line]从明天开始，我就要……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]こんな生活が、いつまで続くのかしら‥‥。[%p]
+ZH [name]神奈[line]这样的时候，能持续到什么时候呢……。[%p]
+
+JA [name]神奈[line]この、命の火が燃え尽きるまで‥‥?[%p]
+ZH [name]神奈[line]直到生命之火燃尽的时候……？[%p]
+
+JA [name]神奈[line]きゃっ‥‥ダメよ、これは。[%p]
+ZH [name]神奈[line]呀……不行，这是。[%p]
+
+JA [name]神奈[line]これが無くなったら、私、生きていけないから‥‥。[%p]
+ZH [name]神奈[line]没有这个的话，我，就不能活着了……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]あの人といると、なぜかドキドキするの‥‥。[%p]
+ZH [name]神奈[line]和那个人在一起的时候，为什么心会扑通扑通跳个不停……。[%p]
+
+JA [name]神奈[line]なぜかしら‥‥こんなこと、今まで一度もなかったのに。[%p]
+ZH [name]神奈[line]为什么……这种事情，迄今为止从未有过。[%p]
+
+JA [name]神奈[line]‥‥ううん、一度だけ、あったわ。[%p]
+ZH [name]神奈[line]……嗯嗯，一次就好，想见他。[%p]
+
+JA [name]神奈[line]でも、これほどまで強くはなかった‥‥。[%p]
+ZH [name]神奈[line]但是，也没有强烈到那种成都……。[%p]
+
+JA [name]神奈[line]いったい、あの人は誰なの‥‥? 私の、何なの‥‥。[%p]
+ZH [name]神奈[line]到底，那个人是谁……？我的，什么人……。[%p]
+
+JA [name]神奈[line]でも、もうすぐ‥‥私は‥‥‥‥。[%p]
+ZH [name]神奈[line]但是，很快………我就要………。[%p]
+
+JA [name]神奈[line]こんな気持ちじゃ、私‥‥‥‥。[%p]
+ZH [name]神奈[line]这样的心情，我…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line](あっ、ヤバ‥‥!)[%p]
+ZH [name]拓也[line](（啊、糟了……！）)[%p]
+
+JA [name]神奈[line]あ、有馬さん‥‥‥。[%p]
+ZH [name]神奈[line]啊，有马同学……。[%p]
+
+JA [name]たくや[line]ゴ、ゴメン‥‥別に覗くつもりじゃ‥‥。[%p]
+ZH [name]拓也[line]对，对不起……我并没有要偷窥你的意思……。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line](言うことが、あったはずだろう、たくや‥‥。)[%p]
+ZH [name]拓也[line](（应该有什么，要说的话吧，拓也……。）。)[%p]
+
+JA [name]たくや[line](言えよ、さあ。)[%p]
+ZH [name]拓也[line](（说啊，快点。）。)[%p]
+
+JA [name]神奈[line]‥‥なにか。[%p]
+ZH [name]神奈[line]……怎么了。[%p]
+
+JA [name]たくや[line]か、神奈チャン、退学を申し出たんだって?[%p]
+ZH [name]拓也[line]神、神奈，你提出了退学申请吗？[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]たくや[line]何で、そんなことをしたんだよ。[%p]
+ZH [name]拓也[line]为什么，要做这种事。[%p]
+
+JA [name]神奈[line]‥‥有馬さんのせいです。[%p]
+ZH [name]神奈[line]……都是有马同学的错。[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]神奈[line]と言ったら、どうしますか?[%p]
+ZH [name]神奈[line]我要是这么说的话，你要怎么办？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]安心して下さい。私が、風紀を乱してしまったからです。だから退学を申し出ました。[%p]
+ZH [name]神奈[line]放心吧。我呢，是破坏了风纪。所以才申请退学的。[%p]
+
+JA [name]たくや[line]風紀を乱すって‥‥どういうことさ。[%p]
+ZH [name]拓也[line]破坏了风纪是指……什么事情。[%p]
+
+JA [name]神奈[line]そう、大人たちは言います。[%p]
+ZH [name]神奈[line]是啊，大人们就是这么说的。[%p]
+
+JA [name]たくや[line]‥‥ウソだろう?[%p]
+ZH [name]拓也[line]……骗人的吧？[%p]
+
+JA [name]神奈[line]なぜ、ウソだと思うんですか?[%p]
+ZH [name]神奈[line]为什么，你会觉得是骗人的？[%p]
+
+JA [name]たくや[line]だって‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]神奈[line]不特定の人たちと肌を重ね合わせるのが、道徳や倫理に反するからですか?[%p]
+ZH [name]神奈[line]因为和不特点的人肌肤相亲，是违反的是道德和伦理对吧？[%p]
+
+JA [name]たくや[line]それは‥‥。[%p]
+ZH [name]拓也[line]那是……。[%p]
+
+JA [name]神奈[line]有馬さんも‥‥結局は大人たちと同じなんですね。[%p]
+ZH [name]神奈[line]有马同学你也……终究还是和大人们一样的。[%p]
+
+JA [name]たくや[line]それは違う。俺の陳腐な倫理観を振りかざすつもりなんて、これっぽっちもないぜ。[%p]
+ZH [name]拓也[line]不是这样的。我并没有打着陈腐的伦理观旗帜的打算，完全没有。[%p]
+
+JA [name]神奈[line]いいえ、有馬さんは‥‥。[%p]
+ZH [name]神奈[line]不是的，有马同学你……。[%p]
+
+JA [name]たくや[line]気になるんだよ、君のことが。[%p]
+ZH [name]拓也[line]我心里很在意，对你。[%p]
+
+JA [name]神奈[line]えっ‥‥。[%p]
+ZH [name]神奈[line]诶……。[%p]
+
+JA [name]たくや[line]なぜかはわからない。オヤジの事とか、君の素行とか、そんな次元とは関係なしに、気になるんだ。[%p]
+ZH [name]拓也[line]为什么不明白呢。老头子的事情也好，你的品行也好，和这些事情都没有任何关系，我只是在乎你。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]早くに両親を亡くしたって、言っていたよな。[%p]
+ZH [name]拓也[line]很早的时候双亲就去世了，你曾经说过的。[%p]
+
+JA [name]神奈[line]はい‥‥。[%p]
+ZH [name]神奈[line]好的……。[%p]
+
+JA [name]たくや[line]俺も、母親を幼いときに亡くしてね。[%p]
+ZH [name]拓也[line]我也是，很小的时候母亲就去世了。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]顔も覚えていない母親のことを、時々思い出すんだ。いつも、肝心の顔は隠れているんだけどさ。[%p]
+ZH [name]拓也[line]时常会想起，连容貌都不记得的母亲。那重要的脸总是被藏了一起来。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]何故かはわからないけど、今朝、君をみたとき、母親を思い出した。変かな。[%p]
+ZH [name]拓也[line]但不知道为什么，今天早上，看到你的时候，就想起了母亲。有些奇怪吧。[%p]
+
+JA [name]神奈[line]そんなこと‥‥。[%p]
+ZH [name]神奈[line]那种事……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]だから、有馬さんのそばには、もういられません。[%p]
+ZH [name]神奈[line]所以，有马同学，你已经不需要我了。[%p]
+
+JA [name]たくや[line]えっ‥‥か、神奈チャン![auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]呃……神，神奈！[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]ちょっと、待ってくれ![%p]
+ZH [name]拓也[line]等、等一等，！[%p]
+
+JA [name]たくや[line](訊きたいことなんて、山ほどあるんだ‥‥。)[%p]
+ZH [name]拓也[line](（想问你的事情，还有非常多啊……。）。)[%p]
+
+JA [name]たくや[line](オヤジのこと‥‥退学のこと‥‥。)[%p]
+ZH [name]拓也[line](（老头子的事……退学的事……。）。)[%p]
+
+JA [name]たくや[line](そしてあの写真のこと‥‥。)[%p]
+ZH [name]拓也[line](（还有那个照片的事……。）。)[%p]
+
+JA [name]たくや[line](なぜ、俺の胸が、こんなにドキドキするのか‥‥。)[%p]
+ZH [name]拓也[line](（为什么，我的心，会这扑通扑通的跳个不停……。）。)[%p]
+
+JA [name]たくや[line]待ってくれ、訊きたいことがあるんだ![%p]
+ZH [name]拓也[line]等一下，还有想问你的事啊！[%p]
+
+JA [name]たくや[line]また公園に来てしまった‥‥。[%p]
+ZH [name]拓也[line]又来到公园了……。[%p]
+
+JA [name]たくや[line]言っておくが、まだ夜の10時じゃないぜ‥‥。[%p]
+ZH [name]拓也[line]话说在先，还没有到晚上１０点……。[%p]
+
+JA [name]たくや[line]‥‥戻ろう。[%p]
+ZH [name]拓也[line]……回去吧。[%p]
+
+JA [name]たくや[line]明雲寺公園だ‥‥子供達が遊んでいるぜ。[%p]
+ZH [name]拓也[line]明云寺公园……孩子们在玩耍着。[%p]
+
+JA [name]たくや[line]今晩の午後10時に、北条ってヤツとここで会う約束があるんだ‥‥。[%p]
+ZH [name]拓也[line]今晚的１０点，约好了和叫北条的家伙在这里见面……。[%p]
+
+JA [name]たくや[line]今はまだ10時じゃないぜ‥‥。[%p]
+ZH [name]拓也[line]现在还没有到１０点……。[%p]
+
+JA [name]たくや[line]ということは、ここにいてもしょうがないといってことだ。[%p]
+ZH [name]拓也[line]也就是说，即使在这里也没有事可做。[%p]
+
+JA [name]たくや[line]‥‥戻ろうか。[%p]
+ZH [name]拓也[line]……回去吗。[%p]
+
+JA [name]たくや[line]‥‥普通の公園だな。[%p]
+ZH [name]拓也[line]……就是个普通的公园。[%p]
+
+JA [name]たくや[line]何で俺はここへ来たんだろう‥‥。[%p]
+ZH [name]拓也[line]为什么我要来这里……。[%p]
+
+JA [name]たくや[line]高台へ戻ろうぜ‥‥。[%p]
+ZH [name]拓也[line]返回高台吧……。[%p]
+
+JA 
+ZH 
+

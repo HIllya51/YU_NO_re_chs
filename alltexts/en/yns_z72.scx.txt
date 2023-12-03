@@ -1,0 +1,8 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]There's no one here. I'm alone.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]I've found the dungeon.[%p]
+[name]Takuya[line]Of course, Ryuuzouji isn't here anymore.[%p]
+[name]Takuya[line]It's much colder than the surface.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]What is this place?[%p]

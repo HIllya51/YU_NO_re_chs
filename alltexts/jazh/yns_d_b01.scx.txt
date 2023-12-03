@@ -1,0 +1,147 @@
+JA [name]結城[line]オヤビン‥‥このまま奧へ、また行きますか?[%p]
+ZH [name]结城[line]头目……就这样子，要再往里面去吗？[%p]
+
+JA [name]たくや[line]そうだな‥‥。[%p]
+ZH [name]拓也[line]（对啊……。）。[%p]
+
+JA [name]結城[line]僕はオヤビンに、全てをお任せします。[%p]
+ZH [name]结城[line]那么，我就全都拜托头目你了。[%p]
+
+JA [name]たくや[line]戻ってきてしまった‥‥手前が出口だ。[%p]
+ZH [name]拓也[line]又回来了……前面的就是出口了。[%p]
+
+JA [name]結城[line]岩で塞がっていますけどね‥‥。[%p]
+ZH [name]结城[line]不过已经被岩石给堵上了……。[%p]
+
+JA [name]たくや[line]中へ入ったぜ‥‥今度こそちゃんと行こう。[%p]
+ZH [name]拓也[line]到里面去吧……这次要好好进去调查。[%p]
+
+JA [name]結城[line]早くしないと、島津さん、どうなっていることか‥‥‥。[%p]
+ZH [name]结城[line]一定要快一点了，岛津同学，不知道怎么样了呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]戻ってきてしまった‥‥手前が出口だ。[%p]
+ZH [name]拓也[line]又回来了……前面的就是出口了。[%p]
+
+JA [name]結城[line]まだ、島津さんを見つけていませんよ。[%p]
+ZH [name]结城[line]还是一样，没找到岛津同学啊。[%p]
+
+JA [name]たくや[line]‥‥暗いな。真っ暗闇だぜ。[%p]
+ZH [name]拓也[line]……好暗啊。完全看不见呢。[%p]
+
+JA [name]たくや[line]それに、湿気が凄いな‥‥ムッとしている。[%p]
+ZH [name]拓也[line]而且，湿气也很重啊……空气还很浑浊。[%p]
+
+JA [name]たくや[line]いいか結城、気をつけろよ。[%p]
+ZH [name]拓也[line]听好了结城，你要小心点。[%p]
+
+JA [name]結城[line]はあ‥‥わわわっ。[%p]
+ZH [name]结城[line]哈啊……哇哇哇。[%p]
+
+JA [name]たくや[line]‥‥滑るからな。[%p]
+ZH [name]拓也[line]……会滑倒的。[%p]
+
+JA [name]結城[line]早めに言って下さいよう‥‥。[%p]
+ZH [name]结城[line]你应该要早点告诉我啊……。[%p]
+
+JA [name]たくや[line]こういうときのために、懐中電灯が必須になる。[%p]
+ZH [name]拓也[line]想这种时候，手电筒就是必须的用品了。[%p]
+
+JA [name]結城[line]はあ。[%p]
+ZH [name]结城[line]哈啊。[%p]
+
+JA [name]たくや[line]点けるぜ‥‥。[%p]
+ZH [name]拓也[line]打开吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥意外に広々としているな、中は。[%p]
+ZH [name]拓也[line]……意外地宽敞啊，这里面。[%p]
+
+JA [name]たくや[line]しかも、1人が十分に歩いて進めるくらいだ‥‥。[%p]
+ZH [name]拓也[line]而且，能够容纳１个人很轻松地走进去……。[%p]
+
+JA [name]たくや[line]‥‥さっきからおかしいな。[%p]
+ZH [name]拓也[line]……刚才开始就很奇怪啊。[%p]
+
+JA [name]結城[line]故障ですか?[%p]
+ZH [name]结城[line]出故障了吗？[%p]
+
+JA [name]たくや[line]わからない。だけど、点いたり消えたり‥‥変だな。[%p]
+ZH [name]拓也[line]我不知道。不过，一亮一灭的……真奇怪啊。[%p]
+
+JA [name]結城[line]電池が無いんじゃありませんか?[%p]
+ZH [name]结城[line]该不会是电池没电了吧？[%p]
+
+JA [name]たくや[line]電池切れの懐中電灯を、澪が持ってきたってことかい?[%p]
+ZH [name]拓也[line]你打算带着用完电池的手电筒，去把澪带回来吗？[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]たくや[line]まぁいいさ。とにかく電池が切れるまでの間に、澪を探せばいいだけのことだ。[%p]
+ZH [name]拓也[line]算了吧。总而言之只要在电池彻底用尽之前，把澪找出来就好了吧。[%p]
+
+JA [name]結城[line]ええ‥‥そうですね。[%p]
+ZH [name]结城[line]是啊……说的也对呢。[%p]
+
+JA [name]たくや[line]しかし‥‥先へ続いているみたいだな、この通路。かなり広そうだ。[%p]
+ZH [name]拓也[line]但是……好像一直延伸到很里面啊，这条通道。似乎相当地宽广呢。[%p]
+
+JA [name]結城[line]通路ってことは、人工路でしょうか。[%p]
+ZH [name]结城[line]所谓的通道，应该是人工造的路吧。[%p]
+
+JA [name]たくや[line]まさか。[%p]
+ZH [name]拓也[line]不会吧。[%p]
+
+JA [name]結城[line]ですよね。[%p]
+ZH [name]结城[line]我就说吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](しかし、こりゃどう見ても‥‥‥。)[%p]
+ZH [name]拓也[line](（但是，这里不管怎么看也……。）。)[%p]
+
+JA [name]結城[line]‥‥‥静かですね。[%p]
+ZH [name]结城[line]……好安静呢。[%p]
+
+JA [name]たくや[line]みおーーーっ‥‥返事しろーーーーっ!!![%p]
+ZH [name]拓也[line]澪————……快回答我—————！！！[%p]
+
+JA [name]結城[line]どひゃっ、どどど、どうしたんですか。[%p]
+ZH [name]结城[line]哇呀，出出出，出什么事了吗。[%p]
+
+JA [name]たくや[line]おーーーーいっ![%p]
+ZH [name]拓也[line]喂————！[%p]
+
+JA おーい‥‥‥
+ZH 喂——……
+
+JA おーい‥‥‥
+ZH 喂——……
+
+JA おーい‥‥‥。[%p]
+ZH 喂——……。[%p]
+
+JA おーい‥‥‥おーい‥‥‥おーい‥‥‥。
+ZH 喂——……喂——……喂——……。
+
+JA [name]たくや[line]‥‥こりゃあ、かなり奥行きがありそうだぜ。[%p]
+ZH [name]拓也[line]……看起来，我们已经走到里面很深了呢。[%p]
+
+JA [name]結城[line]どうしますか?[%p]
+ZH [name]结城[line]怎么办呢？[%p]
+
+JA [name]たくや[line]とにかく、慎重に先へ進もう。[%p]
+ZH [name]拓也[line]总而言之，先小心地向前进吧。[%p]
+
+JA [name]結城[line]‥‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA 
+ZH 
+

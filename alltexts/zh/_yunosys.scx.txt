@@ -1,0 +1,447 @@
+拓也
+观察·调查
+交谈
+敲打·殴打
+按下
+打开
+取走
+亲吻
+触摸
+揉捏
+舔舐
+咬下
+  
+???
+JF:移动
+父亲的信
+磁卡
+银色徽章
+学生手册
+金色钥匙
+澪的记事本
+圆盘
+铁剑
+JF:木刀
+绳子
+文件第２０页
+机密文件
+丰富的密会照片
+白色徽章
+黑色徽章
+笔记本电脑
+蓝卡
+JF:超念石
+  
+书房钥匙
+JF:宝玉
+那里
+JF:宝玉1
+JF:宝玉2
+JF:宝玉3
+JF:宝玉4
+JF:宝玉5
+JF:宝玉6
+JF:宝玉7
+JF:宝玉8
+JF:移动/办公室
+JF:移动/转至
+JF:移动/后退
+JF:移动/进入
+JF:移动/向右
+JF:移动/向左
+JF:用/父亲的信
+JF:使用/磁卡
+JF:使用/银牌
+JF:使用/学生手册
+JF:使用/金色钥匙
+JF:使用/澪的记事本
+JF:使用/圆盘
+JF:使用/铁剑
+JF:使用，使用
+JF:使用/绳索
+JF:使用/第20页的文件
+JF:使用/机密文件
+JF:使用/丰富的密会照片
+JF:使用/白色奖牌
+JF:使用/黑色奖牌
+JF:使用/手持计算机
+JF:使用/蓝卡
+JF:使用，使用
+  
+JF:使用/书房钥匙
+JF:使用，使用
+JF:◆使用/父亲的信◆
+JF:◆使用/磁卡◆
+JF:◆使用/银牌◆
+JF:◆使用/学生手册◆
+JF:◆使用/金色钥匙◆
+JF:◆使用/澪的记事本◆
+JF:◆使用/圆盘◆
+JF:◆使用/铁剑◆
+JF:◆使用/木刀◆
+JF:◆使用/绳索◆
+JF:◆使用/第20页的文件◆
+JF:◆使用/机密文件◆
+JF:◆使用/丰富的密会照片◆
+JF:◆使用/白色奖牌◆
+JF:◆使用/黑色奖牌◆
+JF:◆使用/手持电脑◆
+JF:◆使用/蓝卡◆
+JF:◆使用/超念石◆
+  
+JF:◆使用/书房的钥匙◆
+JF:◆使用/宝玉◆
+JF:宝玉1
+JF:宝玉2
+JF:宝玉3
+JF:宝玉4
+JF:宝玉5
+JF:宝玉6
+JF:宝玉7
+JF:宝玉8
+JF:宝玉9
+JF:宝玉10
+JF:现在所在地
+JF:宝玉保存1
+JF:宝玉保存2
+JF:宝玉保存3
+JF:宝玉保存4
+JF:宝玉保存5
+JF:宝玉保存6
+JF:宝玉保存7
+JF:宝玉保存8
+JF:宝玉保存9
+JF:宝玉保存10
+JF:涡流
+???
+JF:约束端点
+JF:共谋终结
+JF:真相终结
+JF:生存端
+JF:死亡结束
+JF:绝望的结局
+JF:命运的终结
+JF:脱出端
+JF:孤独的结局
+JF:崩溃端
+JF:自杀结束
+JF:爱欲终结
+JF:完成率
+%
+JF:安装位置
+观察·调查
+交谈
+敲打·殴打
+按下
+打开
+取走
+亲吻
+触摸
+揉捏
+舔舐
+咬下
+  
+???
+JF:移动
+JF:睡觉
+JF:思考
+JF:询问
+JF:寻找
+JF:紧紧拥抱
+JF:擦拭
+JF:挖掘
+JF:吃，吃
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JF:自己的房间
+JF:客厅
+JF:亚由美的房间
+JF:自家门前
+JF:校前
+JF:大厅
+JF:走廊
+JF:研究室
+JF:保健室
+JF:屋顶
+JF:屋前
+JF:澪的房间
+JF:公寓前
+JF:神奈的房间
+JF:屋前
+JF:屋内
+JF:海岸
+JF:酒店前面
+JF:香织的客房
+JF:街道
+JF:公司
+JF:神奈的房间前
+JF:公司前
+JF:咖啡馆
+JF:内部
+JF:高台
+公园
+JF:院子
+JF:水井
+JF:土藏前
+土藏
+JF:爸爸的书房前
+JF:父亲的书房
+JF:父亲的书房
+JF:办公室
+JF:研究室
+JF:不可前进区域
+???
+JF:公司
+JF:大门
+JF:院子
+JF:公司前
+JF:内部
+JF:办公室
+JF:研究室
+JF:土藏前
+JF:井前
+土藏
+JF:森林
+JF:最边远的悬崖
+JF:山丘
+没事
+JF:厨房
+JF:卧室
+JF:沙漠
+JF:绿洲
+JF:沙漠
+JF:神殿
+JF:在神殿中
+JF:车间
+JF:床铺
+JF:塔楼
+JF:牢房
+JF:倒塌的车间
+JF:帝都
+JF:小巷里
+JF:地道
+JF:大厅
+JF:庭园
+JF:祭坛
+JF:神秘装置
+JF:里路
+JF:前面的路
+JF:远处的房子
+JF:在家中
+JF:里面的房间
+JF:神殿内
+JF:祭坛
+JF:远处的塔
+JF:前进
+JF:前往帝都
+JF:远处的城堡
+JF:里面的通道
+JF:后退
+JF:右边的通道
+JF:里面的通道
+JF:后退
+JF:里面的通道
+JF:底座
+JF:里面的通道
+JF:走廊
+JF:走向祭坛
+JF:往里走
+JF:返回地下
+JF:在水中
+JF:帮助塞雷斯
+JF:塞雷斯的膝盖上
+JF:左边的通道
+JF:内部
+JF:前厅
+JF:浴室
+JF:井前
+JF:屋内
+JF:往里走
+JF:后退
+JF:往里走
+JF:山洞
+JF:向右
+JF:向左
+JF:山洞
+JF:门附近
+JF:往里走
+JF:门前
+JF:小房间
+JF:后退
+JF:门前
+JF:往里走
+JF:小房间
+JF:遗体旁边
+JF:后退
+JF:往里走
+JF:水道
+JF:门前
+JF:往里走
+JF:绘里子的基地
+JF:神帝的房间
+JF:塔楼
+JF:塔楼
+JF:往里走
+JF:小房间
+JF:打不开的时候
+JF:山的背面
+JF:地下拘留所
+
+
+
+
+
+
+[name]拓也[line]…………。[%p]
+[name]拓也[line]地图好像打不开啊……。[%p]
+[name]拓也[line]咦……？[%p]
+[name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+[name]拓也[line]对了……现在手上连１块宝玉都没有。[%p]
+[name]拓也[line]可恶，糟糕了啊……怎么办呢？[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]地图好像打不开啊……。[%p]
+[name]拓也[line]咦……？[%p]
+[name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+[name]拓也[line]用手电筒的时候也是，感觉好奇怪啊……这个地方。[%p]
+[name]拓也[line]咦……？[%p]
+[name]拓也[line]真奇怪啊……地图居然没办法打开。[%p]
+[name]拓也[line]用手电筒的时候也是，感觉好奇怪啊……。[%p]
+那个时候，手上的《超念石》，开始熠熠生辉了……。[%p]
+JF:加载
+JF:不加载
+JF:加载
+JF:不加载
+[color index="840000"]JF:[宝玉1][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉1][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉2][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉2][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉3][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉3][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉4][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉4][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉5][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉5][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉6][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉6][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉7][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉7][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉8][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉8][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉9][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉9][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉10][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[center][color index="840000"]JF:[宝玉10][color index="800000"]JF:已加载。[%p]
+JF:–––––––––––––––––––––––––––
+[color index="840000"]JF:[宝玉][color index="800000"]JF:回来了。[%p]
+[color index="840000"]JF:[宝玉][color index="800000"]JF:回来了。[%p]
+[color index="840000"]恭喜。达成率１００％。[linebreak]音乐室的大门已打开，请将它找出来吧。[%p]
+[color index="840000"]提示：在夜晚的学校内。但是现在这个时间无法打开。[%p]
+[color index="840000"]JF:[爸爸的信][color index="800000"]JF:没有了。
+[color index="840000"]JF:[爸爸的信][color index="800000"]JF:没有了。
+[color index="840000"]JF:磁卡[color index="800000"]JF:没有了。
+[color index="840000"]JF:磁卡[color index="800000"]JF:没有了。
+[color index="840000"]JF:[银牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[银牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[学生手册][color index="800000"]JF:没有了。
+[color index="840000"]JF:[学生手册][color index="800000"]JF:没有了。
+[color index="840000"]JF:[金色钥匙][color index="800000"]JF:没有了。
+[color index="840000"]JF:[金色钥匙][color index="800000"]JF:没有了。
+[color index="840000"]JF:[澪的记事本][color index="800000"]JF:没有了。
+[color index="840000"]JF:[澪的记事本][color index="800000"]JF:没有了。
+[color index="840000"]JF:圆盘[color index="800000"]JF:没有了。
+[color index="840000"]JF:圆盘[color index="800000"]JF:没有了。
+[color index="840000"]JF:[铁剑][color index="800000"]JF:没有了。
+[color index="840000"]JF:[铁剑][color index="800000"]JF:没有了。
+[color index="840000"]JF:[木刀][color index="800000"]JF:没有了。
+[color index="840000"]JF:[木刀][color index="800000"]JF:没有了。
+[color index="840000"]JF:[绳索][color index="800000"]JF:没有了。
+[color index="840000"]JF:[绳索][color index="800000"]JF:没有了。
+[color index="840000"]JF:[20页文件][color index="800000"]JF:没有了。
+[color index="840000"]JF:[20页文件][color index="800000"]JF:没有了。
+[color index="840000"]JF:[机密文件][color index="800000"]JF:没有了。
+[color index="840000"]JF:[机密文件][color index="800000"]JF:没有了。
+[color index="840000"]JF:[丰富的密会照片][color index="800000"]JF:没有了。
+[color index="840000"]JF:[丰富的密会照片][color index="800000"]JF:没有了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:没有了。
+[color index="840000"]JF:[手持计算机][color index="800000"]JF:没有了。
+[color index="840000"]JF:[手持计算机][color index="800000"]JF:没有了。
+[color index="840000"]JF:[蓝卡][color index="800000"]JF:没有了。
+[color index="840000"]JF:[蓝卡][color index="800000"]JF:没有了。
+[color index="840000"]JF:[超念石][color index="800000"]JF:没有了。
+[color index="840000"]JF:[超念石][color index="800000"]JF:没有了。
+[color index="840000"]JF:[书房的钥匙][color index="800000"]JF:没有了。
+[color index="840000"]JF:[书房的钥匙][color index="800000"]JF:没有了。
+JF:是否保存？
+JF:以前的数据将被覆盖。
+是啊
+没关系
+JF:正在保存。请不要切断主机的电源。
+JF:是否保存？
+JF:以前的数据将被覆盖。
+是啊
+没关系
+JF:正在保存。请不要切断主机的电源。
+JF:回到标题菜单吗？
+是啊
+没关系
+JF:未保存的当前正在播放的数据将丢失。
+JF:回到标题菜单吗？
+是啊
+没关系
+[color index="840000"]JF:[宝玉1][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉2][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉3][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉4][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉5][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉6][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉7][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉8][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉9][color index="800000"]JF:是否加载？
+[color index="840000"]JF:[宝玉10][color index="800000"]JF:是否加载？
+JF:是否保存？
+JF:以前的数据将被覆盖。
+是啊
+没关系
+JF:正在保存。请不要切断主机的电源。
+JF:未保存的当前正在播放的数据将丢失。
+JF:可以不保存吗？
+是啊
+没关系
+在［标题菜单］追加了音乐模式。

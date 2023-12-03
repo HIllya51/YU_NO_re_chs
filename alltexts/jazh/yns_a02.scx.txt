@@ -1,0 +1,12 @@
+JA [name]たくや[line]リビングだ‥‥誰もいないぜ。[%p]
+ZH [name]拓也[line]客厅……谁都不在呢。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ、これから。[%p]
+ZH [name]拓也[line]……怎么办呢，接下来。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ、これから。[%p]
+ZH [name]拓也[line]……怎么办呢，接下来。[%p]
+
+JA 
+ZH 
+

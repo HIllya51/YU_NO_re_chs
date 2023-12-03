@@ -1,0 +1,144 @@
+JA [name]たくや[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]拓也[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]まだだ。[%p]
+ZH [name]拓也[line]又来了。[%p]
+
+JA [name]結城[line]そ、そうですか‥‥。[%p]
+ZH [name]结城[line]是，是吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥澪が行きそうな場所、か。[%p]
+ZH [name]拓也[line]呼……澪有可能会去的地方，吗。[%p]
+
+JA [name]たくや[line]やっぱりあの場所しか、考えられないよな‥‥。[%p]
+ZH [name]拓也[line]果然，除了那个地方想不出别的了啊……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]だから、そのオヤビンってのをいい加減止めろって。[%p]
+ZH [name]拓也[line]JF:所以，让我适可而止地停止那个大叔。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]どうもこうも、さっき会ったばかりだろう?[%p]
+ZH [name]拓也[line]话说刚才见到了的吧？[%p]
+
+JA [name]結城[line]でも、見つけるときは一瞬じゃないですか。[%p]
+ZH [name]结城[line]可是，发现不也是一瞬间的事吗。[%p]
+
+JA [name]たくや[line](たまに、正論を言いやがる。)[%p]
+ZH [name]拓也[line](（偶尔，也会说些正论呢。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]結城[line]しっかりしてください。オヤビンだけが頼りなんですよう。[%p]
+ZH [name]结城[line]请你振作起来啊。现在只能靠头目你了。[%p]
+
+JA [name]たくや[line]わかったって‥‥何とか探してみるよ。[%p]
+ZH [name]拓也[line]我知道的‥‥会努力找找看的。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、あいつどこを探しているんだろうな‥‥。[%p]
+ZH [name]拓也[line]不过，那家伙到底去什么地方找了呢……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]そのオヤビンっての、止めろって。[%p]
+ZH [name]拓也[line]JF:那个大叔叫我停下来。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥ど、どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎，怎么了？[%p]
+
+JA [name]たくや[line]おう、見つけたぜ。[%p]
+ZH [name]拓也[line]哦，我找到了。[%p]
+
+JA [name]結城[line]ほ、本当ですかっ。[%p]
+ZH [name]结城[line]真，真的吗。[%p]
+
+JA [name]たくや[line]ほら、北の空に、一番星。[%p]
+ZH [name]拓也[line]你看，北边的天空，金星。[%p]
+
+JA [name]結城[line]‥‥‥‥それじゃ、失礼します。[%p]
+ZH [name]结城[line]…………那么，我失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]心が和むジョークだと、思ったんだけどなぁ。[%p]
+ZH [name]拓也[line]只是让心情平静下来的玩笑而已，我是这么想的。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]いや、俺の方はまだ‥‥。[%p]
+ZH [name]拓也[line]不，我这边还没‥‥。[%p]
+
+JA [name]結城[line]今、手当たり次第に調べているところです。何かありましたら、高台の方まで来てください。[%p]
+ZH [name]结城[line]现在，我是按照线索的顺序在调查。要是有什么发现的话，请到高台方向来吧。[%p]
+
+JA [name]たくや[line]ああ‥‥わかった。[%p]
+ZH [name]拓也[line]啊啊‥‥知道了。[%p]
+
+JA [name]結城[line]それじゃ、オヤビンも頑張って。[%p]
+ZH [name]结城[line]那么，头目也请加油。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オヤビンじゃないって、言ってるのに。[%p]
+ZH [name]拓也[line]不要叫我头目，我明明说过了。[%p]
+
+JA キョロキョロ‥‥。[%p]
+ZH 东张西望……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪は、喫茶店にいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]澪，貌似不在咖啡店里面啊……。[%p]
+
+JA [name]たくや[line]しかし、いつも落ち着く店だな、ここは‥‥。[%p]
+ZH [name]拓也[line]但是，这里还是一如既往，让人安心的店啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]亜由美さんはいないみたいだ‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐貌似不在呢……。[%p]
+
+JA [name]たくや[line]ここは比較的落ち着いているな‥‥。[%p]
+ZH [name]拓也[line]这里比较能够让人安心啊……。[%p]
+
+JA [name]たくや[line]今は知っている人が誰もいない‥‥。[%p]
+ZH [name]拓也[line]现在没有什么认识的人在……。[%p]
+
+JA キョロキョロ‥‥。[%p]
+ZH 东张西望……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あの女性は‥‥どこにいるんだ?[%p]
+ZH [name]拓也[line]那个女人……在哪里呢？[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,591 @@
+JA [name]神奈[line]お話というのは、なんでしょうか。[%p]
+ZH [name]神奈[line]要跟我聊聊，聊什么呢。[%p]
+
+JA [name]:name:[line]えっ、俺、そんなこと言った?[%p]
+ZH [name]:name:[line]诶，我有说过这样的话吗？[%p]
+
+JA [name]神奈[line]何となく、そう思ったもので。[%p]
+ZH [name]神奈[line]感觉，你好像是这么想的。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]少し‥‥気分がすぐれないので、そろそろ帰ってよろしいでしょうか。[%p]
+ZH [name]神奈[line]身体……感觉不太舒服，我可以先回去了吧。[%p]
+
+JA [name]:name:[line]えっ、そいつはいけないな‥‥送るよ。[%p]
+ZH [name]:name:[line]诶，那可不行啊……我送你吧。[%p]
+
+JA [name]神奈[line]いえ、1人で大丈夫です。[%p]
+ZH [name]神奈[line]不用，我１个人就可以了。[%p]
+
+JA [name]:name:[line]家の場所は?[%p]
+ZH [name]:name:[line]你家在哪里？[%p]
+
+JA [name]神奈[line]‥‥高台の向こう側になります。[%p]
+ZH [name]神奈[line]……是在高台的那边方向。[%p]
+
+JA [name]:name:[line]だったら、公園の側を通るだろう。あそこは夜暗いし、酒の入ったヤクザが、時々寝ていたりするんだ。[%p]
+ZH [name]:name:[line]这样的话，你要进过公园的吧。那里晚上黑灯瞎火的，有喝了酒的醉鬼，经常会睡在那里。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line]それに気分がすぐれないんだろう、途中でぶっ倒れでもしたらどうするんだよ。[%p]
+ZH [name]:name:[line]而且你还觉得不舒服吧，要是万一在途中扑通一下就倒在地上了怎么办啊。[%p]
+
+JA [name]神奈[line]そうですね‥‥わかりました。[%p]
+ZH [name]神奈[line]是呢……我明白了。[%p]
+
+JA [name]:name:[line]俺が払うよ。誘ったんだからね。[%p]
+ZH [name]:name:[line]我来付吧。是我邀请你的。[%p]
+
+JA [name]神奈[line]いいえ。自分のに関しては、自分が。[%p]
+ZH [name]神奈[line]不用了。我自己的部分，自己来付。[%p]
+
+JA [name]:name:[line]ふぅん、しっかりしているんだ。[%p]
+ZH [name]:name:[line]哼，你还真是固执呢。[%p]
+
+JA [name]神奈[line]その方がトラブルが少なくなります。長い間、暮らしてきた経験です。[%p]
+ZH [name]神奈[line]这样可以避免不必要的纠纷。这是我长时间生活下来的经验。[%p]
+
+JA [name]:name:[line](‥‥‥‥。)[%p]
+ZH [name]:name:[line](…………。)[%p]
+
+JA [name]:name:[line](神奈チャンって、時々歳不相応なことを言うよな‥‥。)[%p]
+ZH [name]:name:[line](（神奈，经常会说出一些跟她年纪不相符的话呢……。）。)[%p]
+
+JA [name]神奈[line]本当にここでも、構いませんけど。[%p]
+ZH [name]神奈[line]其实就算在这里，也没有关系的呢。[%p]
+
+JA [name]:name:[line]気にする必要なんてないよ。[%p]
+ZH [name]:name:[line]你不用太在意的啊。[%p]
+
+JA どすん。[%p]
+ZH 扑通。[%p]
+
+JA [name]神奈[line]きゃっ。[%p]
+ZH [name]神奈[line]呀。[%p]
+
+JA [name]酔っぱらい[line]こらぁ、気をつけ‥‥のわわっ。[%p]
+ZH [name]醉汉[line]喂，给我小心……呃哇哇。[%p]
+
+JA [name]:name:[line]おととい来やがれ![%p]
+ZH [name]:name:[line]看你下次还敢来！[%p]
+
+JA [name]酔っぱらい[line]ひぃぃ‥‥用心棒付きだったぁ![%p]
+ZH [name]醉汉[line]噫噫……居然还带了个保镖啊！[%p]
+
+JA [name]:name:[line]‥‥ったく、ああいう酔っぱらいが、この時間は増えるんだ。[%p]
+ZH [name]:name:[line]……可恶，像这样子的醉鬼，这段时间增加了啊。[%p]
+
+JA [name]:name:[line]思いっきり、ぶつかったみたいだけど。大丈夫だった?[%p]
+ZH [name]:name:[line]突然，就被撞上了。你没什么事吧？[%p]
+
+JA [name]神奈[line]‥‥大丈夫です。ありがとうございました。[%p]
+ZH [name]神奈[line]……没关系。谢谢你的帮助。[%p]
+
+JA [name]:name:[line]高台は、確かその左側を入っていって、すぐだったな。[%p]
+ZH [name]:name:[line]高台，我记得从那个左边进去之后，马上就到了。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]:name:[line]じゃあ行こう。[%p]
+ZH [name]:name:[line]那么就走吧。[%p]
+
+JA [name]:name:[line]‥‥そういえばさ。他愛のない質問なんだけど、いいかな。[%p]
+ZH [name]:name:[line]……这么说来。问了无聊的问题，没事吧。[%p]
+
+JA [name]神奈[line]さっきから、訊いてばかりいますね。[%p]
+ZH [name]神奈[line]从刚才开始，你不就一直在问吗。[%p]
+
+JA [name]:name:[line]えっ、そう?[%p]
+ZH [name]:name:[line]诶，是吗？[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]:name:[line]だとしたらそれは、君のせいだ。[%p]
+ZH [name]:name:[line]如果这样的话，那一定是你的缘故。[%p]
+
+JA [name]神奈[line]えっ‥‥‥。[%p]
+ZH [name]神奈[line]诶……。[%p]
+
+JA [name]:name:[line]男を惑わす、謎でチャーミングな女性‥‥それは君のことだ。[%p]
+ZH [name]:name:[line]迷惑男人，谜一般的诱人的女性……说的就是你啊。[%p]
+
+JA [name]神奈[line]‥‥有馬さん、時々真顔で冗談も言うんですね。[%p]
+ZH [name]神奈[line]……有马同学，你经常会一本正经地说些玩笑话呢。[%p]
+
+JA [name]:name:[line](躱されたか‥‥。)[%p]
+ZH [name]:name:[line](（被回避掉了吗……。）。)[%p]
+
+JA [name]神奈[line]‥‥質問というのは、何でしょうか。[%p]
+ZH [name]神奈[line]……所谓的问题，是指什么呢。[%p]
+
+JA [name]:name:[line]そうそう、ま、改まって訊くことでもないんだけどさ。[%p]
+ZH [name]:name:[line]对了对了，嘛，虽然不是一本正经的问你话。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]:name:[line]神奈チャンさ、三角山によく行っているみたいじゃないか。[%p]
+ZH [name]:name:[line]神奈，你貌似经常会往三角山跑呢。[%p]
+
+JA [name]神奈[line]三角山‥‥?[%p]
+ZH [name]神奈[line]三角山……？[%p]
+
+JA [name]:name:[line]あっ、それは俗称。剣ノ岬のことさ。ほら、海岸にあるあの高い岩山のこと。[%p]
+ZH [name]:name:[line]啊、那个是俗称。就是剑之岬啦。你看，就是在海岸那里的高高的岩山。[%p]
+
+JA [name]神奈[line]はい、たまに行きますけど。[%p]
+ZH [name]神奈[line]是的，我有时候会过去的。[%p]
+
+JA [name]:name:[line]昨夜の‥‥そうだな、午後10時くらい。そこにいなかった?[%p]
+ZH [name]:name:[line]昨晚的……对了，大概晚上１０点左右。你有没有去过那里？[%p]
+
+JA [name]神奈[line]昨夜の‥‥午後10時でしょうか。[%p]
+ZH [name]神奈[line]昨晚的……晚上１０点是吗。[%p]
+
+JA [name]:name:[line]そう。[%p]
+ZH [name]:name:[line]是的。[%p]
+
+JA [name]神奈[line]‥‥いいえ。多分、ベッドで寝ていました。[%p]
+ZH [name]神奈[line]……没有。我想，应该是上床睡觉了吧。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]どういうことでしょうか。[%p]
+ZH [name]神奈[line]你是在说什么啊。[%p]
+
+JA [name]:name:[line]いや‥‥そのとき、神奈チャンに似た人を見た気がしてさ。少しだけ気になったから。[%p]
+ZH [name]:name:[line]没事……那个时候，我好像看到了跟神奈你很像的人。所以稍微有点在意的说。[%p]
+
+JA [name]神奈[line]そうですか。私は寝ていました。[%p]
+ZH [name]神奈[line]是吗。我已经睡下去了呢。[%p]
+
+JA [name]:name:[line]いや、そうならいいんだ。[%p]
+ZH [name]:name:[line]哎呀，那样的话就算了。[%p]
+
+JA [name]:name:[line](いちおう、確認だけしたかったんだ‥‥。)[%p]
+ZH [name]:name:[line](（毕竟，只是做过了确认而已……。）。)[%p]
+
+JA [name]:name:[line]その‥‥特別な用事って訳じゃないんだ。神奈チャンとは、クラスでもあまり話したことなかったから。[%p]
+ZH [name]:name:[line]那个……也没有什么特别的要紧事。神奈，你好像不怎么跟班里的人说话呢。[%p]
+
+JA [name]神奈[line]そうですか。[%p]
+ZH [name]神奈[line]是这样啊。[%p]
+
+JA [name]:name:[line]友達とか、できたかい?[%p]
+ZH [name]:name:[line]朋友什么的，没交到吗？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line]彼氏とかいるの?[%p]
+ZH [name]:name:[line]有男朋友了吗？[%p]
+
+JA [name]神奈[line]彼氏というのは、恋人のことでしょうか。[%p]
+ZH [name]神奈[line]应该是叫男朋友，还是叫恋人好呢。[%p]
+
+JA [name]:name:[line]ん、まぁそういうことかな。[%p]
+ZH [name]:name:[line]嗯，还有这样的事吗。[%p]
+
+JA [name]神奈[line]‥‥いません。1人も。[%p]
+ZH [name]神奈[line]……没有。１个也没。[%p]
+
+JA [name]:name:[line]1人も?[%p]
+ZH [name]:name:[line]１个也？[%p]
+
+JA [name]神奈[line]いません。[%p]
+ZH [name]神奈[line]没有。[%p]
+
+JA [name]:name:[line]へぇ、そっか‥‥‥。[%p]
+ZH [name]:name:[line]嘿，是吗……。[%p]
+
+JA [name]:name:[line](フン、結城のヤツ、あんな噂なんてデタラメじゃないか。)[%p]
+ZH [name]:name:[line](（哼，结城那家伙，不会是胡乱编出那样的传闻吧。）。)[%p]
+
+JA [name]:name:[line](神奈チャンには、1人も恋人がいないってさ。)[%p]
+ZH [name]:name:[line](（神奈她，连１个恋人也没有啊。）。)[%p]
+
+JA [name]神奈[line]お話というのはそれでしょうか。[%p]
+ZH [name]神奈[line]想要说的话就是这样吧。[%p]
+
+JA [name]:name:[line]え?[%p]
+ZH [name]:name:[line]画？[%p]
+
+JA [name]神奈[line]宇宙人の‥‥。[%p]
+ZH [name]神奈[line]宇宙人的……。[%p]
+
+JA [name]:name:[line]ははは‥‥あれはその、枕詞とでも言おうか、うん、本題はこれからなんだ。[%p]
+ZH [name]:name:[line]哈哈哈……那个是，应该说是开场白吧，嗯，主要问题从现在开始问。[%p]
+
+JA [name]神奈[line]では、どうぞ。[%p]
+ZH [name]神奈[line]那么，请吧。[%p]
+
+JA [name]:name:[line]うーん、それだよ、それ。[%p]
+ZH [name]:name:[line]嗯——，是那个，那个。[%p]
+
+JA [name]神奈[line]‥‥なんでしょうか。[%p]
+ZH [name]神奈[line]……是哪个啊。[%p]
+
+JA [name]:name:[line]話していると、妙に固い感じを受けるけど、そういった合間の言葉なんだな、多分。[%p]
+ZH [name]:name:[line]一说起来，就不由得有种很坚定的感觉，不过就是说了这种多余的话吧，也许。[%p]
+
+JA [name]神奈[line]どういうことでしょうか。[%p]
+ZH [name]神奈[line]你是在说什么啊。[%p]
+
+JA [name]:name:[line]つまりさ、他愛のない会話で、「では、どうぞ」なんて言われると、インタビュー録音前みたいな感じがしてしまう。[%p]
+ZH [name]:name:[line]也就是说，在说些无聊话的时候，对方说了［那么，请吧］这种话之后，就感觉好像是在做自我介绍录音之前。[%p]
+
+JA [name]神奈[line]‥‥何と言えばよいのでしょうか。[%p]
+ZH [name]神奈[line]……我应该说些什么比较好呢。[%p]
+
+JA [name]:name:[line]そうだな‥‥「いよっ、大将、ご機嫌でやんすねっ」と言うのが、この場合相応しい。[%p]
+ZH [name]:name:[line]这个嘛……要是说［哦哟，老大，你老人家最近可好］这样的话，跟这个场合很相称吧。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line]ダメ?[%p]
+ZH [name]:name:[line]不行？[%p]
+
+JA [name]神奈[line]有馬さんって、面白い人ですね。[%p]
+ZH [name]神奈[line]有马同学，你真是个有趣的人呢。[%p]
+
+JA [name]:name:[line]そ、そうかな。[%p]
+ZH [name]:name:[line]这，这样吗。[%p]
+
+JA [name]神奈[line]はい‥‥有馬さんみたいな男の人、初めてです。[%p]
+ZH [name]神奈[line]是的……像有马同学这样的男人，我还是初次见到。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](俺みたいな男は初めて、か‥‥。)[%p]
+ZH [name]:name:[line](（像我这样的男人是初次见到吗……。）。)[%p]
+
+JA [name]:name:[line](ってことは、他の男も色々と知っているってことなのかな‥‥。)[%p]
+ZH [name]:name:[line](（也就是说，她已经见识过各种各样形形色色的男人喽……。）。)[%p]
+
+JA [name]:name:[line](ということは、神奈チャンは‥‥‥んっ。)[%p]
+ZH [name]:name:[line](（这样的话，神奈她是……嗯。）。)[%p]
+
+JA [name]:name:[line](俺はいったい何を考えているんだ‥‥まったく。)[%p]
+ZH [name]:name:[line](（我究竟在想些什么啊……够了啊。）。)[%p]
+
+JA [name]:name:[line]話というのは他でもない。[%p]
+ZH [name]:name:[line]我想说的话也没什么。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]:name:[line]神奈君、君は宇宙人の存在を信じるかね?[%p]
+ZH [name]:name:[line]神奈君，你相信宇宙人的存在吗？[%p]
+
+JA [name]神奈[line]‥‥は?[%p]
+ZH [name]神奈[line]……哈？[%p]
+
+JA [name]:name:[line]だから、宇宙人。[%p]
+ZH [name]:name:[line]就是，宇宙人。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]宇宙人はいます。[%p]
+ZH [name]神奈[line]宇宙人是存在的。[%p]
+
+JA [name]:name:[line]おっ、断定?[%p]
+ZH [name]:name:[line]哦，断定吗？[%p]
+
+JA [name]神奈[line]私は宇宙人です。[%p]
+ZH [name]神奈[line]我就是宇宙人。[%p]
+
+JA [name]:name:[line]‥‥は?[%p]
+ZH [name]:name:[line]……哈？[%p]
+
+JA [name]神奈[line]有馬さんも、宇宙人です。[%p]
+ZH [name]神奈[line]有马同学也是，宇宙人。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]地球が宇宙の1部である以上、そこに暮らす人たちも宇宙の一員、つまり宇宙人と言えるのではないでしょうか。[%p]
+ZH [name]神奈[line]地球就是宇宙的１部分，生活在这里的人们都算是宇宙的一员，所以说这些人不都可以用宇宙人来称呼吗。[%p]
+
+JA [name]:name:[line]‥‥神奈チャンって‥‥。[%p]
+ZH [name]:name:[line]……神奈……。[%p]
+
+JA [name]神奈[line]はい。[%p]
+ZH [name]神奈[line]是啊。[%p]
+
+JA [name]:name:[line]意外に、お茶目なんだね。[%p]
+ZH [name]:name:[line]出人意外地，爱开玩笑呢。[%p]
+
+JA [name]神奈[line]有馬さんほどではありません。[%p]
+ZH [name]神奈[line]没有有马同学这么厉害啊。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](真顔で言うところが凄いな‥‥。)[%p]
+ZH [name]:name:[line](（用认真的表情说话的时候真厉害啊……。）。)[%p]
+
+JA [name]:name:[line](俺のことを見つめている‥‥。)[%p]
+ZH [name]:name:[line](（在盯着我看了……。）。)[%p]
+
+JA [name]:name:[line](冷たい目と感じるのは、気のせいだろうか‥‥。)[%p]
+ZH [name]:name:[line](（感觉眼神很阴冷，是错觉吧……。）。)[%p]
+
+JA [name]:name:[line](しかし、ほんっとに笑わない女の子だな‥‥。)[%p]
+ZH [name]:name:[line](（但是，这女孩子几乎都不笑的呢……。）。)[%p]
+
+JA [name]:name:[line](いつも、無表情だ‥‥。)[%p]
+ZH [name]:name:[line](（总是，面无表情的……。）。)[%p]
+
+JA [name]:name:[line](神奈チャンの髪の毛だ‥‥。)[%p]
+ZH [name]:name:[line](（神奈的头发……。）。)[%p]
+
+JA [name]:name:[line](ストレートの髪型だな‥‥。)[%p]
+ZH [name]:name:[line](（好直顺的发型啊……。）。)[%p]
+
+JA [name]:name:[line](サラサラと音が聞こえてきそうだぜ‥‥。)[%p]
+ZH [name]:name:[line](（似乎能听到沙沙的声音呢……。）。)[%p]
+
+JA [name]:name:[line](制服のリボンだな。)[%p]
+ZH [name]:name:[line](（制服的缎带。）。)[%p]
+
+JA [name]:name:[line](取るとたぶん‥‥呆れられるんだろうな。)[%p]
+ZH [name]:name:[line](（要是拿下来的话……估计会让她发呆吧。）。)[%p]
+
+JA [name]:name:[line](制服についてるリボンだ‥‥。)[%p]
+ZH [name]:name:[line](（连在制服上的缎带……。）。)[%p]
+
+JA [name]:name:[line](俺たちの、境町学園の制服には、みんな付いてるぜ。)[%p]
+ZH [name]:name:[line](（我们境町学园的制服上面，都有带着呢。）。)[%p]
+
+JA [name]:name:[line](俺の姉さんのが入れた麦茶だそうだ‥‥。)[%p]
+ZH [name]:name:[line]JF:（听说是我姐姐泡的麦茶……）[%p]
+
+JA [name]:name:[line](俺に姉さんはいないがな。)[%p]
+ZH [name]:name:[line]JF:我没有姐姐[%p]
+
+JA [name]神奈[line]有馬さんのお姉さんが入れてくれた麦茶ですね。[%p]
+ZH [name]神奈[line]这麦茶里面装进了有马同学的姐姐呢。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](神奈チャン、本当はすっごくヒョウキンなんじゃ‥‥。)[%p]
+ZH [name]:name:[line](（神奈，其实真是很诙谐的人啊……。）。)[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]神奈[line]‥‥どうかしましたか?[%p]
+ZH [name]神奈[line]……怎么了？[%p]
+
+JA [name]:name:[line]‥‥えっ、なに?[%p]
+ZH [name]:name:[line]……诶，什么？[%p]
+
+JA [name]神奈[line]いえ‥‥このグラスを、睨んでいましたから。[%p]
+ZH [name]神奈[line]没事……因为，我盯着这块玻璃看了。[%p]
+
+JA [name]:name:[line]ははは‥‥ええと、超能力の実験。動けー動けーってね。[%p]
+ZH [name]:name:[line]哈哈哈……那个，像超能力的实验。动啊——动啊什么的。[%p]
+
+JA [name]神奈[line]有馬さん、やっぱり面白い人ですね。[%p]
+ZH [name]神奈[line]有马同学，果然是个很有趣的人呢。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]ウエイトレス[line]どうも、お待ちどおさまでした。[%p]
+ZH [name]女服务员[line]您好，让您久等了。[%p]
+
+JA コトッ‥‥‥。[%p]
+ZH 咔哒……。[%p]
+
+JA [name]:name:[line]んな、バカな。[%p]
+ZH [name]:name:[line]别开，玩笑了。[%p]
+
+JA [name]:name:[line]絵里子先生じゃあるまいし‥‥‥。[%p]
+ZH [name]:name:[line]又不是绘里子老师……。[%p]
+
+JA [name]:name:[line]‥‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]‥‥何で絵里子先生なんだろう?[%p]
+ZH [name]:name:[line]……为什么会是绘里子老师呢？[%p]
+
+JA [name]神奈[line]‥‥どうかしましたか?[%p]
+ZH [name]神奈[line]……怎么了？[%p]
+
+JA [name]:name:[line]い、いやその‥‥ピカピカに磨いていて、気持ちがいいね。このテーブル。[%p]
+ZH [name]:name:[line]没，没什么事……磨得亮晶晶的，心情真舒畅呢。这张桌子。[%p]
+
+JA [name]神奈[line]そうですね。[%p]
+ZH [name]神奈[line]是的呢。[%p]
+
+JA [name]:name:[line](ホッ‥‥‥。)[%p]
+ZH [name]:name:[line](（呵……。）。)[%p]
+
+JA [name]:name:[line](澪だったら、「見てるでしょっ」とか言いかねないからな。)[%p]
+ZH [name]:name:[line](（如果是澪的话，会不会说［我就让你见识一下］。）。)[%p]
+
+JA [name]:name:[line](顔を横に動かせば、可能性は高まるんだが‥‥。)[%p]
+ZH [name]:name:[line]JF:（如果把脸横向移动的话，可能性会提高……）[%p]
+
+JA [name]:name:[line](あからさま過ぎるか?)[%p]
+ZH [name]:name:[line]JF:（太明显了吗？）[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](クッ、惜しいぞ!)[%p]
+ZH [name]:name:[line]JF:（哇，好可惜啊！）[%p]
+
+JA [name]:name:[line](‥‥さりげなく見よう。)[%p]
+ZH [name]:name:[line](（……看上去若无其事的样子。）。)[%p]
+
+JA [name]:name:[line](神奈チャンが、こっちを見ているんだぜ‥‥。)[%p]
+ZH [name]:name:[line](（神奈，正在看着这边呢……。）。)[%p]
+
+JA [name]:name:[line](あまり露骨に見るのはやめよう。)[%p]
+ZH [name]:name:[line](（还是不要用这种露骨的眼神吧。）。)[%p]
+
+JA [name]:name:[line](ホッソリとした脚だな‥‥。)[%p]
+ZH [name]:name:[line](（纤细修长的腿……。）。)[%p]
+
+JA [name]:name:[line](っとっと、目を凝らして見るんじゃないっ。)[%p]
+ZH [name]:name:[line](（呃，呃，不要目不转睛地盯着看。）。)[%p]
+
+JA [name]:name:[line](神奈チャンが俺の前に座っているぜ‥‥。)[%p]
+ZH [name]:name:[line](（神奈现在正坐在我的眼前呢……。）。)[%p]
+
+JA [name]:name:[line](神奈チャンだ‥‥。)[%p]
+ZH [name]:name:[line](（是神奈……。）。)[%p]
+
+JA [name]:name:[line](こんなに間近で話すなんて、初めてだな‥‥。)[%p]
+ZH [name]:name:[line](（像靠得这么近谈话，还是第一次呢……。）。)[%p]
+
+JA [name]:name:[line](砂糖なんていいんだよ‥‥。)[%p]
+ZH [name]:name:[line](（砂糖什么的已经够了……。）。)[%p]
+
+JA [name]:name:[line](今は、神奈チャンと話してみないか?)[%p]
+ZH [name]:name:[line](（现在，不去跟神奈聊聊吗？）)[%p]
+
+JA [name]神奈[line]お砂糖‥‥いくつですか?[%p]
+ZH [name]神奈[line]砂糖……要几颗呢？[%p]
+
+JA [name]:name:[line]ボク、みっちゅ。[%p]
+ZH [name]:name:[line]我，要三块。[%p]
+
+JA [name]神奈[line]‥‥有馬さんって、面白い人ですね。[%p]
+ZH [name]神奈[line]……有马同学，你真是个有趣的人呢。[%p]
+
+JA [name]:name:[line](思いっきり、面白くなさそうに言われてしまった‥‥。)[%p]
+ZH [name]:name:[line](（突然之间，就被说成是个有趣的人了……。）。)[%p]
+
+JA [name]:name:[line](ガラスのテーブルだ‥‥。)[%p]
+ZH [name]:name:[line](（玻璃制的桌子……。）。)[%p]
+
+JA [name]:name:[line](なぜテーブルの足が真ん中なんだ、設計者を怨むぜ。)[%p]
+ZH [name]:name:[line]JF:（为什么桌子的脚在中间，埋怨设计者。）[%p]
+
+JA [name]:name:[line]ま、その甲斐あってか、下までシースルー状態だぜ。[%p]
+ZH [name]:name:[line]嘛，有这个意义吗，连下面都是清晰可见的状态呢。[%p]
+
+JA [name]神奈[line]シースルーって、何ですか?[%p]
+ZH [name]神奈[line]清晰可见，什么意思？[%p]
+
+JA [name]:name:[line]えっ、いやその‥‥子供が漏らしちゃうことを言うんだ。しーするーって。[%p]
+ZH [name]:name:[line]诶，那个嘛……从小孩子那里学过来的话，ｓｅｅ　ｔｒｏｕｇｈ。[%p]
+
+JA [name]神奈[line]‥‥面白いお話ですね。[%p]
+ZH [name]神奈[line]……你说的话真是有意思。[%p]
+
+JA [name]:name:[line](思いっきり、面白くなさそうに言わないでくれ‥‥。)[%p]
+ZH [name]:name:[line](（不要这样，突然就说我有趣什么的……。）。)[%p]
+
+JA [name]:name:[line]透明感溢れるテーブルだ。[%p]
+ZH [name]:name:[line]富有透明感的桌子。[%p]
+
+JA [name]:name:[line]って、殆ど透明なんだけど‥‥。[%p]
+ZH [name]:name:[line]呃，虽然基本上就是透明的……。[%p]
+
+JA [name]:name:[line](ビニール製の観葉植物だ‥‥。)[%p]
+ZH [name]:name:[line]JF:（是塑料制的观叶植物……）[%p]
+
+JA [name]:name:[line]喫茶店の植え込みってヤツだな‥‥。[%p]
+ZH [name]:name:[line]这是咖啡店里的花丛……。[%p]
+
+JA [name]:name:[line]こいつは、造花らしい。ビニールの光沢が、少し悲しいな。[%p]
+ZH [name]:name:[line]这个，好像是假花。塑料的光泽，令人有点悲伤啊。[%p]
+
+JA [name]神奈[line]自然を模倣することによって、人類はつかの間の安息と平和を疑似体験しているんです。[%p]
+ZH [name]神奈[line]根据模仿自然的行为，人类一直在进行片刻间安稳和平和的疑似体验。[%p]
+
+JA [name]:name:[line]はあ‥‥な、なるほど。[%p]
+ZH [name]:name:[line]哈啊……原，原来如此。[%p]
+
+JA [name]:name:[line](神奈チャンは、やっぱり環境保全運動をしているのかな。)[%p]
+ZH [name]:name:[line](（神奈，果然是在进行环境保护运动啊。）。)[%p]
+
+JA [name]:name:[line][EVENING]の中だな‥‥。[%p]
+ZH [name]:name:[line][EVENING]JF:在里面啊。[%p]
+
+JA [name]:name:[line]人の姿は‥‥多すぎず少なすぎずってところか。[%p]
+ZH [name]:name:[line]人流……在不断变化着。[%p]
+
+JA [name]:name:[line]喫茶店[EVENING]だ‥‥。[%p]
+ZH [name]:name:[line]JF:咖啡馆[EVENING]JF:是。[%p]
+
+JA [name]:name:[line]その名の通り、夕方以降しか、開いていないんだ。[%p]
+ZH [name]:name:[line]根据这个名称，这家店，只有在傍晚才开放。[%p]
+
+JA [name]神奈[line]静かでいいところですね‥‥有馬さんの家。[%p]
+ZH [name]神奈[line]是个安静的好地方呢……有马同学的家。[%p]
+
+JA [name]:name:[line]ははは‥‥あのさ、神奈チャン。[%p]
+ZH [name]:name:[line]哈哈哈……我说啊，神奈。[%p]
+
+JA [name]神奈[line]なんでしょうか。[%p]
+ZH [name]神奈[line]什么事呢。[%p]
+
+JA [name]:name:[line]本気で、ここが俺の家だと思う?[%p]
+ZH [name]:name:[line]你真的，以为这里是我的家吗？[%p]
+
+JA [name]神奈[line]‥‥そう、有馬さんが言われましたから。[%p]
+ZH [name]神奈[line]……是啊，因为有马同学你是这么说的。[%p]
+
+JA [name]:name:[line](うーん‥‥‥。)[%p]
+ZH [name]:name:[line](（嗯——……。）。)[%p]
+
+JA [name]:name:[line]なぁ、ジョークって知ってる?[%p]
+ZH [name]:name:[line]呐，你知道ＪＯＫＥ的意思吗？[%p]
+
+JA [name]神奈[line]冗談の英訳ですね。ふざけて言う話のことです。[%p]
+ZH [name]神奈[line]是玩笑的英语吧。也就是开玩笑的意思。[%p]
+
+JA [name]:name:[line]そ、その通りだけど‥‥‥。[%p]
+ZH [name]:name:[line]说，说得没错呢……。[%p]
+
+JA [name]神奈[line]それが、なにか?[%p]
+ZH [name]神奈[line]那么，怎么样？[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](もしかしたら、神奈チャンって、ムッチャ鈍いのかも‥‥。)[%p]
+ZH [name]:name:[line](（难道说，神奈她，真的很迟钝吗……。）。)[%p]
+
+JA 
+ZH 
+

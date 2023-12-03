@@ -1,0 +1,411 @@
+JA [name]たくや[line]一体‥‥ここはどこなんだ?[%p]
+ZH [name]拓也[line]JF:这里到底是哪里？[%p]
+
+JA [name]たくや[line]こんなにも広大なアトラクション‥‥日本にあるわけないよな。ははは。[%p]
+ZH [name]拓也[line]JF:这么大的游乐设施……日本不可能有吧。哈哈。[%p]
+
+JA [name]たくや[line]ここが日本ではないとして‥‥じゃあ、どこなんだ?って話だよな。[%p]
+ZH [name]拓也[line]JF:假设这里不是日本……那么，在哪里呢？是这样的吧。[%p]
+
+JA [name]たくや[line]いつもまでもここにいてもしょうがないし、あの建物に行ってみようぜ。[%p]
+ZH [name]拓也[line]JF:一直呆在这里也没办法，去那栋楼看看吧。[%p]
+
+JA ずいっ。[%p]
+ZH 转头。[%p]
+
+JA [name]たくや[line]おわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]ちょいちょい?[%p]
+ZH [name]拓也[line]戳戳？[%p]
+
+JA [name]たくや[line]あぁ、指をさした音ね‥‥。[%p]
+ZH [name]拓也[line]啊啊，这是在指东西的声音‥‥。[%p]
+
+JA [name]たくや[line]‥‥何だよ、それは。[%p]
+ZH [name]拓也[line]……你这是什么意思。[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]何だよ、向こうを指さして‥‥。[%p]
+ZH [name]拓也[line]指着前面，是要干嘛‥‥。[%p]
+
+JA [name]たくや[line]何が見えるんだい?[%p]
+ZH [name]拓也[line]看到什么了吗？[%p]
+
+JA [name]たくや[line]‥‥えっ、右奧の‥‥ずーっと遠くの岩山の前?[%p]
+ZH [name]拓也[line]‥‥诶，你是说右边‥‥离这里好远的石山前面？[%p]
+
+JA [name]たくや[line]いったい何が‥‥あっ![%p]
+ZH [name]拓也[line]究竟会有什么‥‥啊！[%p]
+
+JA [name]たくや[line]き、気付かなかったけど‥‥何か建ってる。[%p]
+ZH [name]拓也[line]之、之前都没注意到‥‥那边好像有建筑物。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]セーレス、君はこのこと、知っていたのかい?[%p]
+ZH [name]拓也[line]塞蕾斯，这里的事情你本来就了解吧？[%p]
+
+JA [name]セーレス[line]プルンプルン。[%p]
+ZH [name]塞蕾斯[line]摇头摇头。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]チョイチョイ。[%p]
+ZH [name]塞蕾斯[line]戳戳。[%p]
+
+JA [name]たくや[line]わかってるよ。言われるまでもない。[%p]
+ZH [name]拓也[line]我知道啊。不用你说都知道。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何かが建っているってことは、他にも人間がいるってことだ。)[%p]
+ZH [name]拓也[line](（有什么建筑物在那里的话，也就是有还有其他人在的意思。）。)[%p]
+
+JA [name]たくや[line](まさか、そいつまで、喋れないってことは無いだろうしな‥‥。)[%p]
+ZH [name]拓也[line](（那边的人也不会讲话，这种事应该不会发生吧‥‥）。)[%p]
+
+JA [name]たくや[line](そうすれば情報が集められる。)[%p]
+ZH [name]拓也[line]JF:（这样就能收集信息。）[%p]
+
+JA [name]たくや[line](ここがどこなのかを知ることができる。)[%p]
+ZH [name]拓也[line](（就能了解这里究竟是哪里了。）。)[%p]
+
+JA [name]たくや[line](境町へ帰る方法が、わかるかも知れない。)[%p]
+ZH [name]拓也[line](（也许也可以得到返回境町的方法。）。)[%p]
+
+JA [name]たくや[line](‥‥とにかく、ここでこうしていたんじゃ、のたれ死にってヤツだぜ‥‥。)[%p]
+ZH [name]拓也[line](（‥‥总之，在这里一直这样下去，早晚得横死于森林中‥‥）。)[%p]
+
+JA [name]たくや[line](よし‥‥。)[%p]
+ZH [name]拓也[line](好嘞……。)[%p]
+
+JA [name]たくや[line]とにかく、右奧に見えるあの建物まで、行ってみようぜ‥‥。[%p]
+ZH [name]拓也[line]总之，走到右边深处的那建筑去看看‥‥。[%p]
+
+JA [name]たくや[line]いったいここは‥‥どこなんだ?[%p]
+ZH [name]拓也[line]到底这里‥‥是什么情况？[%p]
+
+JA [name]たくや[line]こんな風景‥‥俺は見たことがないぜ。[%p]
+ZH [name]拓也[line]这样的风景‥‥我从来没看到过。[%p]
+
+JA [name]たくや[line]そりゃあ、世界のどこかだったら、これくらいの自然にはお目にかかれるだろうが‥‥。[%p]
+ZH [name]拓也[line]估计在世界上某个地方肯定会让你见到这样的风景吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥じゃあ、やっぱりここは、日本じゃないのか?[%p]
+ZH [name]拓也[line]‥‥那么，这里果然不是日本吧？[%p]
+
+JA [name]たくや[line]日本じゃない‥‥?[%p]
+ZH [name]拓也[line]不是日本‥‥？[%p]
+
+JA [name]たくや[line]じゃあ、どこなんだよ‥‥外国か。[%p]
+ZH [name]拓也[line]那会是哪里呢‥‥外国吗。[%p]
+
+JA [name]たくや[line]‥‥なんだって、俺が外国に来なきゃなんないんだよ。[%p]
+ZH [name]拓也[line]‥‥为啥非让我到外国来呢。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]それに右奧の岩山‥‥あれは何だ。[%p]
+ZH [name]拓也[line]而且右边林子深处石山那儿‥‥的那个是什么啊。[%p]
+
+JA [name]たくや[line]何だって‥‥岩山、だよな。[%p]
+ZH [name]拓也[line]为什么‥‥又是石山呢。[%p]
+
+JA [name]たくや[line]問題は、あんなデカそうな岩山が、北海道にあるかって問題だ。[%p]
+ZH [name]拓也[line]问题是，那么高的石山北海道有没有都不知道。[%p]
+
+JA [name]たくや[line]そ、それに‥‥。[%p]
+ZH [name]拓也[line]而、而且‥‥。[%p]
+
+JA [name]たくや[line]‥‥向こうの遠くに見える砂丘みたいなのは‥‥。[%p]
+ZH [name]拓也[line]‥‥前方远处能看到像是沙丘的东西‥‥。[%p]
+
+JA [name]たくや[line]はははは、何だか砂漠に見えたりするけど、もちろん俺の錯覚だよな。[%p]
+ZH [name]拓也[line]哈哈哈哈，怎么感觉看到沙漠了啊，当然这是我的错觉。[%p]
+
+JA [name]たくや[line]そうだ、錯覚に決まっている。決まっているぞ![%p]
+ZH [name]拓也[line]是啊，肯定是错觉。肯定的啦！[%p]
+
+JA [name]たくや[line]に、日本に砂漠なんて、あるはず、ないじゃないか。[%p]
+ZH [name]拓也[line]日、日本是不可能会有沙漠之类的东西啊。[%p]
+
+JA [name]たくや[line]そうだ、錯覚だ‥‥。[%p]
+ZH [name]拓也[line]对的，是错觉‥‥。[%p]
+
+JA [name]たくや[line]この、ジリジリとやけるような陽射しも、錯覚だ‥‥。[%p]
+ZH [name]拓也[line]这烧得人火辣辣的阳光也是错觉‥‥。[%p]
+
+JA [name]たくや[line]遠くがユラユラと揺れているのも、錯覚だ‥‥。[%p]
+ZH [name]拓也[line]远处那些摇摇晃晃的景物，也是错觉‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥錯覚‥‥なんだろうか。[%p]
+ZH [name]拓也[line]‥‥错觉‥‥又是什么呢。[%p]
+
+JA [name]たくや[line]も、もう少しちゃんと調べてみないか‥‥?[%p]
+ZH [name]拓也[line]再、再好好调查一下吧‥‥？[%p]
+
+JA [name]たくや[line]どういうことだよ‥‥これは。[%p]
+ZH [name]拓也[line]这是‥‥怎么一回事啊。[%p]
+
+JA [name]たくや[line]森林に‥‥草原‥‥。[%p]
+ZH [name]拓也[line]森林‥‥还有草原‥‥。[%p]
+
+JA [name]たくや[line]そ、そうだ、北海道にだったら、このくらいの自然は残っているだろうな。[%p]
+ZH [name]拓也[line]对、对了，要是北海道的话，应该会有这样的自然风光吧。[%p]
+
+JA [name]たくや[line]うん、そうだ。このジットリと汗が出るような暖かさ、さすがは北海道‥‥。[%p]
+ZH [name]拓也[line]嗯，没错。这让人汗流浃背的热度，不愧是北海道‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]木々が生い茂っている‥‥。[%p]
+ZH [name]拓也[line]树木繁茂‥‥。[%p]
+
+JA [name]たくや[line]左側には、広そうな森が続いている‥‥。[%p]
+ZH [name]拓也[line]左边是一望无际的广阔森林‥‥。[%p]
+
+JA [name]たくや[line]俺が今までいたような森が、あちこちにあるみたいだ‥‥。[%p]
+ZH [name]拓也[line]看来到处都是这种森林‥‥。[%p]
+
+JA [name]たくや[line]こんな場所、日本にあったかな‥‥?[%p]
+ZH [name]拓也[line]日本有这种地方吗‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、砂漠なんだろうか‥‥?[%p]
+ZH [name]拓也[line]这不就是沙漠么‥‥？[%p]
+
+JA [name]たくや[line]‥‥相当広く感じるけど。[%p]
+ZH [name]拓也[line]‥‥感觉相当广阔。[%p]
+
+JA [name]たくや[line]緑を抜けると、だだっ広い砂場が続いている‥‥。[%p]
+ZH [name]拓也[line]这里与绿色无缘，广阔的沙地绵延不绝‥‥。[%p]
+
+JA [name]たくや[line]この高さから、砂漠の地平線が見えるってことは‥‥。[%p]
+ZH [name]拓也[line]JF:从这个高度可以看到沙漠的地平线。[%p]
+
+JA [name]たくや[line]‥‥少なくとも10キロ以上は、砂場が広がってるってことだよな。[%p]
+ZH [name]拓也[line]‥‥沙漠至少延伸了有１０公里以上啊。[%p]
+
+JA [name]たくや[line]10キロ四方に広がる砂場‥‥。[%p]
+ZH [name]拓也[line]向四周延伸了１０公里的沙地‥‥。[%p]
+
+JA [name]たくや[line]‥‥やっぱりそれ、砂漠って言うんじゃ‥‥‥‥。[%p]
+ZH [name]拓也[line]‥‥果然，应该就是要叫沙漠吧‥‥‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あの、遠くに見える赤茶けた場所‥‥。[%p]
+ZH [name]拓也[line]那个，往远处能看到红褐色的部分‥‥。[%p]
+
+JA [name]たくや[line]鳥取砂丘ってのは写真で見たことがあるけど‥‥。[%p]
+ZH [name]拓也[line]虽然我看到过鸟取砂丘的照片‥‥。[%p]
+
+JA [name]たくや[line]‥‥あんなのとは、規模が違いすぎる。[%p]
+ZH [name]拓也[line]‥‥可这规模也差得太远了。[%p]
+
+JA [name]たくや[line]だって、この高さから地平線が見えるぜ‥‥。[%p]
+ZH [name]拓也[line]因为从这个高度能看到地平线啊‥‥。[%p]
+
+JA [name]たくや[line]じゃあ‥‥砂漠とでも言うのか?[%p]
+ZH [name]拓也[line]那‥‥就能称之为沙漠吗？[%p]
+
+JA [name]たくや[line]違う! 断じて違うぞ! あれはだだっ広い砂場だ![%p]
+ZH [name]拓也[line]不对！　绝对不能！　那不就是一片辽阔的沙地么！[%p]
+
+JA [name]たくや[line]‥‥言ってて虚しくなってくるな。[%p]
+ZH [name]拓也[line]‥‥越说越觉得没意义。[%p]
+
+JA [name]たくや[line]セーレスは、俺の隣にくっついてるぜ‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯就紧靠在我身边‥‥。[%p]
+
+JA [name]たくや[line]セーレスって女の子は、俺の隣にくっついてる‥‥。[%p]
+ZH [name]拓也[line]叫做塞蕾斯的女孩，紧靠在我身边‥‥。[%p]
+
+JA [name]たくや[line]この光景を見ても、臆してる素振りはない‥‥。[%p]
+ZH [name]拓也[line]就算看到这种光景也没有出现胆怯的样子‥‥。[%p]
+
+JA [name]たくや[line]‥‥ってことは、見慣れた風景ってことなんだろうか?[%p]
+ZH [name]拓也[line]‥‥就是说，这应该是她看惯了的风景吧？[%p]
+
+JA [name]たくや[line]それとも‥‥。[%p]
+ZH [name]拓也[line]或者……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]な、なにをニコニコしてるんだよ。アレを見ろよ![%p]
+ZH [name]拓也[line]你、你在笑个什么劲儿啊。快看那个！[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]ほら、草原に森林、岩山に砂漠が広がっているんだぞ![%p]
+ZH [name]拓也[line]你看，草原，森林，石山还有沙漠就这样一直延伸下去！[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]何も感じないのか? こんな非常識な場所が、日本にあってたまるか![%p]
+ZH [name]拓也[line]没什么感想吗？　这种不合常理的地方，哪可能是日本啊！[%p]
+
+JA [name]セーレス[line]ビクッ。[%p]
+ZH [name]塞蕾斯[line]惊吓。[%p]
+
+JA [name]たくや[line]あっ、ゴ、ゴメン。お、驚かすつもりはないんだが‥‥。[%p]
+ZH [name]拓也[line]啊，抱、抱歉。我、我可没打算吓唬你‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]もういいよ‥‥とりあえず、君に訊いても無駄ってことは理解した。[%p]
+ZH [name]拓也[line]好啦‥‥总之，就算问你也是白搭这一点我是明白的。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]それよりも、あの建物が気にならないか?[%p]
+ZH [name]拓也[line]比起这个，还是要更关注那建筑吧？[%p]
+
+JA [name]たくや[line]待てよ‥‥もうちょっと、まわりを見てみないか?[%p]
+ZH [name]拓也[line]等一下啊‥‥再稍微瞅瞅周围的情况吧？[%p]
+
+JA [name]たくや[line]おいおい、今そっちから来たんじゃないか。[%p]
+ZH [name]拓也[line]喂喂，这不刚从那边过来的么。[%p]
+
+JA [name]たくや[line]そうだな‥‥よし。[%p]
+ZH [name]拓也[line]是啊‥‥好。[%p]
+
+JA [name]たくや[line]あそこの建物に、行ってみよう‥‥。[%p]
+ZH [name]拓也[line]去那边的建筑里看看吧‥‥。[%p]
+
+JA ついっ。[%p]
+ZH 拉起。[%p]
+
+JA [name]たくや[line]なんだい?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]付いてくるって言うのか?[%p]
+ZH [name]拓也[line]是说想跟我一起去吗？[%p]
+
+JA [name]セーレス[line]コクン。[%p]
+ZH [name]塞蕾斯[line]点头。[%p]
+
+JA [name]たくや[line]君の家なのか?[%p]
+ZH [name]拓也[line]这是你家吗？[%p]
+
+JA [name]セーレス[line]プルンプルン。[%p]
+ZH [name]塞蕾斯[line]摇头摇头。[%p]
+
+JA [name]たくや[line]‥‥ま、旅は道連れ、世は情け。一緒に行くか。[%p]
+ZH [name]拓也[line]‥‥唉，在家靠父母，出外靠朋友。一起去吧。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](いったい誰が、住んでいるんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（究竟是谁住在这里啊‥‥）。)[%p]
+
+JA [name]たくや[line](とにかく、あそこの住人と会って、話してみようぜ‥‥。)[%p]
+ZH [name]拓也[line](（总之，见见那里住的人，跟他聊一聊‥‥）。)[%p]
+
+JA [name]たくや[line](全てはそれからだ‥‥。)[%p]
+ZH [name]拓也[line](（其他的事情之后再说‥‥）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、この建築様式は‥‥?[%p]
+ZH [name]拓也[line]这是什么建筑风格啊‥‥？[%p]
+
+JA [name]たくや[line]これって‥‥いちおう建物だよな。[%p]
+ZH [name]拓也[line]这个‥‥姑且也算是房子吧。[%p]
+
+JA [name]たくや[line]石を積み上げて建てたような感じだけど‥‥。[%p]
+ZH [name]拓也[line]虽然感觉就是把石头堆起来建成的‥‥。[%p]
+
+JA [name]たくや[line]今は彼女と話すことより、周りをもっと見渡してみよう。[%p]
+ZH [name]拓也[line]现在还是再去四下查看查看吧，呆会儿再和她聊。[%p]
+
+JA [name]たくや[line]おーい。[%p]
+ZH [name]拓也[line]喂——。[%p]
+
+JA [name]セーレス[line]ニコニコッ。[%p]
+ZH [name]塞蕾斯[line]笑眯眯。[%p]
+
+JA [name]たくや[line]よしよし、どうどう。[%p]
+ZH [name]拓也[line]乖～乖～，不哭不哭。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]シッシッシ。[%p]
+ZH [name]拓也[line]嘻～嘻～嘻。[%p]
+
+JA [name]セーレス[line]クスン‥‥。[%p]
+ZH [name]塞蕾斯[line]啜泣‥‥。[%p]
+
+JA [name]たくや[line]ウソだよ。ほら、いい子いい子。[%p]
+ZH [name]拓也[line]骗你的啦。来，好孩子好孩子。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥なにやってんの、俺は。[%p]
+ZH [name]拓也[line]‥‥我在搞些什么啊。[%p]
+
+JA [name]たくや[line]なぁ‥‥セーレス。[%p]
+ZH [name]拓也[line]我说‥‥塞蕾斯。[%p]
+
+JA [name]セーレス[line]‥‥?[%p]
+ZH [name]塞蕾斯[line]……？[%p]
+
+JA [name]たくや[line]何となく呼んでみただけ。[%p]
+ZH [name]拓也[line]不由得想叫一下而已。[%p]
+
+JA [name]セーレス[line]ニコッ。[%p]
+ZH [name]塞蕾斯[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何が「にこっ」なんだろうな。[%p]
+ZH [name]拓也[line]你这「微笑」到底是什么意思啊。[%p]
+
+JA 
+ZH 
+

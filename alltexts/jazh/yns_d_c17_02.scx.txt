@@ -1,0 +1,1314 @@
+JA [name]たくや[line]バカ、立つな! 落雷するぞ![%p]
+ZH [name]拓也[line]笨蛋，别站起来！　会打雷的！[%p]
+
+JA [name]澪[line]ど、どうすればいいのよ! このままここにいたって、黒コゲになるだけだわ![%p]
+ZH [name]澪[line]那，那我该怎么办好啊！　要是就这么待在这个地方，只会变成焦炭而已啊！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か手はあるはずだ‥‥。)[%p]
+ZH [name]拓也[line](（应该会有什么办法的……。）。)[%p]
+
+JA [name]たくや[line](何か、手が‥‥。)[%p]
+ZH [name]拓也[line](（什么，办法……。）。)[%p]
+
+JA [name]澪[line]きゃぁぁぁっ![%p]
+ZH [name]澪[line]呀啊啊啊！[%p]
+
+JA [name]たくや[line]澪![%p]
+ZH [name]拓也[line]JF:澪！[%p]
+
+JA [name]たくや[line]大丈夫かっ!?[%p]
+ZH [name]拓也[line]你没事吧！？[%p]
+
+JA [name]澪[line]ちょっとシビれただけ。まだ、大丈夫みたい‥‥。[%p]
+ZH [name]澪[line]只是稍微受了点冲击而已。目前，应该还没事……。[%p]
+
+JA [name]たくや[line]くそっ‥‥このまま、黒コゲになっちまうのか?[%p]
+ZH [name]拓也[line]可恶……再这样下去，就只能变成焦炭了吗？[%p]
+
+JA [name]澪[line]或いは、今川教授のような飢え死にの、どちらかね。[%p]
+ZH [name]澪[line]或者，跟今川教授一样饥饿而死，到底是哪一种呢。[%p]
+
+JA [name]たくや[line]ははは‥‥楽しい未来図だな。[%p]
+ZH [name]拓也[line]哈哈哈……真是快乐的未来图。[%p]
+
+JA [name]澪[line]どういう死に方をしたい?[%p]
+ZH [name]澪[line]你希望怎么样的死法呢？[%p]
+
+JA [name]たくや[line]決まってる。畳の上で老衰死だ。[%p]
+ZH [name]拓也[line]想好了。躺在榻榻米上衰老死吧。[%p]
+
+JA [name]澪[line]フフ‥‥そうありたいものね。[%p]
+ZH [name]澪[line]呵呵……希望你能实现吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]ね、有馬君。[%p]
+ZH [name]澪[line]呐，有马君。[%p]
+
+JA [name]たくや[line]なんだ?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]澪[line]もう助からないかも知れないから、言ってしまうわ。[%p]
+ZH [name]澪[line]因为可能已经没办法得救了，所以我要告诉你。[%p]
+
+JA [name]たくや[line]後にしろ。助かってから聞く。[%p]
+ZH [name]拓也[line]以后再说吧。得救了再告诉我。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何か手は、あるはずなんだ。)[%p]
+ZH [name]拓也[line](（应该，会有什么办法的吧。）。)[%p]
+
+JA [name]たくや[line](何か‥‥‥。)[%p]
+ZH [name]拓也[line](（应该……。）。)[%p]
+
+JA [name]澪[line]きゃぁぁぁっ![%p]
+ZH [name]澪[line]呀啊啊啊！[%p]
+
+JA [name]たくや[line]だ、大丈夫か、澪![%p]
+ZH [name]拓也[line]没，没事吧，澪！[%p]
+
+JA [name]澪[line]身体が‥‥電気にでも撃たれたみたい。[%p]
+ZH [name]澪[line]身体……好像被电流通过了。[%p]
+
+JA [name]たくや[line]みたいじゃない。撃たれたんだよ。[%p]
+ZH [name]拓也[line]不是好像。就是被电流通过了。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]恐らく、放電の余波ってやつだ。直撃だったら、今ごろ黒コゲだ。[%p]
+ZH [name]拓也[line]恐怕，是放电的余波。要是直接击中的话，现在已经变成焦炭了吧。[%p]
+
+JA [name]澪[line]どうしたらいいの? どうしたら!?[%p]
+ZH [name]澪[line]我们该怎么办好呢？　该怎么办！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](くそっ‥‥考えるんだ、たくや。)[%p]
+ZH [name]拓也[line](（可恶……快点想办法啊，拓也。）。)[%p]
+
+JA [name]たくや[line](何か手があるはずだ‥‥!)[%p]
+ZH [name]拓也[line](（应该会有什么办法的……！）)[%p]
+
+JA [name]たくや[line]うわっ![%p]
+ZH [name]拓也[line]（呜哇！）[%p]
+
+JA [name]澪[line]い、今のは危なかったんじゃないの? すぐ近くに‥‥ほらっ![%p]
+ZH [name]澪[line]刚，刚才的应该很危险了吧？　就近在眼前……你看！[%p]
+
+JA [name]たくや[line]ああ、地面がえぐれてる‥‥。[%p]
+ZH [name]拓也[line]啊啊，地面都凹进去了……。[%p]
+
+JA [name]澪[line]ど、どうするのよ![%p]
+ZH [name]澪[line]怎，怎么办呢！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれを使うんだ![%p]
+ZH [name]拓也[line]使用那个吧！[%p]
+
+JA [name]澪[line]何を使うの?[%p]
+ZH [name]澪[line]用什么啊？[%p]
+
+JA [name]たくや[line]俺が持っていないあれだよ。[%p]
+ZH [name]拓也[line]就是我没有的那个东西啊。[%p]
+
+JA [name]澪[line]‥‥有馬君、大丈夫?[%p]
+ZH [name]澪[line]……有马君，没事吧？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]やっぱり、あそこしか出口はなさそうだわ‥‥。[%p]
+ZH [name]澪[line]果然，只有那地方看起来像出口了啊……。[%p]
+
+JA [name]たくや[line]‥‥そうか、避雷針だ![%p]
+ZH [name]拓也[line]……对了，是避雷针！[%p]
+
+JA [name]澪[line]えっ‥‥?[%p]
+ZH [name]澪[line]诶……？[%p]
+
+JA [name]たくや[line]上手くいけばカミナリも避けられ、なおかつ出口も開く、一石二鳥になるかも知れない。[%p]
+ZH [name]拓也[line]如果顺利的话说不定既可以避开雷击，又能打开出口，可以说是一石二鸟之计啊。[%p]
+
+JA [name]澪[line]‥‥どういうこと?[%p]
+ZH [name]澪[line]……怎么回事？[%p]
+
+JA [name]たくや[line]あれを使うんだ。あれをあそこに使えば‥‥。[%p]
+ZH [name]拓也[line]使用那东西吧。在这里使用那东西的话……。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]そう、だけど俺はあれを持っていない![%p]
+ZH [name]拓也[line]对了，但是我没有那东西啊！[%p]
+
+JA [name]澪[line]有馬君、大丈夫?[%p]
+ZH [name]澪[line]有马君，没事吧？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](とにかく、この状況じゃどうしようもない。)[%p]
+ZH [name]拓也[line](（总而言之，这种情况下可以说是束手无策啊。）。)[%p]
+
+JA [name]たくや[line](あれを、どこからか持ってこなくちゃ‥‥。)[%p]
+ZH [name]拓也[line](（要是，不能把那东西从哪里带过来的话……。）。)[%p]
+
+JA [name]たくや[line](そのためには‥‥。)[%p]
+ZH [name]拓也[line](（为了这个……。）。)[%p]
+
+JA [name]たくや[line]重そうな岩で塞がっている‥‥。[%p]
+ZH [name]拓也[line]巨大的岩石堵住了去路……。[%p]
+
+JA [name]たくや[line]どうすればいいんだ‥‥?[%p]
+ZH [name]拓也[line]（该怎么办好呢……？）[%p]
+
+JA [name]澪[line]あっ‥‥‥。[%p]
+ZH [name]澪[line]啊……。[%p]
+
+JA [name]たくや[line]岩で塞がっているな‥‥‥。[%p]
+ZH [name]拓也[line]被岩石堵住去路了啊……。[%p]
+
+JA [name]澪[line]さっき、一条先生が撃ったときに岩が崩れたわ。それよ。[%p]
+ZH [name]澪[line]刚才，一条老师开枪的时候岩石崩塌了。就是这里。[%p]
+
+JA [name]たくや[line]扉があるな‥‥頑丈そうな。[%p]
+ZH [name]拓也[line]这里有门啊……看来很坚固。[%p]
+
+JA [name]澪[line]あそこからの脱出は、難しいかしら‥‥。[%p]
+ZH [name]澪[line]看来要想从那里逃出去，很难了吧……。[%p]
+
+JA [name]たくや[line]無理だな、あんなに大きな岩があったんじゃ。[%p]
+ZH [name]拓也[line]没办法啊，有这么一块巨大的岩石。[%p]
+
+JA [name]澪[line]2人で協力しても難しいわね‥‥クレーン車でもないと。[%p]
+ZH [name]澪[line]就算２个人互相帮助也很难吧……要是没有大吊车的话。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]ねぇ、いったん戻らない?[%p]
+ZH [name]澪[line]呐，不回去一趟吗？[%p]
+
+JA [name]たくや[line]戻る‥‥?[%p]
+ZH [name]拓也[line]回去吗……？[%p]
+
+JA [name]澪[line]ええ、そう。あそこの湖まで‥‥。[%p]
+ZH [name]澪[line]是啊，对了。到那边的湖去……。[%p]
+
+JA [name]たくや[line]あの水辺へか?[%p]
+ZH [name]拓也[line]你说到水边吗？[%p]
+
+JA [name]澪[line]そうよ。[%p]
+ZH [name]澪[line]是啊。[%p]
+
+JA [name]たくや[line]これだけもの凄い放電をしているのに? あそこは辺り一面が水だぜ?[%p]
+ZH [name]拓也[line]在现在这种轰雷掣电的情况下吗？　那附近已经全都被水淹没了吧？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]水に足を入れた途端、黒コゲになるさ。[%p]
+ZH [name]拓也[line]在脚踩进水里的时候，就会变成焦炭了。[%p]
+
+JA [name]澪[line]そんな‥‥。[%p]
+ZH [name]澪[line]那种事……。[%p]
+
+JA [name]たくや[line]それに、例え戻れたとしても問題の解決にはならない。出口は、恐らくここだけだろうからな。[%p]
+ZH [name]拓也[line]而且，即使我们回去了也没办法解决问题啊。出口，恐怕就这有这里的一个了吧。[%p]
+
+JA [name]澪[line]じゃあ‥‥どうすればいいのよっ。[%p]
+ZH [name]澪[line]那么……我们该怎么办好呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](澪の言いたいことはわかる‥‥。)[%p]
+ZH [name]拓也[line](（我明白澪想说什么……。）。)[%p]
+
+JA [name]たくや[line](ここにいても危ない‥‥かといって戻っても黒コゲだ。)[%p]
+ZH [name]拓也[line](（就算留在这里也很危险……不过即使回去也会变成焦炭。）。)[%p]
+
+JA [name]たくや[line](どうすればいいんだ‥‥?)[%p]
+ZH [name]拓也[line](（该怎么办好呢……？）)[%p]
+
+JA [name]たくや[line]あれを使えば‥‥上手くいけば、落雷も避けられるぞ。[%p]
+ZH [name]拓也[line]要是使用那东西呢……顺利的话，也能避开落雷了。[%p]
+
+JA [name]澪[line]どうするの‥‥?[%p]
+ZH [name]澪[line]怎么办呢……？[%p]
+
+JA [name]たくや[line]そうだな‥‥もう少し考えたい。[%p]
+ZH [name]拓也[line]是啊……我需要再稍微想一想。[%p]
+
+JA [name]たくや[line]そうか。あの、ビニルコーティングされている部分の意味がわかったぜ。[%p]
+ZH [name]拓也[line]对了。那个，类似树脂涂层部分的意义我已经明白了。[%p]
+
+JA [name]澪[line]ビニルコーティングされている‥‥意味?[%p]
+ZH [name]澪[line]类似树脂涂层部分的……意义？[%p]
+
+JA [name]たくや[line]絶縁体さ。感電しないための、予防措置だ。[%p]
+ZH [name]拓也[line]是绝缘体。为了不会导电，所做的预防措施。[%p]
+
+JA [name]たくや[line]雷を発生する装置か‥‥。[%p]
+ZH [name]拓也[line]发生落雷的装置吗……。[%p]
+
+JA [name]澪[line]信じられない‥‥超科学よ、雷の発生装置なんて。[%p]
+ZH [name]澪[line]简直难以置信……这是超科学啊，发生落雷的装置。[%p]
+
+JA [name]たくや[line]超科学、か‥‥確かにそう言えるかも知れない。[%p]
+ZH [name]拓也[line]超科学，吗……确实正如你所言也说不定吧。[%p]
+
+JA [name]澪[line]しかも8千年以上稼働し続けてきたのよ? 信じられないわ。[%p]
+ZH [name]澪[line]而且还已经持续运行了８千年以上啊？　真的难以置信。[%p]
+
+JA [name]たくや[line]大丈夫だ、俺たち以外は、恐らく誰も信じないさ。[%p]
+ZH [name]拓也[line]没关系的，除了我们以外，恐怕谁都不会相信吧。[%p]
+
+JA [name]澪[line]あと、龍蔵寺先生に一条先生、それに今川教授以外はね。[%p]
+ZH [name]澪[line]除了，龙藏寺老师和一条老师，再加上今川教授之外吧。[%p]
+
+JA [name]たくや[line]‥‥結構信じるヤツがいるんだな。[%p]
+ZH [name]拓也[line]……也有相当确信的家伙啊。[%p]
+
+JA [name]澪[line]目の前にあるんだもの。イヤでも信じるわ。[%p]
+ZH [name]澪[line]东西就近在眼前。不相信也得相信了啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](今川教授は、これを追っていたんだろうか‥‥。)[%p]
+ZH [name]拓也[line](（今川教授，就是在探究这个吧……。）。)[%p]
+
+JA [name]たくや[line](そして、龍蔵寺も‥‥‥?)[%p]
+ZH [name]拓也[line](（而且，龙藏寺也……？）)[%p]
+
+JA [name]たくや[line](俺のオヤジは、いったい何を追っていたんだろう‥‥。)[%p]
+ZH [name]拓也[line](（我家老头子，又到底是在探究什么东西呢……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]うっすらと煙があがっている‥‥。[%p]
+ZH [name]拓也[line]开始冒出薄薄的轻烟了……。[%p]
+
+JA [name]澪[line]水蒸気のせいね。[%p]
+ZH [name]澪[line]水蒸气的缘故吧。[%p]
+
+JA [name]澪[line]表面の水が光り輝いているわ‥‥幻想的な風景ね。[%p]
+ZH [name]澪[line]表面的水开始发光了啊……真是极富幻想的风景啊。[%p]
+
+JA [name]たくや[line]死ぬ可能性がなきゃ、ゆっくりと鑑賞しているんだが。[%p]
+ZH [name]拓也[line]要不是有死亡的可能性，真想悠闲地慢慢鉴赏呢。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]見て‥‥うっすらとだけど、煙が。[%p]
+ZH [name]澪[line]看啊……冒出一层薄薄的，轻烟。[%p]
+
+JA [name]たくや[line]放電によって、水蒸気が発生しているんだ。[%p]
+ZH [name]拓也[line]是因为放电，产生了水蒸气吧。[%p]
+
+JA [name]澪[line]岩についている水分の?[%p]
+ZH [name]澪[line]岩石带着的水分吗？[%p]
+
+JA [name]たくや[line]そう。だんだん、蒸し暑くなってきたろう?[%p]
+ZH [name]拓也[line]是啊。你没感觉，开始变得又闷又热了吗？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]あれを使うんだよ‥‥。[%p]
+ZH [name]拓也[line]要使用那东西啊……。[%p]
+
+JA [name]たくや[line]そうすれば、避雷針にもなるし、上手くいけばドアを開けられるかも知れない‥‥。[%p]
+ZH [name]拓也[line]那样的话，说不定既可以变为避雷针，又能顺利地将门打开了呢……。[%p]
+
+JA [name]たくや[line]光り輝いている‥‥。[%p]
+ZH [name]拓也[line]正在熠熠生辉……。[%p]
+
+JA [name]たくや[line]どんどん、騒音が大きくなっていくぞ‥‥。[%p]
+ZH [name]拓也[line]噪音，开始逐渐变大了呢……。[%p]
+
+JA [name]たくや[line]うわっ! ま、まただ![%p]
+ZH [name]拓也[line]呜哇！　又，又来了！[%p]
+
+JA [name]澪[line]今‥‥落雷しているのよ! 現在進行形で! 外に!![%p]
+ZH [name]澪[line]刚才……是在打雷啊！　用现在进行式！　在外面！！[%p]
+
+JA [name]たくや[line]大惨事にならなきゃ、いいんだが‥‥。[%p]
+ZH [name]拓也[line]千万不要发生什么大惨事啊……。[%p]
+
+JA [name]澪[line]ジオ・テクニクスの人が、また運搬作業を開始したのかも。[%p]
+ZH [name]澪[line]Ｇｅｏ·ｔｅｃｈｎｉｃｓ的人，可能正开始进行搬运作业。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](確か、朝方に運搬作業を再開するとか、言っていたよな‥‥‥。)[%p]
+ZH [name]拓也[line](（我记得，好像有说过，搬运作业会在早上的时候再开……。）。)[%p]
+
+JA [name]たくや[line](ってことは、もう夜が明けちまったってことか‥‥‥。)[%p]
+ZH [name]拓也[line](（也就是说，现在夜晚已经过去了吗……。）。)[%p]
+
+JA [name]たくや[line](大丈夫なんだろうか‥‥‥?)[%p]
+ZH [name]拓也[line](（应该没事的吧……？）)[%p]
+
+JA [name]たくや[line]だがこのデカい機械の存在を認めたとして、解決できない問題もある。[%p]
+ZH [name]拓也[line]但是既然确认了这台巨大的机械存在，那问题也没办法解决。[%p]
+
+JA [name]澪[line]解決できない問題‥‥?[%p]
+ZH [name]澪[line]问题没办法解决……？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]澪[line]どういうこと。[%p]
+ZH [name]澪[line]怎么回事。[%p]
+
+JA [name]たくや[line]落雷事故が、こいつのせいだとしてだ‥‥まぁ、その可能性は99パーセント以上だろうが。[%p]
+ZH [name]拓也[line]落雷事故，是因为这东西造成的吧……嘛，这个可能性应该超过百分之九十九了吧。[%p]
+
+JA [name]澪[line]ええ。[%p]
+ZH [name]澪[line]是啊。[%p]
+
+JA [name]たくや[line]落雷は、なぜか運搬作業中に集中している。[%p]
+ZH [name]拓也[line]落雷，为什么会集中在搬运作业中途呢。[%p]
+
+JA [name]澪[line]‥‥そういえば、聞いたことがあるわ。[%p]
+ZH [name]澪[line]……这么说起来，我好像听说过呢。[%p]
+
+JA [name]たくや[line]なぜだ?[%p]
+ZH [name]拓也[line]为什么？[%p]
+
+JA [name]澪[line]‥‥偶然かしら。[%p]
+ZH [name]澪[line]……是偶然吧。[%p]
+
+JA [name]たくや[line]必然を探るのが科学じゃなかったのか?[%p]
+ZH [name]拓也[line]科学不就是探索必然性的吗？[%p]
+
+JA [name]澪[line]カオスの考証も科学のうちよ。[%p]
+ZH [name]澪[line]混沌的考证也包含在科学之内。[%p]
+
+JA [name]たくや[line]お前な、口は重宝って言葉を知っているか。[%p]
+ZH [name]拓也[line]我说啊，知道嘴上随便说说这句话的意思吗。[%p]
+
+JA [name]澪[line]なによ。じゃあどんな理由があるというの?[%p]
+ZH [name]澪[line]什么啊。那你倒是说说看是因为什么理由呢？[%p]
+
+JA [name]たくや[line]‥‥それを考えている。[%p]
+ZH [name]拓也[line]……我现在正在思考。[%p]
+
+JA [name]澪[line]バカバカしいじゃない。なんでジオ・テクニクスの運搬作業を、この機械が監視しなくちゃならないの。[%p]
+ZH [name]澪[line]那不是实在太傻了吗。为什么Ｇｅｏ·ｔｅｃｈｎｉｃｓ的搬运作业，非得受到这台机械的监视不可呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](‥‥この装置が、監視?)[%p]
+ZH [name]拓也[line](（……这台装置，监视？）)[%p]
+
+JA [name]たくや[line](この超科学の機械が‥‥監視をしている、か。)[%p]
+ZH [name]拓也[line](（这台超科学的机械……现在正在监视，吗。）。)[%p]
+
+JA [name]たくや[line](ジオ・テクニクスは、いったい何を発掘しているんだ‥‥。)[%p]
+ZH [name]拓也[line](（Ｇｅｏ·ｔｅｃｈｎｉｃｓ，到底是在发掘什么东西呢……。）。)[%p]
+
+JA [name]たくや[line](まさか、あの湖の場所にあった、あれか‥‥‥?)[%p]
+ZH [name]拓也[line](（难道说，是在那个湖里的，那东西吗……？）)[%p]
+
+JA [name]たくや[line](龍蔵寺が興味を抱いているという、レアメタル‥‥‥?)[%p]
+ZH [name]拓也[line](（龙藏寺抱有兴趣的，所谓稀有金属……？）)[%p]
+
+JA [name]たくや[line](それに関連があるのかも知れない‥‥。)[%p]
+ZH [name]拓也[line](（而且说不定这也是有所关联的……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]見て‥‥あれを。[%p]
+ZH [name]澪[line]你看……那个。[%p]
+
+JA [name]たくや[line]ああ‥‥うなりをあげているみたいだ。凄いな‥‥。[%p]
+ZH [name]拓也[line]啊啊……好像是正在鸣叫。好厉害啊……。[%p]
+
+JA [name]澪[line]塔から光が放たれ、人々は業火に焼かれる‥‥あのタペストリーは、このことを伝えていたんだわ。[%p]
+ZH [name]澪[line]JF:从塔上射出光，人们被业火烧毁……那件挂毯传达了这件事。[%p]
+
+JA [name]たくや[line]‥‥かもしれない。[%p]
+ZH [name]拓也[line]……说不定吧。[%p]
+
+JA [name]澪[line]まさに神のイカズチだわ‥‥インドラの光よ。歴史上の大発見だわ。[%p]
+ZH [name]澪[line]应该是神降下来的雷霆吧……是因陀罗之光。这可是历史上的大发现。[%p]
+
+JA [name]たくや[line]お前な、この期に及んでまだそんなことを言っているのか。[%p]
+ZH [name]拓也[line]我说你啊，都已经是现在的情况了你还能说出这种话来吗。[%p]
+
+JA [name]澪[line]だって考えてもみなさいよ。もしかしたら、宗教学にまで論証で切り込めるかも知れないわ。[%p]
+ZH [name]澪[line]可是你仔细想想看啊。说不定，这甚至能连宗教学都可以用这个论证切入也有可能呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]上の方では、激しく放電しているみたいだ‥‥。[%p]
+ZH [name]拓也[line]上面方向，好像正在电闪雷鸣呢……。[%p]
+
+JA [name]たくや[line]上の方なんて、殆ど雷雲の中だぜ‥‥。[%p]
+ZH [name]拓也[line]上面方向，几乎全都笼罩在雷云之中了……。[%p]
+
+JA [name]たくや[line]ところかまわず放電して、光ってやがる‥‥。[%p]
+ZH [name]拓也[line]每个地方都受到放电的影响，发出光芒……。[%p]
+
+JA [name]澪[line]何だか‥‥身体が痺れてきたわ。[%p]
+ZH [name]澪[line]感觉……身体已经发麻了。[%p]
+
+JA [name]たくや[line]身体は低くしているんだ。[%p]
+ZH [name]拓也[line]把身体伏低。[%p]
+
+JA [name]たくや[line]かなり上の方まで放電している‥‥。[%p]
+ZH [name]拓也[line]放电一直延续到上面高处……。[%p]
+
+JA [name]たくや[line]立ったりしたら、間違いなく黒コゲだ‥‥。[%p]
+ZH [name]拓也[line]要是站起来的话，绝对会变成焦炭的……。[%p]
+
+JA [name]澪[line]金属物は外した方がいいんじゃない。[%p]
+ZH [name]澪[line]还是应该把金属物品拿下来比较好吧。[%p]
+
+JA [name]たくや[line]雷だからか? 古いぜ、お前。[%p]
+ZH [name]拓也[line]因为是雷吗？　你真够古板的。[%p]
+
+JA [name]澪[line]ど、どういうことよ。[%p]
+ZH [name]澪[line]什，什么意思啊。[%p]
+
+JA [name]たくや[line]そんなの気休めだってことだ。殆ど意味がない。[%p]
+ZH [name]拓也[line]这只能给人心理安慰而已。几乎是毫无意义的。[%p]
+
+JA [name]澪[line]カミナリが起きたときは、身につけている金属類を外すのが定石じゃない。[%p]
+ZH [name]澪[line]发生打雷现象的时候，按照常理来说不是应该把身上带的金属物品取下来吗。[%p]
+
+JA [name]たくや[line]カミナリってのは、高いところへ優先的に落ちる性質があるんだ。もの凄い電圧だから、絶縁体にでも平気で落雷する。[%p]
+ZH [name]拓也[line]所谓的打雷现象，是有着优先落在高处性质的。因为有非常高的电压，即使是绝缘体也照样会被打到的。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]高いところが、一番危ないんだ。[%p]
+ZH [name]拓也[line]高处，是最危险的呢。[%p]
+
+JA [name]澪[line]変なことだけ、知識はあるんだから‥‥。[%p]
+ZH [name]澪[line]你只有在一些奇怪的方面懂不少知识……。[%p]
+
+JA [name]たくや[line]ん?[%p]
+ZH [name]拓也[line]嗯？[%p]
+
+JA [name]澪[line]何でもない! でも、このままじゃ、どうしようもないわ。[%p]
+ZH [name]澪[line]没什么！　不过，再这样下去的话，我们什么都做不了啊。[%p]
+
+JA [name]たくや[line]わかってる‥‥今、考えているよ。[%p]
+ZH [name]拓也[line]我知道……现在，我正在思考呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](とは言ったものの‥‥。)[%p]
+ZH [name]拓也[line](（正如她所说的……。）。)[%p]
+
+JA [name]たくや[line](どうすればいいのか、わからないぜ‥‥。)[%p]
+ZH [name]拓也[line](（到底该怎么办好呢，我也不知道呢……。）。)[%p]
+
+JA [name]たくや[line]そうだ、この[鉄の剣]を利用して、避雷針にするんだ。[%p]
+ZH [name]拓也[line]对了，利用那把［铁剑］，可以当成避雷针。[%p]
+
+JA [name]たくや[line]落雷で、あの岩を吹っ飛ばせるかも知れない‥‥。[%p]
+ZH [name]拓也[line]用落雷，说不定可以把那块岩石劈掉……。[%p]
+
+JA [name]たくや[line]上手くいったら誉めてくれ。今からこの剣を、あそこにぶっ刺しに行く。[%p]
+ZH [name]拓也[line]要是真能顺利进行的话要好好夸奖你。现在，就去把这把剑插到那个位置。[%p]
+
+JA [name]澪[line]き、危険よ! 死んじゃうわ![%p]
+ZH [name]澪[line]危，危险啊！　你会死的！[%p]
+
+JA [name]たくや[line]このままでも死ぬ。[%p]
+ZH [name]拓也[line]就这样下去也会死。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]人事を尽くして天命を待つってヤツさ。これしか手はない。[%p]
+ZH [name]拓也[line]但尽人事各凭天命吧。现在也就只有这个办法了。[%p]
+
+JA [name]澪[line]有馬君‥‥‥。[%p]
+ZH [name]澪[line]有马君……。[%p]
+
+JA [name]たくや[line]大丈夫だ。遅かれ早かれ、人間はいつかは死ぬんだ。[%p]
+ZH [name]拓也[line]没关系的。迟早，人总是会有死去的那一天。[%p]
+
+JA [name]澪[line]ちっとも大丈夫じゃないじゃない! そんなのイヤよ![%p]
+ZH [name]澪[line]完全不会没关系的吧！　你不要过去啊！[%p]
+
+JA [name]たくや[line]じゃあ、このまま死ぬか?[%p]
+ZH [name]拓也[line]那么，你要就这么死掉吗？[%p]
+
+JA [name]澪[line]‥‥一緒ならいいわ。[%p]
+ZH [name]澪[line]……一起死也没关系。[%p]
+
+JA [name]たくや[line]頼むよ、澪‥‥‥。[%p]
+ZH [name]拓也[line]拜托你，澪……。[%p]
+
+JA [name]澪[line]イヤよ‥‥有馬君が今ここで死んじゃったら、私、どうすればいいの!?[%p]
+ZH [name]澪[line]不要啊……有马君你现在要是就这么死在这里的话，我该怎么办好呢！？[%p]
+
+JA [name]たくや[line]死なない。[%p]
+ZH [name]拓也[line]不会死的。[%p]
+
+JA [name]澪[line]約束して![%p]
+ZH [name]澪[line]约好了！[%p]
+
+JA [name]たくや[line]約束する。[%p]
+ZH [name]拓也[line]约好了。[%p]
+
+JA [name]澪[line]ウソよ![%p]
+ZH [name]澪[line]你骗人！[%p]
+
+JA [name]たくや[line]あのなぁ、どうしろというんだ。[%p]
+ZH [name]拓也[line]我说啊，你到底要我怎么办。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫だよ。死なない。[%p]
+ZH [name]拓也[line]没关系。我不会死的。[%p]
+
+JA [name]澪[line]なぜ、根拠は?[%p]
+ZH [name]澪[line]为什么，根据呢？[%p]
+
+JA [name]たくや[line]澪、お前のことを愛してる。[%p]
+ZH [name]拓也[line]澪，我很爱你哦。[%p]
+
+JA [name]澪[line]えっ、えっ?[%p]
+ZH [name]澪[line]诶，诶？[%p]
+
+JA [name]たくや[line]‥‥信じるか?[%p]
+ZH [name]拓也[line]……你相信吗？[%p]
+
+JA [name]澪[line]‥‥‥ちょ、ちょっとだけなら。[%p]
+ZH [name]澪[line]……稍，稍微一点点的话。[%p]
+
+JA [name]たくや[line]根拠は?[%p]
+ZH [name]拓也[line]根据呢？[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]そういうこと。[%p]
+ZH [name]拓也[line]就是这么回事。[%p]
+
+JA [name]澪[line]‥‥わかったわ、信じる。[%p]
+ZH [name]澪[line]……明白了，我相信你。[%p]
+
+JA [name]たくや[line]よし。端っこに隠れていろ。なるべく、低い姿勢を維持するんだ。[%p]
+ZH [name]拓也[line]好嘞。你就藏到角落去吧。尽可能地，维持趴低下去的姿势。[%p]
+
+JA [name]澪[line]ええ‥‥。[%p]
+ZH [name]澪[line]诶诶……。[%p]
+
+JA [name]たくや[line]トカゲのように這っていくんだぞ![%p]
+ZH [name]拓也[line]我要像蜥蜴一样潜行过去了！[%p]
+
+JA [name]澪[line]せめて、可愛らしいポメラニアンとか言って欲しいわ‥‥‥。[%p]
+ZH [name]澪[line]我希望你至少也能说，用博美犬之类比较可爱的比喻吧……。[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]澪[line]何でもない![%p]
+ZH [name]澪[line]没什么！[%p]
+
+JA [name]たくや[line]よーし、見てろよ‥‥。[%p]
+ZH [name]拓也[line]好嘞——，看着吧……。[%p]
+
+JA [name]たくや[line]ここから投てき、やり投げの要領だな‥‥。[%p]
+ZH [name]拓也[line]从这里扔出去，是掷标枪的要领啊……。[%p]
+
+JA [name]たくや[line]えいっ!![%p]
+ZH [name]拓也[line]嗨！！[%p]
+
+JA [name]たくや[line]うわぁぁぁっ!![%p]
+ZH [name]拓也[line]唔哇啊啊啊！！[%p]
+
+JA [name]澪[line]有馬君‥‥たくやっ!![%p]
+ZH [name]澪[line]有马君……拓也！！[%p]
+
+JA [name]たくや[line]イテテテ‥‥澪か?[%p]
+ZH [name]拓也[line]好痛好痛……澪吗？[%p]
+
+JA [name]澪[line]大丈夫!?[%p]
+ZH [name]澪[line]没事吧！？[%p]
+
+JA [name]たくや[line]悪い、今ちょっと視界ゼロなんだ。強烈な光をモロに見ちまったからな。[%p]
+ZH [name]拓也[line]抱歉，我现在的视力几乎为零。因为直视强光的缘故。[%p]
+
+JA [name]澪[line]大丈夫なの‥‥‥?[%p]
+ZH [name]澪[line]真的没事吗……？[%p]
+
+JA [name]たくや[line]俺は大丈夫だよ‥‥視覚もあと少しで回復する。[%p]
+ZH [name]拓也[line]我没事的……视觉也会慢慢恢复回来的。[%p]
+
+JA [name]澪[line]良かったわ‥‥‥。[%p]
+ZH [name]澪[line]太好了……。[%p]
+
+JA [name]たくや[line]良かないよ、何だよ、あれほどジッとしていろって言ったろう。[%p]
+ZH [name]拓也[line]JF:不好啊，什么啊，我不是说要那么紧张吗。[%p]
+
+JA [name]澪[line]だって‥‥だって‥‥‥。[%p]
+ZH [name]澪[line]可是……可是……。[%p]
+
+JA [name]たくや[line]‥‥‥泣いているのか?[%p]
+ZH [name]拓也[line]……你现在在哭泣吗？[%p]
+
+JA [name]澪[line]そ、そんなわけ、ないでしょ![%p]
+ZH [name]澪[line]才，才没有，那种事呢！[%p]
+
+JA [name]澪[line]なに、どうしたの!?[%p]
+ZH [name]澪[line]什么，怎么了！？[%p]
+
+JA [name]たくや[line]‥‥凄い地響きだ‥‥地震か!?[%p]
+ZH [name]拓也[line]……好厉害的地响……地震吗！？[%p]
+
+JA [name]澪[line]床が‥‥揺れているわ![%p]
+ZH [name]澪[line]地面……正在摇晃啊！[%p]
+
+JA [name]たくや[line]今の爆発のショックだ‥‥マズいな。[%p]
+ZH [name]拓也[line]是刚才爆发的冲击……糟糕了。[%p]
+
+JA [name]澪[line]ショック?[%p]
+ZH [name]澪[line]冲击？[%p]
+
+JA [name]たくや[line]この機械、ぶっ壊れたみたいだ。[%p]
+ZH [name]拓也[line]这台机械，貌似已经被打坏了。[%p]
+
+JA [name]澪[line]ええっ!?[%p]
+ZH [name]澪[line]诶诶！？[%p]
+
+JA [name]たくや[line]8千年以上、稼働してきた文化遺産をぶっ壊しちまった訳か‥‥ははは。[%p]
+ZH [name]拓也[line]超过８千年以上，一直在持续运行的文化遗产居然会被打坏吗……哈哈哈。[%p]
+
+JA [name]澪[line]ちょっと、なに無責任なことを言って‥‥‥。[%p]
+ZH [name]澪[line]等一下，你怎么能说这种不负责任的话……。[%p]
+
+JA [name]澪[line]きゃぁぁぁっ!![%p]
+ZH [name]澪[line]呀啊啊啊！！[%p]
+
+JA [name]たくや[line]くそっ‥‥本格的にマズいぜ。[%p]
+ZH [name]拓也[line]可恶……真的要糟糕了呢。[%p]
+
+JA [name]澪[line]どうするの!?[%p]
+ZH [name]澪[line]怎么办啊！？[%p]
+
+JA [name]たくや[line]あそこの扉は‥‥。[%p]
+ZH [name]拓也[line]那边那扇门……。[%p]
+
+JA [name]澪[line]‥‥開いてるわ。[%p]
+ZH [name]澪[line]……已经打开了。[%p]
+
+JA [name]たくや[line]よしっ! 走るぞ![%p]
+ZH [name]拓也[line]好嘞！　快跑吧！[%p]
+
+JA [name]澪[line]だって‥‥立ったら、落雷するわ。[%p]
+ZH [name]澪[line]可是……一站起来，就会落雷啊。[%p]
+
+JA [name]たくや[line]少しの間だけ、待ってもらうさ。[%p]
+ZH [name]拓也[line]稍微，再等一下吧。[%p]
+
+JA [name]澪[line]どうやって!?[%p]
+ZH [name]澪[line]干什么！？[%p]
+
+JA [name]たくや[line]神様に祈るんだよ。[%p]
+ZH [name]拓也[line]向神明祈祷吧。[%p]
+
+JA [name]澪[line]そんな、無茶苦茶よ![%p]
+ZH [name]澪[line]说什么乱七八糟的话！[%p]
+
+JA [name]たくや[line]だから神様に祈るんだろ? 先に行け![%p]
+ZH [name]拓也[line]所以说要向神明祈祷了吧？　快点走吧！[%p]
+
+JA [name]澪[line]わ、私が‥‥?[%p]
+ZH [name]澪[line]我，我要……？[%p]
+
+JA [name]たくや[line]俺は‥‥美月さんをおぶってからいく。[%p]
+ZH [name]拓也[line]我要……先去把美月小姐背过来。[%p]
+
+JA [name]澪[line]‥‥‥‥‥‥。[%p]
+ZH [name]澪[line]………………。[%p]
+
+JA [name]たくや[line]考えてる暇なんてないんだよ、行け![%p]
+ZH [name]拓也[line]现在已经没有思考的空闲了，快走！[%p]
+
+JA [name]澪[line]有馬君、すぐに来てね![%p]
+ZH [name]澪[line]有马君，你快点过来啊！[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さん‥‥‥?[%p]
+ZH [name]拓也[line]美月……？[%p]
+
+JA [name]美月[line]あっ‥‥‥たくや‥‥‥。[%p]
+ZH [name]美月[line]啊……拓也……。[%p]
+
+JA [name]たくや[line]美月さん! どうしたんだよ、この傷は!?[%p]
+ZH [name]拓也[line]美月！怎么样，伤处还好吗！？[%p]
+
+JA [name]美月[line]さっきの雷が‥‥運悪く私の身体に落ちてね。[%p]
+ZH [name]美月[line]刚才的雷……很不幸地落在我的身上了。[%p]
+
+JA [name]たくや[line]バカな! 倒れて、姿勢を低くしていたはずだ。[%p]
+ZH [name]拓也[line]别傻了！　倒在地上，身体应该趴得很低了吧。[%p]
+
+JA [name]美月[line]確率の問題よ‥‥どこかに落ちるの。そこがたまたま、私の身体だったわけね。[%p]
+ZH [name]美月[line]是几率的问题……总会落在某个地方的。而那个地方，刚好就是我所在之处。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](か、身体を貫通してる‥‥‥。)[%p]
+ZH [name]拓也[line](（贯，贯穿了身体……。）。)[%p]
+
+JA [name]たくや[line](こ、これじゃあもう、助からない‥‥‥。)[%p]
+ZH [name]拓也[line](（这，这么一来，已经药石无灵了……。）。)[%p]
+
+JA [name]美月[line]たくや‥‥あ‥‥。[%p]
+ZH [name]美月[line]这是拓也……啊……。[%p]
+
+JA [name]たくや[line]美月さん![%p]
+ZH [name]拓也[line]美月！[%p]
+
+JA [name]美月[line]わた‥‥先生に聞かされたの‥‥。[%p]
+ZH [name]美月[line]我……听从老师的话……。[%p]
+
+JA [name]たくや[line]龍蔵寺に‥‥‥?[%p]
+ZH [name]拓也[line]龙藏寺……？[%p]
+
+JA [name]美月[line]あなたはたくやであって、たくやではない‥‥。[%p]
+ZH [name]美月[line]你是拓也也好，拓也不是也好……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]でも、私にとって、あなたは‥‥。[%p]
+ZH [name]美月[line]但是，对我来说，你是……。[%p]
+
+JA [name]たくや[line]もう、喋らなくていいよ‥‥‥。[%p]
+ZH [name]拓也[line]不要，再说那么多了……。[%p]
+
+JA [name]美月[line]言いたいの‥‥‥。[%p]
+ZH [name]美月[line]我想说……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]ごめんね‥‥たくや‥‥‥。[%p]
+ZH [name]美月[line]对不起啊……拓也……。[%p]
+
+JA [name]たくや[line]な、なんで謝るのさ。[%p]
+ZH [name]拓也[line]为，为什么要道歉。[%p]
+
+JA [name]美月[line]先生に、私‥‥‥操られていたのかしら。[%p]
+ZH [name]美月[line]老师，我……是受到了他的操纵吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]先生には逆らえなくて‥‥‥だから‥‥‥。[%p]
+ZH [name]美月[line]我无法违抗老师的命令……所以才……。[%p]
+
+JA [name]たくや[line]美月さん。[%p]
+ZH [name]拓也[line]美月。[%p]
+
+JA [name]美月[line]運命だったのかも‥‥こうなる気もしていた。[%p]
+ZH [name]美月[line]或许这就是命运吧……我开始这么觉得了。[%p]
+
+JA [name]たくや[line]運命なんて、そんなのは無いさ! そんなのに、俺たちの人生を左右なんかされてたまるか![%p]
+ZH [name]拓也[line]命运什么的，才没有那种事呢！　怎么能让那种东西左右我们的人生呢！[%p]
+
+JA [name]美月[line]そうね‥‥それがたくやらしい。本当に、私が知っている人かも‥‥‥。[%p]
+ZH [name]美月[line]是吗……还真像是拓也你会说的。真的，是我认识的那个人呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]気をつけて‥‥龍蔵寺先生は、変わってしまわれたわ。[%p]
+ZH [name]美月[line]你要当心……龙藏寺老师，已经改变了。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]美月[line]先生が言っていた‥‥あなたは、数十時間たつと、再び消えていなくなると‥‥‥。[%p]
+ZH [name]美月[line]老师曾经说过……你在，经过几十个小时之后，如果不再度消失的话……。[%p]
+
+JA [name]たくや[line]龍蔵寺が‥‥‥。[%p]
+ZH [name]拓也[line]龙藏寺……。[%p]
+
+JA [name]美月[line]カオスの矯正という‥‥‥言葉を使われて‥‥‥。[%p]
+ZH [name]美月[line]混沌的矫正……他用了这样的词汇……。[%p]
+
+JA [name]たくや[line]美月さん‥‥‥もう‥‥‥。[%p]
+ZH [name]拓也[line]美月……够了……。[%p]
+
+JA [name]美月[line]先生は‥‥たくやの持っている‥‥‥。[%p]
+ZH [name]美月[line]老师想要……拓也你身上的那个……。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]み、美月さん‥‥おい! おいっ!![%p]
+ZH [name]拓也[line]美，美月……喂！　喂！！[%p]
+
+JA [name]たくや[line]じょ、冗談だろう‥‥? おいったら![%p]
+ZH [name]拓也[line]开，开玩笑的吧……？　我说美月啊！[%p]
+
+JA [name]たくや[line]美月さん‥‥‥?[%p]
+ZH [name]拓也[line]美月……？[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥!!!!!!!![%p]
+ZH [name]拓也[line]………………！！！！！！！！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](長い道だな‥‥。)[%p]
+ZH [name]拓也[line](（好长的路……。）。)[%p]
+
+JA [name]たくや[line](どこまで続いている‥‥?)[%p]
+ZH [name]拓也[line](（一直延伸到哪里去呢……？）)[%p]
+
+JA [name]澪[line]きゃっ。[%p]
+ZH [name]澪[line]呀。[%p]
+
+JA [name]たくや[line](マズいな‥‥。)[%p]
+ZH [name]拓也[line](（糟糕了……。）。)[%p]
+
+JA [name]たくや[line](ここも、もうすぐ危ないぜ‥‥。)[%p]
+ZH [name]拓也[line](（这里，马上也变得危险了……。）。)[%p]
+
+JA [name]たくや[line](まさか、巡り巡って、最初のスタート地点に戻るなんてことにならなきゃいいが‥‥。)[%p]
+ZH [name]拓也[line](（难道说，一直在转圈子，应该不会就这么又走回到最开始的地方了吧……。）。)[%p]
+
+JA [name]たくや[line](あっ‥‥。)[%p]
+ZH [name]拓也[line](啊……。)[%p]
+
+JA [name]たくや[line]明るくなってきた‥‥澪![%p]
+ZH [name]拓也[line]开始变亮了……澪！[%p]
+
+JA [name]澪[line]出口だわ![%p]
+ZH [name]澪[line]是出口！[%p]
+
+JA [name]たくや[line]出口‥‥? 本当に‥‥。[%p]
+ZH [name]拓也[line]出口……？　真的啊……。[%p]
+
+JA [name]澪[line]だって見てっ、有馬君! あんなに明るいわ! 出口よっ![%p]
+ZH [name]澪[line]你看你看，有马！　变得这么明亮了！　是出口啊！[%p]
+
+JA [name]たくや[line]出口なのか‥‥。[%p]
+ZH [name]拓也[line]是出口吗……。[%p]
+
+JA [name]澪[line]出口だわ! 助かったのよ、私たち![%p]
+ZH [name]澪[line]是出口啊！　终于得救了啊，我们俩！[%p]
+
+JA [name]たくや[line]ああ‥‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]たくや[line](俺たちは、な‥‥‥。)[%p]
+ZH [name]拓也[line](（我们俩，啊……。）。)[%p]
+
+JA 澪ENDへ行く
+ZH JF:去澪END
+
+JA 正規ルートを続行
+ZH JF:继续正规根目录
+
+JA [name]たくや[line]今はシンと静まり返っている‥‥‥。[%p]
+ZH [name]拓也[line]现在安静得落针可闻……。[%p]
+
+JA [name]たくや[line]三角山も、海岸も‥‥‥。[%p]
+ZH [name]拓也[line]三角山也，海岸也……。[%p]
+
+JA [name]澪[line]有馬君![%p]
+ZH [name]澪[line]有马君！[%p]
+
+JA [name]たくや[line]どうした、見つかったか?[%p]
+ZH [name]拓也[line]怎么了，找到了吗？[%p]
+
+JA [name]澪[line]ダメね‥‥‥入り口も塞がってしまったし、何もかも、なくなっているわ。[%p]
+ZH [name]澪[line]不行啊……入口都已经彻底毁坏了，不管什么东西，都已经找不到了。[%p]
+
+JA [name]たくや[line]そっか‥‥。[%p]
+ZH [name]拓也[line]是么……。[%p]
+
+JA [name]たくや[line](美月さんも‥‥‥。)[%p]
+ZH [name]拓也[line](（美月也已经……。）。)[%p]
+
+JA [name]澪[line]少し、海岸方面も落ち着いたみたいね。落雷がすごかったみたいよ。[%p]
+ZH [name]澪[line]看样子，海岸方面可以稍微安心了呢。落雷似乎很厉害啊。[%p]
+
+JA [name]たくや[line]だろうな。あの惨状じゃ、仕方ないか‥‥‥。[%p]
+ZH [name]拓也[line]对啊。以那种惨状看来，也没办法吧……。[%p]
+
+JA [name]澪[line]でも、もう落雷事故は発生しないわよね。[%p]
+ZH [name]澪[line]但是，已经不会再发生落雷事故了吧。[%p]
+
+JA [name]たくや[line]そうあって欲しいところだが。[%p]
+ZH [name]拓也[line]但愿如此吧。[%p]
+
+JA [name]澪[line]‥‥結局、何もかも地下に埋まってしまったわけね。[%p]
+ZH [name]澪[line]……结果，不管什么东西全都埋进地底下了呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そんなことはない‥‥‥。)[%p]
+ZH [name]拓也[line](（才没那种事呢……。）。)[%p]
+
+JA [name]たくや[line](まだ、たくさん残っているじゃないか‥‥‥。)[%p]
+ZH [name]拓也[line](（不是，还留下了很多东西吗……。）。)[%p]
+
+JA [name]澪[line]あの機械は、いったい何だったのかしら‥‥‥?[%p]
+ZH [name]澪[line]那台机械，究竟是怎么回事呢……？[%p]
+
+JA [name]たくや[line]雷の発生装置。[%p]
+ZH [name]拓也[line]是雷发生装置。[%p]
+
+JA [name]澪[line]そういうことじゃないわ。5W1Hよ。[%p]
+ZH [name]澪[line]我不是这个意思。是５Ｗ１Ｈ啊。[%p]
+
+JA [name]たくや[line]ごーだぶる、いちえっち?[%p]
+ZH [name]拓也[line]五达不溜，一艾去？[%p]
+
+JA [name]澪[line]who、when、where、what、why、そしてhowね。[%p]
+ZH [name]澪[line]ｗｈｏ，ｗｈｅｎ，ｗｈｅｒｅ，ｗｈａｔ，ｗｈｙ，还有ｈｏｗ吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]誰がいつ、どこで、あの装置を、何のために、どのようにして作ったのか‥‥それが知りたいの。[%p]
+ZH [name]澪[line]是谁在什么时候，在什么地方，将那台装置，以什么目的，用什么方法制造出来的……我想知道。[%p]
+
+JA [name]たくや[line]誰かがどっかで、何かのために、何らかの手段を用いて作ったんだろう。[%p]
+ZH [name]拓也[line]是某个人在某个地方，为了某个目的，使用某种方法制造出来的吧。[%p]
+
+JA [name]澪[line]答えになってないじゃない。[%p]
+ZH [name]澪[line]你这不等于完全没回答吗。[%p]
+
+JA [name]たくや[line]答えなんか、わかりゃしないさ‥‥‥。[%p]
+ZH [name]拓也[line]答案什么的，已经没人知道了吧，……。[%p]
+
+JA [name]澪[line]‥‥でも、本当に惜しいわ。今川教授の言うとおり、人類史上がひっくり返ったかも知れないのに。[%p]
+ZH [name]澪[line]……但是，真的好可惜啊。正如今川教授所说的，这说不定是人类史上一次颠覆性地突破呢。[%p]
+
+JA [name]たくや[line]ひっくり返りはしないさ。[%p]
+ZH [name]拓也[line]不是什么颠覆性的突破。[%p]
+
+JA [name]澪[line]なぜよ。[%p]
+ZH [name]澪[line]为什么。[%p]
+
+JA [name]たくや[line]どんなモノが見つかったところで、俺たちの生活は変わらない。少し月日が経てば、みんな忘れて普通の生活に戻るのさ。[%p]
+ZH [name]拓也[line]不管发现了什么样的东西，我们的生活还是没有改变。经过了一些岁月之后，所有人都会逐渐淡忘回归到普通的生活中去。[%p]
+
+JA [name]澪[line]‥‥いつになくネガティブね。一条先生が亡くなったから?[%p]
+ZH [name]澪[line]……你好像前所未有地消沉呢。因为一条老师去世的缘故吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]あっ‥‥ご、ごめんなさい。不謹慎だったわ‥‥‥。[%p]
+ZH [name]澪[line]啊……对，对不起。我真是太不谨慎了……。[%p]
+
+JA [name]たくや[line]いいよ。[%p]
+ZH [name]拓也[line]可以啊。[%p]
+
+JA [name]澪[line]‥‥でも、どうするの?[%p]
+ZH [name]澪[line]……可是，怎么办呢？[%p]
+
+JA [name]たくや[line]なにが。[%p]
+ZH [name]拓也[line]什么事。[%p]
+
+JA [name]澪[line]一条先生のこと‥‥。[%p]
+ZH [name]澪[line]关于一条老师……。[%p]
+
+JA [name]たくや[line]もう発掘のしようがない。この下じゃあな‥‥。[%p]
+ZH [name]拓也[line]已经没办法挖掘出来了。以下面的情况来说……。[%p]
+
+JA [name]澪[line]警察で話す?[%p]
+ZH [name]澪[line]不要报警吗？[%p]
+
+JA [name]たくや[line]何て言うんだ? 実は地下には大空洞があり、そこには光を発する鉱石なんかもあったりして‥‥‥。[%p]
+ZH [name]拓也[line]你在说什么呢？　其实这个地下有个大空洞，那里到处都是会发光的矿石之类的东西……。[%p]
+
+JA [name]たくや[line]約8千年以上前の文明があり、ガイコツ数体の側に今川教授がミイラ化していまして‥‥‥。[%p]
+ZH [name]拓也[line]那里有大约８千年以前的文明，在几具骸骨的旁边今川教授已经木乃伊化了……。[%p]
+
+JA [name]たくや[line]ついでに、巨大な雷の発生装置があって、その側で美月さんは落雷のため死にました‥‥みんな埋まってしまいましたが、信じて下さい。[%p]
+ZH [name]拓也[line]顺便，那里还有一台巨大的雷发生装置，美月小姐就在那旁边被落雷劈中而死了……所有的一切都已经被埋起来了，但是请你务必要相信我。[%p]
+
+JA [name]澪[line]フフ‥‥誰も信じないでしょうね。[%p]
+ZH [name]澪[line]呵呵……谁都不会相信的吧。[%p]
+
+JA [name]たくや[line]誇大妄想で、精神病院に入れられるのがオチさ。[%p]
+ZH [name]拓也[line]最终只会因为夸大妄想，被送进精神病院吧。[%p]
+
+JA [name]澪[line]‥‥どうするの?[%p]
+ZH [name]澪[line]……怎么办呢？[%p]
+
+JA [name]たくや[line]龍蔵寺に会いに行く。[%p]
+ZH [name]拓也[line]我要去跟龙藏寺见面。[%p]
+
+JA [name]澪[line]‥‥私も行くわ。[%p]
+ZH [name]澪[line]……我也要去。[%p]
+
+JA [name]たくや[line]ダメだ。[%p]
+ZH [name]拓也[line]不行啊。[%p]
+
+JA [name]澪[line]なぜよ![%p]
+ZH [name]澪[line]为什么！[%p]
+
+JA [name]たくや[line]鉄砲を持ち出す相手だぜ?[%p]
+ZH [name]拓也[line]那可是会掏出猎枪的对手？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]危険だ。[%p]
+ZH [name]拓也[line]很危险。[%p]
+
+JA [name]澪[line]だったら、警察に‥‥‥。[%p]
+ZH [name]澪[line]这样的话，就报警……。[%p]
+
+JA [name]たくや[line]だから、何て言うんだよ?[%p]
+ZH [name]拓也[line]所以说，你要怎么说呢？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]だいたい、証拠も何もないんだ。龍蔵寺をとっちめることなんて、できないぜ。[%p]
+ZH [name]拓也[line]大致上，我们什么证据都没有。也不能拿龙藏寺怎么样。[%p]
+
+JA [name]澪[line]じゃあ、どうするの?[%p]
+ZH [name]澪[line]那么，你要怎么办？[%p]
+
+JA [name]たくや[line]美月さんはもういない‥‥それに関しては、龍蔵寺も何らかの説明をせざるを得ないだろう。[%p]
+ZH [name]拓也[line]美月小姐已经不在了……关于这件事，我怎么也得要让龙藏寺拿出点说法来吧。[%p]
+
+JA [name]澪[line]今から行くのね‥‥?[%p]
+ZH [name]澪[line]你现在就要去吗……？[%p]
+
+JA [name]たくや[line]いや‥‥恐らく別の時間の別の場所で。[%p]
+ZH [name]拓也[line]不……恐怕会在别的时间别的地点吧。[%p]
+
+JA [name]澪[line]えっ‥‥?[%p]
+ZH [name]澪[line]诶……？[%p]
+
+JA [name]たくや[line]俺はもう、たぶんここにはいられない。[%p]
+ZH [name]拓也[line]大概，我已经不能再留在这里了。[%p]
+
+JA [name]澪[line]ど、どういうこと‥‥?[%p]
+ZH [name]澪[line]你，你是什么意思……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]有馬君。[%p]
+ZH [name]澪[line]有马君。[%p]
+
+JA [name]たくや[line]じゃあ言おう。俺は実は別の並列世界からやってきた人間で、この世界の住人じゃない‥‥多分。[%p]
+ZH [name]拓也[line]那么告诉你吧。我其实是来自其他平行世界的人，并不是住在这个世界的人……大概。[%p]
+
+JA [name]澪[line]バ‥‥バカバカしいわ。[%p]
+ZH [name]澪[line]别……别说这种傻话了。[%p]
+
+JA [name]たくや[line]信じないのか?[%p]
+ZH [name]拓也[line]你不相信吗？[%p]
+
+JA [name]澪[line]し、信じられないわよ。[%p]
+ZH [name]澪[line]没，没办法相信啊。[%p]
+
+JA [name]たくや[line]なぜ信じられない?[%p]
+ZH [name]拓也[line]为什么不相信呢？[%p]
+
+JA [name]澪[line]だって‥‥突拍子もないもの。[%p]
+ZH [name]澪[line]因为……完全没有什么异常。[%p]
+
+JA [name]たくや[line]三角山が、実は雷発生装置だったってのも、相当に突拍子もないぜ。[%p]
+ZH [name]拓也[line]三角山，其实是个雷发生装置这件事，表面看起来也没什么异常啊。[%p]
+
+JA [name]澪[line]‥‥ここにはいられないって‥‥消えていなくなるってこと?[%p]
+ZH [name]澪[line]……不能再留在这里的意思是……你会消失不见吗？[%p]
+
+JA [name]たくや[line]どうなるかは、俺にもわからない。ただ、少なくともここからはいなくなる‥‥らしい。[%p]
+ZH [name]拓也[line]到底会怎么样呢，我自己也不清楚。只是，至少不会再留在这里了……应该是这样吧。[%p]
+
+JA [name]澪[line]仮定が多いのね。[%p]
+ZH [name]澪[line]好多的假设呢。[%p]
+
+JA [name]たくや[line]俺だって、自分自身で見て確かめた訳じゃない。[%p]
+ZH [name]拓也[line]我的意思，并不是说要我自己自身亲眼确认。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]ま、いいさ。ただ、澪には言っておきたかったんだ。もしも俺という人間が消えちまっても、うろたえないようにね。[%p]
+ZH [name]拓也[line]嘛，好吧。其实，我只是想要告诉澪这件事而已。假如我这样的人消失不见了，你也千万不要慌张。[%p]
+
+JA [name]澪[line]そんな‥‥消える訳ないわ。[%p]
+ZH [name]澪[line]怎么会……你怎么会消失呢。[%p]
+
+JA [name]たくや[line]じゃあ、賭けようぜ。俺は消える方に千円ってところ。[%p]
+ZH [name]拓也[line]那么，我们打个赌吧。我赌一千円我会消失。[%p]
+
+JA [name]澪[line]バカバカしいわ‥‥そんな訳‥‥。[%p]
+ZH [name]澪[line]别傻了……这怎么可能……。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]有馬君‥‥?[%p]
+ZH [name]澪[line]有马君……？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]ちょっと、冗談はよしてよ‥‥有馬君。[%p]
+ZH [name]澪[line]等一下，别跟我开玩笑了……有马君。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]有馬君‥‥?[%p]
+ZH [name]澪[line]有马君……？[%p]
+
+JA [name]澪[line]有馬君!! こういう冗談、私は嫌いなのよ! 出てきて!![%p]
+ZH [name]澪[line]有马君！！　你这种玩笑，我很讨厌的啊！　快点出现吧！！[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]わかったわ、降参。私の負け。だから、早く出てきてよ!![%p]
+ZH [name]澪[line]我知道了，我认输。是我输了。所以，你快点出现吧！！[%p]
+
+JA [name]澪[line]有馬君っ! 何をやっているのよ‥‥ねぇ、お願いだから![%p]
+ZH [name]澪[line]有马君！　你在干什么啊……呐，拜托你了！[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]澪[line]有馬君‥‥?[%p]
+ZH [name]澪[line]有马君……？[%p]
+
+JA [name]澪[line]じょ、冗談でしょう?[%p]
+ZH [name]澪[line]（开，开玩笑的吧？）[%p]
+
+JA [name]澪[line]ねぇ‥‥有馬君ってば。[%p]
+ZH [name]澪[line]呐……有马君啊。[%p]
+
+JA [name]澪[line]返事をしてよ!!![%p]
+ZH [name]澪[line]你快回答我啊！！！[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥ん‥‥‥‥。[%p]
+ZH [name]拓也[line]（……嗯…………。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここは‥‥どこだ?[%p]
+ZH [name]拓也[line]这是……什么地方？[%p]
+
+JA [name]たくや[line]‥‥頭が、痛いな‥‥‥‥。[%p]
+ZH [name]拓也[line]……脑袋，好痛啊…………。[%p]
+
+JA [name]たくや[line]ほっぺたが痛い‥‥。[%p]
+ZH [name]拓也[line]脸颊好痛……。[%p]
+
+JA [name]たくや[line]‥‥チクチクするなぁ‥‥。[%p]
+ZH [name]拓也[line]……感觉有一阵刺痛……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだ‥‥俺は亜由美さんと‥‥。[%p]
+ZH [name]拓也[line]对了……我和亚由美小姐在……。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥?[%p]
+ZH [name]拓也[line]亚由美小姐‥‥？[%p]
+
+JA [name]たくや[line]彼女を‥‥そうだ。俺は彼女を‥‥‥‥。[%p]
+ZH [name]拓也[line]她……对了。我是在找她…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]冷たい‥‥なんでだろう‥‥。[%p]
+ZH [name]拓也[line]好冷……是怎么回事呢……。[%p]
+
+JA [name]たくや[line]‥‥ベッドじゃないのか‥‥ここは。[%p]
+ZH [name]拓也[line]……不是床上吗……这地方。[%p]
+
+JA [name]たくや[line]‥‥‥‥。
+ZH [name]拓也[line]…………。
+
+JA [name]たくや[line]ここは‥‥三角山のふもとだ。[%p]
+ZH [name]拓也[line]这里……是三角山的脚下。[%p]
+
+JA [name]たくや[line]そうだ‥‥俺は亜由美さんを探している。[%p]
+ZH [name]拓也[line]对了……我现在正在找亚由美小姐。[%p]
+
+JA [name]たくや[line]そして、龍蔵寺のヤツを問いつめなくちゃいけないんだ。[%p]
+ZH [name]拓也[line]然后，我要去责问龙藏寺那个家伙。[%p]
+
+JA [name]たくや[line]‥‥美月さんのためにも。[%p]
+ZH [name]拓也[line]……这也是为了美月。[%p]
+
+JA [name]たくや[line]鉄の剣は、そこには使えないぜ‥‥。[%p]
+ZH [name]拓也[line]铁剑，没法在这里使用呢……。[%p]
+
+JA [name]たくや[line]そのアイテムじゃないみたいだ‥‥。[%p]
+ZH [name]拓也[line]好像不是这个道具……。[%p]
+
+JA [name]たくや[line]くそ、どうする?[%p]
+ZH [name]拓也[line]可恶，怎么办呢？[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]澪[line]どうするの‥‥ねぇ![%p]
+ZH [name]澪[line]该怎么办呢……呐！[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

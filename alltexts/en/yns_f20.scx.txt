@@ -1,0 +1,5 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]This is room 1101. It's so dark in here.[%p]
+[name]Takuya[line]There's no light in the room except by the bed.[%p]
+[name]Takuya[line]Where is Kaori?[%p]
+[name]Takuya[line]She must be here.[%p]

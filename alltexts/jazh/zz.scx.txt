@@ -1,0 +1,1908 @@
+JA ピクロス
+ZH JF:皮克斯
+
+JA 左
+ZH JF:左对齐
+
+JA 右
+ZH JF:右对齐
+
+JA ハンディコンピュータ
+ZH 笔记本电脑
+
+JA 名前入力
+ZH JF:输入名称
+
+JA アニメ
+ZH JF:动画片，动画片
+
+JA HC起動テスト
+ZH JF:HC启动测试
+
+JA 帝都到着
+ZH JF:帝都到达
+
+JA 鳥
+ZH JF:鸟儿
+
+JA 王の名
+ZH JF:王名
+
+JA 謎の部屋1
+ZH JF:神秘的房间1
+
+JA 謎の部屋2
+ZH JF:神秘的房间2
+
+JA 他テスト
+ZH JF:其他测试
+
+JA EVCGテスト
+ZH JF:EVCG测试
+
+JA 表情テスト
+ZH JF:表情测试
+
+JA ムービーテスト
+ZH JF:影片测试
+
+JA キャラテスト2
+ZH JF:角色测试2
+
+JA ジュークボックス
+ZH 投币式自动电唱机
+
+JA わーぷ
+ZH JF:哇哦
+
+JA [name]:name:[line]電源を入れるぜ‥‥。[%p]
+ZH [name]:name:[line]电源已经打开了……。[%p]
+
+JA カチッ‥‥。[%p]
+ZH 卡兹……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]確か、ログインネームは彼女の名前‥‥名前は今川由利香だったな。[%p]
+ZH [name]:name:[line]我记得，登陆名是她的名字……名字应该是今川由利香。[%p]
+
+JA [name]:name:[line]ゆりか‥‥だろうか。[%p]
+ZH [name]:name:[line]Ｙｕｒｉｋａ……吧。[%p]
+
+JA [name]:name:[line]‥‥とりあえず、このハンディコンピュータはもらっておこう。[%p]
+ZH [name]:name:[line]……总之，先拿到这台笔记本电脑吧。[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA [name]亜由美[line]たくやクン‥‥い、今のはいったい‥‥。[%p]
+ZH [name]亚由美[line]拓也君‥‥刚、刚才那究竟是‥‥。[%p]
+
+JA [name]たくや[line]俺が訊きたいくらいさ。あの野郎の手紙を‥‥。[%p]
+ZH [name]拓也[line]我也想知道啊。那家伙的信我读了以后‥‥。[%p]
+
+JA [name]亜由美[line]手紙‥‥?[%p]
+ZH [name]亚由美[line]信‥‥？[%p]
+
+JA [name]たくや[line]い、いや、その‥‥亜由美さん、あの電話はどういうことだ?[%p]
+ZH [name]拓也[line]没、没啥，那个‥‥亚由美小姐，那电话是怎么回事？[%p]
+
+JA [name]龍蔵寺[line]全ては、有馬広大の思慮と意図の結果‥‥君の持っているそれと共に。[%p]
+ZH [name]龙藏寺[line]一切都是有马广大的深思熟虑后有意为之的结果‥‥你所持有的那个也一样。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす。[%p]
+ZH JF:手。[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA [name]:name:[line]今は、1曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像放了第一首歌。[%p]
+
+JA [name]:name:[line]今は、2曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第二首歌。[%p]
+
+JA [name]:name:[line]今は、3曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第三首歌。[%p]
+
+JA [name]:name:[line]今は、4曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第四首歌。[%p]
+
+JA [name]:name:[line]今は、5曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第五首歌。[%p]
+
+JA [name]:name:[line]今は、6曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第6首曲子。[%p]
+
+JA [name]:name:[line]今は、7曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第7首歌。[%p]
+
+JA [name]:name:[line]今は、8曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第8首歌。[%p]
+
+JA [name]:name:[line]今は、9曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像是第9首曲子。[%p]
+
+JA [name]:name:[line]今は、10曲目がかかっているみたいだな‥‥。[%p]
+ZH [name]:name:[line]JF:现在好像有第10首曲子。[%p]
+
+JA [name]:name:[line]ボタンを押すと、好きな曲が店内にかかるんだ。[%p]
+ZH [name]:name:[line]按下按键的话，就可以让喜欢的歌曲在店内播放了。[%p]
+
+JA [name]:name:[line]やめるなら、右下の赤いEXITボタンを押せば、元に戻るからな。[%p]
+ZH [name]:name:[line]要停的话，只要按下右下角红色的ＥＸＩＴ键，就能恢复原样了。[%p]
+
+JA 『Clair de lune』[%p]
+ZH 『Clair de lune』[%p]
+
+JA 『Saw Atmosphere』[%p]
+ZH 『Saw Atmosphere』[%p]
+
+JA 『Crystal Glock』[%p]
+ZH 『Crystal Glock』[%p]
+
+JA 『TB』[%p]
+ZH 『TB』[%p]
+
+JA 『Honky Tonk』[%p]
+ZH 『Honky Tonk』[%p]
+
+JA 『Ancestral』[%p]
+ZH 『Ancestral』[%p]
+
+JA 『Gamelan』[%p]
+ZH 『Gamelan』[%p]
+
+JA 『Yui Narusawa』[%p]
+ZH 『Yui Narusawa』[%p]
+
+JA 『Lower Grade Girl』[%p]
+ZH 『Lower Grade Girl』[%p]
+
+JA 『Moog Square』[%p]
+ZH 『Moog Square』[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、いかにも喫茶店って感じだよな。[%p]
+ZH [name]:name:[line]但是听到这首歌的话，就有种咖啡店的感觉了。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、以前、屋上で絵里子先生と話したときを思い出すな。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，就想起了以前在屋顶和绘里子老师说话的时候。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、何か、しんみりとしてくるな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，总觉得有点沉静。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、焦る気持ちにさせるよな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌的话，会让人着急的。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、軽快にはね回りたくなるな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，就想轻快地跳起来。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、何か、懐かしい感じがするな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，总觉得有点怀念。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、外を移動しているような感じがしてくるな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，感觉像是在外面移动。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、なぜか、お兄ちゃんって言いたくなるな‥‥。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，不知为什么就想说哥哥。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、なぜか徹夜をしなくちゃって気がしてくるな。[%p]
+ZH [name]:name:[line]JF:但是听了这首歌，不知为什么感觉必须熬夜。[%p]
+
+JA [name]:name:[line]しかしこの曲を聴いてると、こんな不思議な曲もあるんだなぁって気になってくる。[%p]
+ZH [name]:name:[line]JF:但是听了这首曲子，也有这么不可思议的曲子啊。[%p]
+
+JA [name]:name:[line]‥‥なんだそれ。[%p]
+ZH [name]:name:[line]……那是什么。[%p]
+
+JA [name]:name:[line]よし、元に戻るぜ‥‥。[%p]
+ZH [name]:name:[line]好嘞，恢复原样吧……。[%p]
+
+JA [name]:name:[line]‥‥おいおい、そんなところを押したってダメだよ。[%p]
+ZH [name]:name:[line]……喂喂，那个地方是不能按的哦。[%p]
+
+JA [name]:name:[line]ボタンを押すんだって。[%p]
+ZH [name]:name:[line]按按键吧。[%p]
+
+JA [name]:name:[line]確かオヤジが昔、俺に読めって言った本なんだ‥‥
+ZH [name]:name:[line]我记得，是以前老头子让我去看的书……
+
+JA オヤジ?[%p]
+ZH 老头子？[%p]
+
+JA [name]:name:[line]確かオヤジが昔、俺に読めって言った本なんだ‥‥オヤジ?
+ZH [name]:name:[line]我记得，是以前老头子让我去看的书……老头子？
+
+JA 『あなたの現在の分岐発見の達成率は、:clrpar:パーセントです。』[%p]
+ZH JF:“您当前发现分支的成功率为：clrpar:百分比。”[%p]
+
+JA 『あなたの現在地は、:mapposr:です。』[%p]
+ZH JF:“你的所在地是：mapposr:。”[%p]
+
+JA [name]:name:[line]中へ‥‥入れそうな気がしないでも、なくはないな。[%p]
+ZH [name]:name:[line]里面……也不是说就不想进去吧。[%p]
+
+JA [name]絵里子[line]だが、眺めはいいな‥‥
+ZH [name]绘里子[line]不过，视线不错呢‥‥
+
+JA あれか? 海岸でやってるというのは。[%p]
+ZH 那个吗？　你是说在海岸边进行的那个。[%p]
+
+JA [name]絵里子[line]だが、眺めはいいな‥‥あれか? 海岸でやってるというのは。
+ZH [name]绘里子[line]不过，视线不错呢‥‥那个吗？　你是说在海岸边进行的那个。
+
+JA [name]:name:[line]一度も俺を叱ったことがない‥‥
+ZH [name]:name:[line]从来都没训斥过我‥‥
+
+JA いや、あるな、一度だけ。[%p]
+ZH 不对，有过，只有一次。[%p]
+
+JA [name]:name:[line]一度も俺を叱ったことがない‥‥いや、あるな、一度だけ。
+ZH [name]:name:[line]从来都没训斥过我‥‥不对，有过，只有一次。
+
+JA [name]:name:[line]ごくごくごくごく‥‥
+ZH [name]:name:[line]咕咚咕咚咕咚‥‥
+
+JA ぷはぁ。この一杯のために生きている![%p]
+ZH 噗哈。喝了这一杯立刻活了过来！[%p]
+
+JA [name]:name:[line]ごくごくごくごく‥‥ぷはぁ。この一杯のために生きている!
+ZH [name]:name:[line]咕咚咕咚咕咚‥‥噗哈。喝了这一杯立刻活了过来！
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA てす[%p]
+ZH JF:铁锤[%p]
+
+JA 『あなたの現在の分岐発見の達成率は、[auto-forward][linebreak][linebreak]パーセントです。』[%p]
+ZH 『你现在分支发现的达成率是[auto-forward][linebreak][linebreak]％。』[%p]
+
+JA スタート[%p]
+ZH JF:开始[%p]
+
+JA エンド[%p]
+ZH JF:结束[%p]
+
+JA 205,130,223
+ZH 205,130,223
+
+JA 205
+ZH 205
+
+JA 130
+ZH 130
+
+JA 223
+ZH 223
+
+JA 275
+ZH 275
+
+JA 40
+ZH 40
+
+JA 205へ[%p]
+ZH JF:到205[%p]
+
+JA 130へ[%p]
+ZH JF:转到130[%p]
+
+JA 223へ[%p]
+ZH JF:到223[%p]
+
+JA 275へ[%p]
+ZH JF:转到275[%p]
+
+JA 40へ[%p]
+ZH JF:到40[%p]
+
+JA [name]澪[line]イヤ。[%p]
+ZH [name]澪[line]不要。[%p]
+
+JA [name]:name:[line]まだ何も言っていないぞ。[%p]
+ZH [name]:name:[line]我还什么都没说呢。[%p]
+
+JA [name]澪[line]何となく、イヤな予感がしたの。[%p]
+ZH [name]澪[line]感觉，有种很讨厌的预感。[%p]
+
+JA [name]:name:[line](しょうがないな‥‥とりあえず、話題を変えるか‥‥?)[%p]
+ZH [name]:name:[line](（没办法啊……暂且，先换一下话题吧……？）)[%p]
+
+JA [name]:name:[line]オホン、そういえば、話は変わるけど。[%p]
+ZH [name]:name:[line]嗯哼，这么说起来，你说的有点奇怪呢。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]補習授業、さっきはキャンセルしたとか言っていたけど、先生に申し出ていないんじゃないか?[%p]
+ZH [name]:name:[line]补课，虽然你刚才说什么取消了，不过不是还没有找老师申请吗？[%p]
+
+JA [name]澪[line]言ったわ、キャンセルって‥‥心の中だけど。[%p]
+ZH [name]澪[line]我说过，取消了……虽然是在心里面。[%p]
+
+JA [name]:name:[line]あのな‥‥。[%p]
+ZH [name]:name:[line]我说啊……。[%p]
+
+JA [name]澪[line]いいじゃない‥‥あんな先生だし、平気よ。[%p]
+ZH [name]澪[line]不可以吗……区区那种老师，没关系的。[%p]
+
+JA [name]:name:[line](あんな先生‥‥?)[%p]
+ZH [name]:name:[line](（那种老师……？）)[%p]
+
+JA [name]澪[line]有馬君は、補習授業に出て嬉しかったんでしょ?[%p]
+ZH [name]澪[line]有马君，你很高兴能参加补课吧？[%p]
+
+JA [name]:name:[line]何の話かわからないが、俺は補習には出ていないぜ。[%p]
+ZH [name]:name:[line]虽然不知道你说的是什么意思，不过我不参加补课哦。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]澪が出ろって言うから、出ようと思っただけでさ。お前が出ないなら、俺も出ないけど。[%p]
+ZH [name]:name:[line]因为对澪你说去补课吧，所以我想我也去补课好了。不过要是你不去的话，我也不去了。[%p]
+
+JA [name]澪[line]ふぅん‥‥。[%p]
+ZH [name]澪[line]哼……。[%p]
+
+JA [name]:name:[line]でも、自主受講を申し込んでおいてサボりってのは、やっぱりマズいんじゃないか?[%p]
+ZH [name]:name:[line]但是，如果是自己接受申请要补课又逃掉了的话，果然还是挺严重的吧？[%p]
+
+JA [name]澪[line]なによ、こんなときに限って正論を言うなんて、ズルいじゃない。[%p]
+ZH [name]澪[line]什么啊，这个时候你倒是说起些正论来了，不觉得太狡猾了吗。[%p]
+
+JA [name]:name:[line]正論を振りかざすつもりはないけどね、結城のヤツが代返で苦しんでるぜ。[%p]
+ZH [name]:name:[line]虽然我没打算用正论来教训你，不过结城那家伙的代签可够呛的了。[%p]
+
+JA [name]澪[line]あっ‥‥。[%p]
+ZH [name]澪[line]啊……。[%p]
+
+JA [name]:name:[line]何だよ、そのいかにも「忘れていた」って顔は。[%p]
+ZH [name]:name:[line]什么啊，完全一副［忘记了］的表情。[%p]
+
+JA [name]澪[line]忘れていたわ。[%p]
+ZH [name]澪[line]是忘记了啊。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]澪[line]結城君には、あとでちゃんと謝っておくわ。あっ、そろそろ行かないと。[%p]
+ZH [name]澪[line]以后，我要好好跟结城君道歉啊。啊、我得出去了。[%p]
+
+JA [name]:name:[line]イク?[%p]
+ZH [name]:name:[line]去了？[%p]
+
+JA [name]澪[line]バカ![%p]
+ZH [name]澪[line]傻瓜！[%p]
+
+JA [name]澪[line]まだ、調べなくちゃならないことがあるの。時間は限られていますからね。[%p]
+ZH [name]澪[line]还有一件事，我非得要去调查不可。时间不能拖呢。[%p]
+
+JA [name]:name:[line]何をそんなに慌てているんだよ、三角山は別に逃げたりしないぜ。[%p]
+ZH [name]:name:[line]什么事这么慌啊，三角山又不会逃了。[%p]
+
+JA [name]澪[line]私からは逃げちゃうの。相対的にね。[%p]
+ZH [name]澪[line]对我来说会逃掉的。相对而言。[%p]
+
+JA [name]:name:[line]‥‥?[%p]
+ZH [name]:name:[line]……？[%p]
+
+JA [name]:name:[line]あ‥‥。[%p]
+ZH [name]:name:[line]啊……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]三角山が、澪から相対的に逃げる‥‥?[%p]
+ZH [name]:name:[line]三角山，相对澪来说会逃走……？[%p]
+
+JA [name]:name:[line]どういうことだろう‥‥。[%p]
+ZH [name]:name:[line]（这是怎么一回事‥‥。）。[%p]
+
+JA おわり[%p]
+ZH JF:结束[%p]
+
+JA [name]澪[line]どうしたの‥‥?[%p]
+ZH [name]澪[line]怎么了……？[%p]
+
+JA [name]:name:[line]‥‥えっ?[%p]
+ZH [name]:name:[line]……诶？[%p]
+
+JA [name]澪[line]何か、ボーっと考えているみたい。[%p]
+ZH [name]澪[line]看起来，一副想事情想傻了的样子。[%p]
+
+JA [name]:name:[line]いやその、裸の女性がこう頭にちらついて‥‥あわわ、そうじゃないぞ。わっはっは。[%p]
+ZH [name]:name:[line]没什么，裸体的女性不是浮现在脑海里……啊哇哇，不是那样的。哇，哈，哈。[%p]
+
+JA [name]澪[line]‥‥は?[%p]
+ZH [name]澪[line]……哈？[%p]
+
+JA [name]:name:[line]オホン。俺、澪の言うことを信じるよ。
+ZH [name]:name:[line]嗯哼。我呢，相信澪你说的话哦。
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]何だよ、その顔は。[%p]
+ZH [name]:name:[line]什么啊，这种表情。[%p]
+
+JA [name]澪[line]だって‥‥以前、私が話したときなんかは、鼻で笑っていたじゃない。[%p]
+ZH [name]澪[line]可是……以前，我跟你说这些的时候，你不是对我嗤之以鼻的吗。[%p]
+
+JA [name]:name:[line]1か月以上前のことだ。男子3日会わずんば刮目(かつもく)して見よって、ことわざもあるぞ。[%p]
+ZH [name]:name:[line]那是１个月以前的事了。士别三日当刮目（ＫＡＩＭＯＫＵ）相看，谚语不是这么说的嘛。[%p]
+
+JA [name]澪[line]変節漢の言い訳じゃない。[%p]
+ZH [name]澪[line]听起来像变节者的借口。[%p]
+
+JA [name]:name:[line]あのな、俺が信じると、何か澪に不都合でもあるのか?[%p]
+ZH [name]:name:[line]我说啊，要是我相信的话，对澪你有什么影响吗？[%p]
+
+JA [name]澪[line]‥‥別に、ないけど。[%p]
+ZH [name]澪[line]……那倒，没什么。[%p]
+
+JA [name]:name:[line]な、どのくらいまで、調査って進んでいるんだ?[%p]
+ZH [name]:name:[line]呐，调查的进展，到那种程度了呢？[%p]
+
+JA [name]澪[line]‥‥何となく、つかめそうなところまで。[%p]
+ZH [name]澪[line]……总觉得，像是要抓住什么了的程度。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](何だか、話しづらいのかな‥‥。)[%p]
+ZH [name]:name:[line](（感觉，很难开口聊啊……。）。)[%p]
+
+JA [name]:name:[line](確かに、鼻で笑っていて、急に興味を抱くってのもアレだよな‥‥。)[%p]
+ZH [name]:name:[line](（确实，明明嗤之以鼻了，突然又开始有兴趣，确实有点那个……。）。)[%p]
+
+JA [name]:name:[line](だけど、何か手がかりがあるなら、どうしても知りたいんだ。)[%p]
+ZH [name]:name:[line](（但是，要是有什么线索的话，不管怎么样我也想知道啊。）。)[%p]
+
+JA [name]:name:[line](何とか、ならないかな‥‥?)[%p]
+ZH [name]:name:[line](（总感觉，不会这样吧……？）)[%p]
+
+JA [name]:name:[line]相当調べているみたいだな。個人レベルとしちゃ、驚異的だ。[%p]
+ZH [name]:name:[line]看来调查有相当大的进度了啊。以个人等级来说，令人惊讶。[%p]
+
+JA [name]澪[line]見たの? 中を。[%p]
+ZH [name]澪[line]看了吗？　里面。[%p]
+
+JA [name]:name:[line]勝手に見たのは悪かったが、中身を見なくちゃ、誰のかわからないだろう?[%p]
+ZH [name]:name:[line]对于随便打开看我觉得抱歉，不过要是不看里面的话，就不知道是谁的了吧？[%p]
+
+JA [name]澪[line]そ、そうよね‥‥そうだったわ。ありがとう。[%p]
+ZH [name]澪[line]是，是吗……如果是这样的话。那就谢谢你了。[%p]
+
+JA [name]:name:[line]相変わらず古代史マニアぶりを発揮しているなぁ。[%p]
+ZH [name]:name:[line]还是一如既往地发挥你古代史狂热者的状况啊。[%p]
+
+JA [name]澪[line]何よ、マニアって‥‥不本意な言われようだわ、純然たる学術的探求よ。[%p]
+ZH [name]澪[line]什么啊，这个狂热者……我又不是逼不得已的，只是纯粹地出于对学术的探求。[%p]
+
+JA [name]:name:[line]小難しい言葉を使うなよ。一つの事に異常に熱中する人のことをマニアって言うんだ。[%p]
+ZH [name]:name:[line]别用这些让人难懂的词汇。异常地热衷于一件事的人就被称为狂热者啊。[%p]
+
+JA [name]澪[line]ま、あなたのお父様の研究に比べたら、赤ん坊みたいなモノでしょうけどね。[%p]
+ZH [name]澪[line]算了，跟你父亲的研究比起来的话，我这个只能算小巫见大巫罢了。[%p]
+
+JA [name]:name:[line]相変わらず、三角山か。[%p]
+ZH [name]:name:[line]还是老地方，三角山吗。[%p]
+
+JA [name]澪[line]ええ。剣ノ岬‥‥通称三角山、あそこには、何かを感じるの。[%p]
+ZH [name]澪[line]是的。剑之岬……通称三角山，在那里，我感觉到了某种东西。[%p]
+
+JA [name]:name:[line]女のカンってやつか。[%p]
+ZH [name]:name:[line]所谓女人的直觉吗。[%p]
+
+JA [name]澪[line]そういうと、非科学的だけど、そう言って構わないわ。[%p]
+ZH [name]澪[line]这种说法，虽然不怎么科学，不过这么说也没什么问题。[%p]
+
+JA [name]:name:[line]‥‥確かにあそこには、何かあるような気が、俺もするよ。[%p]
+ZH [name]:name:[line]……我记得在那里，确实好像有什么似的，我也有这种感觉。[%p]
+
+JA [name]澪[line]なにか?[%p]
+ZH [name]澪[line]怎么了？[%p]
+
+JA [name]:name:[line]ああ、そうだ。何かがある‥‥。[%p]
+ZH [name]:name:[line]啊啊，是的。有某种东西……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](そうだな‥‥今なら信じられる気がする。)[%p]
+ZH [name]:name:[line](（是啊……我觉得如果是现在的话就信了。）。)[%p]
+
+JA [name]:name:[line](オヤジが手紙で指定したのも、あの場所だった‥‥。)[%p]
+ZH [name]:name:[line](（老头子信里面指定的，也是那个地方……。）。)[%p]
+
+JA [name]:name:[line](あそこには、何かがある‥‥。)[%p]
+ZH [name]:name:[line](（那里，有着某种东西……。）。)[%p]
+
+JA [name]澪[line]そうよね‥‥有馬君が持ってるわけないわね。[%p]
+ZH [name]澪[line]对了……有马君应该不会带着吧。[%p]
+
+JA ガタッ。
+ZH 咔嗒。
+
+JA [name]澪[line]もう一度、通った道を探してみなくちゃ‥‥じゃあね。[%p]
+ZH [name]澪[line]我得要再去找一遍通道了……再见。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]澪は行ってしまった‥‥。[%p]
+ZH [name]:name:[line]澪已经走掉了……。[%p]
+
+JA [name]:name:[line]俺が持っていた[澪のメモ帳]を使えば、何か違った進展になったかも知れないけど‥‥。[%p]
+ZH [name]:name:[line]如果使用了我手上拿着的［澪的记事本］的话，说不定会有什么不一样的进展……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]そうだ、さっきの落雷が気になるぞ。[%p]
+ZH [name]:name:[line]对了，对刚才的落雷很在意呢。[%p]
+
+JA [name]:name:[line]海岸の方へ行ってみないか‥‥?[%p]
+ZH [name]:name:[line]不去海岸那边看看吗……？[%p]
+
+JA おわり[%p]
+ZH JF:结束[%p]
+
+JA [name]澪[line]なによ‥‥まさか、私のメモ帳を持ってるっていうの?[%p]
+ZH [name]澪[line]什么啊……难道说，你身上有我的记事本吗？[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](俺は[澪のメモ帳]を持っていたはずだ‥‥。)[%p]
+ZH [name]:name:[line](（我身上应该有带着［澪的记事本］……。）。)[%p]
+
+JA [name]:name:[line](こいつを澪に「使え」ば‥‥。)[%p]
+ZH [name]:name:[line](（如果对澪［使用］这个的话……。）。)[%p]
+
+JA [name]:name:[line](あいにく、俺は[澪のメモ帳]ってのを、持っていない‥‥。)[%p]
+ZH [name]:name:[line](（不巧的是，［澪的记事本］这种东西，我手上没有……。）。)[%p]
+
+JA [name]:name:[line](しょうがないよな‥‥。)[%p]
+ZH [name]:name:[line](（没办法了啊……。）。)[%p]
+
+JA [name]澪[line]あれがないと、私‥‥。[%p]
+ZH [name]澪[line]如果没有那个的话，我……。[%p]
+
+JA [name]:name:[line]アレがないと、私‥‥?[%p]
+ZH [name]:name:[line]没有那个的话，我……？[%p]
+
+JA [name]澪[line]そういう、嫌らしい言葉遣いで言わないで。真面目なの。[%p]
+ZH [name]澪[line]你的措辞真讨厌啊，不要再这么说了。给我认真点。[%p]
+
+JA [name]:name:[line]その[メモ帳]ってのには、何が書いてあるんだ?[%p]
+ZH [name]:name:[line]那个［记事本］上面，记着什么东西呢？[%p]
+
+JA [name]澪[line]剣ノ岬の、私なりの考察とか、双子岩に関する情報とか‥‥。[%p]
+ZH [name]澪[line]对剑之岬，我个人的考察，还有关于双子岩的情报之类的……。[%p]
+
+JA [name]:name:[line]マニアブックみたいだな。[%p]
+ZH [name]:name:[line]简直像是狂热者之书啊。[%p]
+
+JA [name]澪[line]他人の目には、その程度のものかもしれないけど、私にとっては、とても大切なものなのよ‥‥。[%p]
+ZH [name]澪[line]在别人眼里看起来，或许是这种程度的东西吧，不过对我来说，那可是非常重要的东西啊……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](澪が大切に持ってるメモ帳ってーと‥‥。)[%p]
+ZH [name]:name:[line](（澪非常重视的记事本是——……。）。)[%p]
+
+JA [name]:name:[line](俺が持っている、コレのことじゃないのか?)[%p]
+ZH [name]:name:[line](（我现在拿在手上的，不会就是那个东西吧？）)[%p]
+
+JA [name]:name:[line](澪に「使って」みるか‥‥?)[%p]
+ZH [name]:name:[line](（对着澪［使用］看看吗……？）)[%p]
+
+JA [name]澪[line]‥‥がないの。[%p]
+ZH [name]澪[line]……不见了。[%p]
+
+JA [name]:name:[line]え?[%p]
+ZH [name]:name:[line]画？[%p]
+
+JA [name]澪[line]命の次に大切なモノが、なくなっちゃったの。[%p]
+ZH [name]澪[line]仅次于生命的重要东西，不见了。[%p]
+
+JA [name]:name:[line]命の次に大切なモノ‥‥ってーと、ミジンコ飼育セットのことか?[%p]
+ZH [name]:name:[line]仅次于生命的重要东西……你说的，是水蚤饲养套装吗？[%p]
+
+JA [name]澪[line]そんなものを大切にするのは、有馬君くらいね。[%p]
+ZH [name]澪[line]会郑重其事地把那种东西当宝的，就只有有马君吧。[%p]
+
+JA [name]:name:[line]お前なぁ、ミジンコの命を軽視していないか? オケラだってミミズだって、みんな生きているんだ友達なんだぞ。[%p]
+ZH [name]:name:[line]我说你啊，是不是很轻视水蚤的生命啊？　蝼蛄也好蚯蚓也好，所有这些都是一起生存的伙伴啊。[%p]
+
+JA [name]澪[line]何の話よ。[%p]
+ZH [name]澪[line]你说什么。[%p]
+
+JA [name]:name:[line]ミジンコだろう?[%p]
+ZH [name]:name:[line]是说水蚤吧？[%p]
+
+JA [name]澪[line]大切なモノ![%p]
+ZH [name]澪[line]是重要的东西！[%p]
+
+JA [name]:name:[line]女の子の大切なモノか。てへっ。[%p]
+ZH [name]:name:[line]女孩子重要的吗。哎嘿。[%p]
+
+JA [name]澪[line]違うわよ![%p]
+ZH [name]澪[line]不对！[%p]
+
+JA [name]:name:[line]まだ何も言っていないぞ。[%p]
+ZH [name]:name:[line]我还什么都没说呢。[%p]
+
+JA [name]澪[line]ああ、もう頭が悪くなるわ。私が言っているのはメモ帳の話![%p]
+ZH [name]澪[line]啊啊，脑袋都要被你搞晕了。我说的是关于记事本的事！[%p]
+
+JA [name]:name:[line]メモ帳‥‥?[%p]
+ZH [name]:name:[line]记事本……？[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line](澪のメモ帳‥‥?)[%p]
+ZH [name]:name:[line](（澪的记事本……？）)[%p]
+
+JA [name]:name:[line](もっとニコニコ笑っていれば、可愛いのに‥‥。)[%p]
+ZH [name]:name:[line](（要是能再多笑笑的话，就更可爱的说……。）。)[%p]
+
+JA [name]:name:[line](俺のことを見つめているぜ‥‥。)[%p]
+ZH [name]:name:[line](（你在看着我呢……。）。)[%p]
+
+JA [name]:name:[line](とりあえず今は、澪と話そう。)[%p]
+ZH [name]:name:[line](（现在，暂时先跟澪谈谈吧。）。)[%p]
+
+JA [name]:name:[line]とぐろ巻きだな。[%p]
+ZH [name]:name:[line]这是螺旋圈。[%p]
+
+JA [name]澪[line]人をネギトロ巻きみたいに言わないでよ。[%p]
+ZH [name]澪[line]别把人说得跟金枪鱼葱花卷似的。[%p]
+
+JA [name]:name:[line]‥‥何だよそれは。[%p]
+ZH [name]:name:[line]……那是什么啊。[%p]
+
+JA [name]:name:[line]クリクリと、とぐろのような髪の毛だな。[%p]
+ZH [name]:name:[line]一圈圈地，跟线圈一样的头发。[%p]
+
+JA [name]澪[line]失礼ね。巻き貝みたいな髪の毛と言ってちょうだい。[%p]
+ZH [name]澪[line]真是失礼啊。说得人家头发好像跟海螺似的。[%p]
+
+JA [name]:name:[line]どっちも変わらないと思うけど‥‥。[%p]
+ZH [name]:name:[line]我是没觉得有哪里奇怪……。[%p]
+
+JA [name]:name:[line]いよいっしょう![%p]
+ZH [name]:name:[line]嘿——哟——咻！[%p]
+
+JA [name]澪[line]なに言ってるのよ、変な人。[%p]
+ZH [name]澪[line]在说什么啊，真是个怪人。[%p]
+
+JA [name]:name:[line]イスを見ると、言いたくなるんだよ。[%p]
+ZH [name]:name:[line]一看到椅子，就开始想要这么说了。[%p]
+
+JA [name]:name:[line]研究室に散らばっているイスだな‥‥どれ、俺も腰をかけるか。[%p]
+ZH [name]:name:[line]散乱地放在研究室里的椅子……找一张，我也可以坐上去吗。[%p]
+
+JA [name]:name:[line]いよいっしょう![%p]
+ZH [name]:name:[line]嘿——哟——咻！[%p]
+
+JA [name]澪[line]座るときにかけ声なんて‥‥オヤジ。[%p]
+ZH [name]澪[line]坐下去还要发出声音……像个老头。[%p]
+
+JA [name]:name:[line]‥‥座るのをよそう。[%p]
+ZH [name]:name:[line]……这是模拟坐下去。[%p]
+
+JA [name]澪[line]ボツボツじゃないわよ。[%p]
+ZH [name]澪[line]又不是渐渐地坐下去。[%p]
+
+JA [name]:name:[line]えっ、何がボツボツじゃないって?[%p]
+ZH [name]:name:[line]诶，什么不是渐渐地坐下去？[%p]
+
+JA [name]澪[line]‥‥蹴るわよ。[%p]
+ZH [name]澪[line]……我踹你哦。[%p]
+
+JA [name]:name:[line]おまけに、ボツボツが‥‥。[%p]
+ZH [name]:name:[line]况且，渐渐地……。[%p]
+
+JA [name]澪[line]‥‥は?[%p]
+ZH [name]澪[line]……哈？[%p]
+
+JA [name]:name:[line]いやだからだな、君の成長のボツボツが‥‥。[%p]
+ZH [name]:name:[line]所以都说啦，你的成长是渐渐地……。[%p]
+
+JA [name]澪[line]‥‥日本語になってないわよ。[%p]
+ZH [name]澪[line]……越来越不像是日语了。[%p]
+
+JA [name]:name:[line]ごめんなさい。[%p]
+ZH [name]:name:[line]对不起。[%p]
+
+JA [name]:name:[line]しかし、大きい‥‥。[%p]
+ZH [name]:name:[line]但是，真大啊……。[%p]
+
+JA [name]澪[line]な、何よ‥‥それって。[%p]
+ZH [name]澪[line]什，什么啊……你说的。[%p]
+
+JA [name]:name:[line]いや、君の心の広さ、人格の大きさに、素直に感嘆しているのだ、ボク。[%p]
+ZH [name]:name:[line]不，我是对你的心胸宽广，人格的伟大，大方地进行感叹。[%p]
+
+JA [name]澪[line]な、何言ってるのよ‥‥変な有馬君。[%p]
+ZH [name]澪[line]说，说些什么呢……奇怪的有马君。[%p]
+
+JA [name]:name:[line]澪‥‥おまえ、成長したなぁ。[%p]
+ZH [name]:name:[line]澪……你啊，成长了呢。[%p]
+
+JA [name]澪[line]な、何を言っているのよ‥‥急に。[%p]
+ZH [name]澪[line]说，说些什么啊……突然地。[%p]
+
+JA [name]:name:[line]いや、君の精神的成長をだな、ボクは親のように見つめてきたわけだ。[%p]
+ZH [name]:name:[line]不对，你是在精神上有所成长了啊，我可是跟父母亲一样一直关注着你。[%p]
+
+JA [name]澪[line]‥‥変なモンでも拾い食いしたんじゃないの?[%p]
+ZH [name]澪[line]……你不会是捡到什么奇怪的东西吃下去了吧？[%p]
+
+JA [name]:name:[line]なにおう。[%p]
+ZH [name]:name:[line]什么嘛。[%p]
+
+JA [name]:name:[line]じゃあ、このリボンで尻を拭いてやるぞ。[%p]
+ZH [name]:name:[line]那么，请用这个缎带来擦屁股看看。[%p]
+
+JA [name]澪[line]‥‥ばか?[%p]
+ZH [name]澪[line]……笨蛋？[%p]
+
+JA [name]:name:[line]クスン‥‥。[%p]
+ZH [name]:name:[line]啜泣‥‥。[%p]
+
+JA [name]:name:[line]じゃあ、このリボンを食べると?[%p]
+ZH [name]:name:[line]那么，把这个缎带吃下去呢？[%p]
+
+JA [name]澪[line]食べれば?[%p]
+ZH [name]澪[line]能吃的话呢？[%p]
+
+JA [name]:name:[line]‥‥むぅ。[%p]
+ZH [name]:name:[line]……姆。[%p]
+
+JA [name]:name:[line]んじゃ、このリボンをほどくと‥‥。[%p]
+ZH [name]:name:[line]那么，把这个缎带解开的话呢……。[%p]
+
+JA [name]澪[line]ほどかない![%p]
+ZH [name]澪[line]我不解！[%p]
+
+JA [name]:name:[line]ちぇっ。[%p]
+ZH [name]:name:[line]切。[%p]
+
+JA [name]:name:[line]このリボンを取ると‥‥。[%p]
+ZH [name]:name:[line]把这个缎带拿掉的话……。[%p]
+
+JA [name]澪[line]取りません![%p]
+ZH [name]澪[line]我不会拿掉！[%p]
+
+JA [name]:name:[line]あっそ。[%p]
+ZH [name]:name:[line]是吗。[%p]
+
+JA [name]:name:[line]制服の話をすると、なぜか大便の話になるからな、止めておこう。[%p]
+ZH [name]:name:[line]JF:说起制服的话，不知为什么会变成大便的话题，还是停止吧。[%p]
+
+JA [name]澪[line]何か、意図的に変な誤解をしていない?[%p]
+ZH [name]澪[line]你不会是有目的地做了什么奇怪的误解吧？[%p]
+
+JA [name]:name:[line]悪くないデザインだが、もうちょっと股下1センチくらいのスカートだったらいいんだけどな。[%p]
+ZH [name]:name:[line]虽然设计得挺不错的，不过如果是裆部往下只有１公分左右的裙子就更好了。[%p]
+
+JA [name]澪[line]有馬君だけいいんでしょ。[%p]
+ZH [name]澪[line]只有有马君你觉得好吧。[%p]
+
+JA [name]:name:[line]言っておくが、俺は全男性の心の代弁者なんだ。[%p]
+ZH [name]:name:[line]话先说在前头，我是全体男性心声的代言人。[%p]
+
+JA [name]澪[line]代弁?[%p]
+ZH [name]澪[line]代言？[%p]
+
+JA [name]:name:[line]大便とは何だ。いいか、大便だって立派な排泄行為なんだからな。[%p]
+ZH [name]:name:[line]说什么大便。算了，大便也算是杰出的排泄行为。（日文的代言与大便同音）。[%p]
+
+JA [name]澪[line]‥‥有馬君、話さないでくれる。[%p]
+ZH [name]澪[line]……有马君，请不要跟我说话了。[%p]
+
+JA ◆見る・パンツ◆
+ZH JF:◆看・内裤◆
+
+JA [name]:name:[line]あのなぁ、そんなに足を組むから、見えちまうんだぞ。[%p]
+ZH [name]:name:[line]我说啊，你这样子把腿翘起来的话，会被看光的哦。[%p]
+
+JA [name]澪[line]有馬君が見ようとしているから見えるのよ。[%p]
+ZH [name]澪[line]因为有马君你想要看所以才会被看光吧。[%p]
+
+JA ◆見る・パンツ◆
+ZH JF:◆看・内裤◆
+
+JA [name]:name:[line]パンツを見てるんだよ、文句あるか。[%p]
+ZH [name]:name:[line]我会盯着内裤看哦，有意见吗。[%p]
+
+JA [name]澪[line]あるわよ![%p]
+ZH [name]澪[line]有意见！[%p]
+
+JA ◆見る・パンツ◆
+ZH JF:◆看・内裤◆
+
+JA [name]澪[line]有馬君、さっきからどこを見てるの![%p]
+ZH [name]澪[line]有马君，你从刚才开始都在看什么！[%p]
+
+JA [name]:name:[line]白い雲。[%p]
+ZH [name]:name:[line]白云。[%p]
+
+JA ◆見る・パンツ◆
+ZH JF:◆看・内裤◆
+
+JA [name]澪[line]‥‥ちょっと、どこを見ているのよ。[%p]
+ZH [name]澪[line]……等一下，你在看哪里哦。[%p]
+
+JA [name]:name:[line]青い空。[%p]
+ZH [name]:name:[line]蓝天。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]大根じゃないぞ。[%p]
+ZH [name]:name:[line]不是白萝卜呢。[%p]
+
+JA [name]澪[line]あたりまえよ![%p]
+ZH [name]澪[line]那当然啦！[%p]
+
+JA [name]:name:[line]舐めないぞ。[%p]
+ZH [name]:name:[line]不能添呢。[%p]
+
+JA [name]澪[line]舐めないで![%p]
+ZH [name]澪[line]不准舔！[%p]
+
+JA [name]:name:[line]澪が座っているイスだな‥‥別に頬ずりしたり、舐めたりしないから安心しろよ。[%p]
+ZH [name]:name:[line]澪正坐着的椅子……既没有把脸颊贴上去，也没有来回舔所以你就安心吧。[%p]
+
+JA [name]澪[line]そんなことしたら、頬にパンチいれて、舌を引き抜いてやるから![%p]
+ZH [name]澪[line]你要是做了那种事的话，我会给你的脸上来一拳，把你的舌头拔出来！[%p]
+
+JA [name]:name:[line]‥‥おまえ、ときどき妙におっかねぇぞ。[%p]
+ZH [name]:name:[line]……你啊，有时候会让人觉得特别可怕呢。[%p]
+
+JA [name]:name:[line]机だ‥‥資料がのっかっているみたいだが。[%p]
+ZH [name]:name:[line]桌子……资料好像都放在上面了。[%p]
+
+JA [name]:name:[line]研究室の中央にデンと置いてある机だな‥‥。[%p]
+ZH [name]:name:[line]稳稳地摆在研究室中间的桌子……。[%p]
+
+JA [name]:name:[line]言っておくが、持ってかえれないからな。[%p]
+ZH [name]:name:[line]话先说在前头，我不能把这个带回家去。[%p]
+
+JA [name]澪[line]三角山の調査資料よ‥‥有馬君は興味ないわよね。[%p]
+ZH [name]澪[line]是三角山的调查资料……有马君你不会有兴趣吧。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line]じゃあ、何だよ、そのゴチャゴチャは。[%p]
+ZH [name]:name:[line]那么，是什么呢，这堆乱七八糟的。[%p]
+
+JA [name]澪[line]ゴチャゴチャとはご挨拶ね。三角山の独自調査よ。[%p]
+ZH [name]澪[line]多谢您乱七八糟这个形容。这是三角山的个人调查。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]:name:[line](独自調査‥‥?)[%p]
+ZH [name]:name:[line](（个人调查……？）)[%p]
+
+JA [name]:name:[line]‥‥何だか、ゴチャゴチャと資料が載っているな。雌雄の生殖機能の図解か?[%p]
+ZH [name]:name:[line]……感觉，堆着些乱七八糟的资料。是男女生殖机能的图解吗？[%p]
+
+JA [name]澪[line]そんなモノを読むのは、有馬君くらいね。[%p]
+ZH [name]澪[line]会看那种东西的，只有有马君你而已吧。[%p]
+
+JA [name]:name:[line](可愛らしい子ではある。)[%p]
+ZH [name]:name:[line](（有个看起来很可爱的女孩子。）。)[%p]
+
+JA [name]:name:[line](性格を除けば。)[%p]
+ZH [name]:name:[line](（性格除外。）。)[%p]
+
+JA [name]:name:[line](黙って微笑んでいれば、可愛らしいのにな‥‥。)[%p]
+ZH [name]:name:[line](（只是沉默着微笑的话，明明就很可爱的说……。）。)[%p]
+
+JA [name]:name:[line](ここは研究室だな‥‥。)[%p]
+ZH [name]:name:[line](（这里是研究室……。）。)[%p]
+
+JA [name]:name:[line](ここは研究室だ‥‥。)[%p]
+ZH [name]:name:[line](（这里是研究室……。）。)[%p]
+
+JA [name]:name:[line](澪のヤツ、なんだってこんなところで‥‥。)[%p]
+ZH [name]:name:[line](（澪这家伙，为什么会在这个地方呢……。）。)[%p]
+
+JA [name]澪[line]あぁっ! いつの間に‥‥。[%p]
+ZH [name]澪[line]JF:啊！不知不觉。[%p]
+
+JA [name]澪[line]んもう、油断もスキもないわね‥‥ほら、返して![%p]
+ZH [name]澪[line]真是一点都不能大意，让你有机可乘……快，还给我！[%p]
+
+JA [澪のメモ帳]がなくなりました。[%p]
+ZH 失去了［澪的记事本］。[%p]
+
+JA [name]澪[line]えっ、これ‥‥私のメモ帳!?[%p]
+ZH [name]澪[line]诶，这个……是我的记事本！？[%p]
+
+JA [name]:name:[line]社に、置き忘れていったろう。雨でも降ったら、どうするんだよ。[%p]
+ZH [name]:name:[line]在社那边，你忘掉了吧。万一下雨了的话，你要怎么办啊。[%p]
+
+JA [name]澪[line]あ、ありがとう‥‥。[%p]
+ZH [name]澪[line]谢，谢谢……。[%p]
+
+JA [name]:name:[line]‥‥‥‥。[%p]
+ZH [name]:name:[line]…………。[%p]
+
+JA [name]澪[line]良かった‥‥これが無くなったら、どうしようかと思ったわ。[%p]
+ZH [name]澪[line]太好了……这个要是不见了的话，我都不知道该怎么办了。[%p]
+
+JA [name]:name:[line]へぇ‥‥いい表情だな。[%p]
+ZH [name]:name:[line]嘿……很棒的表情啊。[%p]
+
+JA [name]澪[line]な、なによ‥‥。[%p]
+ZH [name]澪[line]什，什么啊……。[%p]
+
+JA [name]:name:[line]澪でも、そういう表情をするんだ。[%p]
+ZH [name]:name:[line]就算是澪，也会有这样的表情啊。[%p]
+
+JA [name]澪[line]そういう表情って‥‥どういうのよ。[%p]
+ZH [name]澪[line]什么这样的表情……你在说什么啊。[%p]
+
+JA [name]:name:[line]何て言うのかな、穏やかな笑みってやつかな。[%p]
+ZH [name]:name:[line]该怎么说呢，应该说是很平静的笑容吧。[%p]
+
+JA [name]澪[line]それじゃ、私がまるで、普段は穏やかじゃないみたいじゃない。[%p]
+ZH [name]澪[line]那么，你不会想说，我平时完全不会有看起来平静的时候吧。[%p]
+
+JA [name]:name:[line]おっと、ケンカはやめとこうぜ。言っておくが、命の次に大切なモノを拾ってやったんだからな。[%p]
+ZH [name]:name:[line]哦哟，请不要吵架嘛。话先说在前头，我可是帮你捡回了仅次于生命的重要东西啊。[%p]
+
+JA [name]澪[line]わ、わかっているわ‥‥感謝はしている。[%p]
+ZH [name]澪[line]我，我知道了……真是非常感谢你的帮助。[%p]
+
+JA [name]:name:[line]じゃあ、態度で示してもらおうか。[%p]
+ZH [name]:name:[line]那么，可以用实际行动来表示吗。[%p]
+
+JA [name]澪[line]態度‥‥?[%p]
+ZH [name]澪[line]行动……？[%p]
+
+JA [name]:name:[line]見返りってやつだな。[%p]
+ZH [name]:name:[line]也就是所谓的报酬。[%p]
+
+JA [name]澪[line]み、見返り‥‥?[%p]
+ZH [name]澪[line]报，报酬……？[%p]
+
+JA [name]:name:[line]命の次に大切なモノ。[%p]
+ZH [name]:name:[line]仅次于生命的重要东西。[%p]
+
+JA [name]澪[line]わ、わかってるわ‥‥お金?[%p]
+ZH [name]澪[line]知，知道了……要钱吗？[%p]
+
+JA [name]:name:[line]お前な‥‥オホン、そんなものじゃあ、俺は満足できないぞ。[%p]
+ZH [name]:name:[line]你啊……嗯哼，如果是那种东西的话，可满足不了我呢。[%p]
+
+JA [name]澪[line]だ、ダメよ‥‥身体なんて。[%p]
+ZH [name]澪[line]不，不行啊……身体什么的。[%p]
+
+JA [name]:name:[line]アホか。[%p]
+ZH [name]:name:[line]别傻了。[%p]
+
+JA [name]澪[line]な、なによう‥‥。[%p]
+ZH [name]澪[line]什，什么嘛……。[%p]
+
+JA [name]:name:[line]俺が望むモノ、それは‥‥。[%p]
+ZH [name]:name:[line]我想要的东西，就是……。[%p]
+
+JA [name]澪[line]そ、それは‥‥?[%p]
+ZH [name]澪[line]就，就是……？[%p]
+
+JA [name]:name:[line]ちょっと、笑ってみてくれない?[%p]
+ZH [name]:name:[line]等一下，你不能笑一笑吗？[%p]
+
+JA [name]澪[line]笑う?[%p]
+ZH [name]澪[line]笑？[%p]
+
+JA [name]:name:[line]そ。一回、笑う澪って見てみたいな。[%p]
+ZH [name]:name:[line]是啊。一次也好，想看看澪你的笑容。[%p]
+
+JA [name]澪[line]バ、バカにしてるでしょう![%p]
+ZH [name]澪[line]你，你是拿我当傻瓜吧！[%p]
+
+JA [name]:name:[line]俺が見つけたんだよなぁ‥‥命の次に大切なモノ。[%p]
+ZH [name]:name:[line]我可是帮你找到了啊……仅次于生命的重要东西。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]だよな?[%p]
+ZH [name]:name:[line]是吧？[%p]
+
+JA [name]澪[line]わ、笑うって‥‥どうするのよ。[%p]
+ZH [name]澪[line]笑，笑应该……怎么做啊。[%p]
+
+JA [name]:name:[line]アホか、笑うだ、笑う。わっはっは。[%p]
+ZH [name]:name:[line]傻瓜，就是笑啊，笑一笑。哇，哈，哈。[%p]
+
+JA [name]澪[line]有馬君が笑うと、口の中にスイカが入りそうね。[%p]
+ZH [name]澪[line]有马君你笑起来，嘴里面都能塞进一个西瓜了呢。[%p]
+
+JA [name]:name:[line]なにおう、ほら、笑った笑った。[%p]
+ZH [name]:name:[line]什么啊，你看，笑了笑了。[%p]
+
+JA [name]澪[line]あは、アハハハ。こ、これでいい‥‥?[%p]
+ZH [name]澪[line]啊哈，啊哈哈哈。这，这样行吗……？[%p]
+
+JA [name]:name:[line]ん、少々かたいが、まぁいいだろう。[%p]
+ZH [name]:name:[line]嗯，稍微有点僵硬，不过就这样吧。[%p]
+
+JA [name]澪[line]ンもう‥‥。[%p]
+ZH [name]澪[line]真是够了……。[%p]
+
+JA [name]:name:[line]おいおい、顔がなおってるぞ。[%p]
+ZH [name]:name:[line]喂喂，表情又变回去了。[%p]
+
+JA [name]澪[line]な、なによ、私は‥‥。[%p]
+ZH [name]澪[line]什，什么啊，我是……。[%p]
+
+JA [name]:name:[line]命の次。[%p]
+ZH [name]:name:[line]仅次于生命。[%p]
+
+JA [name]澪[line]こ、これでいい‥‥?[%p]
+ZH [name]澪[line]这，这样可以吗……？[%p]
+
+JA [name]:name:[line]うん。いい。[%p]
+ZH [name]:name:[line]嗯。可以。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]:name:[line]『貴様の愛する父親‥‥
+ZH [name]:name:[line]『深爱着你的父亲‥‥
+
+JA 有馬広大』!?[%p]
+ZH 有马广大』！？[%p]
+
+JA [name]:name:[line]『貴様の愛する父親‥‥有馬広大』!?
+ZH [name]:name:[line]『深爱着你的父亲‥‥有马广大』！？
+
+JA キーンコーン‥‥。[%p]
+ZH 叮——咚——‥‥。[%p]
+
+JA [name]:name:[line]よし、とりあえず俺の責務はまっとうしたな。[%p]
+ZH [name]:name:[line]好，总之得完成我的职责。[%p]
+
+JA [name]:name:[line]任務完了、撤退するか。[%p]
+ZH [name]:name:[line]任务完成，撤退吧。[%p]
+
+JA [name]声[line]何を言っているのよ‥‥。[%p]
+ZH [name]声音[line]在说什么呢‥‥。[%p]
+
+JA [name]:name:[line]あれ、澪じゃないか‥‥。[%p]
+ZH [name]:name:[line]咦，这不是澪吗‥‥。[%p]
+
+JA [name]澪[line]フン‥‥。[%p]
+ZH [name]澪[line]哼……。[%p]
+
+JA 見る・調べる
+ZH 观察·调查
+
+JA あたりの様子
+ZH JF:周围的情况
+
+JA ベッド
+ZH 床
+
+JA 窓
+ZH 窗
+
+JA 絵画
+ZH 绘画
+
+JA 移動する
+ZH JF:移动，移动
+
+JA リビング
+ZH JF:客厅
+
+JA 考える
+ZH JF:思考
+
+JA 亜由美の事
+ZH JF:亚由美的事
+
+JA 父親の事
+ZH JF:父亲的事
+
+JA これからの事
+ZH JF:今后的事
+
+JA 寝る
+ZH JF:睡觉
+
+JA 天井で寝る
+ZH JF:睡在天花板上
+
+JA ベッドで寝る
+ZH JF:在床上睡觉
+
+JA システム
+ZH JF:系统，系统
+
+JA キャンセル
+ZH JF:取消
+
+JA セーブ
+ZH JF:保存
+
+JA セーブ後メニューへ
+ZH JF:保存后到菜单
+
+JA [auto-forward][linebreak]】そうだな、ベッドで寝てやろう。[%p]
+ZH [auto-forward][linebreak]】そうだな、ベッドで寝てやろう。[%p]
+
+JA [auto-forward][linebreak]】俺は眠たかったんだ‥‥。[%p]
+ZH [auto-forward][linebreak]】俺は眠たかったんだ‥‥。[%p]
+
+JA バフッ。
+ZH 扑倒。
+
+JA [auto-forward][linebreak]】‥‥[auto-forward][auto-forward]‥‥[auto-forward][auto-forward]‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥[auto-forward][auto-forward]‥‥[auto-forward][auto-forward]‥‥。[%p]
+
+JA [auto-forward][linebreak]】(なかなか、寝付けないな‥‥。)[%p]
+ZH [auto-forward][linebreak]】(なかなか、寝付けないな‥‥。)[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】(くそっ‥‥こういうときって、結構あるんだよな。)[%p]
+ZH [auto-forward][linebreak]】(くそっ‥‥こういうときって、結構あるんだよな。)[%p]
+
+JA [auto-forward][linebreak]】(眠いんだけど、いろいろと考えが頭の中をめぐっていくんだ。)[%p]
+ZH [auto-forward][linebreak]】(眠いんだけど、いろいろと考えが頭の中をめぐっていくんだ。)[%p]
+
+JA [auto-forward][linebreak]】(眠いけど、眠れない状態‥‥。)[%p]
+ZH [auto-forward][linebreak]】(眠いけど、眠れない状態‥‥。)[%p]
+
+JA [auto-forward][linebreak]】(いまが、まさにそうだよな‥‥。)[%p]
+ZH [auto-forward][linebreak]】(いまが、まさにそうだよな‥‥。)[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】おい。[%p]
+ZH [auto-forward][linebreak]】おい。[%p]
+
+JA [auto-forward][linebreak]】んなことができたら、俺芸人になる。[%p]
+ZH [auto-forward][linebreak]】んなことができたら、俺芸人になる。[%p]
+
+JA [auto-forward][linebreak]】俺の前では、いつも明るく振る舞っている‥‥。[%p]
+ZH [auto-forward][linebreak]】俺の前では、いつも明るく振る舞っている‥‥。[%p]
+
+JA [auto-forward][linebreak]】優しく、慈しみ、いたわる女性‥‥理想の母親像なんだろうな。[%p]
+ZH [auto-forward][linebreak]】優しく、慈しみ、いたわる女性‥‥理想の母親像なんだろうな。[%p]
+
+JA [auto-forward][linebreak]】たった半年くらいの間だけど、随分迷惑もかけちまった‥‥。[%p]
+ZH [auto-forward][linebreak]】たった半年くらいの間だけど、随分迷惑もかけちまった‥‥。[%p]
+
+JA [auto-forward][linebreak]】一緒に、校長のところへ謝りに行ったこともあったし‥‥。[%p]
+ZH [auto-forward][linebreak]】一緒に、校長のところへ謝りに行ったこともあったし‥‥。[%p]
+
+JA [auto-forward][linebreak]】逆に、常軌を逸した教師から、俺を守ってくれたり‥‥。[%p]
+ZH [auto-forward][linebreak]】逆に、常軌を逸した教師から、俺を守ってくれたり‥‥。[%p]
+
+JA [auto-forward][linebreak]】一度も俺を叱ったことがない‥‥[auto-forward][auto-forward]いや、あるな、一度だけ。[%p]
+ZH [auto-forward][linebreak]】一度も俺を叱ったことがない‥‥[auto-forward][auto-forward]いや、あるな、一度だけ。[%p]
+
+JA [auto-forward][linebreak]】あれはそう‥‥俺が無茶苦茶なケンカをして帰ったときだ。結城の野郎を助けたときだったか。[%p]
+ZH [auto-forward][linebreak]】あれはそう‥‥俺が無茶苦茶なケンカをして帰ったときだ。結城の野郎を助けたときだったか。[%p]
+
+JA [auto-forward][linebreak]】厳しくて、悲しくて‥‥そんな目をしながら、俺に言ったんだっけ。[%p]
+ZH [auto-forward][linebreak]】厳しくて、悲しくて‥‥そんな目をしながら、俺に言ったんだっけ。[%p]
+
+JA [auto-forward][linebreak]】「こんなこと、もう二度としないで‥‥」[%p]
+ZH [auto-forward][linebreak]】「こんなこと、もう二度としないで‥‥」[%p]
+
+JA [auto-forward][linebreak]】‥‥あんな目で言われたら、聞かざるを得ないじゃないか。[%p]
+ZH [auto-forward][linebreak]】‥‥あんな目で言われたら、聞かざるを得ないじゃないか。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】オヤジが事故で行方不明になったとき‥‥そして死亡認定がおりたとき‥‥。[%p]
+ZH [auto-forward][linebreak]】オヤジが事故で行方不明になったとき‥‥そして死亡認定がおりたとき‥‥。[%p]
+
+JA [auto-forward][linebreak]】決して取り乱さなかった‥‥少なくとも俺の前では。[%p]
+ZH [auto-forward][linebreak]】決して取り乱さなかった‥‥少なくとも俺の前では。[%p]
+
+JA [auto-forward][linebreak]】そう‥‥俺の前では、泣きもしなかった。[%p]
+ZH [auto-forward][linebreak]】そう‥‥俺の前では、泣きもしなかった。[%p]
+
+JA [auto-forward][linebreak]】俺の前では‥‥な。[%p]
+ZH [auto-forward][linebreak]】俺の前では‥‥な。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】わかっているんだ‥‥俺がしっかりしなきゃならないってことは。[%p]
+ZH [auto-forward][linebreak]】わかっているんだ‥‥俺がしっかりしなきゃならないってことは。[%p]
+
+JA [auto-forward][linebreak]】わかってはいるんだ‥‥。[%p]
+ZH [auto-forward][linebreak]】わかってはいるんだ‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】俺がしっかりしなきゃ、ならないんだよな‥‥。[%p]
+ZH [auto-forward][linebreak]】俺がしっかりしなきゃ、ならないんだよな‥‥。[%p]
+
+JA 〔【[auto-forward][linebreak]】〕あの強烈な野郎か‥‥。[%p]
+ZH 〔【[auto-forward][linebreak]】〕あの強烈な野郎か‥‥。[%p]
+
+JA [auto-forward][linebreak]】殺しても死なないヤツと思っていたが‥‥あっさりと逝きやがった。[%p]
+ZH [auto-forward][linebreak]】殺しても死なないヤツと思っていたが‥‥あっさりと逝きやがった。[%p]
+
+JA [auto-forward][linebreak]】歴史学の分野じゃ、龍蔵寺さんと一緒に、結構名が通っていたらしいが‥‥。[%p]
+ZH [auto-forward][linebreak]】歴史学の分野じゃ、龍蔵寺さんと一緒に、結構名が通っていたらしいが‥‥。[%p]
+
+JA [auto-forward][linebreak]】家には殆どいない、金だけは毎月銀行に振り込まれる、たまに帰ってきたと思えば酒かっくらって寝ちまう‥‥。[%p]
+ZH [auto-forward][linebreak]】家には殆どいない、金だけは毎月銀行に振り込まれる、たまに帰ってきたと思えば酒かっくらって寝ちまう‥‥。[%p]
+
+JA [auto-forward][linebreak]】しかも、今度は勝手に死にやがった‥‥バカ。[%p]
+ZH [auto-forward][linebreak]】しかも、今度は勝手に死にやがった‥‥バカ。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】俺に言わせれば、ごくつぶしの道楽オヤジだったってところだな。[%p]
+ZH [auto-forward][linebreak]】俺に言わせれば、ごくつぶしの道楽オヤジだったってところだな。[%p]
+
+JA [auto-forward][linebreak]】ったく、万が一にも帰ってきやがったら、容赦しないぜ‥‥。[%p]
+ZH [auto-forward][linebreak]】ったく、万が一にも帰ってきやがったら、容赦しないぜ‥‥。[%p]
+
+JA [auto-forward][linebreak]】ぶんなぐってやろう。ヤツが帰ってくるのが楽しみだ。[%p]
+ZH [auto-forward][linebreak]】ぶんなぐってやろう。ヤツが帰ってくるのが楽しみだ。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】あんなバカ野郎でも、いちおうは父親だ。[%p]
+ZH [auto-forward][linebreak]】あんなバカ野郎でも、いちおうは父親だ。[%p]
+
+JA [auto-forward][linebreak]】しかも、亜由美さんは‥‥。[%p]
+ZH [auto-forward][linebreak]】しかも、亜由美さんは‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】あのバカ野郎がたまに帰ってくるだけで、亜由美さんは凄く喜んでいたんだ‥‥。[%p]
+ZH [auto-forward][linebreak]】あのバカ野郎がたまに帰ってくるだけで、亜由美さんは凄く喜んでいたんだ‥‥。[%p]
+
+JA [auto-forward][linebreak]】輝いた表情で‥‥俺に見せたことのない笑顔‥‥。[%p]
+ZH [auto-forward][linebreak]】輝いた表情で‥‥俺に見せたことのない笑顔‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】あんな野郎でも、いいところがあったってことかな‥‥。[%p]
+ZH [auto-forward][linebreak]】あんな野郎でも、いいところがあったってことかな‥‥。[%p]
+
+JA [auto-forward][linebreak]】亜由美さん、やっぱりオヤジのことを‥‥?[%p]
+ZH [auto-forward][linebreak]】亜由美さん、やっぱりオヤジのことを‥‥?[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】ははは‥‥愚問だよな、決まっているじゃないか。[%p]
+ZH [auto-forward][linebreak]】ははは‥‥愚問だよな、決まっているじゃないか。[%p]
+
+JA [auto-forward][linebreak]】そうじゃなかったら、いったい何だっていうんだ?[%p]
+ZH [auto-forward][linebreak]】そうじゃなかったら、いったい何だっていうんだ?[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】オヤジが逝っちまって、俺たちこれからどうなるんだろうな‥‥。[%p]
+ZH [auto-forward][linebreak]】オヤジが逝っちまって、俺たちこれからどうなるんだろうな‥‥。[%p]
+
+JA [auto-forward][linebreak]】これから、か‥‥。[%p]
+ZH [auto-forward][linebreak]】これから、か‥‥。[%p]
+
+JA [auto-forward][linebreak]】これからか‥‥これから?[%p]
+ZH [auto-forward][linebreak]】これからか‥‥これから?[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】今までは、この生活がずっと続くもんだと思っていた。[%p]
+ZH [auto-forward][linebreak]】今までは、この生活がずっと続くもんだと思っていた。[%p]
+
+JA [auto-forward][linebreak]】俺の日常‥‥亜由美さんの日常‥‥‥オヤジ‥‥‥友だち‥‥‥。[%p]
+ZH [auto-forward][linebreak]】俺の日常‥‥亜由美さんの日常‥‥‥オヤジ‥‥‥友だち‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】パズルの一片が欠けて、これほど構図が変わってしまうとは思わなかったな。[%p]
+ZH [auto-forward][linebreak]】パズルの一片が欠けて、これほど構図が変わってしまうとは思わなかったな。[%p]
+
+JA [auto-forward][linebreak]】表面的には変わらない日常‥‥俺と亜由美さんの生活‥‥。[%p]
+ZH [auto-forward][linebreak]】表面的には変わらない日常‥‥俺と亜由美さんの生活‥‥。[%p]
+
+JA [auto-forward][linebreak]】だが、あの野郎はもう2度と帰ってこない。[%p]
+ZH [auto-forward][linebreak]】だが、あの野郎はもう2度と帰ってこない。[%p]
+
+JA [auto-forward][linebreak]】元に戻らない‥‥戻れない生活か‥‥。[%p]
+ZH [auto-forward][linebreak]】元に戻らない‥‥戻れない生活か‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】亜由美さん、これからどうするんだろうな。[%p]
+ZH [auto-forward][linebreak]】亜由美さん、これからどうするんだろうな。[%p]
+
+JA [auto-forward][linebreak]】だって彼女、まだ20代だぜ‥‥未亡人で一生過ごしていくわけ、ないじゃないか。[%p]
+ZH [auto-forward][linebreak]】だって彼女、まだ20代だぜ‥‥未亡人で一生過ごしていくわけ、ないじゃないか。[%p]
+
+JA [auto-forward][linebreak]】あの野郎を想って、独りで生きていく‥‥バカらしい想像だな。[%p]
+ZH [auto-forward][linebreak]】あの野郎を想って、独りで生きていく‥‥バカらしい想像だな。[%p]
+
+JA [auto-forward][linebreak]】だいたい、そんなの流行らないぜ。[%p]
+ZH [auto-forward][linebreak]】だいたい、そんなの流行らないぜ。[%p]
+
+JA [auto-forward][linebreak]】亜由美さんは、亜由美さんの幸せを掴む権利があるんだ。[%p]
+ZH [auto-forward][linebreak]】亜由美さんは、亜由美さんの幸せを掴む権利があるんだ。[%p]
+
+JA [auto-forward][linebreak]】ってことは、いずれは‥‥。[%p]
+ZH [auto-forward][linebreak]】ってことは、いずれは‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】あーくそっ、なんでこんなにイライラするんだ。[%p]
+ZH [auto-forward][linebreak]】あーくそっ、なんでこんなにイライラするんだ。[%p]
+
+JA [auto-forward][linebreak]】俺の問題じゃない。彼女の問題だ。[%p]
+ZH [auto-forward][linebreak]】俺の問題じゃない。彼女の問題だ。[%p]
+
+JA [auto-forward][linebreak]】今の俺に出来ることといったら‥‥俺に出来ること?[%p]
+ZH [auto-forward][linebreak]】今の俺に出来ることといったら‥‥俺に出来ること?[%p]
+
+JA [auto-forward][linebreak]】‥‥今まで通り、振る舞うことくらいだろうな。[%p]
+ZH [auto-forward][linebreak]】‥‥今まで通り、振る舞うことくらいだろうな。[%p]
+
+JA [auto-forward][linebreak]】バカをやって、彼女を少しだけ心配させて‥‥いつもの日常の繰り返し。俺に出来ることはこれだけか。[%p]
+ZH [auto-forward][linebreak]】バカをやって、彼女を少しだけ心配させて‥‥いつもの日常の繰り返し。俺に出来ることはこれだけか。[%p]
+
+JA [auto-forward][linebreak]】オヤジがいなくなった隙間、か‥‥。[%p]
+ZH [auto-forward][linebreak]】オヤジがいなくなった隙間、か‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】‥‥あぁ! やめだ、やめ![%p]
+ZH [auto-forward][linebreak]】‥‥あぁ! やめだ、やめ![%p]
+
+JA [auto-forward][linebreak]】考えの袋小路ってやつだな。考えてもしょうがないんだ。[%p]
+ZH [auto-forward][linebreak]】考えの袋小路ってやつだな。考えてもしょうがないんだ。[%p]
+
+JA [auto-forward][linebreak]】成せば成る、ってのはオヤジの口癖だ。そう、成せば成るんだろう。[%p]
+ZH [auto-forward][linebreak]】成せば成る、ってのはオヤジの口癖だ。そう、成せば成るんだろう。[%p]
+
+JA [auto-forward][linebreak]】とりあえず寝れば明日が来て、再び俺たちの日常が始まるんだ。[%p]
+ZH [auto-forward][linebreak]】とりあえず寝れば明日が来て、再び俺たちの日常が始まるんだ。[%p]
+
+JA [auto-forward][linebreak]】成せば成るさ‥‥。[%p]
+ZH [auto-forward][linebreak]】成せば成るさ‥‥。[%p]
+
+JA [auto-forward][linebreak]】ふぅ‥‥少し眠くなってきたよ。[%p]
+ZH [auto-forward][linebreak]】ふぅ‥‥少し眠くなってきたよ。[%p]
+
+JA [auto-forward][linebreak]】明日から補習だしな‥‥バカバカしいが、亜由美さんをこれ以上心配させたくもないし。[%p]
+ZH [auto-forward][linebreak]】明日から補習だしな‥‥バカバカしいが、亜由美さんをこれ以上心配させたくもないし。[%p]
+
+JA [auto-forward][linebreak]】寝ようぜ?[%p]
+ZH [auto-forward][linebreak]】寝ようぜ?[%p]
+
+JA [auto-forward][linebreak]】もう考えたな‥‥後は寝るだけだ。[%p]
+ZH [auto-forward][linebreak]】もう考えたな‥‥後は寝るだけだ。[%p]
+
+JA [auto-forward][linebreak]】亜由美さんが週に1〜2回は掃除をしてくれるからな、おかげで部屋が整理整頓されてるんだ。[%p]
+ZH [auto-forward][linebreak]】亜由美さんが週に1〜2回は掃除をしてくれるからな、おかげで部屋が整理整頓されてるんだ。[%p]
+
+JA [auto-forward][linebreak]】‥‥‥‥。[%p]
+ZH [auto-forward][linebreak]】‥‥‥‥。[%p]
+
+JA [auto-forward][linebreak]】言っておくが、俺が整理が下手とか、掃除が苦手とか、別にそういうことじゃないぞ。[%p]
+ZH [auto-forward][linebreak]】言っておくが、俺が整理が下手とか、掃除が苦手とか、別にそういうことじゃないぞ。[%p]
+
+JA [auto-forward][linebreak]】物質やエネルギーは秩序化されたものから、無秩序化されたものへと変化するっていう自然法則が、ちゃんとあるんだぜ。[%p]
+ZH [auto-forward][linebreak]】物質やエネルギーは秩序化されたものから、無秩序化されたものへと変化するっていう自然法則が、ちゃんとあるんだぜ。[%p]
+
+JA [auto-forward][linebreak]】これを熱力学の第2法則、エントロピーの法則というんだ。[%p]
+ZH [auto-forward][linebreak]】これを熱力学の第2法則、エントロピーの法則というんだ。[%p]
+
+JA [auto-forward][linebreak]】つまり俺の無秩序の部屋は、実は自然法則に合致した、宇宙の真理をパラフレーズしているんだな。[%p]
+ZH [auto-forward][linebreak]】つまり俺の無秩序の部屋は、実は自然法則に合致した、宇宙の真理をパラフレーズしているんだな。[%p]
+
+JA [auto-forward][linebreak]】‥‥誰に言ってるんだ、俺は。[%p]
+ZH [auto-forward][linebreak]】‥‥誰に言ってるんだ、俺は。[%p]
+
+JA [auto-forward][linebreak]】つまり亜由美さんはだな、週に1〜2回、宇宙の法則に逆らおうとしているんだ。[%p]
+ZH [auto-forward][linebreak]】つまり亜由美さんはだな、週に1〜2回、宇宙の法則に逆らおうとしているんだ。[%p]
+
+JA [auto-forward][linebreak]】と言ったら「この家の法則には沿ってます」って、逆に言われてしまったが‥‥。[%p]
+ZH [auto-forward][linebreak]】と言ったら「この家の法則には沿ってます」って、逆に言われてしまったが‥‥。[%p]
+
+JA [auto-forward][linebreak]】今日の午前中に、掃除をしたのかな‥‥。[%p]
+ZH [auto-forward][linebreak]】今日の午前中に、掃除をしたのかな‥‥。[%p]
+
+JA [auto-forward][linebreak]】フン‥‥フンフン‥‥。[%p]
+ZH [auto-forward][linebreak]】フン‥‥フンフン‥‥。[%p]
+
+JA [auto-forward][linebreak]】亜由美さんの香水の匂いがするような気がする‥‥。[%p]
+ZH [auto-forward][linebreak]】亜由美さんの香水の匂いがするような気がする‥‥。[%p]
+
+JA [auto-forward][linebreak]】ベッドを見ていると、眠くなってくるな‥‥。[%p]
+ZH [auto-forward][linebreak]】ベッドを見ていると、眠くなってくるな‥‥。[%p]
+
+JA [auto-forward][linebreak]】そろそろ‥‥。[%p]
+ZH [auto-forward][linebreak]】そろそろ‥‥。[%p]
+
+JA [auto-forward][linebreak]】普通のパイプベッドだな‥‥。[%p]
+ZH [auto-forward][linebreak]】普通のパイプベッドだな‥‥。[%p]
+
+JA [auto-forward][linebreak]】アレのときに、ギシギシときしむのがマイナスだがな‥‥。[%p]
+ZH [auto-forward][linebreak]】アレのときに、ギシギシときしむのがマイナスだがな‥‥。[%p]
+
+JA [auto-forward][linebreak]】無論、アレってのは寝相が悪いときのことだぞ。[%p]
+ZH [auto-forward][linebreak]】無論、アレってのは寝相が悪いときのことだぞ。[%p]
+
+JA [auto-forward][linebreak]】見ていると眠くなるな‥‥だから見ない。[%p]
+ZH [auto-forward][linebreak]】見ていると眠くなるな‥‥だから見ない。[%p]
+
+JA [auto-forward][linebreak]】まだ寝たくないからな‥‥だから見るのはよそう。[%p]
+ZH [auto-forward][linebreak]】まだ寝たくないからな‥‥だから見るのはよそう。[%p]
+
+JA [auto-forward][linebreak]】左側の出窓は、殆ど物置に近いな‥‥。[%p]
+ZH [auto-forward][linebreak]】左側の出窓は、殆ど物置に近いな‥‥。[%p]
+
+JA [auto-forward][linebreak]】右側の窓からは、下に降りることも可能だぜ‥‥。[%p]
+ZH [auto-forward][linebreak]】右側の窓からは、下に降りることも可能だぜ‥‥。[%p]
+
+JA [auto-forward][linebreak]】だがこれをやると、亜由美さんが怒るんだ‥‥危ないからよせってさ。[%p]
+ZH [auto-forward][linebreak]】だがこれをやると、亜由美さんが怒るんだ‥‥危ないからよせってさ。[%p]
+
+JA [auto-forward][linebreak]】男ってもんはな‥‥[auto-forward][auto-forward]やめよう。オヤジみたいになるからな。[%p]
+ZH [auto-forward][linebreak]】男ってもんはな‥‥[auto-forward][auto-forward]やめよう。オヤジみたいになるからな。[%p]
+
+JA [auto-forward][linebreak]】窓だな‥‥開けると虫が入ってくるから開けないぞ。[%p]
+ZH [auto-forward][linebreak]】窓だな‥‥開けると虫が入ってくるから開けないぞ。[%p]
+
+JA [auto-forward][linebreak]】物の本によると、こいつはモネという人が描いたやつらしい。[%p]
+ZH [auto-forward][linebreak]】物の本によると、こいつはモネという人が描いたやつらしい。[%p]
+
+JA [auto-forward][linebreak]】無論、偽物さ。ま、インテリアなんてそれなりに見えればいいんだよ。[%p]
+ZH [auto-forward][linebreak]】無論、偽物さ。ま、インテリアなんてそれなりに見えればいいんだよ。[%p]
+
+JA [auto-forward][linebreak]】何だかよくわからない風景が描いてあるな‥‥。[%p]
+ZH [auto-forward][linebreak]】何だかよくわからない風景が描いてあるな‥‥。[%p]
+
+JA [auto-forward][linebreak]】今度、燃えるゴミの日に出してやろう。[%p]
+ZH [auto-forward][linebreak]】今度、燃えるゴミの日に出してやろう。[%p]
+
+JA [auto-forward][linebreak]】別にテレビも見たくないしな‥‥ここにいようぜ。[%p]
+ZH [auto-forward][linebreak]】別にテレビも見たくないしな‥‥ここにいようぜ。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しょうがない‥‥背に腹はかえられないってヤツだ。[%p]
+ZH [name]拓也[line]没办法啊……必须要顾全大局。[%p]
+
+JA [name]たくや[line]ここは、クンクンに頑張ってもらうほかはない‥‥。[%p]
+ZH [name]拓也[line]这里，也只能让昆昆努力加油了……。[%p]
+
+JA [name]たくや[line]このまま、ここにいたんじゃ、俺たちだってノタレ死にだ‥‥。[%p]
+ZH [name]拓也[line]要是就这样，留在这里的话，我们两个人就必死无疑了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とりあえず、帝都へ行く。そして、それから考えよう‥‥。[%p]
+ZH [name]拓也[line]总而言之，要到帝都去。然后，再考虑其他的事吧……。[%p]
+
+JA [name]たくや[line]きっと、道は開かれるはずさ‥‥。[%p]
+ZH [name]拓也[line]船到桥头自然直吧……。[%p]
+
+JA [name]たくや[line]ユーノ‥‥‥‥。
+ZH [name]拓也[line]优诺…………。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ‥‥ダメか。[%p]
+ZH [name]拓也[line]可恶……不行吗。[%p]
+
+JA [name]アマンダ[line]ああ。もう、無理だな‥‥。[%p]
+ZH [name]阿曼达[line]啊啊。已经不行了啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あちこち傷だらけだ‥‥。[%p]
+ZH [name]拓也[line]到处都是伤口呢……。[%p]
+
+JA [name]たくや[line]羽も、もうボロボロになっちまってる‥‥。[%p]
+ZH [name]拓也[line]羽毛也，已经七零八落了……。[%p]
+
+JA [name]アマンダ[line]なんたって、オレたち2人を運んで、遠路はるばる帝都付近まで来たんだ‥‥。[%p]
+ZH [name]阿曼达[line]毕竟，它已经带着俺们２个人，从那么远的地方飞到帝都附近来了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](くそっ‥‥もう限界だったんだ。)[%p]
+ZH [name]拓也[line](（可恶……已经到极限了吗。）。)[%p]
+
+JA [name]たくや[line](それを、俺が‥‥。)[%p]
+ZH [name]拓也[line](（是我，让她……。）。)[%p]
+
+JA [name]クンクン[line]ンン‥‥。[%p]
+ZH [name]昆昆[line]嗯嗯……。[%p]
+
+JA [name]たくや[line]大丈夫か‥‥?[%p]
+ZH [name]拓也[line]没事吗……？[%p]
+
+JA [name]クンクン[line]ニコッ‥‥。[%p]
+ZH [name]昆昆[line]微笑……。[%p]
+
+JA [name]たくや[line]大丈夫か?[%p]
+ZH [name]拓也[line]？[%p]
+
+JA [name]クンクン[line]‥‥‥‥。[%p]
+ZH [name]昆昆[line]…………。[%p]
+
+JA [name]たくや[line]何か、して欲しいことはあるか?[%p]
+ZH [name]拓也[line]你有什么，需要我帮你做的事吗？[%p]
+
+JA [name]クンクン[line]ニコッ‥‥。[%p]
+ZH [name]昆昆[line]微笑……。[%p]
+
+JA [name]たくや[line]笑っているだけじゃ、わからないぞ。[%p]
+ZH [name]拓也[line]你光是在笑的话，我也不知道啊。[%p]
+
+JA [name]クンクン[line]‥‥アリガ‥‥トウ。[%p]
+ZH [name]昆昆[line]……歇歇……尼们。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]クンクン[line]ニド‥‥モ‥‥タスケテ‥‥クレテ‥‥。[%p]
+ZH [name]昆昆[line]尼……已经……帮了窝……两次了……。[%p]
+
+JA [name]たくや[line]しゃ、喋れるのか‥‥。[%p]
+ZH [name]拓也[line]JF:啊，能说话吗。[%p]
+
+JA [name]クンクン[line]ニコッ。[%p]
+ZH [name]昆昆[line]微笑。[%p]
+
+JA [name]たくや[line]友だちだろう、俺たちは。助けるなんて当たり前だ。[%p]
+ZH [name]拓也[line]我们是朋友吧。帮助朋友是理所当然的啊。[%p]
+
+JA [name]クンクン[line]ワタシノ‥‥ママモ‥‥カンシャ‥‥シテル‥‥。[%p]
+ZH [name]昆昆[line]窝的……麻麻也……飞尝……岗谢尼……。[%p]
+
+JA [name]たくや[line]ママ‥‥? あの女性か。[%p]
+ZH [name]拓也[line]妈妈……？　那个女性吗。[%p]
+
+JA [name]クンクン[line]ヤクニ‥‥タツヨウニ‥‥ママ‥‥サイゴニ‥‥イッタ‥‥。[%p]
+ZH [name]昆昆[line]腰能……给尼帮伤忙……麻麻……最后……是这么堆窝说……。[%p]
+
+JA [name]たくや[line]俺の役に立てって?[%p]
+ZH [name]拓也[line]要能给我帮上忙？[%p]
+
+JA [name]クンクン[line]ニコッ。[%p]
+ZH [name]昆昆[line]微笑。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]クンクン[line]ミンナ‥‥アナタミタイナ‥‥ヒトダッタラ‥‥。[%p]
+ZH [name]昆昆[line]腰是……缩有人……逗跟尼一阳的花……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](俺みたいな人だったら‥‥?)[%p]
+ZH [name]拓也[line](（要是所有人都跟我一样……？）)[%p]
+
+JA [name]たくや[line](いったい、何を言っているんだ‥‥。)[%p]
+ZH [name]拓也[line](（那家伙，到底在说些什么呢……。）。)[%p]
+
+JA [name]クンクン[line]ワタシ‥‥ノ‥‥‥。[%p]
+ZH [name]昆昆[line]窝……的……。[%p]
+
+JA [name]たくや[line]もう喋るなよ。大丈夫だ。[%p]
+ZH [name]拓也[line]不要再说了。没事的。[%p]
+
+JA [name]クンクン[line]アナタ‥‥ト‥‥ユーノ‥‥ダイスキ‥‥。[%p]
+ZH [name]昆昆[line]尼……和……优诺……窝醉喜欢……。[%p]
+
+JA [name]たくや[line]ああ、俺も好きだぜ。[%p]
+ZH [name]拓也[line]啊啊，我也喜欢你呢。[%p]
+
+JA [name]クンクン[line]ノハラ‥‥ヲ‥‥カケマワッタ‥‥アノトキ‥‥ダイスキ‥‥。[%p]
+ZH [name]昆昆[line]栽……原野伤……四处笨跑……呐葛时候……窝醉喜欢……。[%p]
+
+JA [name]たくや[line]ああ。また野原を駆け回ろう。ユーノと3人で。[%p]
+ZH [name]拓也[line]啊啊。我们还要一起到原野上奔跑。和优诺３个人。[%p]
+
+JA [name]クンクン[line]ユーノ‥‥ダイスキ‥‥アナタモ‥‥ダイスキ‥‥。[%p]
+ZH [name]昆昆[line]优诺……窝醉喜欢……尼……窝也醉喜欢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]クンクン[line]マタ‥‥ノハラヲ‥‥イッショニ‥‥。[%p]
+ZH [name]昆昆[line]还要……义起……栽原野伤……。[%p]
+
+JA [name]たくや[line]わかってる。だから元気になろうな? な?[%p]
+ZH [name]拓也[line]我知道了。所以你要恢复精神啊？　对吧？[%p]
+
+JA [name]クンクン[line]アナタ‥‥ト‥‥。[%p]
+ZH [name]昆昆[line]和……尼……。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]クンクン[line]アナタト‥‥イッショ‥‥ニ‥‥。[%p]
+ZH [name]昆昆[line]和尼……义起……栽……。[%p]
+
+JA [name]たくや[line]俺と‥‥一緒?[%p]
+ZH [name]拓也[line]和我……一起？[%p]
+
+JA [name]クンクン[line]アナタト‥‥イッショニ‥‥ナリタイ‥‥。[%p]
+ZH [name]昆昆[line]窝想要……和尼……栽义起……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]クンクン[line]ダイスキ‥‥。[%p]
+ZH [name]昆昆[line]醉喜欢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥おい。[%p]
+ZH [name]拓也[line]……喂。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]おい、目を開けろよ‥‥おい![%p]
+ZH [name]拓也[line]喂，快吧眼睛睁开啊……喂！[%p]
+
+JA [name]アマンダ[line]死んだよ‥‥。[%p]
+ZH [name]阿曼达[line]已经死了……。[%p]
+
+JA [name]たくや[line]死んだ‥‥?[%p]
+ZH [name]拓也[line]死了……？[%p]
+
+JA [name]アマンダ[line]いいヤツだったな。[%p]
+ZH [name]阿曼达[line]真是个好家伙啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]おい、たくや‥‥どうしたんだよ。[%p]
+ZH [name]阿曼达[line]喂，拓也……你怎么了啊。[%p]
+
+JA [name]たくや[line]うるさいな。俺に触るなっ。[%p]
+ZH [name]拓也[line]吵死了。你别碰我。[%p]
+
+JA [name]アマンダ[line]なんだぁ、目を赤くして。まさか‥‥。[%p]
+ZH [name]阿曼达[line]什么啊，眼睛都变红了。难道你……。[%p]
+
+JA [name]たくや[line]冗談言うな。[%p]
+ZH [name]拓也[line]别开玩笑了。[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]‥‥ま、いいさ。とにかく用意をしようぜ。[%p]
+ZH [name]阿曼达[line]……算了，随你吧。总而言之先准备一下吧。[%p]
+
+JA [name]たくや[line]用意?[%p]
+ZH [name]拓也[line]准备？[%p]
+
+JA [name]たくや[line]お、おい‥‥何をやるつもりだ?[%p]
+ZH [name]拓也[line]喂，喂……你打算干什么？[%p]
+
+JA [name]アマンダ[line]なにって‥‥これさ。[%p]
+ZH [name]阿曼达[line]什么干什么……这个啊。[%p]
+
+JA [name]たくや[line]用意って‥‥何だよ。[%p]
+ZH [name]拓也[line]准备……要准备什么。[%p]
+
+JA [name]アマンダ[line]そこのノガルドは食用なんだぜ。せっかく‥‥。[%p]
+ZH [name]阿曼达[line]这只诺加尔多是食用的吧。既然好不容易……。[%p]
+
+JA [name]たくや[line]おい![%p]
+ZH [name]拓也[line]喂！[%p]
+
+JA [name]アマンダ[line]な、何だよ、そんな恐い顔をして。[%p]
+ZH [name]阿曼达[line]怎，怎么了嘛，表情这么可怕。[%p]
+
+JA [name]たくや[line]こいつを‥‥どうするんだよ![%p]
+ZH [name]拓也[line]你打算……把她怎么样！[%p]
+
+JA [name]アマンダ[line]どうするって、決まってるじゃ‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]阿曼达[line]什么怎么样，不是已经知道了吗……。[auto-forward][linebreak][linebreak]
+
+JA [name]アマンダ[line]な、何をするんだよ![%p]
+ZH [name]阿曼达[line]你，你干什么啊！[%p]
+
+JA [name]たくや[line]ふざけんなよ、アマンダ。そんなことは許さないぞ![%p]
+ZH [name]拓也[line]别开玩笑了，阿曼达。我不准你这么做！[%p]
+
+JA [name]アマンダ[line]何でだよ。[%p]
+ZH [name]阿曼达[line]为什么啊。[%p]
+
+JA [name]たくや[line]当たり前だ! コイツは‥‥俺たちをここまで運んで、それでそのために死んだんだぞ![%p]
+ZH [name]拓也[line]那当然了！　是这家伙……是她把我们俩带到这里来的，而且她还因为这样而死掉了！[%p]
+
+JA [name]アマンダ[line]だから、その死を無駄にしたくないんじゃないか。[%p]
+ZH [name]阿曼达[line]所以说，俺不是不希望让它死得没有价值吗。[%p]
+
+JA [name]たくや[line]ふざけんな![%p]
+ZH [name]拓也[line]别开玩笑了！[%p]
+
+JA [name]アマンダ[line]たくや‥‥よく考えてみろよ。[%p]
+ZH [name]阿曼达[line]拓也……你要仔细想想看啊。[%p]
+
+JA [name]たくや[line]ふざけるな、ふざけるなっ![%p]
+ZH [name]拓也[line]别开玩笑了，别开玩笑了！[%p]
+
+JA [name]アマンダ[line]‥‥‥‥。[%p]
+ZH [name]阿曼达[line]…………。[%p]
+
+JA [name]たくや[line]アマンダ、お前、最初からコイツが死ぬって、知っていたな。あれ以上飛び続けたら死ぬって![%p]
+ZH [name]拓也[line]阿曼达，你从一开始就知道吧，这家伙会死掉的。持续飞行超过那么长时间会死掉的！[%p]
+
+JA [name]アマンダ[line]まあな‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]阿曼达[line]应该吧……。[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]はぁ‥‥はぁ‥‥。[%p]
+ZH [name]拓也[line]哈啊……哈啊……。[%p]
+
+JA [name]アマンダ[line]‥‥しょうがないだろう![%p]
+ZH [name]阿曼达[line]……这也是没办法的吧！[%p]
+
+JA [name]たくや[line]なにがだ。[%p]
+ZH [name]拓也[line]什么没办法。[%p]
+
+JA [name]アマンダ[line]あのまま、採掘場に居残って、オレたちまでノタレ死にするつもりか?[%p]
+ZH [name]阿曼达[line]要是就那样，留在采掘场的话，你打算连俺们也跟着一起死掉吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]確かに死ぬだろうとは思ったさ。だが、あのノガルドと一緒に全滅するよりはいいと思ったんだ。[%p]
+ZH [name]阿曼达[line]确实我也想过它可能会死的。但是，比起跟那只诺加尔多一起全灭来你不觉得好多了吗。[%p]
+
+JA [name]たくや[line]他人を犠牲にしてか。[%p]
+ZH [name]拓也[line]JF:牺牲别人吗。[%p]
+
+JA [name]アマンダ[line]ノガルドは人じゃない。[%p]
+ZH [name]阿曼达[line]诺加尔多并不是人啊。[%p]
+
+JA [name]たくや[line]だが、俺の友人だ![%p]
+ZH [name]拓也[line]但是，她是我朋友！[%p]
+
+JA [name]アマンダ[line]たくや、あんたが言っているのは感傷だろう。[%p]
+ZH [name]阿曼达[line]拓也，你现在说的话太多愁善感了吧。[%p]
+
+JA [name]たくや[line]感傷で何が悪い! 俺たちを助けてくれたアイツを、あまつさえ‥‥。[%p]
+ZH [name]拓也[line]多愁善感有什么不对！　而且，还是因为对帮助了我们俩的这家伙……。[%p]
+
+JA [name]アマンダ[line]じゃあ、ここでオレたちも死ぬしかないな。[%p]
+ZH [name]阿曼达[line]那么，俺们现在也只能在这里无奈地死去了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]たくや、あんたのために死んだんだぜ、このノガルドは。苦しんで、あんたを帝都近くまで運んだんだ。[%p]
+ZH [name]阿曼达[line]拓也，这只诺加尔多它是为了你而死的吧。非常辛苦地，把你带到了靠近帝都的地方。[%p]
+
+JA [name]たくや[line]それは‥‥。[%p]
+ZH [name]拓也[line]那是……。[%p]
+
+JA [name]アマンダ[line]だが、帝都までまだ距離がある。水も食料も持たずに出発はできないぜ。[%p]
+ZH [name]阿曼达[line]但是，距离帝都还有一段距离。既没有水也没有食物俺们就没办法出发啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]アマンダ[line]あんたがここで、くたばっちまったら、文字どおり無駄死にだ。[%p]
+ZH [name]阿曼达[line]你要是留在这里，精疲力尽了的话，那就会如同字面上一样白死了。[%p]
+
+JA [name]たくや[line]だからといって‥‥。[%p]
+ZH [name]拓也[line]（话虽这么说……。）。[%p]
+
+JA [name]アマンダ[line]最後に、一緒になりたいって言ったろう?[%p]
+ZH [name]阿曼达[line]最后，它说希望能和你在一起对吧？[%p]
+
+JA [name]たくや[line]えっ‥‥。[%p]
+ZH [name]拓也[line]诶……。[%p]
+
+JA [name]アマンダ[line]だから、そういう意味だっていうことさ。[%p]
+ZH [name]阿曼达[line]所以说，它说的就是这个意思啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

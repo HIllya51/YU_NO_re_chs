@@ -1,0 +1,132 @@
+JA [name]たくや[line]書斎のドアの前だ‥‥。[%p]
+ZH [name]拓也[line]这是书房的门口……。[%p]
+
+JA [name]たくや[line]カベに何か思い入れでもあるのか?[%p]
+ZH [name]拓也[line]墙壁有什么需要沉思的吗？[%p]
+
+JA [name]たくや[line]書斎の前に来たんだ。何かすることがあるだろう?[%p]
+ZH [name]拓也[line]来到了书房的门口。有什么事要做吗？[%p]
+
+JA [name]たくや[line]2階の廊下のカベだ‥‥。[%p]
+ZH [name]拓也[line]这是２楼走廊的墙壁……。[%p]
+
+JA [name]たくや[line]オヤジの書斎だからな、いちおうプレートの文章は合っていることになる。[%p]
+ZH [name]拓也[line]因为是父亲的书房，所以板上写的字姑且也算是合适。[%p]
+
+JA [name]たくや[line]「オヤジの書斎」とかいてある‥‥。[%p]
+ZH [name]拓也[line]上面写着［父亲的书房］……。[%p]
+
+JA [name]たくや[line]自分のことをオヤジって言うヤツがあるかよ‥‥まったく。[%p]
+ZH [name]拓也[line]居然还有自己给自己写成父亲的家伙……真是的。[%p]
+
+JA [name]たくや[line]ここでボーっと突っ立ってるのも、間抜けだよな。[%p]
+ZH [name]拓也[line]这样傻傻地站在这里，看起来也太蠢了吧。[%p]
+
+JA [name]たくや[line]何か行動をおこさないか?[%p]
+ZH [name]拓也[line]不采取什么行动吗？[%p]
+
+JA [name]たくや[line]オヤジの書斎の前だぜ‥‥どうするんだい?[%p]
+ZH [name]拓也[line]这是父亲的书房门口……要做什么呢？[%p]
+
+JA [name]たくや[line]コンコン。[%p]
+ZH [name]拓也[line]哐哐。[%p]
+
+JA [name]たくや[line]と口で言ってもしょうがない‥‥誰もいないんだよ![%p]
+ZH [name]拓也[line]就算嘴里这么说着也毫无作用……现在谁都不在啊！[%p]
+
+JA [name]たくや[line]何度ノックしても、いないものはいないぜ‥‥。[%p]
+ZH [name]拓也[line]不管敲多少下，没有人就是没有人呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]な?[%p]
+ZH [name]拓也[line]啥？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。
+ZH [name]拓也[line]…………。
+
+JA [name]たくや[line]いないよな、もちろん‥‥。[%p]
+ZH [name]拓也[line]没有人啊，当然的了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]中に、誰かいるんだろうか‥‥?[%p]
+ZH [name]拓也[line]里面，没有什么人在吧……？[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]たくや[line]俺はノックをしていないぞ‥‥。[%p]
+ZH [name]拓也[line]我没有在敲哦……。[%p]
+
+JA [name]たくや[line]コンコン。[%p]
+ZH [name]拓也[line]哐哐。[%p]
+
+JA [name]たくや[line]と口で言ってもしょうがない‥‥誰もいないんだよ![%p]
+ZH [name]拓也[line]就算嘴里这么说着也毫无作用……现在谁都不在啊！[%p]
+
+JA [name]たくや[line]何度ノックしても、いないものはいないぜ‥‥。[%p]
+ZH [name]拓也[line]不管敲多少下，没有人就是没有人呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]な?[%p]
+ZH [name]拓也[line]啥？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。
+ZH [name]拓也[line]…………。
+
+JA [name]たくや[line]いないよな、もちろん‥‥。[%p]
+ZH [name]拓也[line]没有人啊，当然的了……。[%p]
+
+JA [name]たくや[line]書斎の中は、空き巣にでも入られたようになっているぜ‥‥。[%p]
+ZH [name]拓也[line]书房里面，好像被洗劫一空了似的呢……。[%p]
+
+JA [name]たくや[line]とにかく、入ってみるか‥‥。[%p]
+ZH [name]拓也[line]总之，先进去看看吧……。[%p]
+
+JA [name]たくや[line]あれ‥‥開いてる。[%p]
+ZH [name]拓也[line]咦……门开着。[%p]
+
+JA [name]たくや[line]そっか‥‥俺が昨夜、開けたんだったっけ‥‥。[%p]
+ZH [name]拓也[line]对了……是我昨天晚上，打开的啊……。[%p]
+
+JA [name]たくや[line]昨夜は確かに閉まっていたのに‥‥どうしたんだ、いったい。[%p]
+ZH [name]拓也[line]昨晚明明记得是关闭着的……究竟，怎么回事。[%p]
+
+JA [name]たくや[line]‥‥とにかく、中へ入ってみよう。[%p]
+ZH [name]拓也[line]……总之，先进里面看看吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥ここでこうしていてもしょうがないな。[%p]
+ZH [name]拓也[line]对了……就算待在这里也没什么用。[%p]
+
+JA [name]たくや[line]リビングへ戻るぜ‥‥。[%p]
+ZH [name]拓也[line]回客厅去吧……。[%p]
+
+JA [name]たくや[line]あれ、開いてる‥‥。[%p]
+ZH [name]拓也[line]咦，门是开着的……。[%p]
+
+JA [name]たくや[line]そういえば昨夜、俺が開けたんだったっけ‥‥。[%p]
+ZH [name]拓也[line]这么说起来，昨晚我好像打开过了……。[%p]
+
+JA [name]たくや[line]あれ、カギが開いてる‥‥。[%p]
+ZH [name]拓也[line]咦，门锁打开了……。[%p]
+
+JA 
+ZH 
+

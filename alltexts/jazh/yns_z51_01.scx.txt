@@ -1,0 +1,510 @@
+JA [name]たくや[line]な、何だ‥‥。[%p]
+ZH [name]拓也[line]是、是什么‥‥。[%p]
+
+JA [name]たくや[line]何だ!? あれは!!?[%p]
+ZH [name]拓也[line]那！？　是什么！！？[%p]
+
+JA [name]たくや[line]あたりを見渡している場合じゃない![%p]
+ZH [name]拓也[line]这时候还四处张望什么啊！[%p]
+
+JA [name]たくや[line]絶壁の向こう側から‥‥怪物が現れてる![%p]
+ZH [name]拓也[line]从悬崖那边‥‥有怪物出现！[%p]
+
+JA [name]たくや[line]何とかしないと‥‥。[%p]
+ZH [name]拓也[line]（要是不做点什么……。）。[%p]
+
+JA [name]たくや[line]悠長に見ている場合か?[%p]
+ZH [name]拓也[line]这是悠然观赏风景的时候吗？[%p]
+
+JA [name]たくや[line]こ、行動を‥‥行動を起こすんだ![%p]
+ZH [name]拓也[line]行、行动‥‥开始行动！[%p]
+
+JA [name]たくや[line]あんな非常識な生き物が、この世にいるのか!?[%p]
+ZH [name]拓也[line]这世界上竟有这种脱离常识的生物！？[%p]
+
+JA [name]たくや[line]‥‥だが、今現在、俺の目の前に、その非常識がいるんだ![%p]
+ZH [name]拓也[line]‥‥然而，此时现在脱离常识的事正在我眼前上演！[%p]
+
+JA [name]たくや[line]どうする‥‥どうするんだ!?[%p]
+ZH [name]拓也[line]（怎么办……我该怎么办好呢！？）[%p]
+
+JA [name]たくや[line]な‥‥何だ、あの怪物は。[%p]
+ZH [name]拓也[line]这怪物是‥‥是什么。[%p]
+
+JA [name]たくや[line]怪物‥‥?[%p]
+ZH [name]拓也[line]JF:怪物？[%p]
+
+JA [name]たくや[line]そんなバカな!? 怪物なんて、いるわけが‥‥。[%p]
+ZH [name]拓也[line]这不可能啊！？　怪物什么的，怎么可能存在‥‥。[%p]
+
+JA [name]たくや[line]‥‥じゃあ、俺の目の前にいるアイツは、いったい何だよ。[%p]
+ZH [name]拓也[line]‥‥那我眼前的这家伙究竟是什么啊。[%p]
+
+JA [name]たくや[line]怪物そのものだぞ!?[%p]
+ZH [name]拓也[line]是名副其实的怪物！？[%p]
+
+JA [name]たくや[line]セーレスは硬直している‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯僵在原地‥‥。[%p]
+
+JA [name]たくや[line]どうすればいいんだ‥‥?[%p]
+ZH [name]拓也[line]（该怎么办好呢……？）[%p]
+
+JA [name]たくや[line]フリーズしてるぜ‥‥硬直している。[%p]
+ZH [name]拓也[line]僵在原地‥‥已经完全硬直了。[%p]
+
+JA [name]たくや[line]早く‥‥何とかしないと‥‥。[%p]
+ZH [name]拓也[line]快点‥‥想什么办法‥‥。[%p]
+
+JA [name]たくや[line]だけど何とかするって‥‥どうやって!?[%p]
+ZH [name]拓也[line]但是说想想办法‥‥怎么想！？[%p]
+
+JA [name]たくや[line]今、この場を去る訳にいかない![%p]
+ZH [name]拓也[line]现在没可能从这里离开！[%p]
+
+JA [name]たくや[line]何とかしなくちゃ‥‥何とかするんだ![%p]
+ZH [name]拓也[line]不做点什么的话‥‥要做点什么！[%p]
+
+JA [name]たくや[line]冗談はよせよ‥‥。[%p]
+ZH [name]拓也[line]别开玩笑了‥‥。[%p]
+
+JA [name]たくや[line]セーレスを置いて行ける訳がないぞ![%p]
+ZH [name]拓也[line]不可能放着塞蕾斯不管就这么走掉！[%p]
+
+JA [name]たくや[line]アイリアの剣を使うんだ![%p]
+ZH [name]拓也[line]用艾丽娅的剑吧！[%p]
+
+JA [name]たくや[line]早くしないと、セーレスが‥‥襲われてしまうぞ!![%p]
+ZH [name]拓也[line]不快点，塞蕾斯会被它‥‥袭击的！！[%p]
+
+JA [name]たくや[line]そうだ![%p]
+ZH [name]拓也[line]对了！[%p]
+
+JA [name]たくや[line]俺には、アイリアから渡された剣があったはずだ‥‥![%p]
+ZH [name]拓也[line]身上应该有艾丽娅交给我的剑‥‥！[%p]
+
+JA [name]たくや[line]こいつを使えば‥‥或いは‥‥。[%p]
+ZH [name]拓也[line]用这个的话‥‥或许‥‥。[%p]
+
+JA [name]たくや[line]助けるって‥‥あんなヤツに、どう対抗すればいいんだ?[%p]
+ZH [name]拓也[line]能得救‥‥可该怎么对付这种家伙比较好呢？[%p]
+
+JA [name]たくや[line]くそっ、早くしないと、セーレスが‥‥!![%p]
+ZH [name]拓也[line]该死，不快点的话，塞蕾斯就‥‥！！[%p]
+
+JA [name]たくや[line]そ、そうだ! セーレスを早く助けて‥‥。[%p]
+ZH [name]拓也[line]是、是啊！　赶快去救塞蕾斯‥‥。[%p]
+
+JA [name]たくや[line]‥‥た、助けるって言ったって、どうすればいいんだ?[%p]
+ZH [name]拓也[line]‥‥说、说要去就她，怎么救好呢？[%p]
+
+JA [name]たくや[line]あ、あの雄叫びで、地面が揺れてるぞ‥‥。[%p]
+ZH [name]拓也[line]这、这吼叫声震撼大地‥‥。[%p]
+
+JA [name]たくや[line]どうするんだよ、あんな怪物相手に!?[%p]
+ZH [name]拓也[line]怎么办啊，对手是这种怪物！？[%p]
+
+JA [name]たくや[line]ダメだ‥‥拳じゃなくて、剣を使うんだよ![%p]
+ZH [name]拓也[line]不行‥‥不是用拳头，要用剑啊！[%p]
+
+JA [name]たくや[line]いくらなんでも、俺の拳なんかじゃ、太刀打ちできない![%p]
+ZH [name]拓也[line]再怎么说用我的拳头也是不可能取胜的！[%p]
+
+JA [name]たくや[line]アイリアの剣を使うんだ![%p]
+ZH [name]拓也[line]用艾丽娅的剑吧！[%p]
+
+JA [name]たくや[line]そうだ! アイリアから手渡された剣、こいつを使えば‥‥。[%p]
+ZH [name]拓也[line]对啊！　如果用艾丽娅亲手交给我的这把剑的话‥‥。[%p]
+
+JA [name]たくや[line]どこまで通用するかわからないが、これでセーレスを![%p]
+ZH [name]拓也[line]虽然不知道是不是在哪里都通用，就这样把塞蕾斯‥‥！[%p]
+
+JA [name]たくや[line](ビクッ!!)[%p]
+ZH [name]拓也[line](（哆嗦！！）)[%p]
+
+JA [name]たくや[line](か、怪物が‥‥俺の方を睨んだぞ!)[%p]
+ZH [name]拓也[line](（怪、怪物‥‥瞪着我这边！）)[%p]
+
+JA [name]たくや[line](ヤバ‥‥身体が動かない‥‥。)[%p]
+ZH [name]拓也[line](（糟‥‥身体动弹不得‥‥）。)[%p]
+
+JA [name]たくや[line](身体が動かない!?)[%p]
+ZH [name]拓也[line](（身体动不了了！？）)[%p]
+
+JA [name]たくや[line](震えているぞ‥‥?)[%p]
+ZH [name]拓也[line](（在颤抖么‥‥？）)[%p]
+
+JA [name]たくや[line](俺は‥‥震えているのか?)[%p]
+ZH [name]拓也[line](（我‥‥在颤抖吗？）)[%p]
+
+JA [name]たくや[line](恐怖で‥‥身体がすくんでいるんだ!)[%p]
+ZH [name]拓也[line](（恐惧‥‥让我身体有些发怵！）)[%p]
+
+JA [name]たくや[line](け、剣が持ち上がらない‥‥。)[%p]
+ZH [name]拓也[line](（举、举不起剑来‥‥）。)[%p]
+
+JA [name]たくや[line](震えが止まらない‥‥。)[%p]
+ZH [name]拓也[line](（止不住地颤抖‥‥）。)[%p]
+
+JA [name]たくや[line](心臓の動悸が速くなっていく‥‥。)[%p]
+ZH [name]拓也[line](（心脏的悸动越来越快‥‥）。)[%p]
+
+JA [name]たくや[line](やばい‥‥目眩がしてきた‥‥。)[%p]
+ZH [name]拓也[line](（糟糕‥‥头开始晕了‥‥）。)[%p]
+
+JA [name]たくや[line](ヤバいぞ、このままじゃ‥‥!!!)[%p]
+ZH [name]拓也[line](（糟糕了，这样下去‥‥！！！）)[%p]
+
+JA [name]たくや[line](やられる‥‥!!?)[%p]
+ZH [name]拓也[line](（被打败了‥‥！！？）)[%p]
+
+JA [name]女性の声[line]剣を!![%p]
+ZH [name]女性的声音[line]剑给我！！[%p]
+
+JA [name]たくや[line]‥‥えっ?[%p]
+ZH [name]拓也[line]……诶？[%p]
+
+JA [name]女性の声[line]剣を渡しなさいっ! 早く!![%p]
+ZH [name]女性的声音[line]把剑给我！　快！！[%p]
+
+JA [name]たくや[line]アイリア!?[%p]
+ZH [name]拓也[line]艾丽娅！？[%p]
+
+JA [name]アイリア[line]やぁぁぁぁぁぁぁっ!!![%p]
+ZH [name]艾丽娅[line]呀啊啊啊啊啊啊啊！！！[%p]
+
+JA  !!!!!!!!!!
+ZH  !!!!!!!!!!
+
+JA [name]たくや[line]やった! す、凄い‥‥。[%p]
+ZH [name]拓也[line]干得好！　真、真厉害‥‥。[%p]
+
+JA [name]たくや[line]倒しちゃったよ‥‥しかも一刀で。[%p]
+ZH [name]拓也[line]把它打倒了‥‥而且只用了一刀。[%p]
+
+JA [name]たくや[line]アイリア‥‥!?[%p]
+ZH [name]拓也[line]艾丽娅‥‥！？[%p]
+
+JA [name]たくや[line]アイリア![%p]
+ZH [name]拓也[line]艾丽娅！[%p]
+
+JA [name]たくや[line](怪物の手が‥‥セーレスをなぎ払おうとしている!?)[%p]
+ZH [name]拓也[line](（怪物想要用手‥‥横劈塞蕾斯那里吗！？）)[%p]
+
+JA [name]たくや[line](くそっ‥‥足が動かない!)[%p]
+ZH [name]拓也[line](（见鬼‥‥腿动不了！）)[%p]
+
+JA [name]たくや[line](俺の足は動かない! くそっ!!)[%p]
+ZH [name]拓也[line](（我的腿动不了！　可恶！！）)[%p]
+
+JA [name]たくや[line](セーレス!!?)[%p]
+ZH [name]拓也[line](（塞蕾斯！！？）)[%p]
+
+JA [name]たくや[line]セーレス‥‥危ない!!![%p]
+ZH [name]拓也[line]塞蕾斯‥‥很危险！！！[%p]
+
+JA [name]アイリア[line]くっ‥‥。[%p]
+ZH [name]艾丽娅[line]呜……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](アイリアは‥‥セーレスとアイリアは無事なのか?)[%p]
+ZH [name]拓也[line](（艾丽娅‥‥塞蕾斯和艾丽娅都没事吗？）)[%p]
+
+JA [name]たくや[line](断末魔の怪物が、セーレスを手でなぎ払おうとして‥‥。)[%p]
+ZH [name]拓也[line](（临死的怪物想要用手横劈塞蕾斯‥‥）。)[%p]
+
+JA [name]たくや[line](その間に、アイリアが割って入って‥‥。)[%p]
+ZH [name]拓也[line](（就在那一瞬间，艾丽娅挡在她前面‥‥）。)[%p]
+
+JA [name]たくや[line](そうだ‥‥アイリア!!?)[%p]
+ZH [name]拓也[line](（是这样‥‥艾丽娅！！？）)[%p]
+
+JA [name]アイリア[line]フフ‥‥間にあったわね。[%p]
+ZH [name]艾丽娅[line]呵呵‥‥赶上了呢。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]怪物はもう倒したわ‥‥。[%p]
+ZH [name]艾丽娅[line]怪物已经倒下了‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]大丈夫? ケガはない‥‥?[%p]
+ZH [name]艾丽娅[line]没事吧？　没受伤吧‥‥？[%p]
+
+JA [name]セーレス[line]‥‥コクン。[%p]
+ZH [name]塞蕾斯[line]‥‥点头。[%p]
+
+JA [name]アイリア[line]フフ、それはよかったわ‥‥。[%p]
+ZH [name]艾丽娅[line]呵呵，那就好啊‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]あなたは‥‥神の言葉を授かる巫女ね。[%p]
+ZH [name]艾丽娅[line]你‥‥就是领受神之言语的巫女吧。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]帝都からここへやってきた‥‥そうでしょう。[%p]
+ZH [name]艾丽娅[line]是从帝都来到这里‥‥是这样吧。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]答えなくてもわかるわ。自らの言葉を代償に、神の言葉を授かる巫女‥‥そうでしょう。[%p]
+ZH [name]艾丽娅[line]JF:不回答也知道。以自己的语言为代价，被授予神的语言的巫女……是吧。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]この国を、大自然の怒りから救って欲しい‥‥これは、騎士としての希望‥‥。[%p]
+ZH [name]艾丽娅[line]希望你能从大自然之怒中拯救这国家‥‥这是我作为骑士的希望‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]そして、民、全ての願いよ‥‥。[%p]
+ZH [name]艾丽娅[line]而且也是所有民众的愿望‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]それができるのは、神を身体に降臨させることのできる巫女‥‥あなたしかいないわ。[%p]
+ZH [name]艾丽娅[line]能做到这件事的，只有能让神明降临于自身的巫女‥‥只有你才能做到。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]あなたしか出来ないことをやって‥‥。[%p]
+ZH [name]艾丽娅[line]去做只有你能做到的事‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]アイリア[line]騎士としてのお願い‥‥うっ。[%p]
+ZH [name]艾丽娅[line]这是以骑士之名提出的愿望‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]セーレス[line]‥‥‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]………………。[%p]
+
+JA [name]たくや[line]アイリア!!?[%p]
+ZH [name]拓也[line]艾丽娅！！？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]アイリア‥‥しっかりしろ![%p]
+ZH [name]拓也[line]艾丽娅‥‥振作一点！[%p]
+
+JA [name]たくや[line]‥‥も‥‥もの凄い深手だ。[%p]
+ZH [name]拓也[line]‥‥好‥‥好可怕的伤口。[%p]
+
+JA [name]たくや[line]ち、血がたくさん‥‥。[%p]
+ZH [name]拓也[line]血、血流了很多‥‥。[%p]
+
+JA [name]たくや[line]骨まで‥‥。[%p]
+ZH [name]拓也[line]连骨头也‥‥。[%p]
+
+JA [name]たくや[line]こ、これじゃ‥‥もう‥‥。[%p]
+ZH [name]拓也[line]这、这下‥‥已经‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、とにかく家まで運ぼう‥‥できる限り手当をしてみて‥‥。[%p]
+ZH [name]拓也[line]见鬼，不管怎样得先抬到家里‥‥尽可能试着治疗‥‥。[%p]
+
+JA [name]たくや[line]やるだけのことはやらなくちゃ。[%p]
+ZH [name]拓也[line]至少得把能做的做了。[%p]
+
+JA [name]たくや[line]‥‥セーレス?[%p]
+ZH [name]拓也[line]……塞蕾斯？[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]セーレス‥‥どうしたんだ?[%p]
+ZH [name]拓也[line]塞蕾斯‥‥你怎么了？[%p]
+
+JA [name]セーレス[line]わた‥‥し‥‥‥。[%p]
+ZH [name]塞蕾斯[line]我‥‥我‥‥‥。[%p]
+
+JA [name]たくや[line]セーレス‥‥!? しゃ、喋れるのか!?[%p]
+ZH [name]拓也[line]JF:塞雷斯！？啊，能说话吗！？[%p]
+
+JA [name]セーレス[line]わた‥‥し‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]我‥‥我‥‥‥‥。[%p]
+
+JA [name]たくや[line]セーレス‥‥?[%p]
+ZH [name]拓也[line]（塞蕾斯……？）[%p]
+
+JA [name]セーレス[line]わた‥‥し‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]我‥‥我‥‥‥‥。[%p]
+
+JA [name]たくや[line]セーレス‥‥‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]アイリアは、ベッドに寝ている‥‥。[%p]
+ZH [name]拓也[line]艾丽娅在床上躺着‥‥。[%p]
+
+JA [name]たくや[line]できる限り、俺は手当をしたつもりだ‥‥俺の知っている限りの知識を活用して。[%p]
+ZH [name]拓也[line]我要尽我所能来进行治疗‥‥得有效利用我所了解的知识。[%p]
+
+JA [name]たくや[line]だけど‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]たくや[line]あれだけの深手だと‥‥もう‥‥。[%p]
+ZH [name]拓也[line]那种程度的伤口‥‥恐怕已经‥‥。[%p]
+
+JA [name]たくや[line]くそっ‥‥‥‥。[%p]
+ZH [name]拓也[line]（可恶…………。）。[%p]
+
+JA [name]たくや[line]手当できるのはここまでなんだよ‥‥俺は専門の医者じゃない。[%p]
+ZH [name]拓也[line]只能治疗到这里了‥‥我又不是职业医生。[%p]
+
+JA [name]たくや[line]せいぜい、応急処置が関の山さ‥‥。[%p]
+ZH [name]拓也[line]充其量至多也就应急处理的程度‥‥。[%p]
+
+JA [name]たくや[line]アイリア‥‥死なないでくれ。[%p]
+ZH [name]拓也[line]艾丽娅‥‥别死啊。[%p]
+
+JA [name]たくや[line]セーレス‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯‥‥。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]もういいよ‥‥あとは俺が看病するからさ。[%p]
+ZH [name]拓也[line]可以了‥‥后面我会照看她的。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]疲れているんだろう? 一睡もしていないじゃないか。[%p]
+ZH [name]拓也[line]你也累了吧？　不是一点儿都没睡么。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]大丈夫だ。俺がちゃんと看るよ‥‥休まないと、今度は君がぶっ倒れてしまうぜ。[%p]
+ZH [name]拓也[line]不要紧的。我会好好照看她的‥‥不休息的话，下次就换你倒下了。[%p]
+
+JA [name]セーレス[line]‥‥コクン。[%p]
+ZH [name]塞蕾斯[line]‥‥点头。[%p]
+
+JA [name]たくや[line]さっ。[%p]
+ZH [name]拓也[line]好了。[%p]
+
+JA [name]セーレス[line]‥‥‥‥。[%p]
+ZH [name]塞蕾斯[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]セーレスは居間の方へ行ったぜ‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯到起居室那边去了‥‥。[%p]
+
+JA [name]たくや[line]‥‥ふぅ。[%p]
+ZH [name]拓也[line]‥‥呼。[%p]
+
+JA [name]たくや[line]仮眠を取るんだろう‥‥じゃないと、今度は彼女が倒れてしまう。[%p]
+ZH [name]拓也[line]她去小睡一会儿‥‥不然下次就换她倒下了。[%p]
+
+JA [name]たくや[line]昨日から、ずっとアイリアの面倒を看ていたからな‥‥。[%p]
+ZH [name]拓也[line]昨天开始，一直看护着艾丽娅‥‥。[%p]
+
+JA [name]たくや[line]そう。ずっと‥‥あれから‥‥。
+ZH [name]拓也[line]是啊。一直‥‥从那时候起‥‥。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]でも、あのとき‥‥。[%p]
+ZH [name]拓也[line]可是，那时候‥‥。[%p]
+
+JA [name]たくや[line]一瞬だけ、喋ったよな‥‥。[%p]
+ZH [name]拓也[line]有那么一瞬间，她开口说话了‥‥。[%p]
+
+JA [name]たくや[line]だが、あれっきりだ‥‥あれからの彼女は、また言葉を話すこともなかった。[%p]
+ZH [name]拓也[line]但也只此而已‥‥从那以后她再没开口说过。[%p]
+
+JA [name]たくや[line]あれは、俺の幻聴だったんだろうか‥‥?[%p]
+ZH [name]拓也[line]那时是我幻听了吗‥‥？[%p]
+
+JA [name]たくや[line]セーレス‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯‥‥。[%p]
+
+JA [name]たくや[line]目の前で、自分を庇った女性が倒れたんだ。[%p]
+ZH [name]拓也[line]就是眼前躺着的女子保护了她。[%p]
+
+JA [name]たくや[line]ショックだったに違いない‥‥。[%p]
+ZH [name]拓也[line]当时肯定遭受到打击了‥‥。[%p]
+
+JA [name]たくや[line]だからこそ、アイリアの面倒を、ずっと看ていたんだろう‥‥。[%p]
+ZH [name]拓也[line]正因如此，她才一直看护照顾着艾丽娅‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]うわっ、こ、今度は少し大きいな‥‥。[%p]
+ZH [name]拓也[line]呜哇，这、这次又更强烈了些‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥収まったみたいだな。しかし、随分と頻繁に地震が起きるな。[%p]
+ZH [name]拓也[line]‥‥似乎平息了啊。这地震发生的颇为频繁。[%p]
+
+JA [name]たくや[line]何か理由でも、あるんだろうか‥‥?[%p]
+ZH [name]拓也[line]里面应该有什么缘由吧‥‥？[%p]
+
+JA [name]アイリア[line]たくや‥‥‥‥。[%p]
+ZH [name]艾丽娅[line]拓也…………。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]アイリア[line]‥‥たくや‥‥いるなら、来て。[%p]
+ZH [name]艾丽娅[line]‥‥拓也‥‥在的话过来吧。[%p]
+
+JA [name]たくや[line]アイリア!?[%p]
+ZH [name]拓也[line]艾丽娅！？[%p]
+
+JA [name]たくや[line]気付いたのか‥‥。[%p]
+ZH [name]拓也[line]你醒了吗‥‥。[%p]
+
+JA [name]アイリア[line]‥‥たくや。[%p]
+ZH [name]艾丽娅[line]‥‥拓也。[%p]
+
+JA [name]たくや[line]アイリア‥‥良かった、気付いて。[%p]
+ZH [name]拓也[line]艾丽娅‥‥太好了，你醒过来了。[%p]
+
+JA [name]アイリア[line]たくや‥‥。[%p]
+ZH [name]艾丽娅[line]这是拓也……。[%p]
+
+JA [name]たくや[line]ははは‥‥君があんなことくらいで、ぶっ倒れるはずがないと思っていたんだ。[%p]
+ZH [name]拓也[line]哈哈哈‥‥我本以为那种程度的事情肯定不会把你打倒。[%p]
+
+JA [name]アイリア[line]たくや‥‥話があるの。[%p]
+ZH [name]艾丽娅[line]拓也‥‥我有话跟你说。[%p]
+
+JA [name]たくや[line]話‥‥?[%p]
+ZH [name]拓也[line]有话‥‥？[%p]
+
+JA [name]アイリア[line]‥‥‥‥。[%p]
+ZH [name]艾丽娅[line]…………。[%p]
+
+JA 
+ZH 
+

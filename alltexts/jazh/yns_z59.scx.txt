@@ -1,0 +1,192 @@
+JA [name]たくや[line]!!!!!!!????[%p]
+ZH [name]拓也[line]!!!!!!!????[%p]
+
+JA [name]ユーノ[line]パパぁ!![%p]
+ZH [name]优诺[line]爸爸！！[%p]
+
+JA [name]たくや[line]ユーノ!?[%p]
+ZH [name]拓也[line]优诺！？[%p]
+
+JA [name]ユーノ[line]パパぁ!![%p]
+ZH [name]优诺[line]爸爸！！[%p]
+
+JA [name]たくや[line](帝都のヤツらだ! 7〜8人はいるぞ。)[%p]
+ZH [name]拓也[line]JF:（帝都的家伙们！有7～8个人哦。）[%p]
+
+JA [name]たくや[line](くそっ、あいつらユーノを‥‥!)[%p]
+ZH [name]拓也[line](（可恶，那些家伙要把优诺……！）)[%p]
+
+JA [name]ユーノ[line]パパぁ、助けてっ![%p]
+ZH [name]优诺[line]爸爸，救救我！[%p]
+
+JA [name]たくや[line]おい、お前ら! ユーノを放せ!![%p]
+ZH [name]拓也[line]喂，你们这些人！　快放开优诺！！[%p]
+
+JA [name]近衛兵A[line]不届きな奴等めっ。神殿への侵入は重罪だ。[%p]
+ZH [name]近卫兵Ａ[line]这些没礼貌的人。侵入神殿可是重罪。[%p]
+
+JA [name]近衛兵B[line]貴様らは何者か?[%p]
+ZH [name]近卫兵Ｂ[line]你们是什么人？[%p]
+
+JA [name]たくや[line]俺たちは‥‥ただの旅行者だよ![%p]
+ZH [name]拓也[line]我们……只是旅行者而已啊！[%p]
+
+JA [name]近衛兵C[line]嘘をつくな! 神殿は聖地にして不可侵なもの‥‥知らぬはずがない。[%p]
+ZH [name]近卫兵Ｃ[line]JF:你不要骗我！神殿作为圣地是不可侵犯的……不可能不知道。[%p]
+
+JA [name]近衛兵A[line]中に入った愚か者たちを成敗するために、我らがいるのだ。[%p]
+ZH [name]近卫兵Ａ[line]为了惩罚闯入里面的蠢货们，我们才会在这里的。[%p]
+
+JA [name]たくや[line](ちっ‥‥何か警報装置でもあったのか。)[%p]
+ZH [name]拓也[line](（切……是有什么警报装置的吗。）。)[%p]
+
+JA [name]たくや[line](ユーノが言った胸騒ぎって、このことだったのか‥‥?)[%p]
+ZH [name]拓也[line](（优诺曾经说过的不安感，就是这件事吗……？）)[%p]
+
+JA [name]近衛兵B[line]貴様には訊きたいことがある。一緒についてきてもらおう。[%p]
+ZH [name]近卫兵Ｂ[line]我们有事要问你们这些家伙。老老实实让我一起带走吧。[%p]
+
+JA [name]たくや[line]そんなこと知るか! 早くユーノを放せ!![%p]
+ZH [name]拓也[line]我才不知道那种事呢！　快点把优诺放开！！[%p]
+
+JA [name]ユーノ[line]パパぁ!![%p]
+ZH [name]优诺[line]爸爸！！[%p]
+
+JA [name]たくや[line]ユーノいま行く![%p]
+ZH [name]拓也[line]优诺现在快走！[%p]
+
+JA [name]ユーノ[line]パパ! 危ない!?[%p]
+ZH [name]优诺[line]爸爸！　危险！？[%p]
+
+JA [name]たくや[line]なに‥‥!!?[%p]
+ZH [name]拓也[line]什么……！！？[%p]
+
+JA [name]たくや[line](くっ‥‥後ろから頭を‥‥。)[%p]
+ZH [name]拓也[line](（唔……脑袋被人从背后……。）。)[%p]
+
+JA [name]近衛兵C[line]手を掛けさせおって‥‥。[%p]
+ZH [name]近卫兵Ｃ[line]给我狠狠地打……。[%p]
+
+JA [name]近衛兵A[line]いずれにせよ、重罪は免れまい‥‥このまま、例の場所へ連れていくか?[%p]
+ZH [name]近卫兵Ａ[line]不管怎么说，他这重罪是逃不掉了……要不要，就这么把他带到那个地方去？[%p]
+
+JA [name]近衛兵B[line]それが良かろう‥‥あそこで、訊問をさせれば良いことだ。[%p]
+ZH [name]近卫兵Ｂ[line]那也行吧……在那地方，想要严加审问也方便。[%p]
+
+JA [name]近衛兵C[line]うむ‥‥。[%p]
+ZH [name]近卫兵Ｃ[line]唔姆……。[%p]
+
+JA [name]ユーノ[line]パパぁ! パパぁ‥‥しっかりして!![%p]
+ZH [name]优诺[line]爸爸！　爸爸……你快起来啊！！[%p]
+
+JA [name]ユーノ[line]パパぁーーー‥‥‥‥。[%p]
+ZH [name]优诺[line]爸爸————…………。[%p]
+
+JA [name]ユーノ[line]パパーーー‥‥死んじゃ、いやぁぁぁぁ‥‥![%p]
+ZH [name]优诺[line]爸爸————……你别死啊，不要啊啊啊啊……！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ユーノ‥‥。)[%p]
+ZH [name]拓也[line](优诺‥‥。)[%p]
+
+JA [name]たくや[line](ユーノ、いま行く!)[%p]
+ZH [name]拓也[line](（优诺，现在快跑！）)[%p]
+
+JA [name]たくや[line](いま行くからな‥‥くそっ。)[%p]
+ZH [name]拓也[line](（现在快给我跑啊……可恶。）。)[%p]
+
+JA [name]たくや[line](なんで、口の中に砂が入ってくるんだ‥‥。)[%p]
+ZH [name]拓也[line](（为什么，最里面会进沙子呢……。）。)[%p]
+
+JA [name]たくや[line](くそっ‥‥砂漠の砂だ、これは‥‥。)[%p]
+ZH [name]拓也[line](（可恶……这是沙漠里的沙子啊……。）。)[%p]
+
+JA [name]たくや[line](なんで地面が、俺のほっぺたに付いてるんだ?)[%p]
+ZH [name]拓也[line](（为什么，我的脸颊会贴在地面上呢？）)[%p]
+
+JA [name]たくや[line](重力の異常でもあったのかな‥‥。)[%p]
+ZH [name]拓也[line](（是重力产生异常了吧……。）。)[%p]
+
+JA [name]たくや[line](おかしいな‥‥地面に身体が吸い付いて、離れない‥‥。)[%p]
+ZH [name]拓也[line](（真奇怪啊……地面把身体吸附住了，离不开啊……。）。)[%p]
+
+JA [name]たくや[line](何だか‥‥。)[%p]
+ZH [name]拓也[line](（总觉得……。）。)[%p]
+
+JA [name]たくや[line](頭が‥‥グラグラする‥‥。)[%p]
+ZH [name]拓也[line](（脑袋……一直在摇晃……。）。)[%p]
+
+JA [name]たくや[line](誰かが、俺の身体を引きずっているみたいな感じだ‥‥。)[%p]
+ZH [name]拓也[line](（感觉，好像是有人拉着我的身体在地面上拖行……。）。)[%p]
+
+JA [name]たくや[line](ユーノ‥‥。)[%p]
+ZH [name]拓也[line](优诺‥‥。)[%p]
+
+JA [name]たくや[line](ユーノ‥‥きっと助ける‥‥。)[%p]
+ZH [name]拓也[line](（优诺……我一定会救你的……。）。)[%p]
+
+JA [name]たくや[line](ユーーーノ!!!!)
+ZH [name]拓也[line](（优———诺！！！！）)
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だよ‥‥もう少し俺は寝たいんだ。[%p]
+ZH [name]拓也[line]什么啊……让我再多睡一会儿吧。[%p]
+
+JA [name]声[line]どいたどいた![%p]
+ZH [name]声音[line]闪开闪开！[%p]
+
+JA [name]たくや[line]いてぇ! ちくしょう、何だっていうんだ![%p]
+ZH [name]拓也[line]好痛啊！　可恶，怎么回事啊！[%p]
+
+JA [name]声[line]ちっ、なにを寝てやがる、こいつ![%p]
+ZH [name]声音[line]JF:喂，你在睡什么，这家伙！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]こんな忙しいってのに‥‥ほらほら、どいたどいた。[%p]
+ZH [name]声音[line]都已经这么忙了……快点快点，闪开闪开。[%p]
+
+JA [name]たくや[line]何なんだよ‥‥。[%p]
+ZH [name]拓也[line]（到底要做什么啊……。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、ここは‥‥。[%p]
+ZH [name]拓也[line]这里，是哪里……。[%p]
+
+JA [name]たくや[line]俺はいったい、どこにいるんだ‥‥?[%p]
+ZH [name]拓也[line]我到底，在什么地方啊……？[%p]
+
+JA [name]たくや[line]ここはいったい‥‥‥‥。[%p]
+ZH [name]拓也[line]这里到底是…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]これが神殿か‥‥。[%p]
+ZH [name]拓也[line]这是神殿吗……。[%p]
+
+JA [name]ユーノ[line]パパ![%p]
+ZH [name]优诺[line]爸爸！[%p]
+
+JA [name]たくや[line]どうした?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]ユーノ[line]ユーノ‥‥本当に胸がドキドキするの。[%p]
+ZH [name]优诺[line]优诺……心脏真的一直在扑通扑通跳呢。[%p]
+
+JA [name]たくや[line]‥‥大丈夫だ。俺のそばを決して離れるなよ。[%p]
+ZH [name]拓也[line]……没事的。你绝对不要离开我的身边哦。[%p]
+
+JA [name]ユーノ[line]うん‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA 
+ZH 
+

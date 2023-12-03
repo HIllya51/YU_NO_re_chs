@@ -1,0 +1,5 @@
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]I feel like it isn't this way.[%p]
+[name]Takuya[line]I doubt it's this way.[%p]
+[name]Takuya[line]The breeze is gone.[%p]
+[name]Takuya[line]It wasn't this way, was it?[%p]

@@ -1,0 +1,75 @@
+JA [name]たくや[line]丘だ。[%p]
+ZH [name]拓也[line]JF:是山丘。[%p]
+
+JA [name]たくや[line]手荷物もあるし、さっさと家に戻ろうぜ。[%p]
+ZH [name]拓也[line]JF:还有随身行李，赶紧回家吧。[%p]
+
+JA [name]たくや[line]早く家に戻ろうぜ?[%p]
+ZH [name]拓也[line]JF:我们快点回家吧？[%p]
+
+JA [name]たくや[line]今日も気持ちがいい日よりだな‥‥。[%p]
+ZH [name]拓也[line]今天也是心情舒畅的一天‥‥。[%p]
+
+JA [name]たくや[line]さっ、とにかく家へ行こうぜ。[%p]
+ZH [name]拓也[line]呀，总之先回家吧。[%p]
+
+JA [name]たくや[line]うーん、今日もまことに日よりが良い。[%p]
+ZH [name]拓也[line]唔—嗯，今天的天气是诚然的好。[%p]
+
+JA [name]たくや[line]こうしてると、その辺に寝っ転がりたくなるな‥‥。[%p]
+ZH [name]拓也[line]这样下去，会想在附近躺下了‥‥。[%p]
+
+JA [name]たくや[line]木々が生い茂っている‥‥。[%p]
+ZH [name]拓也[line]树木繁茂‥‥。[%p]
+
+JA [name]たくや[line]左側には、広そうな森が続いている‥‥。[%p]
+ZH [name]拓也[line]左边是一望无际的广阔森林‥‥。[%p]
+
+JA [name]たくや[line]森が、あちこちにあるみたいだ‥‥。[%p]
+ZH [name]拓也[line]看样子到处都是森林‥‥。[%p]
+
+JA [name]たくや[line]砂漠が広がっている‥‥。[%p]
+ZH [name]拓也[line]沙漠展现在眼前‥‥。[%p]
+
+JA [name]たくや[line]ラファエロとか言う砂漠だ‥‥。[%p]
+ZH [name]拓也[line]叫什么拉斐尔沙漠‥‥。[%p]
+
+JA [name]たくや[line]灼熱地獄だからな、あそこは‥‥今のところ行く用事は全くないぜ。[%p]
+ZH [name]拓也[line]因为那里是灼热地域‥‥眼下完全没打算去那里。[%p]
+
+JA [name]たくや[line]俺たちの家が、右奧に見えるぜ‥‥。[%p]
+ZH [name]拓也[line]在右边尽头能看到我们的家‥‥。[%p]
+
+JA [name]たくや[line]右の方に小さく家が見える‥‥あそこが俺たちの家だ。[%p]
+ZH [name]拓也[line]右边能看到一间小屋‥‥那里就是我们家。[%p]
+
+JA [name]たくや[line]昼寝は後だ。[%p]
+ZH [name]拓也[line]之后再午睡吧。[%p]
+
+JA [name]たくや[line]あぁ、あの草の上で昼寝でもしたいな‥‥。[%p]
+ZH [name]拓也[line]啊，好想在那草地上睡午觉‥‥。[%p]
+
+JA [name]たくや[line]後だ、あと。今は家に行く方が先だぜ。[%p]
+ZH [name]拓也[line]之后再说，之后。现在先去屋子里。[%p]
+
+JA [name]たくや[line]あのな、今は木登りをしているときか?[%p]
+ZH [name]拓也[line]我说啊，现在是爬树的时候吗？[%p]
+
+JA [name]たくや[line]猿じゃないんだ、俺は。[%p]
+ZH [name]拓也[line]我又不是猴子。[%p]
+
+JA [name]たくや[line]木の上で寝られる訳がないぞ。[%p]
+ZH [name]拓也[line]不可能睡在树上啊。[%p]
+
+JA [name]たくや[line]よし、家に戻るぞ![%p]
+ZH [name]拓也[line]好，回家咯！[%p]
+
+JA [name]たくや[line]えっ、森に戻るのか‥‥?[%p]
+ZH [name]拓也[line]诶，要回森林吗‥‥？[%p]
+
+JA [name]たくや[line]俺って、道草食う癖があるのかな‥‥ふぅ。[%p]
+ZH [name]拓也[line]我啊，有在路上闲逛的毛病‥‥。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,516 @@
+JA [name]たくや[line]少し、考えたい‥‥。[%p]
+ZH [name]拓也[line]我要，再想一想……。[%p]
+
+JA [name]たくや[line]だから、目を瞑っているんだよ‥‥。[%p]
+ZH [name]拓也[line]JF:所以，我闭着眼睛。[%p]
+
+JA [name]たくや[line]何も見えないぜ‥‥。[%p]
+ZH [name]拓也[line]什么都看不见呢……。[%p]
+
+JA [name]たくや[line]おっ、まぶた裏の毛細血管がよく見える。[%p]
+ZH [name]拓也[line]哦，可以很清楚地看到眼睑内的毛细血管。[%p]
+
+JA [name]たくや[line]‥‥わけないな。[%p]
+ZH [name]拓也[line]……怎么可能啊。[%p]
+
+JA [name]たくや[line]今は目を瞑っているからな‥‥。[%p]
+ZH [name]拓也[line]JF:因为现在闭着眼睛。[%p]
+
+JA [name]たくや[line]何も見えないぞ。[%p]
+ZH [name]拓也[line]什么都看不到呢。[%p]
+
+JA [name]たくや[line]外は止めておこうぜ‥‥。[%p]
+ZH [name]拓也[line]JF:外面就停下来吧。[%p]
+
+JA [name]たくや[line]もう夜だ‥‥外は止めておこう。[%p]
+ZH [name]拓也[line]JF:已经是晚上了……外面就停下来吧。[%p]
+
+JA [name]たくや[line]明日の朝は早い‥‥。[%p]
+ZH [name]拓也[line]明天早上要快点……。[%p]
+
+JA [name]たくや[line]今は考えたいときだ‥‥ユーノは寝かせておいてやろう。[%p]
+ZH [name]拓也[line]现在是需要思考的时候……先把优诺哄睡下去吧。[%p]
+
+JA [name]たくや[line]ユーノは、恐らくクークー寝ていることだろう。[%p]
+ZH [name]拓也[line]优诺，恐怕现在正在呼呼大睡吧。[%p]
+
+JA [name]たくや[line]今は行く必要ないな‥‥。[%p]
+ZH [name]拓也[line]现在没必要过去啊……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥もう寝よう。[%p]
+ZH [name]拓也[line]呼……还是先睡吧。[%p]
+
+JA [name]たくや[line]ユーノはここに置いていこう。亜由美さんに会って、そして事情を聞く。[%p]
+ZH [name]拓也[line]就先把优诺留在这里。去跟亚由美小姐见个面，然后再把事情问清楚。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐……。[%p]
+
+JA [name]たくや[line]なぜ、亜由美さんなんだ‥‥?[%p]
+ZH [name]拓也[line]为什么，会是亚由美小姐……？[%p]
+
+JA [name]たくや[line]本当に、亜由美さんが神帝なのか‥‥?[%p]
+ZH [name]拓也[line]亚由美小姐，真的就是神帝吗……？[%p]
+
+JA [name]たくや[line]俺が殺そうと思った、あの神帝なのか‥‥?[%p]
+ZH [name]拓也[line]真的就是我想要杀掉的，那个神帝吗……？[%p]
+
+JA [name]たくや[line]くそっ‥‥。[%p]
+ZH [name]拓也[line]（可恶……。）。[%p]
+
+JA [name]たくや[line]セーレス‥‥俺はどうすればいいんだ。[%p]
+ZH [name]拓也[line]塞蕾斯……我到底该怎么办才好呢。[%p]
+
+JA [name]たくや[line]もしも‥‥。[%p]
+ZH [name]拓也[line]万一……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]もしも、セーレスの死の責任が、亜由美さんにあった場合‥‥俺はどうするんだ?[%p]
+ZH [name]拓也[line]万一，害死塞蕾斯的责任，真的就是亚由美小姐的话……我该怎么办好呢？[%p]
+
+JA [name]たくや[line]俺は、セーレスを殺したヤツを、許せないと誓った‥‥。[%p]
+ZH [name]拓也[line]我已经发过誓了，绝对不能放过，杀害塞蕾斯的家伙，……。[%p]
+
+JA [name]たくや[line]だったら、亜由美さんに復讐をするのか。[%p]
+ZH [name]拓也[line]要是这样的话，就得对亚由美小姐复仇吗。[%p]
+
+JA [name]たくや[line]彼女に死をもって償わせるのか‥‥。[%p]
+ZH [name]拓也[line]要我接受她已经死了的事实吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]わからない‥‥もう、何もかも‥‥。[%p]
+ZH [name]拓也[line]我不知道……已经，什么都不……。[%p]
+
+JA [name]たくや[line]とにかく明日だ。明日、話を聞いて‥‥。[%p]
+ZH [name]拓也[line]总而言之先等到明天。明天，再问吧……。[%p]
+
+JA [name]たくや[line]それから決めよう。[%p]
+ZH [name]拓也[line]就这么决定了。[%p]
+
+JA [name]たくや[line]そうさ‥‥明日になれば‥‥。[%p]
+ZH [name]拓也[line]对了……等到了明天之后……。[%p]
+
+JA [name]たくや[line]ギクッ。[%p]
+ZH [name]拓也[line]惊吓。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]こんな夜更けに‥‥まさか、絵里子先生?[%p]
+ZH [name]拓也[line]这么大晚上的……难道是，绘里子老师？[%p]
+
+JA [name]たくや[line]どどどど、どうしよう‥‥こ、心の準備が‥‥。[%p]
+ZH [name]拓也[line]怎怎怎怎，怎么办……还，还没有心理准备……。[%p]
+
+JA [name]たくや[line]は、はーい。どどどどどうぞ。[%p]
+ZH [name]拓也[line]来，来—了。请请请请请进吧。[%p]
+
+JA [name]たくや[line]な、何だ‥‥ユーノか。[%p]
+ZH [name]拓也[line]怎，怎么……是优诺啊。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]何だよ、マクラなんか持って。[%p]
+ZH [name]拓也[line]你怎么了，还抱着个枕头。[%p]
+
+JA [name]ユーノ[line]パパ‥‥あのヒトと、お話ばっかりしてるんだもの。[%p]
+ZH [name]优诺[line]爸爸……你就知道光顾着跟那个人说话去了。[%p]
+
+JA [name]たくや[line]大人の話だ。[%p]
+ZH [name]拓也[line]那是大人的话。[%p]
+
+JA [name]ユーノ[line]うーー。[%p]
+ZH [name]优诺[line]呜——。[%p]
+
+JA [name]たくや[line]犬か、お前は。[%p]
+ZH [name]拓也[line]你是小狗吗。[%p]
+
+JA [name]ユーノ[line]ユーノ、パパと一緒に寝たい。[%p]
+ZH [name]优诺[line]优诺，想要跟爸爸一起睡觉。[%p]
+
+JA [name]たくや[line]お前な、まだそんなことを言っているのか?[%p]
+ZH [name]拓也[line]我说你啊，怎么又说这种话了啊？[%p]
+
+JA [name]ユーノ[line]ユーノ、パパのこと寝室で、ずーーーーっっっと待っていたのよっ。[%p]
+ZH [name]优诺[line]优诺，在爸爸你的寝室里，等了好——————————久好久哦。[%p]
+
+JA [name]たくや[line]そりゃ悪かったな。[%p]
+ZH [name]拓也[line]那真是抱歉啊。[%p]
+
+JA [name]ユーノ[line]だから、パパと一緒に寝る。[%p]
+ZH [name]优诺[line]所以，我要跟爸爸一起睡觉。[%p]
+
+JA [name]たくや[line]なんで結論がそうなる。[%p]
+ZH [name]拓也[line]为什么会变成这种结论。[%p]
+
+JA [name]ユーノ[line]寝たい、寝たい、寝たい! 一緒に寝たい!![%p]
+ZH [name]优诺[line]我要嘛，我要嘛，我就要嘛！　我就要一起睡！！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ほんっっっとに、昔から変わらないな、お前は。[%p]
+ZH [name]拓也[line]你啊，真————的是，从以前开始就没变过。[%p]
+
+JA [name]ユーノ[line]だって‥‥ユーノ、一緒に寝たいんだモン。[%p]
+ZH [name]优诺[line]因为……优诺，真的想跟爸爸一起睡嘛。[%p]
+
+JA [name]たくや[line]発育ばかりよくっても、まだまだ子供だな。[%p]
+ZH [name]拓也[line]虽然已经发育得很好了，却还是个孩子啊。[%p]
+
+JA [name]ユーノ[line]ユーノ、パパの子供だもん。[%p]
+ZH [name]优诺[line]优诺，可是爸爸的女儿啊。[%p]
+
+JA [name]たくや[line]そういう問題じゃない。[%p]
+ZH [name]拓也[line]不是这个问题啊。[%p]
+
+JA [name]ユーノ[line]‥‥ダメ?[%p]
+ZH [name]优诺[line]……不可以么？[%p]
+
+JA [name]たくや[line]ふぅ‥‥しょうがないなぁ。[%p]
+ZH [name]拓也[line]呼……真是拿你没办法啊。[%p]
+
+JA [name]ユーノ[line]ホント?[%p]
+ZH [name]优诺[line]真的吗？[%p]
+
+JA [name]たくや[line]いいぜ。ただし、ベッドは狭いからな。[%p]
+ZH [name]拓也[line]好吧。不过，我的床可是很窄的啊。[%p]
+
+JA [name]ユーノ[line]パパぁ![%p]
+ZH [name]优诺[line]爸爸啊！[%p]
+
+JA [name]たくや[line]ぐえっ。[%p]
+ZH [name]拓也[line]咕诶。[%p]
+
+JA [name]ユーノ[line]ああン‥‥パパの匂い‥‥クンクン。[%p]
+ZH [name]优诺[line]啊啊嗯……爸爸的味道……嗅嗅。[%p]
+
+JA [name]たくや[line]身体をこすりつけるなって‥‥まったく、そのクセなおってないな。[%p]
+ZH [name]拓也[line]身体不要这么拼命地蹭过来……真是的，你这习惯真的要改一改了啊。[%p]
+
+JA [name]ユーノ[line]だって‥‥ウフフ。[%p]
+ZH [name]优诺[line]可是……嗯呵呵。[%p]
+
+JA [name]たくや[line]だから、鼻をこすりつけるなと言うのに。[%p]
+ZH [name]拓也[line]都说了，鼻子别再使劲蹭过来了啊。[%p]
+
+JA [name]ユーノ[line]パパの匂い‥‥ンもう、久しぶりだから、うんと甘えちゃう。[%p]
+ZH [name]优诺[line]爸爸的味道……真的，已经很久没闻到了，真的好好闻哦。[%p]
+
+JA [name]たくや[line]ふぅ‥‥しょうがねぇな。[%p]
+ZH [name]拓也[line]呼……真是拿你没办法啊。[%p]
+
+JA [name]ユーノ[line]ウフフ‥‥ねぇ。[%p]
+ZH [name]优诺[line]嗯呵呵……呐。[%p]
+
+JA [name]たくや[line]ん‥‥?[%p]
+ZH [name]拓也[line]嗯……？[%p]
+
+JA [name]ユーノ[line]ずっとずっと、ずーっと、こうしていたいね。[%p]
+ZH [name]优诺[line]好想永远永远，永远，就这样持续下去呢。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]明日‥‥あのヒトのところへ行くの?[%p]
+ZH [name]优诺[line]明天……你要到那个人的地方去吗？[%p]
+
+JA [name]たくや[line]亜由美さんか‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐吗……。[%p]
+
+JA [name]ユーノ[line]アユミさんって言うんだ。パパの恋人?[%p]
+ZH [name]优诺[line]都叫人家亚游每小姐。她是爸爸的爱人吗？[%p]
+
+JA [name]たくや[line]ばっ‥‥そんなわけないだろう。[%p]
+ZH [name]拓也[line]笨……不可能会有这种事吧。[%p]
+
+JA [name]ユーノ[line]焦ってるぅ。[%p]
+ZH [name]优诺[line]被我猜中了吧。[%p]
+
+JA [name]たくや[line]あのな‥‥彼女は俺の母親だよ。[%p]
+ZH [name]拓也[line]我说啊……她是我的母亲哦。[%p]
+
+JA [name]ユーノ[line]えっ、パパのお母さま?[%p]
+ZH [name]优诺[line]诶，是爸爸的母亲大人？[%p]
+
+JA [name]たくや[line]そう。義理の、だけどね。[%p]
+ZH [name]拓也[line]是的。只不过，是继母。[%p]
+
+JA [name]ユーノ[line]じゃあ、結婚できるの?[%p]
+ZH [name]优诺[line]那么，是可以结婚的喽？[%p]
+
+JA [name]たくや[line]なぜそうなる。[%p]
+ZH [name]拓也[line]为什么问这个。[%p]
+
+JA [name]ユーノ[line]だって‥‥。[%p]
+ZH [name]优诺[line]可是……。[%p]
+
+JA [name]たくや[line]大丈夫だよ。結婚はしないよ。[%p]
+ZH [name]拓也[line]没关系。我不会结婚的哦。[%p]
+
+JA [name]ユーノ[line]ホント?[%p]
+ZH [name]优诺[line]真的吗？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]ユーノ[line]本当に本当?[%p]
+ZH [name]优诺[line]真的是真的？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]あぁ、黙ってる‥‥やっぱり![%p]
+ZH [name]优诺[line]啊啊，沉默了……果然骗我！[%p]
+
+JA [name]たくや[line]呆れてるんだ。[%p]
+ZH [name]拓也[line]我这是在发呆。[%p]
+
+JA [name]ユーノ[line]ふぅん‥‥結婚しないんだ。[%p]
+ZH [name]优诺[line]哼——……你不会结婚的对吧。[%p]
+
+JA [name]たくや[line]しない。[%p]
+ZH [name]拓也[line]不会。[%p]
+
+JA [name]ユーノ[line]ふぅん‥‥そっか。[%p]
+ZH [name]优诺[line]哼——……是吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]‥‥ね。[%p]
+ZH [name]优诺[line]……呐。[%p]
+
+JA [name]たくや[line]ん。[%p]
+ZH [name]拓也[line]嗯。[%p]
+
+JA [name]ユーノ[line]他に、結婚したいって女のヒト、いないの?[%p]
+ZH [name]优诺[line]你有没有，别的，想要跟她结婚的女性啊？[%p]
+
+JA [name]たくや[line]いないよ。[%p]
+ZH [name]拓也[line]没有啊。[%p]
+
+JA [name]ユーノ[line]さっきのヒトは?[%p]
+ZH [name]优诺[line]刚才的那个人呢？[%p]
+
+JA [name]たくや[line]絵里子先生? 彼女は俺の先生だった女性だよ。[%p]
+ZH [name]拓也[line]绘里子老师？　那个人是我的老师哦。[%p]
+
+JA [name]ユーノ[line]じゃあ、結婚する?[%p]
+ZH [name]优诺[line]那么，会结婚吗？[%p]
+
+JA [name]たくや[line]しない![%p]
+ZH [name]拓也[line]不会！[%p]
+
+JA [name]ユーノ[line]ふぅん‥‥じゃあ、結婚相手、いないね。[%p]
+ZH [name]优诺[line]哼——……那么，结婚对象，你也没有吧。[%p]
+
+JA [name]たくや[line]いないよ‥‥残念なことにな。[%p]
+ZH [name]拓也[line]也没有哦……真是很遗憾啊。[%p]
+
+JA [name]ユーノ[line]じゃ、ユーノがお嫁さんになってあげる。[%p]
+ZH [name]优诺[line]那么，就让优诺来给你当新娘子吧。[%p]
+
+JA [name]たくや[line]ぐぅ、ぐぅ。[%p]
+ZH [name]拓也[line]唔，唔。[%p]
+
+JA [name]ユーノ[line]ちょっとぉ。[%p]
+ZH [name]优诺[line]真是的啊。[%p]
+
+JA [name]たくや[line]つまらんこと言ってないで、さっさと寝ろ。[%p]
+ZH [name]拓也[line]别再说这种无聊的话了，你快点睡觉吧。[%p]
+
+JA [name]ユーノ[line]フン、だ。[%p]
+ZH [name]优诺[line]哼，鬼脸。[%p]
+
+JA [name]たくや[line]鼻息が顔にかかって、くすぐったいぞ。[%p]
+ZH [name]拓也[line]你的鼻子在我脸上呼气，弄得我好痒啊。[%p]
+
+JA [name]ユーノ[line]フン、フン、フン。[%p]
+ZH [name]优诺[line]哼，哼，哼。[%p]
+
+JA [name]たくや[line]だぁぁっ、やめいっつうに。[%p]
+ZH [name]拓也[line]哇啊啊，别再玩了啦。[%p]
+
+JA [name]ユーノ[line]フフ‥‥。[%p]
+ZH [name]优诺[line]呵呵……。[%p]
+
+JA [name]たくや[line]はは‥‥。[%p]
+ZH [name]拓也[line]哈哈……。[%p]
+
+JA [name]ユーノ[line]‥‥‥‥。[%p]
+ZH [name]优诺[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]ユーノ[line]‥‥ねぇ。[%p]
+ZH [name]优诺[line]……呐。[%p]
+
+JA [name]たくや[line]ん?[%p]
+ZH [name]拓也[line]嗯？[%p]
+
+JA [name]ユーノ[line]ずっとずっと、ずーっと、一緒にいようよ‥‥もう離れたくないよ。[%p]
+ZH [name]优诺[line]我们永远永远，永——远，都要在一起哦……我不要再分离了哦。[%p]
+
+JA [name]たくや[line]ああ。ずっと一緒にいよう。[%p]
+ZH [name]拓也[line]啊啊。永远都要在一起哦。[%p]
+
+JA [name]ユーノ[line]約束よ‥‥。[%p]
+ZH [name]优诺[line]约好了哦……。[%p]
+
+JA [name]たくや[line]約束だ。[%p]
+ZH [name]拓也[line]约好了。[%p]
+
+JA [name]ユーノ[line]本当に?[%p]
+ZH [name]优诺[line]真的吗？[%p]
+
+JA [name]たくや[line]俺が今まで、ユーノに嘘をついたこと、あったか?[%p]
+ZH [name]拓也[line]到现在为止，我有对优诺说过什么谎话吗？[%p]
+
+JA [name]ユーノ[line]ううん‥‥一度も。[%p]
+ZH [name]优诺[line]没有……一次也没有。[%p]
+
+JA [name]たくや[line]だろう。[%p]
+ZH [name]拓也[line]对吧。[%p]
+
+JA [name]ユーノ[line]うん‥‥助けに来るって言ったら、必ず来るもの。[%p]
+ZH [name]优诺[line]嗯……说了会来救我的话，就一定会来救我的呢。[%p]
+
+JA [name]たくや[line]そうさ。[%p]
+ZH [name]拓也[line]是的。[%p]
+
+JA [name]ユーノ[line]パパ‥‥。[%p]
+ZH [name]优诺[line]爸爸‥‥。[%p]
+
+JA [name]たくや[line]ずっと一緒にいよう。例え世界が滅びても、俺はお前を守る。[%p]
+ZH [name]拓也[line]我们要永远在一起。即使是世界毁灭了，我也一定会守护你的。[%p]
+
+JA [name]ユーノ[line]うん‥‥。[%p]
+ZH [name]优诺[line]嗯……。[%p]
+
+JA [name]たくや[line]もう寝ろ。[%p]
+ZH [name]拓也[line]快点睡吧。[%p]
+
+JA [name]ユーノ[line]うん。[%p]
+ZH [name]优诺[line]唔嗯。[%p]
+
+JA [name]たくや[line](そうさ‥‥。)[%p]
+ZH [name]拓也[line](（对了……。）。)[%p]
+
+JA [name]たくや[line](例えユーノが、巫女だろうと‥‥。)[%p]
+ZH [name]拓也[line](（即使，优诺是巫女也好……。）。)[%p]
+
+JA [name]たくや[line](ユーノには幸せになる権利があるんだ。)[%p]
+ZH [name]拓也[line](（对于优诺来说也有幸福的权利。）。)[%p]
+
+JA [name]たくや[line](だが、もし‥‥。)[%p]
+ZH [name]拓也[line](（但是，万一……。）。)[%p]
+
+JA [name]たくや[line](もしも、ユーノが‥‥。)[%p]
+ZH [name]拓也[line](（万一，优诺要……。）。)[%p]
+
+JA [name]たくや[line](いや、そんなことはない。)[%p]
+ZH [name]拓也[line](（不，不会发生那种事的。）。)[%p]
+
+JA [name]たくや[line](例えそうだとしても、俺は絶対に‥‥。)[%p]
+ZH [name]拓也[line](（即使真的万一发生了，我也绝对会……。）。)[%p]
+
+JA [name]たくや[line](《デラ=グラント》が滅びようと‥‥。)[%p]
+ZH [name]拓也[line](《（即使是《德拉＝格兰特》毁灭了……。）。)[%p]
+
+JA [name]たくや[line](俺は‥‥‥‥。)
+ZH [name]拓也[line](（我也…………。）。)
+
+JA [name]たくや[line]それに、絵里子先生の正体も、かなり凄いもんだな‥‥。[%p]
+ZH [name]拓也[line]而且，绘里子老师的真正身份，也相当地了不得啊……。[%p]
+
+JA [name]たくや[line]絵里子先生は、次元監査官とやらで、次元犯罪人の龍蔵寺‥‥を名乗ってるヤツを追っている‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，是次元监察官，正在对次元犯罪人……以龙藏寺为名的那个家伙实施追捕……。[%p]
+
+JA [name]たくや[line]数年前の俺だったら、笑い飛ばしていたかも知れない‥‥。[%p]
+ZH [name]拓也[line]如果是几年前的我的话，说不定会一笑置之吧……。[%p]
+
+JA [name]たくや[line]だが、今は‥‥。[%p]
+ZH [name]拓也[line]但是，现在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]事象測定器‥‥だったかな。[%p]
+ZH [name]拓也[line]是在说……事象测定器吗。[%p]
+
+JA [name]たくや[line]針が震えている‥‥事象素子の流れに乱れがあるってことか。[%p]
+ZH [name]拓也[line]指针正在抖动……这是意味着事象素子的流动发生了紊乱吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そして、《デラ=グラント》が何らかの危機的状況を迎えているって話‥‥。[%p]
+ZH [name]拓也[line]而且，她还说《德拉＝格兰特》正在迎来某种危机的状况……。[%p]
+
+JA [name]たくや[line]確か、歴史を繰り返すとか‥‥そんな話だったか。[%p]
+ZH [name]拓也[line]记得，她好像还说过……历史重演之类的话吧。[%p]
+
+JA [name]たくや[line]いったい、どんな歴史を繰り返してきたんだろうな‥‥。[%p]
+ZH [name]拓也[line]历史，到底是怎么样重演的呢……。[%p]
+
+JA [name]たくや[line]約8千年周期で、同じ歴史を繰り返すって、確かそんな話だった。[%p]
+ZH [name]拓也[line]以大约８千年为周期，相同的历史一再重演，我记得她是这么说的。[%p]
+
+JA [name]たくや[line]8千年‥‥。[%p]
+ZH [name]拓也[line]（８千年……。）。[%p]
+
+JA [name]たくや[line]気の遠くなる周期だよな‥‥。[%p]
+ZH [name]拓也[line]真是相当遥远的周期啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだ‥‥俺は色々と考えたかったんだ。[%p]
+ZH [name]拓也[line]对了……我想了各种各样的事情。[%p]
+
+JA [name]たくや[line]混乱している‥‥まずは1つずつ、整理していきたい。[%p]
+ZH [name]拓也[line]实在是太混乱了……首先，让我来１件１件整理出来吧。[%p]
+
+JA [name]たくや[line]まずは、この世界‥‥《デラ=グラント》。[%p]
+ZH [name]拓也[line]首先，是这个世界……《德拉＝格兰特》。[%p]
+
+JA [name]たくや[line]この世界は、案の定、俺のいた世界とは全く別の次元らしい。[%p]
+ZH [name]拓也[line]这个世界，已经确定，应该是跟我所在的世界完全不同的次元。[%p]
+
+JA [name]たくや[line]だが、絵里子先生に言わせると、ずっと前‥‥。[%p]
+ZH [name]拓也[line]但是，根据绘里子老师说的，在很久以前……。[%p]
+
+JA [name]たくや[line]時間的な過去ではなく、事象レベルで過去にさかのぼれば、同じだったかもしれないって話だ。[%p]
+ZH [name]拓也[line]并不是时间上的过去，据说在事象等级上回溯过去的话，可能会发生同样的的情况。[%p]
+
+JA [name]たくや[line]ここが、俺たちの世界の分岐世界なんじゃないかって‥‥。[%p]
+ZH [name]拓也[line]这里，并不是我们所在世界的分支时间世界吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

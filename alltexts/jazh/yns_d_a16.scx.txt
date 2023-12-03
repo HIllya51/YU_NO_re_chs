@@ -1,0 +1,135 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、真っ暗じゃないか。何も見えないぞ‥‥。[%p]
+ZH [name]拓也[line]可恶，这不是一片漆黑吗。什么都看不到啊……。[%p]
+
+JA [name]たくや[line]懐中電灯があれば‥‥しかし、あいつはイカれちまったしな。[%p]
+ZH [name]拓也[line]要是有手电筒的话……不过，那玩意已经坏掉了啊。[%p]
+
+JA [name]たくや[line]手探り状態で進めってことか‥‥?[%p]
+ZH [name]拓也[line]只能以慢慢摸索的状态前进了吗……？[%p]
+
+JA [name]たくや[line]足下に注意しないとな、何があるかわからな‥‥。[%p]
+ZH [name]拓也[line]一定要小心脚下，都不知道会有什么东西……。[%p]
+
+JA [name]たくや[line]どわっ![%p]
+ZH [name]拓也[line]呃哇！[%p]
+
+JA [name]たくや[line]イテテテ‥‥何か、丸いモンを踏みつけちまったみたいだ。[%p]
+ZH [name]拓也[line]好痛痛痛……感觉好像踩到了什么圆形的东西，。[%p]
+
+JA [name]たくや[line]そいつが転がりやがるから‥‥くそっ。[%p]
+ZH [name]拓也[line]那东西似乎就倒在地上……可恶。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]声がさっきほど響いていないな‥‥しかも床が濡れていない。[%p]
+ZH [name]拓也[line]从刚才开始就没有回音了啊……而且连地面也不再潮湿了。[%p]
+
+JA [name]たくや[line]ってことは‥‥。[%p]
+ZH [name]拓也[line]就是这样……。[%p]
+
+JA [name]たくや[line]面積的に比較的狭い、しかも地下水が浸水していない場所‥‥。[%p]
+ZH [name]拓也[line]是到了一个面积比较狭小，而且也不再渗出地下水的地方了……。[%p]
+
+JA [name]たくや[line]いったい、ここはどこだ‥‥?[%p]
+ZH [name]拓也[line]这里，究竟是哪里呢……？[%p]
+
+JA [name]たくや[line]うわっ、踏んだ床が、下にめり込んだぞ。[%p]
+ZH [name]拓也[line]唔哇，踩到的地面，开始往下陷了。[%p]
+
+JA [name]たくや[line]あっ‥‥しまった![%p]
+ZH [name]拓也[line]啊……糟糕了！[%p]
+
+JA [name]たくや[line]何かのスイッチだったか‥‥!?[%p]
+ZH [name]拓也[line]是什么东西的按钮吗……！？[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥何も起きないな。[%p]
+ZH [name]拓也[line]‥‥什么都没有发生啊。[%p]
+
+JA [name]たくや[line]気のせいだったのかな‥‥?[%p]
+ZH [name]拓也[line]应该是我的错觉吧……？[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]今度は何の音だよ‥‥まったく。[%p]
+ZH [name]拓也[line]刚才的是什么声音……真受不了。[%p]
+
+JA [name]たくや[line]もう、並大抵のことじゃあ、驚かないぜ。[%p]
+ZH [name]拓也[line]行了，这些事已经司空见惯，没什么好怕了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]クンクン‥‥。[%p]
+ZH [name]拓也[line]嗅嗅……。[%p]
+
+JA [name]たくや[line]クンクンクン‥‥。[%p]
+ZH [name]拓也[line]嗅嗅嗅……。[%p]
+
+JA [name]たくや[line]何の匂いだろう‥‥クンクン。[%p]
+ZH [name]拓也[line]是什么气味呢……嗅嗅。[%p]
+
+JA [name]たくや[line]これは‥‥油の匂いだ。中に充満している‥‥。[%p]
+ZH [name]拓也[line]这个……是油的气味。洞穴里充满了这气味……。[%p]
+
+JA [name]たくや[line]火が点いた匂い‥‥。[%p]
+ZH [name]拓也[line]点燃了火的气味……。[%p]
+
+JA [name]たくや[line]あっ‥‥![%p]
+ZH [name]拓也[line]啊……！[%p]
+
+JA [name]たくや[line]!!!!!!????[%p]
+ZH [name]拓也[line]!!!!!!????[%p]
+
+JA [name]たくや[line]わぁぁぁぁっっ!!![%p]
+ZH [name]拓也[line]哇啊啊啊啊！！！[%p]
+
+JA [name]たくや[line]ガ、ガガガ、ガイコツだ‥‥骨だっ!![%p]
+ZH [name]拓也[line]骸，骸骸骸，骸骨……是骸骨！！[%p]
+
+JA [name]たくや[line]ガ、ガイコツが‥‥し、死んでる![%p]
+ZH [name]拓也[line]骸，骸骨……已，已经死了！[%p]
+
+JA [name]たくや[line]お、落ち着け‥‥ガガガガイコツだからな、死んでるのは当たり前だぞ。[%p]
+ZH [name]拓也[line]冷，冷静一点……既既既既然是骸骨的话，肯定就是已经死了的吧。[%p]
+
+JA [name]たくや[line]だ、だけど‥‥なんでガイコツがここにいるんだ!?[%p]
+ZH [name]拓也[line]但，但是……为什么这里会有一副骸骨呢！？[%p]
+
+JA [name]たくや[line]ガガガガ‥‥ガイガイガイ‥‥お、落ち着くんだってば![%p]
+ZH [name]拓也[line]骸骸骸骸……骸骸骸……冷，要冷静一点啊！[%p]
+
+JA [name]たくや[line]落ち着けよ、たくや。落ち着くんだ‥‥。[%p]
+ZH [name]拓也[line]要冷静啊，拓也。你要冷静一点……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥そうだ、落ち着け。よし、少し落ち着いてきたぞ。[%p]
+ZH [name]拓也[line]呼……对了，冷静一点。好的，稍微冷静下来了。[%p]
+
+JA [name]たくや[line]しかし‥‥‥‥。[%p]
+ZH [name]拓也[line]但是…………。[%p]
+
+JA [name]たくや[line]こいつはいったい‥‥‥‥。[%p]
+ZH [name]拓也[line]这个到底是…………。[%p]
+
+JA 
+ZH 
+

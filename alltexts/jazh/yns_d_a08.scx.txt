@@ -1,0 +1,30 @@
+JA [name]たくや[line]行き止まりだ‥‥ここに、妙な絵柄のプレートがある。[%p]
+ZH [name]拓也[line]这里是尽头……这地方，有一块画了奇妙图案的金属板。[%p]
+
+JA [name]美月[line]いったい、あれは何なのかしら‥‥?[%p]
+ZH [name]美月[line]那个，到底是怎么回事呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行き止まりだ‥‥。[%p]
+ZH [name]拓也[line]这里到尽头了……。[%p]
+
+JA [name]美月[line]前もここに来たじゃない‥‥大丈夫?[%p]
+ZH [name]美月[line]我之前不就来过这里吗……没事吧？[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]行き止まりだ‥‥。[%p]
+ZH [name]拓也[line]这里到尽头了……。[%p]
+
+JA [name]美月[line]‥‥とても、向こうには行けそうもないわね。[%p]
+ZH [name]美月[line]……这样的话，是不可能向着旁边走过去呢。[%p]
+
+JA [name]たくや[line]ああ‥‥戻るしかないか。[%p]
+ZH [name]拓也[line]啊啊……也只能回去了吗。[%p]
+
+JA 
+ZH 
+

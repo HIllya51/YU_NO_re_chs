@@ -1,0 +1,54 @@
+JA [name]たくや[line]セーレスのことも気になるが、まずはこの喉の渇きを癒そうぜ。[%p]
+ZH [name]拓也[line]JF:虽然也很在意塞雷斯，但首先要治愈这种口渴。[%p]
+
+JA [name]たくや[line]居間だ。[%p]
+ZH [name]拓也[line]JF:是起居室。[%p]
+
+JA [name]たくや[line]残念ながらキッチンのタンクは壊れているので水を飲めないぜ。[%p]
+ZH [name]拓也[line]JF:很遗憾厨房的水箱坏了，所以不能喝水。[%p]
+
+JA [name]たくや[line]あたりを見回してる場合じゃない‥‥俺は水が飲みたい。[%p]
+ZH [name]拓也[line]现在不是环顾四周的时候……我想喝水。[%p]
+
+JA [name]たくや[line]ここに水はないぜ‥‥。[%p]
+ZH [name]拓也[line]这里没有水……。[%p]
+
+JA [name]たくや[line]水が飲める場所といったら、この辺じゃあそこしかない。[%p]
+ZH [name]拓也[line]说起能喝水的地方，这附近只有那里。[%p]
+
+JA [name]たくや[line]ぜぇ、ぜぇ‥‥。[%p]
+ZH [name]拓也[line]哈啊，哈啊……。[%p]
+
+JA [name]たくや[line]テーブルより、水だよ。[%p]
+ZH [name]拓也[line]比起桌子，先喝水。[%p]
+
+JA [name]たくや[line]テーブルに、水は置いていない。[%p]
+ZH [name]拓也[line]桌子上，没有放着水。[%p]
+
+JA [name]たくや[line]つまり、見てもしょうがないということだ。[%p]
+ZH [name]拓也[line]也就是说，就算看了也无济于事。[%p]
+
+JA [name]たくや[line]だから、そこに水が蓄えられていたんだって。[%p]
+ZH [name]拓也[line]都说了，那里储存着水。[%p]
+
+JA [name]たくや[line]見つめたって、水は出てこないぜ‥‥。[%p]
+ZH [name]拓也[line]就是紧盯着，也不会出水啊……。[%p]
+
+JA [name]たくや[line]水はキッチンのところに蓄えられていた‥‥。[%p]
+ZH [name]拓也[line]水在厨房那里储存着……。[%p]
+
+JA [name]たくや[line]そうだ‥‥外へ行こう。[%p]
+ZH [name]拓也[line]对了……去外面吧。[%p]
+
+JA [name]たくや[line]水は、あの場所にある![%p]
+ZH [name]拓也[line]水在，那个地方！[%p]
+
+JA [name]たくや[line]おいおい、寝室は関係ないだろう。[%p]
+ZH [name]拓也[line]喂喂，寝室没有关系吧。[%p]
+
+JA [name]たくや[line]俺は今、非常に喉が渇いている。[%p]
+ZH [name]拓也[line]我现在，喉咙非常渴。[%p]
+
+JA 
+ZH 
+

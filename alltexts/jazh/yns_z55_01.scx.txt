@@ -1,0 +1,69 @@
+JA [name]たくや[line]セーレスは、家の外に出たみたいだ‥‥。[%p]
+ZH [name]拓也[line]塞蕾斯，好像到家外面去了……。[%p]
+
+JA [name]たくや[line]早く探しに行こうぜ。[%p]
+ZH [name]拓也[line]快点去把她找回来吧。[%p]
+
+JA [name]たくや[line]おいおい、そんな室内を見渡している場合か?[%p]
+ZH [name]拓也[line]喂喂，是观望室内的时候吗？[%p]
+
+JA [name]たくや[line]アイリアの寝室だ‥‥。[%p]
+ZH [name]拓也[line]艾丽娅的寝室……。[%p]
+
+JA [name]たくや[line]質素な内装だな‥‥。[%p]
+ZH [name]拓也[line]朴素的内部装饰……。[%p]
+
+JA [name]たくや[line]アイリアはベッドに寝ている‥‥。[%p]
+ZH [name]拓也[line]艾丽娅在床上睡觉……。[%p]
+
+JA [name]たくや[line]彼女はベッドに寝ている‥‥病気なんだ。[%p]
+ZH [name]拓也[line]她在床上睡觉……由于病痛。[%p]
+
+JA [name]たくや[line]神帝に仕える騎士って話だけど‥‥。[%p]
+ZH [name]拓也[line]关于侍奉神帝的骑士……。[%p]
+
+JA [name]たくや[line]今は寝るときじゃないな‥‥。[%p]
+ZH [name]拓也[line]现在不是睡觉的时候啊……。[%p]
+
+JA [name]たくや[line]セーレスを探しに行くときだ。[%p]
+ZH [name]拓也[line]现在要去找塞蕾斯啊。[%p]
+
+JA [name]たくや[line]今は寝るときじゃない‥‥第一、アイリアが寝ているぞ。[%p]
+ZH [name]拓也[line]现在不是睡觉的时候……首先，艾丽娅在睡。[%p]
+
+JA [name]たくや[line]俺は彼女の剣を借りて、これからセーレスを探しに行こうとしているんだ。[%p]
+ZH [name]拓也[line]我要先借一下她的剑，然后去找塞蕾斯。[%p]
+
+JA [name]たくや[line]よし‥‥部屋を出るぜ。[%p]
+ZH [name]拓也[line]好……出去吧。[%p]
+
+JA [name]アイリア[line]気を付けて行きなさい‥‥。[%p]
+ZH [name]艾丽娅[line]请务必小心……。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]たくや[line]何だか、胸騒ぎがする‥‥。[%p]
+ZH [name]拓也[line]总觉得、有种心慌的感觉……。[%p]
+
+JA [name]たくや[line]アイリアとは、あとでじっくり話し合おう。[%p]
+ZH [name]拓也[line]之后再和艾丽娅慢慢交谈吧。[%p]
+
+JA [name]アイリア[line]どうしたの‥‥?[%p]
+ZH [name]艾丽娅[line]怎么了……？[%p]
+
+JA [name]たくや[line]いや‥‥これから、セーレスを探してくる。[%p]
+ZH [name]拓也[line]没什么……我现在要去找塞蕾斯。[%p]
+
+JA [name]アイリア[line]早くした方がいいわ‥‥ここは[ボーダー]よ。[%p]
+ZH [name]艾丽娅[line]还是快点去比较好……这里可是「边沿」啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とにかく、まず部屋を出るのが先だな。[%p]
+ZH [name]拓也[line]总之，先出门再说吧。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,795 @@
+JA [name]澪[line]ここはいったい‥‥どういうことなの。[%p]
+ZH [name]澪[line]这里到底是……怎么回事呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]仕方ないわ‥‥‥行きましょう。[%p]
+ZH [name]澪[line]没办法了……我们走吧。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そうだ‥‥‥。)[%p]
+ZH [name]拓也[line](（对了……。）。)[%p]
+
+JA [name]たくや[line](俺にはまだ、やらなきゃならないことがあるんだ‥‥‥。)[%p]
+ZH [name]拓也[line](（现在，我还有一件事必须要去做……。）。)[%p]
+
+JA [name]たくや[line](結城のヤツを、助け出さないと‥‥‥。)[%p]
+ZH [name]拓也[line](（结城那家伙，如果不去救他的话……。）。)[%p]
+
+JA [name]たくや[line](美月さんを、何とかして助け出さないと‥‥‥。)[%p]
+ZH [name]拓也[line](（美月，如果不想个办法去救她的话……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](長い道だな‥‥。)[%p]
+ZH [name]拓也[line](（好长的路……。）。)[%p]
+
+JA [name]たくや[line](どこまで続いている‥‥?)[%p]
+ZH [name]拓也[line](（一直延伸到哪里去呢……？）)[%p]
+
+JA [name]たくや[line](まさか、巡り巡って、最初のスタート地点に戻るなんてことにならなきゃいいが‥‥。)[%p]
+ZH [name]拓也[line](（难道说，一直在转圈子，应该不会就这么又走回到最开始的地方了吧……。）。)[%p]
+
+JA [name]たくや[line](あっ‥‥‥。)[%p]
+ZH [name]拓也[line](啊……。)[%p]
+
+JA [name]たくや[line]明るくなってきた‥‥澪![%p]
+ZH [name]拓也[line]开始变亮了……澪！[%p]
+
+JA [name]澪[line]出口だわ![%p]
+ZH [name]澪[line]是出口！[%p]
+
+JA [name]たくや[line]出口‥‥本当に‥‥?[%p]
+ZH [name]拓也[line]出口……真的是……？[%p]
+
+JA [name]澪[line]見てっ、有馬君! あんなに明るいわ! 出口よっ![%p]
+ZH [name]澪[line]你看，有马君！　那么明亮！　肯定就是出口了！[%p]
+
+JA [name]たくや[line]出口なのか‥‥。[%p]
+ZH [name]拓也[line]是出口吗……。[%p]
+
+JA [name]澪[line]明るくなっていくわ‥‥‥出口よ![%p]
+ZH [name]澪[line]开始变得明亮起来了……是出口啊！[%p]
+
+JA [name]たくや[line]行き止まりだ‥‥。[%p]
+ZH [name]拓也[line]这里到尽头了……。[%p]
+
+JA [name]澪[line]ここまで来て‥‥行き止まりだというの!?[%p]
+ZH [name]澪[line]都已经走到这里了……居然会走到尽头！？[%p]
+
+JA [name]澪[line]どうするの‥‥このままじゃ‥‥‥。[%p]
+ZH [name]澪[line]怎么办呢……再这样下去……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どうするんだ‥‥?)[%p]
+ZH [name]拓也[line](怎么做呢‥‥？)[%p]
+
+JA [name]澪[line]ちょっと待ってよ‥‥‥もうちょっと調べましょう。[%p]
+ZH [name]澪[line]等一下……我们再稍微调查一下吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ん‥‥‥あそこは‥‥‥。[%p]
+ZH [name]拓也[line]嗯……那边的是……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]扉だ‥‥。[%p]
+ZH [name]拓也[line]是门……。[%p]
+
+JA [name]澪[line]ここ‥‥もしかしたら、出口なんじゃない?[%p]
+ZH [name]澪[line]这里……难道说，不是出口吗？[%p]
+
+JA [name]たくや[line]よし、一刻も早くここから‥‥‥。[%p]
+ZH [name]拓也[line]好嘞，我们要尽快从这里出去……。[%p]
+
+JA [name]澪[line]‥‥‥ちょっと待って。[%p]
+ZH [name]澪[line]……等一下。[%p]
+
+JA [name]たくや[line]‥‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]澪[line]この偉大な大発見を目の前に、何もせずに帰るというの?[%p]
+ZH [name]澪[line]这个伟大的发现就近在眼前，你居然什么都不做就回去了？[%p]
+
+JA [name]たくや[line]おい。[%p]
+ZH [name]拓也[line]喂。[%p]
+
+JA [name]澪[line]有馬君は何も感じないの? これはもう歴史学‥‥‥ううん、人類史を変える大発見かも知れないのよ。[%p]
+ZH [name]澪[line]有马君你难道什么感觉都没有吗？　这个已经是历史学……不对，可能是能够改变人类史的大发现哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](またマニーの血が騒ぎ出したってわけか‥‥‥。)[%p]
+ZH [name]拓也[line](（狂热者的血又开始骚动了吗……。）。)[%p]
+
+JA [name]たくや[line](こんなところ、早く出たいとか言っていたくせに‥‥‥。)[%p]
+ZH [name]拓也[line](（这种地方，我想说还是尽早脱身比较好……。）。)[%p]
+
+JA [name]澪[line]惜しいわよね‥‥‥。[%p]
+ZH [name]澪[line]实在太可惜了……。[%p]
+
+JA [name]たくや[line]何かヤバい感じだ‥‥‥早く出よう。[%p]
+ZH [name]拓也[line]有种很不好的感觉……快点出去吧。[%p]
+
+JA [name]澪[line]えっ、この歴史上の大発見を目の前にして‥‥‥。[%p]
+ZH [name]澪[line]诶，明明这个历史性的大发现就近在眼前……。[%p]
+
+JA [name]たくや[line]澪![%p]
+ZH [name]拓也[line]JF:澪！[%p]
+
+JA [name]澪[line]‥‥‥わ、わかったわよ。でも、助かったらまた来ますからねっ![%p]
+ZH [name]澪[line]……我，我知道了。不过，要是得救了的话我们要再回来哦！[%p]
+
+JA [name]たくや[line]助かったら、な‥‥‥。[%p]
+ZH [name]拓也[line]要是得救的话，好吧……。[%p]
+
+JA [name]澪[line]この機械の役目って‥‥どういうことよ。[%p]
+ZH [name]澪[line]这个机械的用途……是做什么的呢。[%p]
+
+JA [name]たくや[line]澪の仮説に、極めて近いもんだぜ。[%p]
+ZH [name]拓也[line]是跟澪你的假设，非常接近的东西吧。[%p]
+
+JA [name]澪[line]えっ‥‥?[%p]
+ZH [name]澪[line]诶……？[%p]
+
+JA [name]たくや[line]タペストリーに、遺跡を‥‥この場所を結びつけていたろう。[%p]
+ZH [name]拓也[line]JF:在挂毯上，遗迹……把这个地方联系起来了吧。[%p]
+
+JA [name]澪[line]え、ええ‥‥。[%p]
+ZH [name]澪[line]呃，是的……。[%p]
+
+JA [name]たくや[line]だからさ。[%p]
+ZH [name]拓也[line]（都说过了。）。[%p]
+
+JA [name]澪[line]‥‥わからないわ、言っている意味が。[%p]
+ZH [name]澪[line]……我不明白，你说的是什么意思。[%p]
+
+JA [name]たくや[line]この妙な稼働音は、あそこから聴こえてくるみたいだな‥‥。[%p]
+ZH [name]拓也[line]这个奇怪的运转声音，好像是从那边方向传过来的啊……。[%p]
+
+JA [name]澪[line]この、ブーンという音‥‥?[%p]
+ZH [name]澪[line]这个，嗡——的声音……？[%p]
+
+JA [name]たくや[line]ああ。あの黒い部分からだ。[%p]
+ZH [name]拓也[line]啊啊。是从那个黑色部分传来的。[%p]
+
+JA [name]澪[line]共鳴していて、この場所全体から聞こえてくるみたい。[%p]
+ZH [name]澪[line]现在正在共鸣，好像这里的所有地方都可能听到了呢。[%p]
+
+JA [name]たくや[line]しかも、ピリピリきているぜ。[%p]
+ZH [name]拓也[line]而且，听起来让人感觉麻麻地呢。[%p]
+
+JA [name]澪[line]緊張している‥‥ということ?[%p]
+ZH [name]澪[line]你是说……现在感觉很紧张吗？[%p]
+
+JA [name]たくや[line]違う。物理的に痺れを感じるんだ。見ろよ、俺のスネ毛。[%p]
+ZH [name]拓也[line]不是的。是物理上给人触电一样的感觉。你看，我的腿毛。[%p]
+
+JA [name]澪[line]な、何を言っているのよ。[%p]
+ZH [name]澪[line]你，你在说什么啊。[%p]
+
+JA [name]たくや[line]バカ、逆立っているんだ。澪の髪の毛だって同じだぜ。[%p]
+ZH [name]拓也[line]傻瓜，我是说毛竖起来了。澪的头发也变得一样了。[%p]
+
+JA [name]澪[line]えっ‥‥。[%p]
+ZH [name]澪[line]诶……。[%p]
+
+JA [name]たくや[line]裂いたビニールを布でこすった状態さ。帯電しているんだよ。[%p]
+ZH [name]拓也[line]像是用不布料在裂开的树脂上摩擦的状态。已经带着电了。[%p]
+
+JA [name]澪[line]帯電‥‥?[%p]
+ZH [name]澪[line]带电……？[%p]
+
+JA [name]たくや[line]少しだが暖かい‥‥。[%p]
+ZH [name]拓也[line]稍微有点暖和……。[%p]
+
+JA [name]たくや[line]この機械が稼働している証拠だ‥‥。[%p]
+ZH [name]拓也[line]这就是机械现在在运转的证据……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]触ってみろよ、澪。[%p]
+ZH [name]拓也[line]试着摸摸看吧，澪。[%p]
+
+JA [name]澪[line]ビニールみたいな手触りは、わかっているわ。[%p]
+ZH [name]澪[line]是类似于树脂一样的手感啊，这我已经知道了。[%p]
+
+JA [name]たくや[line]違うよ。熱さ‥‥。[%p]
+ZH [name]拓也[line]不对。是热度……。[%p]
+
+JA [name]澪[line]えっ‥‥?[%p]
+ZH [name]澪[line]诶……？[%p]
+
+JA [name]たくや[line]少し、暖かいぜ‥‥。[%p]
+ZH [name]拓也[line]稍微，有点暖吧……。[%p]
+
+JA [name]澪[line]‥‥本当だわ。暖かい。[%p]
+ZH [name]澪[line]……真的。有点暖呢。[%p]
+
+JA [name]たくや[line]ということは、機械がまだ作動しているってことだ。[%p]
+ZH [name]拓也[line]这也就是说，机械现在还在运转着。[%p]
+
+JA [name]澪[line]何のために‥‥?[%p]
+ZH [name]澪[line]为了什么目的呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そうだな‥‥。)[%p]
+ZH [name]拓也[line](（对啊……。）。)[%p]
+
+JA [name]たくや[line](一番重要な疑問だ‥‥。)[%p]
+ZH [name]拓也[line](（这是最重要的问题……。）。)[%p]
+
+JA [name]たくや[line](何のために稼働しているのか‥‥。)[%p]
+ZH [name]拓也[line](（这是为了什么目的而运转的机械呢……。）。)[%p]
+
+JA [name]たくや[line](三角山の内部‥‥巨大な機械‥‥。)[%p]
+ZH [name]拓也[line](（三角山的内部……巨大的机械……。）。)[%p]
+
+JA [name]たくや[line](重々しい稼働音‥‥そして頻繁に起きる落雷事故。)[%p]
+ZH [name]拓也[line](（沉重的运转声……还有频繁发生的落雷事故。）。)[%p]
+
+JA [name]たくや[line](ビニルコーティングされた機械部分‥‥。)[%p]
+ZH [name]拓也[line](（树脂材料制成的机械部分……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](何となく、わかってきたぞ‥‥。)[%p]
+ZH [name]拓也[line](（总算是，明白了呢……。）。)[%p]
+
+JA [name]澪[line]場所によって、モロい部分とそうでない部分があるわね。[%p]
+ZH [name]澪[line]根据位置的不同，分为易脆的部分和不易脆的部分。[%p]
+
+JA [name]たくや[line]ああ‥‥そうだな。[%p]
+ZH [name]拓也[line]啊啊……是的呢。[%p]
+
+JA [name]たくや[line]しかし‥‥妙な手触りだよな。[%p]
+ZH [name]拓也[line]不过……这手感真是奇怪啊。[%p]
+
+JA [name]たくや[line]サビているせい‥‥とは思えない。これは材質のせいだ。[%p]
+ZH [name]拓也[line]是因为生锈了的缘故……应该不是的。这是因为材质的缘故。[%p]
+
+JA [name]たくや[line]何だか、ビニルコーティングされているような感じだが‥‥。[%p]
+ZH [name]拓也[line]JF:总觉得好像被乙烯基涂层了。[%p]
+
+JA [name]澪[line]‥‥本当だわ。何だか、妙な手触りがする。[%p]
+ZH [name]澪[line]……真的啊。感觉，这手感好奇怪呢。[%p]
+
+JA [name]たくや[line]‥‥何か、意味があるんだろうか。[%p]
+ZH [name]拓也[line]……应该，是有什么意义的吧。[%p]
+
+JA [name]たくや[line]随分と、モロくなっているな‥‥。[%p]
+ZH [name]拓也[line]已经，锈蚀得相当厉害了啊……。[%p]
+
+JA [name]たくや[line]いったい、何のためにあるのかは、わからないけど‥‥。[%p]
+ZH [name]拓也[line]到底，是为了什么目的而设置的呢，真是搞不懂啊……。[%p]
+
+JA [name]たくや[line]場所によっては、随分とボロボロになっているみたいだ‥‥。[%p]
+ZH [name]拓也[line]不同的部位，好像都已经有相当程度的剥落了呢……。[%p]
+
+JA [name]澪[line]まさか、本当に8千年以上、経っているんじゃ‥‥。[%p]
+ZH [name]澪[line]难道说，这东西，真的已经放在这里超过８千年了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]赤茶けてるな‥‥サビているんだろうか。[%p]
+ZH [name]拓也[line]变成红褐色了啊……是因为生锈了的缘故吗。[%p]
+
+JA ボロッ‥‥。[%p]
+ZH 剥落……。[%p]
+
+JA [name]澪[line]触っただけで、砕け散ってしまった‥‥。[%p]
+ZH [name]澪[line]只是轻轻摸一下，就碎片乱掉了……。[%p]
+
+JA [name]たくや[line]場所によっては、随分モロくなっているみたいだ。[%p]
+ZH [name]拓也[line]不同的部位，好像都已经有相当程度的剥落了呢。[%p]
+
+JA [name]たくや[line]もう、壊れているんだろうか‥‥?[%p]
+ZH [name]拓也[line]现在，应该已经坏掉了吧……？[%p]
+
+JA [name]澪[line]でも、重々しい稼働音が聴こえてくるわ‥‥。[%p]
+ZH [name]澪[line]不过，能够听到沉重的运转声啊……。[%p]
+
+JA [name]たくや[line]ああ、聴こえる。[%p]
+ZH [name]拓也[line]啊啊，可以听到。[%p]
+
+JA [name]澪[line]これ‥‥‥この機械が出している音なんじゃないの?[%p]
+ZH [name]澪[line]这声音……难道不是从这个这台机械里面传出来的吗？[%p]
+
+JA [name]たくや[line]そうかも知れないが‥‥。[%p]
+ZH [name]拓也[line]或许是这样没错吧……。[%p]
+
+JA [name]たくや[line](あの女性はいないみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（那位女性好像不在这里……。）。)[%p]
+
+JA [name]たくや[line](あの女性はいないみたいだな‥‥。)[%p]
+ZH [name]拓也[line](（那位女性好像不在这里啊……。）。)[%p]
+
+JA [name]たくや[line](いつだったか、三角山のふもとでオヤジを待っていたとき‥‥。)[%p]
+ZH [name]拓也[line](（是在什么时候呢，我在三角山脚下等待老头子的时候……。）。)[%p]
+
+JA [name]たくや[line](あのとき、俺の目の前で息絶えた、あの女性に似ている‥‥。)[%p]
+ZH [name]拓也[line](（跟那个时候，在我眼前停止了呼吸的，那位女性很相似……。）。)[%p]
+
+JA [name]たくや[line]‥‥あの女性は、いなくなってしまったみたいだな。[%p]
+ZH [name]拓也[line]……那位女性，看样子不在这里啊。[%p]
+
+JA [name]たくや[line]俺の見間違いだったんだろうか‥‥?[%p]
+ZH [name]拓也[line]是我看走眼了吧……？[%p]
+
+JA [name]たくや[line]いや違う。間違いない。彼女を追って、ここへ来たんだ‥‥。[%p]
+ZH [name]拓也[line]不对。我没弄错。我是追在她的身后，才到这里来的……。[%p]
+
+JA [name]澪[line]どんな感じの人なの‥‥?[%p]
+ZH [name]澪[line]是怎么样的一个人呢……？[%p]
+
+JA [name]たくや[line]金髪で、優しそうな笑みを浮かべていた‥‥。[%p]
+ZH [name]拓也[line]一头金发，嘴边挂着看上去很温柔的微笑……。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]近くにいると、安心するような‥‥。[%p]
+ZH [name]拓也[line]靠近之后，会觉得让人很安心啊……。[%p]
+
+JA [name]澪[line]フン、私はどうせ優しそうじゃないわよ。[%p]
+ZH [name]澪[line]哼，反正我就是温柔不起来嘛。[%p]
+
+JA [name]たくや[line]‥‥何を言っている。[%p]
+ZH [name]拓也[line]……他在说什么啊。[%p]
+
+JA [name]たくや[line]逆方向へ鋭角に倒れ込んでいる急斜面だ‥‥。[%p]
+ZH [name]拓也[line]向着反方向以锐角形式倒在那里的斜坡……。[%p]
+
+JA [name]たくや[line]しかも高い‥‥登るなんてのは、現実的じゃないな。[%p]
+ZH [name]拓也[line]而且还很高……想要爬上去什么的，根本不现实啊。[%p]
+
+JA [name]たくや[line]絶壁のような岩の壁が、はるか上方までつながっているな‥‥。[%p]
+ZH [name]拓也[line]看上去像是绝壁一样的岩壁，一直延续到上面位置……。[%p]
+
+JA [name]澪[line]これを外から見たのが、剣ノ岬ということね‥‥。[%p]
+ZH [name]澪[line]从这里出去的话，貌似就是剑之岬了呢……。[%p]
+
+JA [name]たくや[line]多分、な。[%p]
+ZH [name]拓也[line]大概，吧。[%p]
+
+JA [name]澪[line]惜しいわよね‥‥‥。[%p]
+ZH [name]澪[line]实在太可惜了……。[%p]
+
+JA [name]たくや[line]何かヤバい感じだ‥‥‥早く出よう。[%p]
+ZH [name]拓也[line]有种很不好的感觉……快点出去吧。[%p]
+
+JA [name]澪[line]えっ、この歴史上の大発見を目の前にして‥‥‥。[%p]
+ZH [name]澪[line]诶，明明这个历史性的大发现就近在眼前……。[%p]
+
+JA [name]たくや[line]澪![%p]
+ZH [name]拓也[line]JF:澪！[%p]
+
+JA [name]澪[line]‥‥‥わ、わかったわよ。でも、助かったらまた来ますからねっ![%p]
+ZH [name]澪[line]……我，我知道了。不过，要是得救了的话我们要再回来哦！[%p]
+
+JA [name]たくや[line]助かったら、な‥‥‥。[%p]
+ZH [name]拓也[line]要是得救的话，好吧……。[%p]
+
+JA [name]澪[line]この機械の役目って‥‥どういうことよ。[%p]
+ZH [name]澪[line]这个机械的用途……是做什么的呢。[%p]
+
+JA [name]たくや[line]澪の仮説に、極めて近いもんだぜ。[%p]
+ZH [name]拓也[line]是跟澪你的假设，非常接近的东西吧。[%p]
+
+JA [name]澪[line]えっ‥‥?[%p]
+ZH [name]澪[line]诶……？[%p]
+
+JA [name]たくや[line]タペストリーに、遺跡を‥‥この場所を結びつけていたろう。[%p]
+ZH [name]拓也[line]JF:在挂毯上，遗迹……把这个地方联系起来了吧。[%p]
+
+JA [name]澪[line]え、ええ‥‥。[%p]
+ZH [name]澪[line]呃，是的……。[%p]
+
+JA [name]たくや[line]だからさ。[%p]
+ZH [name]拓也[line]（都说过了。）。[%p]
+
+JA [name]澪[line]‥‥わからないわ、言っている意味が。[%p]
+ZH [name]澪[line]……我不明白，你说的是什么意思。[%p]
+
+JA [name]たくや[line]この妙な稼働音は、あそこから聴こえてくるみたいだな‥‥。[%p]
+ZH [name]拓也[line]这个奇怪的运转声音，好像是从那边方向传过来的啊……。[%p]
+
+JA [name]澪[line]この、ブーンという音‥‥?[%p]
+ZH [name]澪[line]这个，嗡——的声音……？[%p]
+
+JA [name]たくや[line]ああ。あの黒い部分からだ。[%p]
+ZH [name]拓也[line]啊啊。是从那个黑色部分传来的。[%p]
+
+JA [name]澪[line]共鳴していて、この場所全体から聞こえてくるみたい。[%p]
+ZH [name]澪[line]现在正在共鸣，好像这里的所有地方都可能听到了呢。[%p]
+
+JA [name]たくや[line]しかも、ピリピリきているぜ。[%p]
+ZH [name]拓也[line]而且，听起来让人感觉麻麻地呢。[%p]
+
+JA [name]澪[line]緊張している‥‥ということ?[%p]
+ZH [name]澪[line]你是说……现在感觉很紧张吗？[%p]
+
+JA [name]たくや[line]違う。物理的に痺れを感じるんだ。見ろよ、俺のスネ毛。[%p]
+ZH [name]拓也[line]不是的。是物理上给人触电一样的感觉。你看，我的腿毛。[%p]
+
+JA [name]澪[line]な、何を言っているのよ。[%p]
+ZH [name]澪[line]你，你在说什么啊。[%p]
+
+JA [name]たくや[line]バカ、逆立っているんだ。澪の髪の毛だって同じだぜ。[%p]
+ZH [name]拓也[line]傻瓜，我是说毛竖起来了。澪的头发也变得一样了。[%p]
+
+JA [name]澪[line]えっ‥‥。[%p]
+ZH [name]澪[line]诶……。[%p]
+
+JA [name]たくや[line]裂いたビニールを布でこすった状態さ。帯電しているんだよ。[%p]
+ZH [name]拓也[line]像是用不布料在裂开的树脂上摩擦的状态。已经带着电了。[%p]
+
+JA [name]澪[line]帯電‥‥?[%p]
+ZH [name]澪[line]带电……？[%p]
+
+JA [name]たくや[line]どうもあれが本体らしいな‥‥。[%p]
+ZH [name]拓也[line]看样子那个就是本体啊……。[%p]
+
+JA [name]たくや[line]何のためなのかは、わからないが‥‥。[%p]
+ZH [name]拓也[line]为了什么目的而设置的呢，完全搞不懂啊……。[%p]
+
+JA [name]たくや[line]ざっと見渡した限りじゃ、あの黒い棒が、どうもこの機械の本体らしいな‥‥。[%p]
+ZH [name]拓也[line]在大致地观望了之后发现，那根黑色的柱子，应该就是这台机械的本体了……。[%p]
+
+JA [name]たくや[line]この耳障りな駆動音も、あそこから聴こえてくるしな‥‥。[%p]
+ZH [name]拓也[line]这阵刺耳的运转声音，也是从那地方传出来的……。[%p]
+
+JA [name]澪[line]でも、そうすると‥‥。[%p]
+ZH [name]澪[line]不过，这样的话……。[%p]
+
+JA [name]たくや[line]ん‥‥?[%p]
+ZH [name]拓也[line]嗯……？[%p]
+
+JA [name]澪[line]この機械、少なく見積もっても8千年以上稼働していたことにならない?[%p]
+ZH [name]澪[line]这台机械，少说也起码需要运转超过８千年以上？[%p]
+
+JA [name]たくや[line]そうなんだろう、多分。[%p]
+ZH [name]拓也[line]可能是这样吧，大概。[%p]
+
+JA [name]澪[line]そんな非常識な‥‥。[%p]
+ZH [name]澪[line]太不合情理了……。[%p]
+
+JA [name]たくや[line]知らなかったのか‥‥?[%p]
+ZH [name]拓也[line]你还不懂吗……？[%p]
+
+JA [name]澪[line]‥‥‥え?[%p]
+ZH [name]澪[line]……诶？[%p]
+
+JA [name]たくや[line]ここじゃ、常識って単語は通用しないんだ。[%p]
+ZH [name]拓也[line]这个地方，常识这种单词是无法通用的。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]いったい何だろうな、あの黒い棒は‥‥。[%p]
+ZH [name]拓也[line]到底是什么呢，这根黑色的柱子……。[%p]
+
+JA [name]たくや[line]上の方まで、そびえ立っている‥‥。[%p]
+ZH [name]拓也[line]一直到顶上，高高地耸立着……。[%p]
+
+JA [name]たくや[line]黒い柱か‥‥しかも、光沢を放っている。[%p]
+ZH [name]拓也[line]黑色柱子吗……而且，还在放射着光芒。[%p]
+
+JA [name]たくや[line]金属かも知れないな‥‥‥。[%p]
+ZH [name]拓也[line]说不定是金属啊……。[%p]
+
+JA [name]澪[line]そんな、金属に光沢を出すくらいの研磨技術が、大昔にあるはずないわ。[%p]
+ZH [name]澪[line]怎么可能，能让金属放射出光芒的研磨技术，这么早以前是不可能存在的。[%p]
+
+JA [name]たくや[line]その理屈だったら、この機械の存在そのものが、否定されることになるぜ。[%p]
+ZH [name]拓也[line]按照你这种理论的话，这台机械是真实存在的事实，也会被予以否认了呢。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]上の方は明るいみたいだ‥‥。[%p]
+ZH [name]拓也[line]上面好像很明亮……。[%p]
+
+JA [name]たくや[line]もしかして、もう夜が明けているんだろうか‥‥?[%p]
+ZH [name]拓也[line]莫非，现在夜晚已经过去了吗……？[%p]
+
+JA [name]澪[line]ね。[%p]
+ZH [name]澪[line]呐。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]澪[line]上の方、結構明るくない?[%p]
+ZH [name]澪[line]上面，不是很明亮吗？[%p]
+
+JA [name]たくや[line]ああ、明るい。[%p]
+ZH [name]拓也[line]啊啊，很明亮。[%p]
+
+JA [name]澪[line]もしかしたら、外へつながっているのかも知れないわ‥‥。[%p]
+ZH [name]澪[line]说不定，这里是跟外面相通的啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]‥‥ねぇ、どうしたのよ。[%p]
+ZH [name]澪[line]……呐，你怎么了啊。[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]澪[line]さっきから、ずっと上を見つめているわ‥‥。[%p]
+ZH [name]澪[line]从刚才开始，你就一直盯着上面看啊……。[%p]
+
+JA [name]たくや[line]ああ。何となく、こいつの役目がわかったのさ。[%p]
+ZH [name]拓也[line]啊啊。总觉得，我应该知道这东西的用处。[%p]
+
+JA [name]澪[line]この機械の‥‥役目がわかった?[%p]
+ZH [name]澪[line]你知道……这台机械的用处？[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]澪[line]‥‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]あまり目をこらして見ない方がいいな‥‥。[%p]
+ZH [name]拓也[line]还是不要再盯着看了比较好……。[%p]
+
+JA [name]たくや[line]あの光を直視すると、目が眩んでしまう‥‥。[%p]
+ZH [name]拓也[line]直视这道光的话，眼睛会变得晃眼起来……。[%p]
+
+JA [name]たくや[line]いったいどのくらいの高さが‥‥。[%p]
+ZH [name]拓也[line]这个到底有多高呢……。[%p]
+
+JA [name]たくや[line]うわっ! な、何だ!?[%p]
+ZH [name]拓也[line]唔哇！　怎，怎么了！？[%p]
+
+JA [name]たくや[line]すさまじい光を発したような気が‥‥。[%p]
+ZH [name]拓也[line]好像发出了很刺眼的光线……。[%p]
+
+JA [name]澪[line]だ、大丈夫?[%p]
+ZH [name]澪[line]没，没事吧？[%p]
+
+JA [name]たくや[line]ああ‥‥ちょっと待ってくれ。視力が今、戻る。[%p]
+ZH [name]拓也[line]啊啊……稍微等一下。现在，视力正在恢复。[%p]
+
+JA [name]澪[line]ストロボをたいたみたいに、一瞬光ったわ。なんだったの?[%p]
+ZH [name]澪[line]像是闪光灯闪了一下似的，一瞬间的光线。怎么回事呢？[%p]
+
+JA [name]たくや[line]‥‥目が眩んだよ。[%p]
+ZH [name]拓也[line]……眼睛好晃眼。[%p]
+
+JA [name]澪[line]上の方だったわ。[%p]
+ZH [name]澪[line]是在头顶上啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]ねぇ、有馬君‥‥思い出さない?[%p]
+ZH [name]澪[line]呐，有马君……你想不起来了吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]龍蔵寺先生のご自宅で見た、あの‥‥。[%p]
+ZH [name]澪[line]龙藏寺老师的宅子里看过的，那幅……。[%p]
+
+JA [name]たくや[line]ああ‥‥そうだな。[%p]
+ZH [name]拓也[line]啊啊……是的呢。[%p]
+
+JA [name]たくや[line](輝く光‥‥。)[%p]
+ZH [name]拓也[line](（光芒四射……。）。)[%p]
+
+JA [name]たくや[line](そしてそのとき、人々は苦しむ‥‥?)[%p]
+ZH [name]拓也[line](（而与此同时，人们饱受苦难……？）)[%p]
+
+JA [name]たくや[line]いったいあそこまで、どのくらいの高さがあるんだろう‥‥。[%p]
+ZH [name]拓也[line]到那个地方，究竟有多少高度呢……。[%p]
+
+JA [name]たくや[line]もの凄い高さだな‥‥。[%p]
+ZH [name]拓也[line]感觉非常地高啊……。[%p]
+
+JA [name]たくや[line]ここが、三角山‥‥剣ノ岬の内側だったら話はわかるが。[%p]
+ZH [name]拓也[line]这里，如果是三角山……剑之岬内侧的话就明白了。[%p]
+
+JA [name]澪[line]信じられないわ‥‥。[%p]
+ZH [name]澪[line]简直不敢相信……。[%p]
+
+JA [name]澪[line]どうやって、ここを見つけたの?[%p]
+ZH [name]澪[line]你是怎样，发现这个地方的呢？[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]澪[line]だって、あれだけ2人で探して‥‥もっとも、私たちの探した場所なんて、ほんの一部分だけど。[%p]
+ZH [name]澪[line]因为，我们只有２个人在找……而且，我们找过的地方，其实也只有一小部分而已。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]偶然‥‥じゃないわよね。[%p]
+ZH [name]澪[line]并不是……偶然吧。[%p]
+
+JA [name]たくや[line]偶然じゃない。[%p]
+ZH [name]拓也[line]不是偶然。[%p]
+
+JA [name]澪[line]じゃあ、どうやって見つけたの?[%p]
+ZH [name]澪[line]那么，你是怎么发现的呢？[%p]
+
+JA [name]たくや[line]ある女性を追ってきたんだ。[%p]
+ZH [name]拓也[line]我是追着某位女性而来的。[%p]
+
+JA [name]澪[line]女性‥‥?[%p]
+ZH [name]澪[line]女性……？[%p]
+
+JA [name]たくや[line]そう。目の前に現れて‥‥まるで俺を誘うように。後をついてきたら、ここへ出たのさ。[%p]
+ZH [name]拓也[line]是的。出现在我的眼前……简直像是在邀请我似的。我跟在她的身后，就到了这里。[%p]
+
+JA [name]澪[line]‥‥人がいるというの?[%p]
+ZH [name]澪[line]……你是说这里有人吗？[%p]
+
+JA [name]たくや[line]人かどうかは、わからない。[%p]
+ZH [name]拓也[line]是不是有人，我也不清楚。[%p]
+
+JA [name]澪[line]だって、さっき女性って‥‥。[%p]
+ZH [name]澪[line]可是，刚才你说有个女性……。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]澪[line]でも、人じゃないというの‥‥?[%p]
+ZH [name]澪[line]可是，你是说她不是人吗……？[%p]
+
+JA [name]たくや[line]そう。[%p]
+ZH [name]拓也[line]是的。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]‥‥とりあえず、今はもう少し、こいつを調べてみないか?[%p]
+ZH [name]拓也[line]……总之，现在，我们要不要再稍微多调查一下这里呢？[%p]
+
+JA [name]澪[line]ええ‥‥そうね。[%p]
+ZH [name]澪[line]是啊……也对呢。[%p]
+
+JA [name]澪[line]ここって‥‥いったい何なの。[%p]
+ZH [name]澪[line]这里……到底是怎么回事呢。[%p]
+
+JA [name]たくや[line]三角山の地下、らしいぜ。[%p]
+ZH [name]拓也[line]貌似，是三角山的地下吧。[%p]
+
+JA [name]澪[line]そんなことは、わかって‥‥はっ。[%p]
+ZH [name]澪[line]这种事，我知道啊……哈。[%p]
+
+JA [name]たくや[line]そう。どうやら澪の仮説は正しかったみたいだな。[%p]
+ZH [name]拓也[line]对了。澪你的假设好像确实是正确的啊。[%p]
+
+JA [name]澪[line]‥‥嘘よ![%p]
+ZH [name]澪[line]……骗人！[%p]
+
+JA [name]たくや[line]おいおい、自分で立てた仮説だろう。[%p]
+ZH [name]拓也[line]喂喂，那是你自己作出的假设吧。[%p]
+
+JA [name]澪[line]だって‥‥こんなこと‥‥大発見なんてもんじゃないわ。これって、何かの冗談よ。[%p]
+ZH [name]澪[line]因为……这种地方……并不算是什么大发现吧。这里，就像是什么玩笑似的啊。[%p]
+
+JA [name]たくや[line]だったらいいな。さしずめ、巨大ハリボテか。[%p]
+ZH [name]拓也[line]如果是这样就好了。眼前的，是巨大的道具吗。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]わかってるわ‥‥現実よ、これは私たちの目の前にある。[%p]
+ZH [name]澪[line]我明白的……这是现实，现在这个就在我们俩的眼前。[%p]
+
+JA [name]たくや[line]そうらしい。[%p]
+ZH [name]拓也[line]好像是这样的。[%p]
+
+JA [name]澪[line]自分の目が信じられないわ。剣ノ岬が、実は機械でできた、巨大な建造物‥‥?[%p]
+ZH [name]澪[line]我简直没办法相信自己的眼睛。剑之岬，其实是用机械建造的，巨大建筑物……？[%p]
+
+JA [name]たくや[line]誰も信じないさ‥‥。[%p]
+ZH [name]拓也[line]谁都无法相信啊……。[%p]
+
+JA [name]澪[line]だって‥‥8千年以上前なのよ、あり得ないわ。[%p]
+ZH [name]澪[line]可是……那可是超过８千年以上了啊，难以置信。[%p]
+
+JA [name]たくや[line]既存の学説を否定せずして、科学の発展はありえない‥‥って、さっき言わなかったか?[%p]
+ZH [name]拓也[line]不对既存的学说加以否定的话，科学就不可能发展起来……这话，不是你刚才说的吗？[%p]
+
+JA [name]澪[line]そ、それはそうだけど‥‥でも、非常識すぎるわ。[%p]
+ZH [name]澪[line]话，话虽然这么说……但是，这实在太脱离常识了。[%p]
+
+JA [name]たくや[line]ま、違いない。これだけ非常識なのは、俺も初めて見る。[%p]
+ZH [name]拓也[line]嘛，你说得没错。这么脱离常识的事，我也是第一次看到。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](今川教授が追っていたのは、これだったのか‥‥?)[%p]
+ZH [name]拓也[line](（今川教授所追寻的，就是这个东西吗……？）)[%p]
+
+JA [name]たくや[line](巨大なマシン‥‥?)[%p]
+ZH [name]拓也[line](（巨大的机械……？）)[%p]
+
+JA [name]たくや[line](8千年以上昔に作られた‥‥?)[%p]
+ZH [name]拓也[line](（在８千年以前被建造出来……？）)[%p]
+
+JA [name]澪[line]じゃあ、百歩ゆずって、これが8千年以上前に作られた機械とするわ。[%p]
+ZH [name]澪[line]那么，退一万步讲，假设这个确实是８千年以前制造出来的机械。[%p]
+
+JA [name]たくや[line]ああ。[%p]
+ZH [name]拓也[line]啊啊。[%p]
+
+JA [name]澪[line]だったらここは、いったい何のために作られたの?[%p]
+ZH [name]澪[line]这样的话，这里究竟是为了什么目的被而建造出来的？[%p]
+
+JA [name]たくや[line]俺も今、それを考えていた。[%p]
+ZH [name]拓也[line]现在，我也在思考这个问题。[%p]
+
+JA [name]澪[line]何のために、こんな塔みたいな機械が必要なのよ。[%p]
+ZH [name]澪[line]是为了什么目的，有必要建造这座像塔一样的机械。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](確かに澪の言う通りだ‥‥。)[%p]
+ZH [name]拓也[line](（确实正如澪所说的……。）。)[%p]
+
+JA [name]たくや[line](いったい何のために作られたんだ‥‥?)[%p]
+ZH [name]拓也[line](（到底是为了什么目的建造出来的呢……？）)[%p]
+
+JA [name]澪[line]だって、これってどう見ても‥‥。[%p]
+ZH [name]澪[line]因为，这地方不管怎么看……。[%p]
+
+JA [name]たくや[line]自然にできたものには見えないな。[%p]
+ZH [name]拓也[line]怎么也看不出是自然形成的东西啊。[%p]
+
+JA [name]澪[line]機械みたい‥‥しかもこんなの、初めて見るわ。[%p]
+ZH [name]澪[line]好像是机械……而且这样子的，还是第一次看到。[%p]
+
+JA [name]たくや[line]俺もだ。[%p]
+ZH [name]拓也[line]我也是。[%p]
+
+JA [name]たくや[line](機械‥‥‥。)[%p]
+ZH [name]拓也[line](（机械……。）。)[%p]
+
+JA [name]たくや[line](なぜこんなのが、ここに‥‥?)[%p]
+ZH [name]拓也[line](（为什么，这种东西会在这里……？）)[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないようだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

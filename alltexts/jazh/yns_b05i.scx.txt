@@ -1,0 +1,144 @@
+JA [name]神奈[line]‥‥その封書が、なにか?[%p]
+ZH [name]神奈[line]……这封信，是什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そうだよな[オヤジの手紙]を見せても、しょうがないぜ。)[%p]
+ZH [name]拓也[line](（对啊，就算把［父亲的信］给她看了，也没什么用呢。）。)[%p]
+
+JA [name]神奈[line]‥‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]‥‥私のです。[%p]
+ZH [name]神奈[line]……这是我的。[%p]
+
+JA [name]神奈[line]どこかで落としてしまったようです‥‥どうもありがとうございました。[%p]
+ZH [name]神奈[line]好像是掉在什么地方了……真是非常感谢你的帮助。[%p]
+
+JA [name]神奈[line]あっ‥‥‥。[%p]
+ZH [name]神奈[line]啊……。[%p]
+
+JA [name]たくや[line]拾ったんだ。これ、神奈チャンのだろう?[%p]
+ZH [name]拓也[line]这是我捡到的。这个，是小神奈的吧？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line](‥‥‥あれ、違ったか?)[%p]
+ZH [name]拓也[line](（……咦，搞错了吗？）)[%p]
+
+JA [name]たくや[line](でも、名前は[波多乃神奈]ってなっているし‥‥。)[%p]
+ZH [name]拓也[line](（不过，上面的名字确实是［波多乃神奈］……。）。)[%p]
+
+JA [name]神奈[line]‥‥私のです。ありがとうございました。[%p]
+ZH [name]神奈[line]……这是我的。真是非常感谢。[%p]
+
+JA [name]たくや[line]ああ、やっぱり。[%p]
+ZH [name]拓也[line]啊啊，果然。[%p]
+
+JA [name]神奈[line]‥‥中、見ましたか?[%p]
+ZH [name]神奈[line]……里面，你看了吗？[%p]
+
+JA [name]たくや[line]えっ‥‥?[%p]
+ZH [name]拓也[line]诶……？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]たくや[line]そんなこと、しないぜ。プライバシーに立ち入るつもりはないよ。[%p]
+ZH [name]拓也[line]那种事，我不会做的。我可没打算干涉别人的私生活。[%p]
+
+JA [name]神奈[line]そうですか‥‥ありがとう、有馬さん。[%p]
+ZH [name]神奈[line]是吗……谢谢了，有马同学。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](これで、良かったのかな‥‥?)[%p]
+ZH [name]拓也[line](（这样，好吗……？）)[%p]
+
+JA [name]神奈[line]‥‥私の、ですね。[%p]
+ZH [name]神奈[line]……这是，我的。[%p]
+
+JA [name]たくや[line]えっ、そ、そうかな。[%p]
+ZH [name]拓也[line]诶，这，这样啊。[%p]
+
+JA [name]神奈[line]だって、名前が書いてあります。[%p]
+ZH [name]神奈[line]因为，上面写着名字啊。[%p]
+
+JA [name]たくや[line]‥‥そうそう、そうだった。[%p]
+ZH [name]拓也[line]……是的是的，你说得没错。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ここで渡して、良かったんだろうか‥‥‥?)[%p]
+ZH [name]拓也[line](（就这样交给她，好吗……？）)[%p]
+
+JA [name]神奈[line]そのカギが、なにか‥‥‥?[%p]
+ZH [name]神奈[line]这把钥匙，是什么……？[%p]
+
+JA [name]神奈[line]‥‥‥私のではありません。[%p]
+ZH [name]神奈[line]……这不是我的东西。[%p]
+
+JA [name]神奈[line]‥‥‥‥‥‥。[%p]
+ZH [name]神奈[line]………………。[%p]
+
+JA [name]神奈[line]‥‥‥‥‥‥。[%p]
+ZH [name]神奈[line]………………。[%p]
+
+JA [name]神奈[line]以前は剣の道を進んでいたみたいですね‥‥‥。[%p]
+ZH [name]神奈[line]据说你以前在曾经剑道上努力过呢……。[%p]
+
+JA [name]神奈[line]同級生から聞いています。[%p]
+ZH [name]神奈[line]我是从同级生那里听来的。[%p]
+
+JA [name]神奈[line]‥‥面白いモノを持ち歩いているんですね。[%p]
+ZH [name]神奈[line]……你随身携带着有趣的东西呢。[%p]
+
+JA [name]神奈[line]‥‥それがどうかしたんですか?[%p]
+ZH [name]神奈[line]……这东西怎么了吗？[%p]
+
+JA [name]神奈[line]有馬さんって、勉強家なんですね。[%p]
+ZH [name]神奈[line]有马同学，真是个勤奋好学的人呢。[%p]
+
+JA [name]神奈[line]だって、そんなに難しそうな書類をたくさん持っていますから。[%p]
+ZH [name]神奈[line]因为，你还随身携带着大量这么难懂的文件啊。[%p]
+
+JA [name]神奈[line]‥‥海岸の現場監督ですか、その男性。[%p]
+ZH [name]神奈[line]……是海岸的现场监督吗，那位男性。[%p]
+
+JA [name]神奈[line]‥‥‥‥‥‥。[%p]
+ZH [name]神奈[line]………………。[%p]
+
+JA [name]神奈[line]‥‥‥‥‥‥。[%p]
+ZH [name]神奈[line]………………。[%p]
+
+JA [name]神奈[line]流行のハンディコンピュータですね。[%p]
+ZH [name]神奈[line]这是现在流行的笔记本电脑吧。[%p]
+
+JA [name]神奈[line]‥‥‥それが、なにか?[%p]
+ZH [name]神奈[line]……那是什么东西呢？[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA [name]神奈[line]私が知っている石に‥‥似ています。[%p]
+ZH [name]神奈[line]跟我知道的那个石头……很像啊。[%p]
+
+JA [name]神奈[line]どこで見つけたのですか‥‥?[%p]
+ZH [name]神奈[line]你是在什么地方找到的……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]神奈[line]‥‥‥‥。[%p]
+ZH [name]神奈[line]…………。[%p]
+
+JA 
+ZH 
+

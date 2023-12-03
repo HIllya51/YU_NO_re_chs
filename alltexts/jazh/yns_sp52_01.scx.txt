@@ -1,0 +1,66 @@
+JA [name]たくや[line]丘だ。[%p]
+ZH [name]拓也[line]JF:是山丘。[%p]
+
+JA [name]たくや[line]早く水を飲みに行こうぜ。[%p]
+ZH [name]拓也[line]JF:你快去喝水啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さっさと水を飲みに行こうぜ。[%p]
+ZH [name]拓也[line]JF:你赶紧去喝水啊。[%p]
+
+JA [name]たくや[line]だから、喉がカラカラなんだよ![%p]
+ZH [name]拓也[line]都说了，喉咙干巴巴的！[%p]
+
+JA [name]たくや[line]ゲホゲホッ。[%p]
+ZH [name]拓也[line]咳咳咳。[%p]
+
+JA [name]たくや[line]あたりを見ている場合じゃない‥‥。[%p]
+ZH [name]拓也[line]现在不是看周围的时候……。[%p]
+
+JA [name]たくや[line]もう、喉がカラカラだ。[%p]
+ZH [name]拓也[line]喉咙，已经干巴巴了。[%p]
+
+JA [name]たくや[line]早く森に移動しよう。[%p]
+ZH [name]拓也[line]快点移动到森林吧。[%p]
+
+JA [name]たくや[line]そうだ、森の中だ。[%p]
+ZH [name]拓也[line]对了，森林中。[%p]
+
+JA [name]たくや[line]森の中には‥‥。[%p]
+ZH [name]拓也[line]森林中里……。[%p]
+
+JA [name]たくや[line]見ていると、喉が渇くから見るのをよそう。[%p]
+ZH [name]拓也[line]看着就觉得口渴，还是别看了。[%p]
+
+JA [name]たくや[line]水だ、水![%p]
+ZH [name]拓也[line]水，水！[%p]
+
+JA [name]たくや[line]あそこから来たばかりだ‥‥。[%p]
+ZH [name]拓也[line]刚才那里来而已……。[%p]
+
+JA [name]たくや[line]まったく、ひでぇ目にあったぜ‥‥あの砂漠を越えるには、尋常じゃない労力が必要だ。[%p]
+ZH [name]拓也[line]真是的，倒了大霉……要穿过那边沙漠，需要不同寻常的劳力啊。[%p]
+
+JA [name]たくや[line]‥‥などと話していたら、喉が渇いた。[%p]
+ZH [name]拓也[line]……一说这些，口又渴了。[%p]
+
+JA [name]たくや[line]えっ‥‥戻るのか?[%p]
+ZH [name]拓也[line]诶……要回去么？[%p]
+
+JA [name]たくや[line]せっかくここまで来たってのに‥‥。[%p]
+ZH [name]拓也[line]难得走到了这里……。[%p]
+
+JA [name]たくや[line]そうだ! 森の中だ![%p]
+ZH [name]拓也[line]对了！森林中！[%p]
+
+JA [name]たくや[line]森の中には川がある。川の中には水がある![%p]
+ZH [name]拓也[line]森林中有小河。小河里有河水！[%p]
+
+JA [name]たくや[line]よし、早く行ってみよう![%p]
+ZH [name]拓也[line]好，快点去吧！[%p]
+
+JA 
+ZH 
+

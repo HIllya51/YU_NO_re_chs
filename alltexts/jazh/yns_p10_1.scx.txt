@@ -1,0 +1,96 @@
+JA [name]たくや[line]ここは学校の屋上だ‥‥。[%p]
+ZH [name]拓也[line]这里是学校楼顶‥‥。[%p]
+
+JA [name]たくや[line]あたりに人はいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]周围似乎没人在呢‥‥。[%p]
+
+JA [name]たくや[line]海の匂いが漂ってくる‥‥あの手すり越しに海が見えるんだ。[%p]
+ZH [name]拓也[line]海的味道一个劲儿飘过来‥‥越过那里的栏杆就能看到海了。[%p]
+
+JA [name]たくや[line]明日から夏休みのせいかな‥‥。[%p]
+ZH [name]拓也[line]因为明天开始就是暑假的原因吧‥‥。[%p]
+
+JA [name]たくや[line]みんな、さっさと帰ってしまったみたいだぜ。[%p]
+ZH [name]拓也[line]看来大家都很早地回家了。[%p]
+
+JA [name]たくや[line]そうだな、手すり越しに海が見えるんだ。[%p]
+ZH [name]拓也[line]对啊，越过栏杆就能看到海了。[%p]
+
+JA [name]たくや[line]見てみるかな‥‥。[%p]
+ZH [name]拓也[line]去看一下吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]相変わらず工事中のようだな‥‥。[%p]
+ZH [name]拓也[line]工程一如既往地在进行‥‥。[%p]
+
+JA [name]たくや[line]ちなみに、目の前のとんがった岩は、三角山ってヤツだ。[%p]
+ZH [name]拓也[line]顺便，眼前那块尖尖的大石头，就是叫三角山的那家伙。[%p]
+
+JA [name]たくや[line]海岸へ行けば、見ることができるぜ‥‥。[%p]
+ZH [name]拓也[line]到海岸的话，就能看到了‥‥。[%p]
+
+JA [name]たくや[line]もう1回見るのか?[%p]
+ZH [name]拓也[line]再去看１回吗？[%p]
+
+JA [name]たくや[line]何度見ても、同じだと思うが‥‥。[%p]
+ZH [name]拓也[line]不论看几回，都是一样吧‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、同じだったな。[%p]
+ZH [name]拓也[line]果然，还是这副样子。[%p]
+
+JA [name]たくや[line]また見るのか?[%p]
+ZH [name]拓也[line]还要看吗？[%p]
+
+JA [name]たくや[line]同じだと思うんだが‥‥。[%p]
+ZH [name]拓也[line]我觉得还是一样的‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あっ!?[%p]
+ZH [name]拓也[line]啊！？[%p]
+
+JA [name]たくや[line]海が綺麗だ‥‥。[%p]
+ZH [name]拓也[line]好美的海‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ごめんよ‥‥。[%p]
+ZH [name]拓也[line]抱歉啊‥‥。[%p]
+
+JA [name]たくや[line]だから同じなんだってば。[%p]
+ZH [name]拓也[line]所以说还是一样啊。[%p]
+
+JA [name]たくや[line]下へ降りよう‥‥。[%p]
+ZH [name]拓也[line]到楼下去吧‥‥。[%p]
+
+JA [name]たくや[line]そうだ、俺は歴史研究室に呼び出されていたんだ‥‥。[%p]
+ZH [name]拓也[line]对了，好像叫我到历史研究室去呢‥‥。[%p]
+
+JA [name]たくや[line]早いとこ行かないと、またマイナス点が増えるぜ‥‥。[%p]
+ZH [name]拓也[line]不快点去的话，又得扣分了‥‥。[%p]
+
+JA [name]たくや[line]よし、下へ降りるぞ。[%p]
+ZH [name]拓也[line]好，到楼下去。[%p]
+
+JA [name]たくや[line]そうだよ、何で俺は屋上に来たんだろうな‥‥。[%p]
+ZH [name]拓也[line]对啊，为何我要到楼顶上来呢‥‥。[%p]
+
+JA [name]たくや[line]さっさと下に降りようぜ。[%p]
+ZH [name]拓也[line]快点下楼去吧。[%p]
+
+JA [name]たくや[line]そうだな、ここにいてもしょうがないぜ。[%p]
+ZH [name]拓也[line]是啊，就算呆在这里也没事做啊。[%p]
+
+JA [name]たくや[line]亜由美さんが校内にいるって話だし‥‥探してみるかい?[%p]
+ZH [name]拓也[line]据说亚由美小姐在学校里‥‥去找找吗？[%p]
+
+JA 
+ZH 
+

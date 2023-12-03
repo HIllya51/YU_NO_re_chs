@@ -1,0 +1,93 @@
+JA [name]たくや[line]なんだ‥‥良かった、倒れていないみたいだ。[%p]
+ZH [name]拓也[line]什么呀‥‥还好，没把它弄倒。[%p]
+
+JA [name]たくや[line]だけど、中の家具なんかは、無事じゃすまなかったかも‥‥。[%p]
+ZH [name]拓也[line]不过，里面的家具什么的，就不可能平安无事了‥‥。[%p]
+
+JA [name]声[line]《キャーーー‥‥‥‥。》[%p]
+ZH [name]声音[line]《呀———‥‥‥‥。》[%p]
+
+JA [name]たくや[line]‥‥!!!??[%p]
+ZH [name]拓也[line]JF:！！！？？[%p]
+
+JA [name]たくや[line]何だ、今の叫び声は‥‥?[%p]
+ZH [name]拓也[line]刚才的叫声是什么‥‥？[%p]
+
+JA [name]たくや[line]まさか‥‥セーレス!?[%p]
+ZH [name]拓也[line]难不成‥‥是塞蕾斯！？[%p]
+
+JA [name]たくや[line]どこだ‥‥どこから聞こえてきた!?[%p]
+ZH [name]拓也[line]在哪里‥‥从哪里传来的！？[%p]
+
+JA [name]たくや[line]家だよ‥‥家から聞こえてきたんだ![%p]
+ZH [name]拓也[line]到家了‥‥声音是从家里传来的！[%p]
+
+JA [name]たくや[line]どこから聞こえてきたんだ‥‥あの声は![%p]
+ZH [name]拓也[line]是从哪里传来的呢‥‥那声音！[%p]
+
+JA [name]たくや[line]静かな場所だ‥‥だが今は、平穏そのものって訳じゃないぜ。[%p]
+ZH [name]拓也[line]这里很安静‥‥但是现在可很不安定。[%p]
+
+JA [name]たくや[line]あの声は‥‥。[%p]
+ZH [name]拓也[line]那声音‥‥。[%p]
+
+JA [name]たくや[line]だから、家の中から声がしたんだ![%p]
+ZH [name]拓也[line]所以啊，有声音从家里传来！[%p]
+
+JA [name]たくや[line]セーレス‥‥!?[%p]
+ZH [name]拓也[line]塞蕾斯‥‥！？　说、说话了！？[%p]
+
+JA [name]声[line]《あぁぁぁ‥‥‥‥。》[%p]
+ZH [name]声音[line]《啊啊啊啊‥‥‥‥。》[%p]
+
+JA [name]たくや[line]家だ‥‥家の中から声がするっ!!![%p]
+ZH [name]拓也[line]是家里‥‥家里有声音！！！[%p]
+
+JA [name]たくや[line]家の中‥‥?[%p]
+ZH [name]拓也[line]家里吗‥‥？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]家の中から声がしたんだ‥‥。[%p]
+ZH [name]拓也[line]从家里有声音作响‥‥。[%p]
+
+JA [name]たくや[line]石から声は聞こえて来ない‥‥。[%p]
+ZH [name]拓也[line]从石头那里听不到‥‥。[%p]
+
+JA [name]たくや[line]石の表面には、うっすらとコケみたいなのが生えてる‥‥。[%p]
+ZH [name]拓也[line]石头的表面，隐约可见青苔生长在上面‥‥。[%p]
+
+JA [name]たくや[line]だからどうしたんだ。石から声は聞こえてこないぞ。[%p]
+ZH [name]拓也[line]可是为啥从石头那里听不到声音传来呢。[%p]
+
+JA [name]たくや[line]植物が声を出すかよ‥‥。[%p]
+ZH [name]拓也[line]真是植物发出的声音吗‥‥。[%p]
+
+JA [name]たくや[line]家の中だ![%p]
+ZH [name]拓也[line]是家里！[%p]
+
+JA [name]たくや[line]触ると煙を出す植物だ‥‥。[%p]
+ZH [name]拓也[line]一触摸就会吐出烟雾的植物……。[%p]
+
+JA [name]たくや[line]そこから声は聞こえてこないぜ‥‥。[%p]
+ZH [name]拓也[line]从那里听不到声音传来‥‥。[%p]
+
+JA [name]たくや[line]植物が声を出すかよ‥‥。[%p]
+ZH [name]拓也[line]真是植物发出的声音吗‥‥。[%p]
+
+JA [name]たくや[line]よし中に入るぞ![%p]
+ZH [name]拓也[line]好，快进去！[%p]
+
+JA [name]たくや[line]‥‥ちょっと待ってくれよ。[%p]
+ZH [name]拓也[line]‥‥稍等一下啊。[%p]
+
+JA [name]たくや[line]あの声がどこから聞こえてきたのか‥‥気にならないのか?[%p]
+ZH [name]拓也[line]那声音哪里都能听到‥‥不担心吗？[%p]
+
+JA [name]たくや[line]ダメだ、今は‥‥。[%p]
+ZH [name]拓也[line]现在不行‥‥。[%p]
+
+JA 
+ZH 
+

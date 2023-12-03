@@ -1,0 +1,309 @@
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]亜由美さんは‥‥いないな。[%p]
+ZH [name]拓也[line]亚由美小姐……不在啊。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]亜由美さんは‥‥いないな。[%p]
+ZH [name]拓也[line]亚由美小姐……不在啊。[%p]
+
+JA [name]たくや[line]外食っていったら、だいたいこのへんだよな‥‥。[%p]
+ZH [name]拓也[line]说到在外面吃饭的话，大概就是在这边吧……。[%p]
+
+JA [name]たくや[line]しかし、このへんは、レストランや喫茶店が星の数ほどあるからな。[%p]
+ZH [name]拓也[line]但是，这附近，餐厅和咖啡店跟繁星一样多啊。[%p]
+
+JA [name]たくや[line]どこかに入られたら、探し出すのは絶望的だよな‥‥。[%p]
+ZH [name]拓也[line]要是进到哪里去了的话，想要再找出来那是绝对没希望的……。[%p]
+
+JA [name]目の前の女性[line]おっと、失礼‥‥。[%p]
+ZH [name]眼前的女性[line]哦哟，失礼了……。[%p]
+
+JA [name]たくや[line]‥‥あれ? 今の絵里子先生じゃ‥‥。[%p]
+ZH [name]拓也[line]……咦？　现在的是绘里子老师……。[%p]
+
+JA [name]たくや[line]‥‥よくこの街で出会うな。[%p]
+ZH [name]拓也[line]……又在这街上遇到了啊。[%p]
+
+JA [name]たくや[line]ホテルの方へ向かっていったみたいだが‥‥。[%p]
+ZH [name]拓也[line]好像往宾馆的方向去了……。[%p]
+
+JA [name]たくや[line]美女にホテルか‥‥何だか、悪くない組み合わせだな。[%p]
+ZH [name]拓也[line]美女去宾馆吗……感觉，是个不赖的组合啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そっか、あそこのホテルには展望室があって、そこにはレストランがあったはずだ。[%p]
+ZH [name]拓也[line]对了，那边的宾馆有展望室，那里应该是有餐厅的吧。[%p]
+
+JA [name]たくや[line]もってこいのデートスポットだぞ。[%p]
+ZH [name]拓也[line]真是理想的约会胜地呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰が誰とデートをするんだよ‥‥。[%p]
+ZH [name]拓也[line]那是谁跟谁约会啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]どうするんだ、これから。[%p]
+ZH [name]拓也[line]现在开始该怎么做呢。[%p]
+
+JA [name]たくや[line]‥‥しかし、結城のやつ、どこを探しているんだろうな。[%p]
+ZH [name]拓也[line]……不过，结城那家伙，去什么地方找了啊。[%p]
+
+JA [name]たくや[line]見当たらないが‥‥。[%p]
+ZH [name]拓也[line]没看到啊……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]まだだ。[%p]
+ZH [name]拓也[line]又来了。[%p]
+
+JA [name]結城[line]そ、そうですか‥‥。[%p]
+ZH [name]结城[line]是，是吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥澪が行きそうな場所、か。[%p]
+ZH [name]拓也[line]呼……澪有可能会去的地方，吗。[%p]
+
+JA [name]たくや[line]やっぱりあの場所しか、考えられないよな‥‥。[%p]
+ZH [name]拓也[line]果然，除了那个地方想不出别的了啊……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]お前、わざと言っていないか?[%p]
+ZH [name]拓也[line]你啊，不会是故意这么叫的吧？[%p]
+
+JA [name]結城[line]なにが、でしょう?[%p]
+ZH [name]结城[line]什么意思？[%p]
+
+JA [name]たくや[line]‥‥もういい。[%p]
+ZH [name]拓也[line]‥‥够了。[%p]
+
+JA [name]結城[line]セントラル街付近は、いませんねぇ‥‥色々、お店なんかも探したんですが。[%p]
+ZH [name]结城[line]中央街附近，好像没有在呢……我已经，找过很多店了。[%p]
+
+JA [name]たくや[line]そっか。[%p]
+ZH [name]拓也[line]是吗。[%p]
+
+JA [name]結城[line]もう少し、色々な場所を探してみますね。[%p]
+ZH [name]结城[line]稍微，再去一些地方找找看吧。[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、澪が行きそうなところ、か‥‥。[%p]
+ZH [name]拓也[line]话说回来，澪可能回去的地方吗‥‥。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]だから、そのオヤビンってのをいい加減止めろって。[%p]
+ZH [name]拓也[line]JF:所以，让我适可而止地停止那个大叔。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]どうもこうも、さっき会ったばかりだろう?[%p]
+ZH [name]拓也[line]话说刚才见到了的吧？[%p]
+
+JA [name]結城[line]でも、見つけるときは一瞬じゃないですか。[%p]
+ZH [name]结城[line]可是，发现不也是一瞬间的事吗。[%p]
+
+JA [name]たくや[line](たまに、正論を言いやがる。)[%p]
+ZH [name]拓也[line](（偶尔，也会说些正论呢。）。)[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]結城[line]しっかりしてください。オヤビンだけが頼りなんですよう。[%p]
+ZH [name]结城[line]请你振作起来啊。现在只能靠头目你了。[%p]
+
+JA [name]たくや[line]わかったって‥‥何とか探してみるよ。[%p]
+ZH [name]拓也[line]我知道的‥‥会努力找找看的。[%p]
+
+JA [name]結城[line]よろしくお願いしますっ。[%p]
+ZH [name]结城[line]那么就拜托你了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しかし、あいつどこを探しているんだろうな‥‥。[%p]
+ZH [name]拓也[line]不过，那家伙到底去什么地方找了呢……。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]たくや[line]そのオヤビンっての、止めろって。[%p]
+ZH [name]拓也[line]JF:那个大叔叫我停下来。[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥ど、どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎，怎么了？[%p]
+
+JA [name]たくや[line]おう、見つけたぜ。[%p]
+ZH [name]拓也[line]哦，我找到了。[%p]
+
+JA [name]結城[line]ほ、本当ですかっ。[%p]
+ZH [name]结城[line]真，真的吗。[%p]
+
+JA [name]たくや[line]ほら、北の空に、一番星。[%p]
+ZH [name]拓也[line]你看，北边的天空，金星。[%p]
+
+JA [name]結城[line]‥‥‥‥それじゃ、失礼します。[%p]
+ZH [name]结城[line]…………那么，我失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]心が和むジョークだと、思ったんだけどなぁ。[%p]
+ZH [name]拓也[line]只是让心情平静下来的玩笑而已，我是这么想的。[%p]
+
+JA [name]声[line]オヤビーン![%p]
+ZH [name]声音[line]头目——！[%p]
+
+JA [name]結城[line]ぜぇ、ぜぇ‥‥どうでした?[%p]
+ZH [name]结城[line]嗬，嗬……怎么样了？[%p]
+
+JA [name]たくや[line]いや、俺の方はまだ‥‥。[%p]
+ZH [name]拓也[line]不，我这边还没‥‥。[%p]
+
+JA [name]結城[line]今、手当たり次第に調べているところです。何かありましたら、高台の方まで来てください。[%p]
+ZH [name]结城[line]现在，我是按照线索的顺序在调查。要是有什么发现的话，请到高台方向来吧。[%p]
+
+JA [name]たくや[line]ああ‥‥わかった。[%p]
+ZH [name]拓也[line]啊啊‥‥知道了。[%p]
+
+JA [name]結城[line]それじゃ、オヤビンも頑張って。[%p]
+ZH [name]结城[line]那么，头目也请加油。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]オヤビンじゃないって、言ってるのに。[%p]
+ZH [name]拓也[line]不要叫我头目，我明明说过了。[%p]
+
+JA [name]たくや[line]セントラル街には、いないのかな‥‥。[%p]
+ZH [name]拓也[line]中央街上，没有在啊……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]夕方近いせいだろうな‥‥人の数が多くなってきた。[%p]
+ZH [name]拓也[line]是因为将近傍晚的缘故吧……人数开始多起来了。[%p]
+
+JA [name]たくや[line]夜になれば、あそこの喫茶店も開くだろうな‥‥。[%p]
+ZH [name]拓也[line]到了夜里的话，那边的咖啡店也开始营业了吧……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]セントラル街に来たぜ‥‥。[%p]
+ZH [name]拓也[line]到中央街来了呢……。[%p]
+
+JA [name]たくや[line]ここに、あいつがいるとは思えないぜ‥‥。[%p]
+ZH [name]拓也[line]我想，那家伙应该没有在这里呢……。[%p]
+
+JA [name]たくや[line]早いとこ会って、訊いてみなくちゃな‥‥。[%p]
+ZH [name]拓也[line]再不快点找到，问问她的话……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]亜由美さん‥‥どこにいるんだ?[%p]
+ZH [name]拓也[line]亚由美小姐……到底在哪里呢？[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]いったい俺は、何をブラブラ歩いてるんだ。[%p]
+ZH [name]拓也[line]我到底，为什么会在这里乱逛的啊。[%p]
+
+JA [name]たくや[line]早く、亜由美さんに頭痛薬を届けないと。[%p]
+ZH [name]拓也[line]赶紧，给亚由美小姐把头痛药送过去。[%p]
+
+JA キョロキョロ‥‥。[%p]
+ZH 东张西望……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]絵里子先生はもういない‥‥。[%p]
+ZH [name]拓也[line]绘里子老师已经不在了……。[%p]
+
+JA [name]たくや[line]龍蔵寺を追っていったみたいだけど‥‥。[%p]
+ZH [name]拓也[line]好像是追在龙藏寺后面……。[%p]
+
+JA [name]たくや[line]‥‥いったい何でだろうな。[%p]
+ZH [name]拓也[line]……究竟是为什么呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]色鮮やかなネオンサイン、様々な店がある繁華街だ‥‥。[%p]
+ZH [name]拓也[line]有着鲜艳的霓虹灯，和各色各样店铺的繁华街……。[%p]
+
+JA [name]たくや[line]さっ、早いとこ買ってしまおうぜ。[%p]
+ZH [name]拓也[line]好了，快点去买过来吧。[%p]
+
+JA [name]たくや[line]ドラッグストアは‥‥あそこだぜ。[%p]
+ZH [name]拓也[line]药店……是在那个位置。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]色鮮やかなネオンサイン、様々な店がある繁華街だ‥‥。[%p]
+ZH [name]拓也[line]有着鲜艳的霓虹灯，和各色各样店铺的繁华街……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]色鮮やかなネオンサイン、様々な店がある繁華街だ‥‥。[%p]
+ZH [name]拓也[line]有着鲜艳的霓虹灯，和各色各样店铺的繁华街……。[%p]
+
+JA [name]たくや[line]セントラル街だ‥‥。[%p]
+ZH [name]拓也[line]中央街……。[%p]
+
+JA [name]たくや[line]眠らない街ってキャッチコピーが昔あったが、この街がまさにそうだな。[%p]
+ZH [name]拓也[line]不眠之街的标语很久以前就有了，这个街道也确实如此啊。[%p]
+
+JA [name]たくや[line]色鮮やかなネオンサイン‥‥色々な店‥‥。[%p]
+ZH [name]拓也[line]鲜艳的霓虹灯……各种各样的店铺……。[%p]
+
+JA [name]たくや[line]流して歩いているだけでも、結構悪くない所だ‥‥。[%p]
+ZH [name]拓也[line]就算只是走马观花地散步，也是相当不错的地方……。[%p]
+
+JA [name]たくや[line]しかし‥‥。[%p]
+ZH [name]拓也[line]但是……。[%p]
+
+JA [name]たくや[line]読みが甘すぎたな‥‥こんな繁華街で、豊富の野郎を探すなんてことは、殆ど不可能だ。[%p]
+ZH [name]拓也[line]不能想得太好了啊……在这样的繁华街上，想要找出丰富那个混账，几乎是不可能的事啊。[%p]
+
+JA [name]たくや[line]偶然でも起きない限りね‥‥。[%p]
+ZH [name]拓也[line]在偶然不会发生的情况下……。[%p]
+
+JA 
+ZH 
+

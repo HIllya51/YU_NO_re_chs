@@ -1,0 +1,2 @@
+[name]Takuya[line]This passage just keeps going on and on⋯[%p]
+[name]Takuya[line]In any case, I need to keep moving.[%p]

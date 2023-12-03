@@ -1,0 +1,189 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あれ‥‥?[%p]
+ZH [name]拓也[line]咦……？[%p]
+
+JA [name]たくや[line]無いぞ‥‥。[%p]
+ZH [name]拓也[line]没有啊……。[%p]
+
+JA [name]たくや[line]無いっ。[%p]
+ZH [name]拓也[line]没有。[%p]
+
+JA [name]たくや[line]確か、ここにあったはずの‥‥死体がなくなっている。[%p]
+ZH [name]拓也[line]我记得，应该是在这里的……尸体不见了。[%p]
+
+JA [name]たくや[line]どうしたんだ‥‥?[%p]
+ZH [name]拓也[line]（怎么回事‥‥？）[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]確かに、あの辺に吊るされていたのに‥‥。[%p]
+ZH [name]拓也[line]确实，明明应该是被吊在这边的……。[%p]
+
+JA [name]たくや[line]ははは‥‥まさか夢でも見ていたとか。[%p]
+ZH [name]拓也[line]哈哈哈……难道说我是做梦了吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]たくや。[%p]
+ZH [name]绘里子[line]拓也[%p]
+
+JA [name]たくや[line]おわっ![%p]
+ZH [name]拓也[line]（哦哇！）[%p]
+
+JA [name]絵里子[line]どうだった?[%p]
+ZH [name]绘里子[line]怎么了？[%p]
+
+JA [name]たくや[line]どうだったも、こうだったも‥‥だいたい、ここにあった婆ちゃんの死体は?[%p]
+ZH [name]拓也[line]怎么了也好，这么了也好……本来，在这里的老婆婆的尸体呢？[%p]
+
+JA [name]絵里子[line]ああ‥‥仏さんは床に下ろしたよ。いつまでもぶら下がらせておくのも忍びないしな。[%p]
+ZH [name]绘里子[line]啊啊……我把她放到地板上了。我不能老是让她这样子吊在空中啊。[%p]
+
+JA [name]たくや[line]床に下ろしたって‥‥。[%p]
+ZH [name]拓也[line]放到地板上了……。[%p]
+
+JA [name]絵里子[line]その本の陰にいるよ‥‥見るか?[%p]
+ZH [name]绘里子[line]这本书的背面有……要看吗？[%p]
+
+JA [name]たくや[line]‥‥遠慮しておく。だいたい、勝手にそんなことをしていいのかよ。[%p]
+ZH [name]拓也[line]……不用了。话说，你随便做这样的事没关系吗。[%p]
+
+JA [name]絵里子[line]なにが?[%p]
+ZH [name]绘里子[line]什么？[%p]
+
+JA [name]たくや[line]ほら、刑事物ドラマとかじゃ、現場保存ってよく言うぜ。[%p]
+ZH [name]拓也[line]你看，像刑事剧里面放的，经常会说保存现场什么的。[%p]
+
+JA [name]絵里子[line]大丈夫だ。[%p]
+ZH [name]绘里子[line]没问题的。[%p]
+
+JA [name]たくや[line]なぜ。[%p]
+ZH [name]拓也[line]为什么。[%p]
+
+JA [name]絵里子[line]大丈夫だからだ。[%p]
+ZH [name]绘里子[line]因为没问题啊。[%p]
+
+JA [name]たくや[line](あんた子供かよ‥‥。)[%p]
+ZH [name]拓也[line](（你是小孩子啊……。）。)[%p]
+
+JA [name]絵里子[line]‥‥で、収穫は?[%p]
+ZH [name]绘里子[line]……那么，收获呢？[%p]
+
+JA [name]たくや[line]そんなもんは無いよ‥‥変なモノを探せって、だいたい何を探せばいいんだ?[%p]
+ZH [name]拓也[line]没有那种东西……说什么要找奇怪的东西，我到底要找什么东西好啊？[%p]
+
+JA [name]絵里子[line]私はだいたいアタリを付けたぞ。[%p]
+ZH [name]绘里子[line]我大致上观察过附近了。[%p]
+
+JA [name]たくや[line]あたり?[%p]
+ZH [name]拓也[line]附近？[%p]
+
+JA [name]絵里子[line]そうだ‥‥よし、特別授業をおこなってやろう。[%p]
+ZH [name]绘里子[line]是的……好吧，先来堂特别授课吧。[%p]
+
+JA [name]たくや[line]特別授業‥‥?[%p]
+ZH [name]拓也[line]特别授课……？[%p]
+
+JA [name]絵里子[line]まあね。[%p]
+ZH [name]绘里子[line]是嘛。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]絵里子[line]この土蔵の中、何か気付かないか?[%p]
+ZH [name]绘里子[line]这个土藏里面，你没什么发现吗？[%p]
+
+JA [name]たくや[line]何かって‥‥なに?[%p]
+ZH [name]拓也[line]发现……什么发现？[%p]
+
+JA [name]絵里子[line]だから、変な所さ‥‥。[%p]
+ZH [name]绘里子[line]都说了，奇怪的地方……。[%p]
+
+JA [name]たくや[line]変‥‥?[%p]
+ZH [name]拓也[line]奇怪……？[%p]
+
+JA [name]たくや[line](この土蔵内で、変な所、か‥‥。)[%p]
+ZH [name]拓也[line](（这个土藏里面，奇怪的地方，吗……。）。)[%p]
+
+JA [name]たくや[line](この土蔵内で、変な所といったら‥‥。)[%p]
+ZH [name]拓也[line](（这个土藏里面，说到奇怪的地方……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]暗くて‥‥殆ど何も見えないな。[%p]
+ZH [name]拓也[line]好暗……几乎什么都看不见啊。[%p]
+
+JA [name]たくや[line]おまけにホコリっぽい‥‥むせかえりそうだ。[%p]
+ZH [name]拓也[line]而且还积满了灰尘……呛得我都要咳嗽了。[%p]
+
+JA [name]たくや[line]静かだな‥‥。[%p]
+ZH [name]拓也[line]好安静……。[%p]
+
+JA [name]たくや[line]美月さんは、とてもじゃないが、ここにはいそうも‥‥。[%p]
+ZH [name]拓也[line]美月，不太可能，会在这里……。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]気のせいかな‥‥。[%p]
+ZH [name]拓也[line]是我的错觉吗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]いや、確かに‥‥。[%p]
+ZH [name]拓也[line]不对，确实是……。[%p]
+
+JA [name]たくや[line]何か、聴こえないか?[%p]
+ZH [name]拓也[line]有什么声音，能听到吗？[%p]
+
+JA [name]たくや[line]小さな音が、微かにだが‥‥。[%p]
+ZH [name]拓也[line]很小的声音，虽然很微弱……。[%p]
+
+JA [name]たくや[line]音の方向は‥‥。[%p]
+ZH [name]拓也[line]声音的方向是……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]薄暗い所だ‥‥。[%p]
+ZH [name]拓也[line]昏暗的地方……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]薄暗いな‥‥電灯はないのかな。[%p]
+ZH [name]拓也[line]很昏暗……没有电灯吗。[%p]
+
+JA [name]たくや[line]ホコリとカビの臭いか‥‥。[%p]
+ZH [name]拓也[line]灰尘和霉菌的味道吗……。[%p]
+
+JA [name]たくや[line]長い間、使われていなかったのかもしれない‥‥。[%p]
+ZH [name]拓也[line]也许，已经有很长时间没有用到过了……。[%p]
+
+JA [name]たくや[line]美月さんはいないみたいだが‥‥。[%p]
+ZH [name]拓也[line]美月好像不在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,183 @@
+JA [name]たくや[line]長い、長い夢だったような気がする‥‥。[%p]
+ZH [name]拓也[line]感觉，是个很长很长的梦……。[%p]
+
+JA [name]たくや[line]本当に長い夢だった‥‥。[%p]
+ZH [name]拓也[line]真是个好长的梦啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]だけど‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]たくや[line]本当に、夢だったんだろうか‥‥?[%p]
+ZH [name]拓也[line]这件事，真的只是个梦吗……？[%p]
+
+JA [margin top="266"][margin left="400"]パ パ
+ZH [margin top="266"][margin left="400"]啪　啪
+
+JA [name]たくや[line]うっ‥‥。[%p]
+ZH [name]拓也[line]唔……。[%p]
+
+JA [name]たくや[line]頭が‥‥何だか痛い。[%p]
+ZH [name]拓也[line]脑袋……痛得好厉害。[%p]
+
+JA [name]たくや[line]くそっ‥‥いったい、どうしたっていうんだ。[%p]
+ZH [name]拓也[line]可恶……这到底是怎么回事。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何かを‥‥感じる。[%p]
+ZH [name]拓也[line]有没有……感觉到。[%p]
+
+JA [name]たくや[line]誰かが、俺を呼んでいる‥‥。[%p]
+ZH [name]拓也[line]有人，在呼唤我呢……。[%p]
+
+JA [name]たくや[line]とにかく、ここから脱出して‥‥。[%p]
+ZH [name]拓也[line]总而言之，先从这里出去吧……。[%p]
+
+JA [name]たくや[line]そして、行くべきところがあるはずなんだ‥‥。[%p]
+ZH [name]拓也[line]然后，我应该还要去一个地方……。[%p]
+
+JA [name]たくや[line]カベといい、天井といい‥‥石が隙間なく敷き詰められている。[%p]
+ZH [name]拓也[line]墙壁也好，顶部也好……石头被铺砌得一点儿缝隙都没有。[%p]
+
+JA [name]たくや[line]‥‥そういえば、空気はどっからくるんだろう。[%p]
+ZH [name]拓也[line]……这么说起来，空气是从哪里传进来的呢。[%p]
+
+JA [name]たくや[line]全然、息苦しく感じないけど‥‥。[%p]
+ZH [name]拓也[line]完全，没有呼吸困难的感觉……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られている。[%p]
+ZH [name]拓也[line]好硬啊……被制造得异常坚固呢。[%p]
+
+JA [name]たくや[line]壁を崩して外に出るって方法はダメだな‥‥。[%p]
+ZH [name]拓也[line]把墙推倒出去外面的方法行不通啊……。[%p]
+
+JA [name]たくや[line]床を見ていても、外には出られない‥‥。[%p]
+ZH [name]拓也[line]就算盯着地面看，也出不去外面……。[%p]
+
+JA [name]たくや[line]外に出るためには‥‥。[%p]
+ZH [name]拓也[line]为了出去外面……。[%p]
+
+JA [name]たくや[line]特に、何かが落ちているって訳じゃない‥‥。[%p]
+ZH [name]拓也[line]看来，并没有什么特别的东西掉下来……。[%p]
+
+JA [name]たくや[line]石ころが転がっているだけだ‥‥。[%p]
+ZH [name]拓也[line]只有一些小石块散落在地上……。[%p]
+
+JA [name]たくや[line]‥‥横にスライドするって訳でもない。[%p]
+ZH [name]拓也[line]……看起来也不能横向挪动。[%p]
+
+JA [name]たくや[line]ここからは、出られないみたいだぜ‥‥。[%p]
+ZH [name]拓也[line]看样子，是不可能从这里出去了呢……。[%p]
+
+JA ググ‥‥ググググ‥‥。[%p]
+ZH 咕咕……咕咕咕咕……。[%p]
+
+JA [name]たくや[line]うーん‥‥ダメか。押したくらいじゃ、ビクともしない。[%p]
+ZH [name]拓也[line]嗯——……不行啊。只是这么推的话，完全纹丝不动啊。[%p]
+
+JA [name]たくや[line]押してもダメなら‥‥っと、引く場所がないな。[%p]
+ZH [name]拓也[line]要是推也不行的话……呃，没有能拉的地方啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、継ぎ目が見える‥‥。[%p]
+ZH [name]拓也[line]好像，能够看到接缝处……。[%p]
+
+JA [name]たくや[line]ドアだろうな‥‥多分。[%p]
+ZH [name]拓也[line]应该是扇门吧……大概。[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるな‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何も起きない‥‥。[%p]
+ZH [name]拓也[line]什么都没发生……。[%p]
+
+JA [name]たくや[line]だが、ここから出る方法は、他にもある‥‥。[%p]
+ZH [name]拓也[line]不过，从这里出去的方法，还有别的吧……。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]‥‥かといって、何かやることがあるのか?[%p]
+ZH [name]拓也[line]……不过，还有什么我能够做的事吗？[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるけど‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]何も起きないぜ‥‥。[%p]
+ZH [name]拓也[line]什么都没发生……。[%p]
+
+JA [name]たくや[line]ここから脱出する方法は、そう多くないぜ‥‥。[%p]
+ZH [name]拓也[line]从这里逃出去的方法，也不是很多呢……。[%p]
+
+JA [name]たくや[line]まずは‥‥‥‥。[%p]
+ZH [name]拓也[line]首先是…………。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]石の扉が閉まっていて、外には出られない‥‥。[%p]
+ZH [name]拓也[line]石门紧紧关闭着，外面出不去……。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないようだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

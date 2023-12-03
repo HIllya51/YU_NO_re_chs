@@ -1,0 +1,117 @@
+JA [name]美月[line]本当に、私でいいのね?[%p]
+ZH [name]美月[line]真的，选我可以吗？[%p]
+
+JA 考えなおす
+ZH JF:重新考虑
+
+JA 美月を連れていく
+ZH JF:带着美月去
+
+JA [name]たくや[line]やっぱり、考えなおそう‥‥。[%p]
+ZH [name]拓也[line]果然，还是再考虑看看吧……。[%p]
+
+JA [name]美月[line]もう、しっかりしてよ。私と結城君の、どっちを連れていくの?[%p]
+ZH [name]美月[line]真是的，拜托你啊。我和结城君，到底要带上哪个？[%p]
+
+JA [name]美月[line]私でいいのね?[%p]
+ZH [name]美月[line]选我可以吗？[%p]
+
+JA [name]たくや[line]ああ、美月さんと一緒に行こう。[%p]
+ZH [name]拓也[line]啊啊，跟美月一起走吧。[%p]
+
+JA [name]美月[line]わかったわ。[%p]
+ZH [name]美月[line]知道了。[%p]
+
+JA [name]結城[line]じゃあ、僕は留守番ですね‥‥。[%p]
+ZH [name]结城[line]那么，我就负责留守吧……。[%p]
+
+JA [name]たくや[line]悪い、結城。だが、きっと澪は連れて帰るぜ。[%p]
+ZH [name]拓也[line]抱歉，结城。不过，我一定会带着澪回来的。[%p]
+
+JA [name]結城[line]はい。お二人とも、お気をつけて。[%p]
+ZH [name]结城[line]JF:是的。你们两个都要小心。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪はこの穴の中にいるはずだ‥‥。[%p]
+ZH [name]拓也[line]澪应该是在这个洞里面……。[%p]
+
+JA [name]美月[line]どのくらいの深さなのかしら。[%p]
+ZH [name]美月[line]到底有多深呢。[%p]
+
+JA [name]たくや[line]危険になったら、すぐに引き返そう。2重遭難になったら、シャレにならないからな。[%p]
+ZH [name]拓也[line]有危险的话，要马上回来。要是变成２次遇难的话，就不是开玩笑的了。[%p]
+
+JA [name]美月[line]それが無難ね‥‥あっ、そうだわ。[%p]
+ZH [name]美月[line]那是肯定的吧……啊、对了。[%p]
+
+JA [name]たくや[line]なに。[%p]
+ZH [name]拓也[line]什么。[%p]
+
+JA [name]美月[line]ちょっと待ってて。[%p]
+ZH [name]美月[line]等我一下啊。[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さんは戻っていったぞ‥‥あれ?[%p]
+ZH [name]拓也[line]美月回来了……咦？[%p]
+
+JA [name]たくや[line]澪のバッグを開けて、何かを探している感じだ‥‥。[%p]
+ZH [name]拓也[line]好像打开了澪的背包，在找什么东西……。[%p]
+
+JA [name]たくや[line]何をやってるんだろう‥‥。[%p]
+ZH [name]拓也[line]她在干什么呢‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]お待たせ。[%p]
+ZH [name]美月[line]你久等了。[%p]
+
+JA [name]たくや[line]どうしたんだい?[%p]
+ZH [name]拓也[line]怎么了？[%p]
+
+JA [name]美月[line]ほら、島津さんのバッグの中に、色々と役立ちそうなモノが入っていたじゃない。[%p]
+ZH [name]美月[line]你看，岛津同学的背部里面，不是有很多能派上用场的东西吗。[%p]
+
+JA [name]たくや[line]あっ、なるほど。[%p]
+ZH [name]拓也[line]啊、原来如此。[%p]
+
+JA [name]美月[line]とりあえず、懐中電灯だけでも持ってきたわ。多分、中に電気なんかないでしょ?[%p]
+ZH [name]美月[line]总是，就先只拿上手电筒。或许，里面已经没电了吧？[%p]
+
+JA [name]たくや[line]そうか。うっかりしていたな。気が利くね。[%p]
+ZH [name]拓也[line]是吗。我都没注意呢。你真是细心啊。[%p]
+
+JA [name]美月[line]当然よ‥‥じゃ、行きましょう。[%p]
+ZH [name]美月[line]当然了……那，我们走吧。[%p]
+
+JA [name]たくや[line]俺が先に行くよ。俺が歩いた後を付いてきてくれ。[%p]
+ZH [name]拓也[line]我在前面走。你就紧跟着我后面走啊。[%p]
+
+JA [name]美月[line]ふぅん‥‥。[%p]
+ZH [name]美月[line]哼……。[%p]
+
+JA [name]たくや[line]な、なんだよ。[%p]
+ZH [name]拓也[line]什，什么啊。[%p]
+
+JA [name]美月[line]本格的じゃない。[%p]
+ZH [name]美月[line]真是有模有样啊。[%p]
+
+JA [name]たくや[line]‥‥美月さんを先に行かせる訳にもいかないだろう、それだけさ。[%p]
+ZH [name]拓也[line]……我不可能让美月你在前面走的吧，只是这样而已。[%p]
+
+JA [name]美月[line]わかったわ。あなたの言うとおりにする。[%p]
+ZH [name]美月[line]明白了。如你所说吧。[%p]
+
+JA [name]たくや[line]よし‥‥中に入ってみよう。[%p]
+ZH [name]拓也[line]好嘞……进去看看吧。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,78 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]長い道が、どこまでも続いている‥‥。[%p]
+ZH [name]拓也[line]好长的路，一直延伸到很远的地方……。[%p]
+
+JA [name]たくや[line]もうボタンは押してある‥‥。[%p]
+ZH [name]拓也[line]按钮已经按下去了……。[%p]
+
+JA [name]たくや[line]ボタンがある‥‥石でできたボタンだ。[%p]
+ZH [name]拓也[line]这里有个按钮……用石头做出来的按钮。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA ボタンを押してみる
+ZH JF:按电钮
+
+JA ボタンを押さない
+ZH JF:不按按钮
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]遠くの方から、重い音が聴こえてきた‥‥。[%p]
+ZH [name]拓也[line]从很远的地方，传来巨大的响声……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥そうだな。押す必要は無いだろう。[%p]
+ZH [name]拓也[line]……对啊。没有按下去的必要吧。[%p]
+
+JA [name]たくや[line]この地面は、どこまで続いているんだろう‥‥。[%p]
+ZH [name]拓也[line]这个地面，一直延伸到很远的地方吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]しっとりとしているな‥‥だけど、コケみたいのは生えていない。[%p]
+ZH [name]拓也[line]这地方很潮湿啊……不过，像青苔之类的东西没办法生存下去吧。[%p]
+
+JA [name]たくや[line]暗くて、よくわからないぜ‥‥。[%p]
+ZH [name]拓也[line]很昏暗，几乎什么都看不见……。[%p]
+
+JA [name]たくや[line]‥‥暗くて、よくわからないな。[%p]
+ZH [name]拓也[line]……很昏暗，几乎什么都看不见。[%p]
+
+JA [name]たくや[line]調べるなら、懐中電灯の光のところにしよう。[%p]
+ZH [name]拓也[line]想要调查的话，就调查手电筒照得到的地方吧。[%p]
+
+JA [name]たくや[line]‥‥先へ進むぞ。[%p]
+ZH [name]拓也[line]……向前进吧。[%p]
+
+JA [name]たくや[line]そうだな、後ろに戻ろう‥‥。[%p]
+ZH [name]拓也[line]对啊，还是转身回去吧……。[%p]
+
+JA [name]たくや[line]そのアイテムを使うときじゃないみたいだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用这个道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは、使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个，现在用不上呢……。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

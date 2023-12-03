@@ -1,0 +1,12 @@
+JA [name]たくや[line]自宅前だぜ‥‥肌寒いな。[%p]
+ZH [name]拓也[line]自宅前面……好冷啊。[%p]
+
+JA [name]たくや[line]外に出たぜ‥‥肌寒いな。[%p]
+ZH [name]拓也[line]走到外面来了……好冷啊。[%p]
+
+JA [name]たくや[line]やはり行き先は‥‥あそこか?[%p]
+ZH [name]拓也[line]果然……要去的地方是那里吧？[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,45 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいな‥‥。[%p]
+ZH [name]拓也[line]果然，没有人在……。[%p]
+
+JA [name]たくや[line]‥‥!!?[%p]
+ZH [name]拓也[line]……！！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今、何か金属的な音がしなかったか‥‥?[%p]
+ZH [name]拓也[line]刚才，是不是响起了什么金属的声音啊……？[%p]
+
+JA [name]たくや[line]誰か‥‥いるのか!?[%p]
+ZH [name]拓也[line]有人……在吗！？[%p]
+
+JA [name]たくや[line]どこだ‥‥どこにいる?[%p]
+ZH [name]拓也[line]在哪里……在哪里呢？[%p]
+
+JA [name]たくや[line]慎重に進まないと、迷ってしまうぜ‥‥。[%p]
+ZH [name]拓也[line]如果不小心前进的话，会走迷路的……。[%p]
+
+JA [name]たくや[line]どうしようか‥‥。[%p]
+ZH [name]拓也[line]怎么办呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]意外に、複雑そうな地下道だな‥‥。[%p]
+ZH [name]拓也[line]这地道，出人意料地复杂啊……。[%p]
+
+JA [name]たくや[line]本当に、お城までつながっているんだろうか‥‥。[%p]
+ZH [name]拓也[line]这里，应该真的是跟城堡连在一起的吧……。[%p]
+
+JA [name]たくや[line]慎重に進まないと、迷ってしまうかもしれない。[%p]
+ZH [name]拓也[line]要是不小心前进的话，说不定会走迷路的。[%p]
+
+JA [name]たくや[line]気を付けようぜ‥‥。[%p]
+ZH [name]拓也[line]要当心点啊……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,69 @@
+JA [name]たくや[line]探す‥‥?[%p]
+ZH [name]拓也[line]寻找……？[%p]
+
+JA [name]たくや[line]普通じゃないモノ‥‥。[%p]
+ZH [name]拓也[line]不同寻常的东西……。[%p]
+
+JA [name]たくや[line]なんだ、それは?[%p]
+ZH [name]拓也[line]究竟，是什么？[%p]
+
+JA [name]たくや[line]石だな‥‥俺の探すべきモノは、これじゃない。[%p]
+ZH [name]拓也[line]这是石头……我要找的东西，应该不是这个吧。[%p]
+
+JA [name]たくや[line]‥‥普通の、建物だよな。[%p]
+ZH [name]拓也[line]……普通的，建筑。[%p]
+
+JA [name]たくや[line]小川の中には‥‥。[%p]
+ZH [name]拓也[line]小河里面……。[%p]
+
+JA [name]たくや[line]水がある。[%p]
+ZH [name]拓也[line]有水。[%p]
+
+JA [name]たくや[line]橋だ‥‥これは普通なモノだな。[%p]
+ZH [name]拓也[line]这是桥……这个是很普通的东西。[%p]
+
+JA [name]たくや[line]変なモノっていったって‥‥。[%p]
+ZH [name]拓也[line]说到奇怪的东西……。[%p]
+
+JA [name]たくや[line]緑は別に変じゃないしな‥‥。[%p]
+ZH [name]拓也[line]植物没什么特别奇怪的……。[%p]
+
+JA [name]たくや[line]暗くて寒い空だ‥‥。[%p]
+ZH [name]拓也[line]寒冷阴暗的天空……。[%p]
+
+JA [name]たくや[line]見ていると、吸い込まれそうだな‥‥。[%p]
+ZH [name]拓也[line]看着那里，好像会被吸进去似的……。[%p]
+
+JA [name]たくや[line]探すって言ったって‥‥いったい何を探せばいいんだ?[%p]
+ZH [name]拓也[line]说让我来寻找……到底要找些什么东西好啊？[%p]
+
+JA [name]たくや[line]‥‥そうだな、土蔵の方へ行ってみよう。[%p]
+ZH [name]拓也[line]……对了，去土藏那边看看吧。[%p]
+
+JA [name]たくや[line]絵里子先生、何をしているのかな‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，现在在做什么呢……。[%p]
+
+JA [name]たくや[line]もうちょっと、探してみないか‥‥?[%p]
+ZH [name]拓也[line]不要再稍微找找看吗……？[%p]
+
+JA [name]たくや[line]待てよ‥‥俺は何のためにここへ来たんだ。[%p]
+ZH [name]拓也[line]等一下……我是为什么要到这里来的啊。[%p]
+
+JA [name]たくや[line]もう少し、考えてみてくれ。[%p]
+ZH [name]拓也[line]稍微，再仔细想想看。[%p]
+
+JA [name]たくや[line]そうだな‥‥母屋の方か。[%p]
+ZH [name]拓也[line]对了……主屋的方向吗。[%p]
+
+JA [name]たくや[line]龍蔵寺はいない‥‥母親は戻れない場所へ行っちまった。[%p]
+ZH [name]拓也[line]龙藏寺没在……他母亲已经去了再也回不来的地方了。[%p]
+
+JA [name]たくや[line]ということは、誰も母屋にはいないということだ。[%p]
+ZH [name]拓也[line]也就是说，现在谁都不在主屋的意思喽。[%p]
+
+JA [name]たくや[line]‥‥よし、行ってみるか。[%p]
+ZH [name]拓也[line]……好嘞，过去看看吧。[%p]
+
+JA 
+ZH 
+

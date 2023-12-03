@@ -1,0 +1,156 @@
+JA [name]たくや[line]‥‥すぐ手前が出口だ。[%p]
+ZH [name]拓也[line]……出口就近在眼前。[%p]
+
+JA [name]結城[line]まだ、島津さんを見つけていませんが‥‥。[%p]
+ZH [name]结城[line]但是，还没有找到岛津同学……。[%p]
+
+JA [name]たくや[line]そうだな‥‥とにかく慎重に先へ進もう。[%p]
+ZH [name]拓也[line]是啊……总而言之小心点慢慢向前进吧。[%p]
+
+JA [name]たくや[line]地面は濡れている‥‥。[%p]
+ZH [name]拓也[line]地面很潮湿……。[%p]
+
+JA [name]たくや[line]土じゃなくて、殆どが岩だな‥‥。[%p]
+ZH [name]拓也[line]不是泥土，几乎全是岩石啊……。[%p]
+
+JA [name]たくや[line]滑りやすいからな‥‥気をつけなくちゃ。[%p]
+ZH [name]拓也[line]很容易滑倒啊……一定要小心了。[%p]
+
+JA [name]たくや[line]濡れていると言っても、地面からしみ出している訳じゃないし‥‥。[%p]
+ZH [name]拓也[line]就算说是湿漉漉的，也不可能会是从地面渗出来的……。[%p]
+
+JA [name]たくや[line]うわっ‥‥冷たい。[%p]
+ZH [name]拓也[line]呜哇……好冷啊。[%p]
+
+JA [name]たくや[line]そっか、上から落ちてくるんだ。[%p]
+ZH [name]拓也[line]是吗，从上面掉下来了。[%p]
+
+JA [name]結城[line]まさか、海水でしょうか‥‥?[%p]
+ZH [name]结城[line]难道说，这是海水吗……？[%p]
+
+JA [name]たくや[line]いや‥‥ほら、舐めてみろよ、しょっぱくないぜ。[%p]
+ZH [name]拓也[line]不对……来，你试着舔舔看，这个不咸吧。[%p]
+
+JA [name]結城[line]というと‥‥雨漏りでしょうか。[%p]
+ZH [name]结城[line]这么说来……应该是雨水渗漏吧。[%p]
+
+JA [name]たくや[line]アホか。地下水だよ。[%p]
+ZH [name]拓也[line]别傻了。这是地下水。[%p]
+
+JA [name]たくや[line]‥‥地面は薄く濡れているみたいだ。[%p]
+ZH [name]拓也[line]……地面一层看上去全是湿漉漉的。[%p]
+
+JA [name]結城[line]僕って、こういうところで、たいていすっ転んでしまうんです。[%p]
+ZH [name]结城[line]我啊，在这种地方，基本上都会滑倒的呢。[%p]
+
+JA [name]結城[line]ね?[%p]
+ZH [name]结城[line]呐？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]水が少しずつ、しみ出しているみたいだ‥‥。[%p]
+ZH [name]拓也[line]水好像在一点点地，慢慢往外渗……。[%p]
+
+JA [name]たくや[line]海水じゃあない‥‥しょっぱくないからな。[%p]
+ZH [name]拓也[line]并不是海水……因为没有咸味。[%p]
+
+JA [name]結城[line]お腹をこわしますよ‥‥。[%p]
+ZH [name]结城[line]肚子会吃坏的哦……。[%p]
+
+JA [name]たくや[line]しっとりとしているな‥‥。[%p]
+ZH [name]拓也[line]真的是太潮湿了啊……。[%p]
+
+JA [name]たくや[line]だけど、こんなトンネルを掘るなんて、機械を使ったって難しいぜ。[%p]
+ZH [name]拓也[line]不过，要挖掘出这样一条隧道，使用机械的话很难呢。[%p]
+
+JA [name]結城[line]じゃあ、やっぱり自然物でしょうか?[%p]
+ZH [name]结城[line]那么，这里果然是自然物喽？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥これが自然にできたモノって言えるんだろうか。[%p]
+ZH [name]拓也[line]……也就是说这个是自然形成的产物喽。[%p]
+
+JA [name]たくや[line]どう見ても、人為的な臭いがするぜ‥‥。[%p]
+ZH [name]拓也[line]不管怎么看，这都像是人为形成的吧……。[%p]
+
+JA [name]結城[line]いったい誰でしょうか?[%p]
+ZH [name]结城[line]到底是谁弄的呢？[%p]
+
+JA [name]たくや[line]それは‥‥まだわからない。[%p]
+ZH [name]拓也[line]这个嘛……还不清楚。[%p]
+
+JA [name]たくや[line]暗くて、よくわからないぜ‥‥。[%p]
+ZH [name]拓也[line]很昏暗，几乎什么都看不见……。[%p]
+
+JA [name]たくや[line]‥‥暗くて、よくわからないな。[%p]
+ZH [name]拓也[line]……很昏暗，几乎什么都看不见。[%p]
+
+JA [name]たくや[line]調べるなら、懐中電灯の光のところにしよう。[%p]
+ZH [name]拓也[line]想要调查的话，就调查手电筒照得到的地方吧。[%p]
+
+JA [name]たくや[line]そうだな‥‥先へ進んでみよう。[%p]
+ZH [name]拓也[line]对了……先往里面走走看吧。[%p]
+
+JA [name]たくや[line]よし‥‥そろそろ先に進んでみよう。[%p]
+ZH [name]拓也[line]好吧……就先进去里面瞧瞧吧。[%p]
+
+JA [name]結城[line]気を付けて進みましょう。[%p]
+ZH [name]结城[line]小心一点慢慢往前进吧。[%p]
+
+JA [name]たくや[line]ああ‥‥。[%p]
+ZH [name]拓也[line]啊啊……。[%p]
+
+JA [name]たくや[line]もう少し、まわりを観察してみよう‥‥。[%p]
+ZH [name]拓也[line]稍微，再多观察一下四周吧……。[%p]
+
+JA [name]たくや[line]おいおい、現状を把握しないで先へ進めってのか?[%p]
+ZH [name]拓也[line]喂喂，要在没把握好现状的情况下继续前进吗？[%p]
+
+JA [name]たくや[line]もう少し、まわりの状況を観察しようぜ‥‥。[%p]
+ZH [name]拓也[line]稍微，再多观察一下周围的情况吧……。[%p]
+
+JA [name]結城[line]さすが、オヤビン。慎重ですねっ。[%p]
+ZH [name]结城[line]了不起，头目。真是好谨慎啊。[%p]
+
+JA [name]たくや[line]まあな。こういう場合、慎重すぎるくらいがいいのさ。[%p]
+ZH [name]拓也[line]没什么。这种情况下，还是要谨慎一点比较好吧。[%p]
+
+JA [name]結城[line]あの‥‥岩で塞がっていると思いますが。[%p]
+ZH [name]结城[line]那个……我想已经被岩石给堵上了吧。[%p]
+
+JA [name]たくや[line]いちおう、確認のためだ。[%p]
+ZH [name]拓也[line]姑且，还是去确认一下。[%p]
+
+JA [name]結城[line]はあ‥‥。[%p]
+ZH [name]结城[line]哈啊……。[%p]
+
+JA [name]たくや[line]‥‥とりあえず戻ってみよう。[%p]
+ZH [name]拓也[line]……总之先回去看一看吧。[%p]
+
+JA [name]結城[line]わかりました、戻りましょう。[%p]
+ZH [name]结城[line]明白了，那就回去吧。[%p]
+
+JA [name]たくや[line]えっ、戻るのか‥‥?[%p]
+ZH [name]拓也[line]诶，要回去吗……？[%p]
+
+JA [name]たくや[line]いま来たばかりなのに‥‥。[%p]
+ZH [name]拓也[line]明明才刚走到这里……。[%p]
+
+JA [name]たくや[line]だから、アイテムを使うときじゃないってば。[%p]
+ZH [name]拓也[line]所以说，现在不是使用道具的时候啊。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃない。[%p]
+ZH [name]拓也[line]现在可不是使用道具的时候。[%p]
+
+JA [name]たくや[line]進むときだ。[%p]
+ZH [name]拓也[line]现在要前进。[%p]
+
+JA [name]たくや[line]おいおい‥‥そいつは今、使えないぜ。[%p]
+ZH [name]拓也[line]喂喂……这玩意，现在用不上吧。[%p]
+
+JA 
+ZH 
+

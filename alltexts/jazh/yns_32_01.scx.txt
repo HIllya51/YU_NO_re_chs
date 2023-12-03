@@ -1,0 +1,249 @@
+JA [name]たくや[line]相変わらず、薄暗いな‥‥。[%p]
+ZH [name]拓也[line]还是老样子，很昏暗……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]薄暗いな‥‥電灯はないのかな。[%p]
+ZH [name]拓也[line]很昏暗……没有电灯吗。[%p]
+
+JA [name]たくや[line]ホコリとカビの臭いか‥‥。[%p]
+ZH [name]拓也[line]灰尘和霉菌的味道吗……。[%p]
+
+JA [name]たくや[line]長い間、使われていなかったのかもしれない‥‥。[%p]
+ZH [name]拓也[line]也许，已经有很长时间没有用到过了……。[%p]
+
+JA [name]たくや[line]美月さんはいないみたいだが‥‥。[%p]
+ZH [name]拓也[line]美月好像不在……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]何だ‥‥どうしたんだ?[%p]
+ZH [name]拓也[line]什么……发生什么事了？[%p]
+
+JA [name]声[line]たくや‥‥どこにいるの、たくや![%p]
+ZH [name]声音[line]JF|你在哪里！[%p]
+
+JA [name]たくや[line]ありゃりゃ、美月さんの声だぞ‥‥。[%p]
+ZH [name]拓也[line]啊呀呀，这是美月的声音……。[%p]
+
+JA [name]声[line]ねぇ、どこよ、たくや‥‥。[%p]
+ZH [name]声音[line]呐，你在哪里啊，拓也……。[%p]
+
+JA [name]たくや[line]しょうがないな‥‥美月さんの所へ行こう。[%p]
+ZH [name]拓也[line]没办法了……到美月那里去吧。[%p]
+
+JA [name]たくや[line]窓だな‥‥外には青空が広がっている。[%p]
+ZH [name]拓也[line]窗户……外面蓝天广阔。[%p]
+
+JA [name]たくや[line]光が薄暗い土蔵内に射し込んでいる‥‥。[%p]
+ZH [name]拓也[line]光线照进了昏暗的土藏里面……。[%p]
+
+JA [name]たくや[line]もっとも、殆ど明かりとしての役割は期待できないが。[%p]
+ZH [name]拓也[line]不过，也没期望能够起到多少照明的作用。[%p]
+
+JA [name]たくや[line]カギが掛かっている‥‥開けられないぜ。[%p]
+ZH [name]拓也[line]锁住了……打不开。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]カギが掛かっているみたいだ‥‥。[%p]
+ZH [name]拓也[line]貌似已经锁住了……。[%p]
+
+JA [name]たくや[line]鉄の扉だ。この向こうにも部屋がありそうだが‥‥。[%p]
+ZH [name]拓也[line]铁门。那边好像也有个房间……。[%p]
+
+JA [name]たくや[line]ノックをしても、誰かが開けてくれる訳じゃないぜ‥‥。[%p]
+ZH [name]拓也[line]就算敲门，也不可能会有人来开门的……。[%p]
+
+JA [name]たくや[line]鉄の扉か‥‥ここだけ厳重だな。[%p]
+ZH [name]拓也[line]铁门吗……只有这里很庄重啊。[%p]
+
+JA [name]たくや[line]向こうに部屋があるみたいだが‥‥。[%p]
+ZH [name]拓也[line]对面似乎也有房间……。[%p]
+
+JA [name]たくや[line]ま、多分向こうもこんな状態なんだろうな。[%p]
+ZH [name]拓也[line]算了，估计那边也是这种状态吧。[%p]
+
+JA [name]たくや[line]土蔵を支えている柱だな‥‥。[%p]
+ZH [name]拓也[line]支撑着仓库的柱子……。[%p]
+
+JA [name]たくや[line]土蔵を支えている大黒柱って所か‥‥。[%p]
+ZH [name]拓也[line]支撑着仓库的大黑柱么……。[%p]
+
+JA [name]たくや[line]太い柱で、土蔵全体を支えているようだ。[%p]
+ZH [name]拓也[line]用很粗的柱子，把土藏全部都支撑起来了。[%p]
+
+JA [name]たくや[line]古い机だな‥‥もうガタがきているみたいだ。[%p]
+ZH [name]拓也[line]很旧的桌子……看起来已经七扭八歪了。[%p]
+
+JA [name]たくや[line]時代物って感じだな‥‥装飾を施されているみたいだ。[%p]
+ZH [name]拓也[line]JF:感觉是时代物……好像被装饰了。[%p]
+
+JA [name]たくや[line]角なんかはもうボロボロだ‥‥随分前の机らしい。[%p]
+ZH [name]拓也[line]边角什么的已经剥落了……似乎是很久以前的桌子了。[%p]
+
+JA [name]たくや[line]単なる物置なんじゃないかな‥‥この土蔵は。[%p]
+ZH [name]拓也[line]也许不仅仅是库房……这间仓库。[%p]
+
+JA [name]たくや[line]これはいったい何だろうな‥‥。[%p]
+ZH [name]拓也[line]这个究竟是什么啊……。[%p]
+
+JA [name]たくや[line]わっ‥‥なるべく、いじらないようにしなくちゃな。[%p]
+ZH [name]拓也[line]哇……还是尽量不要摆弄吧。[%p]
+
+JA [name]たくや[line]随分と色々な物が置いてあるな‥‥。[%p]
+ZH [name]拓也[line]存放了相当多的各种东西……。[%p]
+
+JA [name]たくや[line][ruby-base]煩雑[ruby-text-start]はんざつ[ruby-text-end]って形容が、お似合いだな‥‥。[%p]
+ZH [name]拓也[line]正适合，用烦杂来形容……。[%p]
+
+JA [name]たくや[line]凄い量の本だな‥‥。[%p]
+ZH [name]拓也[line]堆积如山的书……。[%p]
+
+JA [name]たくや[line]でも、何でみんな土蔵に積み上げられてるんだろう‥‥。[%p]
+ZH [name]拓也[line]不过，为什么这些东西都会被堆在土藏里呢……。[%p]
+
+JA [name]たくや[line]本が不要になったってことか‥‥?[%p]
+ZH [name]拓也[line]因为书已经没用了吗……？[%p]
+
+JA [name]たくや[line]ということは、これ全部、龍蔵寺が読んだってことか。[%p]
+ZH [name]拓也[line]也就是说，这些全部，龙藏寺都看完了么。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]しかし、凄い蔵書だな‥‥オヤジに匹敵するんじゃないか?[%p]
+ZH [name]拓也[line]不过，好厉害的藏书……不是可以匹敌老头子了么？[%p]
+
+JA [name]たくや[line]龍蔵寺もオヤジと同じ学者先生だしな‥‥納得はできるぜ。[%p]
+ZH [name]拓也[line]龙藏寺和老头子一样是学者先生呢……能够认同。[%p]
+
+JA [name]たくや[line]古い土蔵だからな‥‥こんなのがあっても変じゃないな。[%p]
+ZH [name]拓也[line]因为是很古旧的土藏……所以会这样子也没什么奇怪的。[%p]
+
+JA [name]たくや[line]何だこれは‥‥[ruby-base]鍬[ruby-text-start]くわ[ruby-text-end]ってやつか?[%p]
+ZH [name]拓也[line]这是什么……锄头么？[%p]
+
+JA [name]たくや[line][鍬]:田畑を耕すための、平たい金属に柄の付いた農耕機具。[%p]
+ZH [name]拓也[line]［锹］：为了耕田，在一块扁平金属上加柄的农具。（日本的锹类似镐形锄头）。[%p]
+
+JA [name]たくや[line]はっはっは、歩く国語辞典と言ってくれ。[%p]
+ZH [name]拓也[line]哈哈哈，请叫我会走路的国语词典吧。[%p]
+
+JA [name]たくや[line]‥‥誰に言ってるんだ、俺は。[%p]
+ZH [name]拓也[line]……我在跟谁讲话啊。[%p]
+
+JA [name]たくや[line]まぁでも、ここだけ浮いてるってのは確かだな‥‥。[%p]
+ZH [name]拓也[line]不过，确实只有这里有些可疑……。[%p]
+
+JA [name]たくや[line]ここだけ、塗り替えたのかな?[%p]
+ZH [name]拓也[line]只有这里，重新粉刷过么？[%p]
+
+JA [name]たくや[line]このしっくいは、しっくいこない‥‥しっくりこない。[%p]
+ZH [name]拓也[line]这个泥灰，没有粉刷过……感觉很别扭啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ごめんよ。[%p]
+ZH [name]拓也[line]抱歉。[%p]
+
+JA [name]たくや[line]恐らく、[ruby-base]漆喰[ruby-text-start]しっくい[ruby-text-end]というヤツを、塗ってあるせいだろう。[%p]
+ZH [name]拓也[line]恐怕，是因为这里涂过了叫做泥灰（ｓｈｉｋｋｕｉ）的东西吧。[%p]
+
+JA [name]たくや[line]ちなみに漆喰というのは、天井や壁なんかに使用される塗料のことだ。[%p]
+ZH [name]拓也[line]顺便说一下，所谓的泥灰，是使用在天花板和墙壁等处的涂料。[%p]
+
+JA [name]たくや[line]‥‥誰に説明してるんだろうな、俺は。[%p]
+ZH [name]拓也[line]……我在向谁说明呢。[%p]
+
+JA [name]たくや[line]ここだけ、やけに白い壁だな‥‥。[%p]
+ZH [name]拓也[line]只有这里，墙壁特别白……。[%p]
+
+JA [name]たくや[line]そうだ‥‥。[%p]
+ZH [name]拓也[line]是……。[%p]
+
+JA [name]たくや[line]もしかしたらこれを利用すれば、或いは‥‥。[%p]
+ZH [name]拓也[line]如果使用这个的话，或许……。[%p]
+
+JA [name]たくや[line]よし、ロープを取るぞ。[%p]
+ZH [name]拓也[line]（好嘞，去拿绳子吧。）。[%p]
+
+JA [color index="840000"][ロープ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:得到了。
+
+JA [color index="840000"][ロープ][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[绳索][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]ロープが掛かっていた場所だな‥‥。[%p]
+ZH [name]拓也[line]（挂着绳子的地方……。）。[%p]
+
+JA [name]たくや[line]今はもう、掛かっていない‥‥。[%p]
+ZH [name]拓也[line]现在，已经没有挂着了……。[%p]
+
+JA [name]たくや[line]なぜなら、俺が持っているからだな。[%p]
+ZH [name]拓也[line]说到为什么，是因为我拿走了啊。[%p]
+
+JA [name]たくや[line]そこには何もないぜ‥‥。[%p]
+ZH [name]拓也[line]那里现在什么都没有……。[%p]
+
+JA [name]たくや[line]頑丈そうなロープだ‥‥。[%p]
+ZH [name]拓也[line]看起来挺结实的绳子……。[%p]
+
+JA [name]たくや[line]取ろうと思えば取れるが、今は必要の無いものだな‥‥。[%p]
+ZH [name]拓也[line]想要取下的话就能取下，但现在没有必要……。[%p]
+
+JA [name]たくや[line]静かな土蔵だ‥‥。[%p]
+ZH [name]拓也[line]寂静的土藏……。[%p]
+
+JA [name]たくや[line]どう考えても、美月さんがいるとは思えないぞ。[%p]
+ZH [name]拓也[line]不管怎么想，我都不觉得美月会在里面。[%p]
+
+JA [name]たくや[line]こうして見回しているだけで、鼻がムズムズしてくるな。[%p]
+ZH [name]拓也[line]只是这样子来回看了一下而已，鼻子就开始痒痒的了。[%p]
+
+JA [name]たくや[line]ホコリっぽい場所は、ちょっと苦手なんだよ‥‥。[%p]
+ZH [name]拓也[line]稍微有些不擅长应付满是灰尘的地方，……。[%p]
+
+JA [name]たくや[line]カビとホコリの臭いが充満している‥‥。[%p]
+ZH [name]拓也[line]充满了霉菌和灰尘的味道……。[%p]
+
+JA [name]たくや[line]アレルギー体質の人が入ったら、クシャミしまくりって感じだ。[%p]
+ZH [name]拓也[line]如果让过敏体质的人进来的话，感觉会不停地打喷嚏。[%p]
+
+JA [name]たくや[line]‥‥そうだな、ここにいてもしょうがないみたいだ。[%p]
+ZH [name]拓也[line]……对啊，待在这里好像也没什么用。[%p]
+
+JA [name]たくや[line]外に出よう‥‥。[%p]
+ZH [name]拓也[line]到外面去吧……。[%p]
+
+JA [name]たくや[line]‥‥そうだな、ここにいてもしょうがない。[%p]
+ZH [name]拓也[line]……对啊，待在这里也没什么用。[%p]
+
+JA [name]たくや[line]外に出よう‥‥。[%p]
+ZH [name]拓也[line]到外面去吧……。[%p]
+
+JA [name]たくや[line]‥‥そうだな、ここにいてもしょうがないみたいだ。[%p]
+ZH [name]拓也[line]……对啊，待在这里好像也没什么用。[%p]
+
+JA [name]たくや[line]外に出よう‥‥。[%p]
+ZH [name]拓也[line]到外面去吧……。[%p]
+
+JA [name]たくや[line]もうちょっと調べてからだ‥‥。[%p]
+ZH [name]拓也[line]再稍微调查一下看看吧……。[%p]
+
+JA [name]たくや[line]それからでも、遅くはないと思うぜ。[%p]
+ZH [name]拓也[line]就算这样，我想应该也不会迟到。[%p]
+
+JA [name]たくや[line]待てよ‥‥もう少し、調べてみないか?[%p]
+ZH [name]拓也[line]等一下……不要再稍微调查一下吗？[%p]
+
+JA 
+ZH 
+

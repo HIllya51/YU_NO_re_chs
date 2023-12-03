@@ -1,0 +1,342 @@
+JA [name]たくや[line]土蔵前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到土藏前面了……。[%p]
+
+JA [name]たくや[line]絵里子先生は、どこを探しているんだろう‥‥。[%p]
+ZH [name]拓也[line]绘里子老师，究竟找到什么地方去了呢……。[%p]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]何かが‥‥動いた![%p]
+ZH [name]拓也[line]有什么……在动！[%p]
+
+JA [name]たくや[line]何だ!? いったいどこから聴こえてきたんだ!?[%p]
+ZH [name]拓也[line]什么！？　究竟是从哪里传过来的！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]荒れた土蔵が建っているだけだ‥‥。[%p]
+ZH [name]拓也[line]建造着一个荒废了的土藏……。[%p]
+
+JA [name]たくや[line]誰もいない‥‥。[%p]
+ZH [name]拓也[line]谁都不在……。[%p]
+
+JA [name]美月[line]さっ、行きましょう。[%p]
+ZH [name]美月[line]来，一起去吧。[%p]
+
+JA [name]たくや[line]美月さん、服が少し乱れているよ。[%p]
+ZH [name]拓也[line]JF:美月，你的衣服有点乱。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]赤くなってやんの。[%p]
+ZH [name]拓也[line]脸变红了。[%p]
+
+JA [name]美月[line]‥‥服を直すから、向こうを向いてて。[%p]
+ZH [name]美月[line]JF:……因为要修衣服，所以面向对面。[%p]
+
+JA [name]たくや[line]ははは‥‥じゃあ、先に中庭へ行っているよ。[%p]
+ZH [name]拓也[line]哈哈哈……那么，我就先到中庭去了。[%p]
+
+JA [name]美月[line]ええ‥‥。[%p]
+ZH [name]美月[line]诶诶……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]しかし、それにしても‥‥この土蔵が半年前に建てられたものとはね。[%p]
+ZH [name]拓也[line]不过，话虽这么说……这个土藏居然是半年前建起来的。[%p]
+
+JA [name]たくや[line]てっきりこの様相だから、屋敷と同じく数百年前くらいのもんだと思った。[%p]
+ZH [name]拓也[line]都已经破落成这个样子了，我还以为一定是跟房子一样几百年前就建好了。[%p]
+
+JA [name]声[line]たくや‥‥大変よ![%p]
+ZH [name]声音[line]拓也……糟了！[%p]
+
+JA [name]美月[line]たくや![%p]
+ZH [name]美月[line]这是拓也！[%p]
+
+JA [name]たくや[line]どうしたんだよ、そんな恐い顔をして。[%p]
+ZH [name]拓也[line]怎么了，脸色这么可怕。[%p]
+
+JA [name]美月[line]大変なのよっ。[%p]
+ZH [name]美月[line]事情糟糕了。[%p]
+
+JA [name]たくや[line]お、俺は美月さんのパンツなんて、取ってないぞ。[%p]
+ZH [name]拓也[line]JF:喂，我没有拿美月的内裤。[%p]
+
+JA [name]美月[line]バカ‥‥。それより、いま車の音がしたの。[%p]
+ZH [name]美月[line]傻瓜……。比起这个，刚才有传来车子的声音。[%p]
+
+JA [name]たくや[line]くるま?[%p]
+ZH [name]拓也[line]车？[%p]
+
+JA [name]美月[line]先生がお帰りになったんだわ‥‥大変よ。[%p]
+ZH [name]美月[line]老师已经回来了……糟糕了。[%p]
+
+JA [name]たくや[line]龍蔵寺が‥‥? まずいな、はち合わせってことになったら‥‥。[%p]
+ZH [name]拓也[line]龙藏寺……？　糟糕了，要是被撞见的话……。[%p]
+
+JA [name]美月[line]先生はいつも、裏のガレージからお入りになるわ。今だったら中庭の方から‥‥。[%p]
+ZH [name]美月[line]平时，老师都是从里面的车库进来的。现在的话就从中庭那里……。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]美月[line]早く![%p]
+ZH [name]美月[line]快点！[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]たくや[line](ふぅ‥‥何とも忙しいこった。)[%p]
+ZH [name]拓也[line](（呼……慌慌张张的。）。)[%p]
+
+JA [name]たくや[line]どわっ![%p]
+ZH [name]拓也[line]呃哇！[%p]
+
+JA [name]美月[line]お母さま‥‥。[%p]
+ZH [name]美月[line]伯母……。[%p]
+
+JA [name]老婆[line]オホホホ‥‥あの男が帰ってくるわよ。[%p]
+ZH [name]老婆婆[line]哦赫赫赫……那个男人回来了哦。[%p]
+
+JA [name]たくや[line]あの‥‥男って?[%p]
+ZH [name]拓也[line]那个……男人？[%p]
+
+JA [name]老婆[line]ほら、そこから早くお行きなさい。[%p]
+ZH [name]老婆婆[line]好了，快点从那里离开吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]ありがとうございます、お母さま。さっ、たくや。[%p]
+ZH [name]美月[line]非常感谢，伯母。走吧，拓也。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]老婆[line]オホホホ‥‥あのカギは、役にたったかしらね。[%p]
+ZH [name]老婆婆[line]哦赫赫赫……那个孩子，应该会有用的吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]一条君、来ているのかね!?[%p]
+ZH [name]声音[line]一条君，过来了吧！？[%p]
+
+JA [name]美月[line]先生だわ‥‥さっ、たくや![%p]
+ZH [name]美月[line]那是老师……走吧，拓也！[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]待って![%p]
+ZH [name]美月[line]等一下！[%p]
+
+JA [name]たくや[line]え?[%p]
+ZH [name]拓也[line]画？[%p]
+
+JA [name]たくや[line]‥‥な、なに?[%p]
+ZH [name]拓也[line]……什，什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]さっ。[%p]
+ZH [name]美月[line]好了。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](大人のキスだったな‥‥ふぅ。)[%p]
+ZH [name]拓也[line]JF:（是大人的吻啊……嗯。）[%p]
+
+JA [name]たくや[line](しかし、それにしても‥‥。)[%p]
+ZH [name]拓也[line](可是，即便如此……。)[%p]
+
+JA [name]たくや[line](あの婆さん‥‥何かを知っているのか?)[%p]
+ZH [name]拓也[line](（那个老太太……是不是知道些什么呢？）)[%p]
+
+JA [name]たくや[line](とにかく、今は屋敷の外に出た方がよさそうだ‥‥。)[%p]
+ZH [name]拓也[line](（总之，看来现在还是先到房子外面去比较好……。）。)[%p]
+
+JA [name]美月[line]今、先生が母屋へお入りになったから‥‥さっ、早く。[%p]
+ZH [name]美月[line]刚才，老师进到主屋那里去了……走吧，快点。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]美月[line]さっ、早く、こっちよ。[%p]
+ZH [name]美月[line]走吧，快点，这里。[%p]
+
+JA [name]たくや[line]わかった。[%p]
+ZH [name]拓也[line]知道了。[%p]
+
+JA [name]たくや[line](ふぅ‥‥何とも慌ただしいな。)[%p]
+ZH [name]拓也[line](（呼……真是太慌张了。）。)[%p]
+
+JA [name]美月[line]ごめんなさい‥‥あまり手伝えなくて。[%p]
+ZH [name]美月[line]对不起……没帮上什么忙。[%p]
+
+JA [name]たくや[line]いや、俺の方こそ‥‥。[%p]
+ZH [name]拓也[line]没有，我这边才是……。[%p]
+
+JA [name]声[line]一条君、どこかな?[%p]
+ZH [name]声音[line]一条君，在哪里？[%p]
+
+JA [name]美月[line]きゃっ‥‥さっ、早く行って。[%p]
+ZH [name]美月[line]呀……来，快点走吧。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]美月[line]そうだわ、一つ言い忘れたことがあって‥‥。[%p]
+ZH [name]美月[line]对了，有件事我忘记说了……。[%p]
+
+JA [name]たくや[line]えっ?[%p]
+ZH [name]拓也[line]诶？[%p]
+
+JA [name]美月[line]井戸の中に‥‥。[%p]
+ZH [name]美月[line]枯井里面……。[%p]
+
+JA [name]声[line]一条君‥‥。[%p]
+ZH [name]声音[line]一条君……。[%p]
+
+JA [name]美月[line]行って、早く![%p]
+ZH [name]美月[line]走吧，快点！[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]待って![%p]
+ZH [name]美月[line]等一下！[%p]
+
+JA [name]たくや[line]え?[%p]
+ZH [name]拓也[line]画？[%p]
+
+JA [name]たくや[line]‥‥な、なに?[%p]
+ZH [name]拓也[line]……什，什么？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ぷはっ。[%p]
+ZH [name]拓也[line]噗哈。[%p]
+
+JA [name]美月[line]さっ。[%p]
+ZH [name]美月[line]好了。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥。[%p]
+ZH [name]拓也[line]啊、啊啊‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](大人のキスだったな‥‥ふぅ。)[%p]
+ZH [name]拓也[line]JF:（是大人的吻啊……嗯。）[%p]
+
+JA [name]たくや[line](しかし、それにしても‥‥。)[%p]
+ZH [name]拓也[line](可是，即便如此……。)[%p]
+
+JA [name]たくや[line](美月さん、何を言いかけたんだろうな‥‥。)[%p]
+ZH [name]拓也[line](（美月，是想说什么事呢……。）。)[%p]
+
+JA [name]たくや[line](とにかく、今は屋敷の外に出た方がよさそうだ‥‥。)[%p]
+ZH [name]拓也[line](（总之，看来现在还是先到房子外面去比较好……。）。)[%p]
+
+JA [name]たくや[line]土蔵前に来たが‥‥。[%p]
+ZH [name]拓也[line]来到土藏前面了……。[%p]
+
+JA [name]たくや[line]美月さんは、まだ龍蔵寺の所みたいだ‥‥。[%p]
+ZH [name]拓也[line]美月，好像还在龙藏寺那里……。[%p]
+
+JA [name]美月[line]きゃっ![%p]
+ZH [name]美月[line]呀！[%p]
+
+JA [name]たくや[line]あれ、美月さん‥‥。[%p]
+ZH [name]拓也[line]咦，那是美月……。[%p]
+
+JA [name]美月[line]びっくりさせないでよ‥‥あぁ、心臓が止まるかと思ったわ。[%p]
+ZH [name]美月[line]不要吓我啊……啊啊，还以为心脏停止跳动了呢。[%p]
+
+JA [name]たくや[line]大丈夫だ、俺がマウスツーマウスの人工呼吸をしてやる。[%p]
+ZH [name]拓也[line]没关系，我会给你来个嘴对嘴的人工呼吸。[%p]
+
+JA [name]美月[line]バカ‥‥それよりも、何で土蔵から?[%p]
+ZH [name]美月[line]傻瓜……说起来，你为什么从土藏里出来？[%p]
+
+JA [name]たくや[line]‥‥え?[%p]
+ZH [name]拓也[line]……誒？[%p]
+
+JA [name]美月[line]カギが掛かっていたと思うけど‥‥。[%p]
+ZH [name]美月[line]我还以为那是是锁上了的……。[%p]
+
+JA [name]たくや[line]そう? 開いていたけど。[%p]
+ZH [name]拓也[line]是吗？　是开着的啊。[%p]
+
+JA [name]美月[line]‥‥‥‥。[%p]
+ZH [name]美月[line]…………。[%p]
+
+JA [name]たくや[line]美月さん、いないな‥‥。[%p]
+ZH [name]拓也[line]美月，没有在啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]昼間になると、余計に荒れているのがわかる。[%p]
+ZH [name]拓也[line]到了白天，就会显得分外地荒凉。[%p]
+
+JA [name]たくや[line]敷地がだだっ広いのも問題だな‥‥こうなったんじゃ。[%p]
+ZH [name]拓也[line]地皮太大了也是个问题啊……就会变成这样子了。[%p]
+
+JA [name]たくや[line]美月さんは、いないようだが‥‥。[%p]
+ZH [name]拓也[line]美月，貌似不在啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ、これ‥‥。[%p]
+ZH [name]拓也[line]什么啊，这个……。[%p]
+
+JA [name]たくや[line]よく映画とかでみる、武家屋敷の土蔵ってやつかな‥‥。[%p]
+ZH [name]拓也[line]经常在电影上看到过，所谓武士住宅的土藏……。（注：即仓库）。[%p]
+
+JA [name]たくや[line]しかし随分とまあ‥‥。[%p]
+ZH [name]拓也[line]不过这也真是太夸张了……。[%p]
+
+JA [name]たくや[line]何だか、手入れも行き届いていないし、荒れ放題って感じだな‥‥。[%p]
+ZH [name]拓也[line]看上去，好像完全没有经过修整，就随随便便地荒废掉了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

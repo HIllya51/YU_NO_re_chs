@@ -1,0 +1,78 @@
+JA [name]たくや[line]亜由美さん、無事でいてくれよ![%p]
+ZH [name]拓也[line]JF:亚由美，你要平安啊！[%p]
+
+JA [name]たくや[line]あっ![%p]
+ZH [name]拓也[line]啊！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]俺の声が、こだまするくらい静かだな。[%p]
+ZH [name]拓也[line]安静得，连我的声音都产生回音了啊。[%p]
+
+JA [name]たくや[line]‥‥ごめんよ。[%p]
+ZH [name]拓也[line]……抱歉啊。[%p]
+
+JA [name]たくや[line]しかし‥‥こっちの方にはいないんだろうか。[%p]
+ZH [name]拓也[line]但是……应该是不在这边方向吧。[%p]
+
+JA [name]たくや[line]くそっ、龍蔵寺のヤツ、亜由美さんをどうするつもりなんだ‥‥?[%p]
+ZH [name]拓也[line]可恶，龙藏寺那家伙，打算怎么对待亚由美小姐呢……？[%p]
+
+JA [name]たくや[line]気を付けないと、滑って転ぶぜ。[%p]
+ZH [name]拓也[line]不注意的话，一下子就会滑倒了。[%p]
+
+JA [name]たくや[line]少し、湿っているな‥‥。[%p]
+ZH [name]拓也[line]稍微，有点潮湿啊……。[%p]
+
+JA [name]たくや[line]明かりは、やや薄暗いな‥‥。[%p]
+ZH [name]拓也[line]照明，有点昏暗啊……。[%p]
+
+JA [name]たくや[line]そのせいで、床なんかが見えにくい。気を付けないと。[%p]
+ZH [name]拓也[line]因为这个缘故，很难看清楚地面。所以一定要小心了。[%p]
+
+JA [name]たくや[line]薄暗く、明かりを灯しているぜ‥‥。[%p]
+ZH [name]拓也[line]微弱地，有照明灯正亮着呢……。[%p]
+
+JA [name]たくや[line]崩れる心配はなさそうだが‥‥。[%p]
+ZH [name]拓也[line]虽然不用担心会崩坏掉……。[%p]
+
+JA [name]たくや[line]まさか、さっきのデカい地震で崩れる‥‥なんてことはないよな。[%p]
+ZH [name]拓也[line]莫非，会因为刚才那阵剧烈的地震而崩坏……那种事是不可能的吧。[%p]
+
+JA [name]たくや[line]だが、用心に越したことはない‥‥気を付けないとな。[%p]
+ZH [name]拓也[line]但是，当然最好是要谨慎点……一定要当心啊。[%p]
+
+JA [name]たくや[line]‥‥真っ直ぐ行くんだな。[%p]
+ZH [name]拓也[line]……要笔直往前走啊。[%p]
+
+JA [name]たくや[line]城の方へ戻るんだな‥‥?[%p]
+ZH [name]拓也[line]要回去城堡方向啊……？[%p]
+
+JA [name]たくや[line]右側は岩で塞がっていて通れないぜ‥‥。[%p]
+ZH [name]拓也[line]右边由于被岩石堵住了没办法通行呢……。[%p]
+
+JA [name]たくや[line]‥‥一昨日も、同じことをやったような。[%p]
+ZH [name]拓也[line]……就在前天，我好像也干了同样的事啊。[%p]
+
+JA [name]たくや[line]右側は‥‥いちおう通路はあるみたいだ。[%p]
+ZH [name]拓也[line]右边……姑且好像是有通道吧。[%p]
+
+JA [name]たくや[line]よし‥‥行ってみるか。[%p]
+ZH [name]拓也[line]好嘞……过去看看吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]岩で塞がっている‥‥。[%p]
+ZH [name]拓也[line]被岩石堵住去路了……。[%p]
+
+JA [name]たくや[line]通れないか‥‥。[%p]
+ZH [name]拓也[line]不能通行吗……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA 
+ZH 
+

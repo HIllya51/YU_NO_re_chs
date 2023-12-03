@@ -1,0 +1,426 @@
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何か胸騒ぎがするな‥‥。[%p]
+ZH [name]拓也[line]总觉得有点忐忑不安啊……。[%p]
+
+JA [name]たくや[line]いったい、何なんだ、これは‥‥。[%p]
+ZH [name]拓也[line]到底，是什么呢，这东西……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さっきまで、澪が何かを調べていたが‥‥。[%p]
+ZH [name]拓也[line]从刚才开始，澪就在调查什么东西……。[%p]
+
+JA [name]たくや[line]あれ‥‥向こうから来るのは‥‥。[%p]
+ZH [name]拓也[line]咦……从那边过来的是……。[%p]
+
+JA [name]澪[line]有馬君‥‥。[%p]
+ZH [name]澪[line]有马君……。[%p]
+
+JA [name]たくや[line]澪じゃないか。[%p]
+ZH [name]拓也[line]这不是澪吗‘。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]何をやっているんだよ、こんな夜に。[%p]
+ZH [name]拓也[line]你在做什么啊，大晚上的。[%p]
+
+JA [name]澪[line]ちょっと、調べモノをね。[%p]
+ZH [name]澪[line]稍微，调查一下东西。[%p]
+
+JA [name]たくや[line]調べモノ?[%p]
+ZH [name]拓也[line]调查什么？[%p]
+
+JA [name]澪[line]はっきりしたら、言ってあげるわ‥‥まだ、はっきりしていないから、言えない。[%p]
+ZH [name]澪[line]弄清楚了的话，一定会告诉你……不过，现在还没弄清楚，所以也不好说。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]私が、あなたのお父様のファンだったのは、覚えている?[%p]
+ZH [name]澪[line]我呢，是你父亲的粉丝哦，还记得吗？[%p]
+
+JA [name]たくや[line]ああ‥‥おぼろげにね。[%p]
+ZH [name]拓也[line]啊啊……我想起来了。[%p]
+
+JA [name]澪[line]何となく、あの本の謎が解けそうなのよ。[%p]
+ZH [name]澪[line]总觉得，想要解开那本书的谜团呢。[%p]
+
+JA [name]たくや[line]本?[%p]
+ZH [name]拓也[line]书？[%p]
+
+JA [name]澪[line]フフ‥‥見てらっしゃい。[%p]
+ZH [name]澪[line]呵呵……你看看吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]澪のヤツ‥‥何を調べていたんだろう。[%p]
+ZH [name]拓也[line]澪这家伙……是在调查什么东西吧。[%p]
+
+JA [name]たくや[line]夜の社か‥‥。[%p]
+ZH [name]拓也[line]夜晚的社吗……。[%p]
+
+JA [name]たくや[line]あのときを思い出すな‥‥。[%p]
+ZH [name]拓也[line]想起了那个时候啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今は誰もいない‥‥静かだ。[%p]
+ZH [name]拓也[line]现在谁都不在……很安静。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]うるさいショウジョウ蝿のような豊富が来る前に、退散した方がいいぜ。[%p]
+ZH [name]拓也[line]在跟苍蝇一样嗡嗡叫的丰富过来之前，还是先走比较好呢。[%p]
+
+JA [name]たくや[line]剣ノ岬‥‥通称「社」だな。[%p]
+ZH [name]拓也[line]剑之岬……通称为［社］。[%p]
+
+JA [name]たくや[line]誰もいないみたいだが‥‥。[%p]
+ZH [name]拓也[line]好像谁都不在啊……。[%p]
+
+JA [name]たくや[line]あれ?[%p]
+ZH [name]拓也[line]咦？[%p]
+
+JA [name]たくや[line]山の後ろから来るやつらは‥‥。[%p]
+ZH [name]拓也[line]从山后面走出来的两个人是……。[%p]
+
+JA [name]結城[line]オヤビンじゃないですか。[%p]
+ZH [name]结城[line]这不是头目吗。[%p]
+
+JA [name]澪[line]有馬君だったの‥‥。[%p]
+ZH [name]澪[line]是有马君啊……。[%p]
+
+JA [name]たくや[line]何をやっていたんだ? こんな所で。[%p]
+ZH [name]拓也[line]你们在做什么呢？　在这种地方。[%p]
+
+JA [name]結城[line]奇遇っすね。僕らはここを探検しようかと‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]结城[line]还真巧啊。我们是在探险……。[auto-forward][linebreak][linebreak]
+
+JA [name]澪[line]結城君。[%p]
+ZH [name]澪[line]结城君。[%p]
+
+JA [name]結城[line]あっ、すみませんです‥‥。[%p]
+ZH [name]结城[line]啊、对不起……。[%p]
+
+JA [name]澪[line]有馬君、あなたには関係ないことじゃないかしら。[%p]
+ZH [name]澪[line]有马君，这个跟你没什么关系吧。[%p]
+
+JA [name]たくや[line]関係なくないさ。ここはジオ・テクニクスの管理区域で、知り合いが揉め事を起こすと、俺にも火の粉が降り懸かってくる。[%p]
+ZH [name]拓也[line]谁说没关系啊。这里是Ｇｅｏ　ｔｅｃｈｎｉｃｓ的管理区域，熟人要是遇到纠纷的话，我也能帮上忙。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]それに、うざい男が、こらこらーとか言ってやってくるぜ。[%p]
+ZH [name]拓也[line]而且，有个烦人的男人，老是在这里大呼小叫的呢。[%p]
+
+JA [name]澪[line]ご忠告は感謝するわ‥‥行きましょう、結城君。[%p]
+ZH [name]澪[line]多谢你的忠告……我们走吧，结城君。[%p]
+
+JA [name]結城[line]は、はあ‥‥。[%p]
+ZH [name]结城[line]是，是吗……。[%p]
+
+JA [name]結城[line]《じゃ、オヤビン、また今度‥‥。》[%p]
+ZH [name]结城[line]《那么，头目，再会了……。》[%p]
+
+JA [name]澪[line]結城君![%p]
+ZH [name]澪[line]结城君！[%p]
+
+JA [name]結城[line]はっ、ただいま! じゃ‥‥。[%p]
+ZH [name]结城[line]好，马上就来！　再见……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]さしずめ、女王様とその従者ってところか‥‥。[%p]
+ZH [name]拓也[line]总之，就是女王陛下和侍者吧……。[%p]
+
+JA [name]たくや[line]しかしあいつら、ここで何をやっていたんだ?[%p]
+ZH [name]拓也[line]不过那两个家伙，到底在这里做什么啊？[%p]
+
+JA [name]たくや[line]社だ‥‥ここは比較的静かな場所だな。[%p]
+ZH [name]拓也[line]社……这里是比较安静的场所。[%p]
+
+JA [name]たくや[line]夜の社‥‥あのときを思い出すな。[%p]
+ZH [name]拓也[line]夜晚的社……想起了那个时候啊。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないようだ‥‥ホッとするな。[%p]
+ZH [name]拓也[line]好像谁都不在……安心了啊。[%p]
+
+JA [name]たくや[line]社にやってきたぜ‥‥相変わらず誰もいないな。[%p]
+ZH [name]拓也[line]来到社这里了……还是一样地谁都不在啊。[%p]
+
+JA [name]声[line]こらこらこらー![%p]
+ZH [name]声音[line]喂喂喂——！[%p]
+
+JA [name]たくや[line]‥‥嫌な予感がするな。[%p]
+ZH [name]拓也[line]……讨厌的预感啊。[%p]
+
+JA [name]たくや[line]やっ、亜由美さんの手下A、だったよな。[%p]
+ZH [name]拓也[line]这，这不是亚由美小姐的手下Ａ吗。[%p]
+
+JA [name]豊富[line]誰が手下Aだ‥‥指をさすんじゃない。ここで何をしている?[%p]
+ZH [name]丰富[line]谁是手下Ａ啊……别拿手指指着我。你在这里干什么？[%p]
+
+JA [name]たくや[line]三角山は公共物のはずだぜ。あんたに、とやかく言われる筋合いはないな。[%p]
+ZH [name]拓也[line]三角山应该是公共财产吧。我没义务，要向你一一交代清楚吧。[%p]
+
+JA [name]豊富[line]フン、しゃらくさい事を言う。工事拡張のための管理範囲ということで、現在はジオ・テクニクスの管下にある。[%p]
+ZH [name]丰富[line]哼，别给我装蒜了。因为工程扩张而被纳入管理范围之内，现在这里已经受Ｇｅｏ　ｔｅｃｈｎｉｃｓ管辖了。[%p]
+
+JA [name]たくや[line]ふぅん‥‥そうなんだぁ。[%p]
+ZH [name]拓也[line]哼……这样的啊。[%p]
+
+JA [name]豊富[line]人前で鼻をほじるな。いいか、現場監督の僕に黙って、社へ入ってはいけないぞ。[%p]
+ZH [name]丰富[line]别再人家面前挖鼻孔。算了，总之，你不能不告诉我这个现场监督，就偷偷溜进社里面。[%p]
+
+JA [name]たくや[line]じゃあ、入っていい?[%p]
+ZH [name]拓也[line]那么，我可以进去吧？[%p]
+
+JA [name]豊富[line]ダメだ。[%p]
+ZH [name]丰富[line]不行啊。[%p]
+
+JA [name]たくや[line]聞いても、同じじゃないか。[%p]
+ZH [name]拓也[line]告诉你了，不也是一样吗。[%p]
+
+JA [name]豊富[line]いや、僕がダメと言うのと言わないのとでは、訳が違う。[%p]
+ZH [name]丰富[line]不对，我说不行了跟你不告诉我，意义是不一样的。[%p]
+
+JA [name]たくや[line]どう違うんだよ。[%p]
+ZH [name]拓也[line]哪里不一样了。[%p]
+
+JA [name]豊富[line]僕が言う、言わないの違いだ。[%p]
+ZH [name]丰富[line]我说，和不告诉我的区别。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](こいつ、バカ?)[%p]
+ZH [name]拓也[line](（这家伙，是傻瓜吗？）)[%p]
+
+JA [name]豊富[line]フン、まぁ近々だが、この社は取り壊されることになるしな、名残惜しむのもいいだろう。[%p]
+ZH [name]丰富[line]哼，不过最近，这个社就要被拆除掉了，到时你再来怀念好吧。[%p]
+
+JA [name]たくや[line]何だって!? 冗談だろう?[%p]
+ZH [name]拓也[line]什么！？　开玩笑的吧？[%p]
+
+JA [name]豊富[line]冗談ではない。[%p]
+ZH [name]丰富[line]没开玩笑。[%p]
+
+JA [name]たくや[line]こいつは、この町の名所じゃないか。[%p]
+ZH [name]拓也[line]这个地方，不是町里的名胜吗。[%p]
+
+JA [name]豊富[line]名所を取り壊してはいけない法はあるまい。[%p]
+ZH [name]丰富[line]法律也没有规定名胜就不能拆掉啊。[%p]
+
+JA [name]たくや[line]付近住民が、黙っちゃいないぜ。[%p]
+ZH [name]拓也[line]附近的居民，不会沉默的吧。[%p]
+
+JA [name]豊富[line]残念ながら市長の許可は取ったし、既に法的な手続きも完了した。[%p]
+ZH [name]丰富[line]很遗憾，我们已经得到市长的许可了，法律上的手续已经完成了。[%p]
+
+JA [name]たくや[line]‥‥理由は?[%p]
+ZH [name]拓也[line]……理由呢？[%p]
+
+JA [name]豊富[line]企業秘密だ。[%p]
+ZH [name]丰富[line]这是企业机密。[%p]
+
+JA [name]たくや[line]理由も明らかにせず、市長の許可のみでこいつを取り壊すっていうのか。[%p]
+ZH [name]拓也[line]连理由都不明确，只有市长的许可就可以把这里拆掉了吗。[%p]
+
+JA [name]豊富[line]市長は市民の代表として、行政を執行しているんだ。つまり市長の判断は住民の判断と言えるだろう。[%p]
+ZH [name]丰富[line]市长作为市民的代表，有行政执行权。也可以认为市长的判断就是居民的判断吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](ったく、さっきからウダウダと理屈を‥‥。)[%p]
+ZH [name]拓也[line](（可恶，从刚才开始就口若悬河地说些歪理……。）。)[%p]
+
+JA [name]豊富[line]フン、異議があるなら、裁判でも何でも起こすんだな。[%p]
+ZH [name]丰富[line]哼，如果你有异议的话，可以提起诉讼或什么的啊。[%p]
+
+JA [name]たくや[line](言い返せないぜ‥‥くそっ。)[%p]
+ZH [name]拓也[line](（无法反驳啊……可恶。）。)[%p]
+
+JA [name]豊富[line]言っておくがな、有馬主任もジオ・テクニクスの社員だということを忘れない方がいいな。[%p]
+ZH [name]丰富[line]我要提醒你，有马主任也是Ｇｅｏ　ｔｅｃｈｎｉｃｓ的职员这一点你可别忘了啊。[%p]
+
+JA [name]たくや[line]なっ‥‥‥‥。[%p]
+ZH [name]拓也[line]那…………。[%p]
+
+JA [name]豊富[line]くれぐれも、不祥事は起こさないようにな。[%p]
+ZH [name]丰富[line]要当心点，别再让不详之事发生了。[%p]
+
+JA [name]たくや[line]不祥事だって?[%p]
+ZH [name]拓也[line]什么不详之事？[%p]
+
+JA [name]豊富[line]社員の肉親が、反対運動に加担などということになれば、そういうことにならないかね?[%p]
+ZH [name]丰富[line]职员的亲人，如果参与了反对运动的话，这样就不好了吧？[%p]
+
+JA [name]たくや[line]それは‥‥そうだが。[%p]
+ZH [name]拓也[line]原来……如此。[%p]
+
+JA [name]豊富[line]そうなれば、有馬主任にとっても、君にとっても得策とは言えまい。違うかな?[%p]
+ZH [name]丰富[line]要是那样的话，不管是作为有马主任，还是作为你来说都不是很好。我说得不对吗？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]豊富[line]主任の息子ということで、あまり強くは言わないがな。名残惜しんだら、早々に立ち去るんだぞ。[%p]
+ZH [name]丰富[line]作为主任的儿子来说，话不能说得太绝了啊。要是还有所留恋的话，就早点离去吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそっ、理屈ばかり言いやがって‥‥。[%p]
+ZH [name]拓也[line]可恶，老是说些歪理……。[%p]
+
+JA [name]たくや[line]‥‥確かに、ヤツの言うことは正論が多いぜ。だが感情は理屈じゃ割り切れないぞ。[%p]
+ZH [name]拓也[line]……确实，这家伙说的大多是事实。但是从感情上来说完全是无法接受的歪理啊。[%p]
+
+JA [name]たくや[line]この社を取り壊す‥‥か。[%p]
+ZH [name]拓也[line]要把这个社给拆除……吗。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]亜由美さん、いったい何に関わっているんだろう‥‥。[%p]
+ZH [name]拓也[line]亚由美小姐，究竟有什么瓜葛呢……。[%p]
+
+JA [name]たくや[line]静かだ‥‥誰もいない。[%p]
+ZH [name]拓也[line]很安静……谁都不在。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]オヤジの手紙では、ここへやってくればある人物がいると言っていた。[%p]
+ZH [name]拓也[line]老头子的信上说，到这里来之后会有某个人物出现。[%p]
+
+JA [name]たくや[line]ある人物‥‥?[%p]
+ZH [name]拓也[line]某个人物……？[%p]
+
+JA [name]たくや[line]あの女性のことだろうか‥‥俺の目の前で消えてしまった‥‥。[%p]
+ZH [name]拓也[line]说的是那个女性吧…………消失在我的眼前。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]くそ、ここに、何かの手がかりがあるような気がしてならないんだが‥‥。[%p]
+ZH [name]拓也[line]可恶，虽然说，总觉得这里会有什么线索的说……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]剣ノ岬‥‥通称は[ruby-base]社[ruby-text-start]やしろ[ruby-text-end]で通っている。[%p]
+ZH [name]拓也[line]剑之岬……通称为社（ＹＡＳＨＩＲＯ）。[%p]
+
+JA [name]たくや[line]‥‥全ては、ここから始まったと言ってもいいんだ。[%p]
+ZH [name]拓也[line]……可以说，全部都是从这里开始的也不为过。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]やっぱり、誰もいないみたいだぜ‥‥。[%p]
+ZH [name]拓也[line]果然，好像谁都不在呢……。[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥ん‥‥‥‥。[%p]
+ZH [name]拓也[line]（……嗯…………。）。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここは‥‥どこだ?[%p]
+ZH [name]拓也[line]这是……什么地方？[%p]
+
+JA [name]たくや[line]‥‥頭が、痛いな‥‥‥‥。[%p]
+ZH [name]拓也[line]……脑袋，好痛啊…………。[%p]
+
+JA [name]たくや[line]ほっぺたが痛い‥‥。[%p]
+ZH [name]拓也[line]脸颊好痛……。[%p]
+
+JA [name]たくや[line]‥‥チクチクするなぁ‥‥。[%p]
+ZH [name]拓也[line]……感觉有一阵刺痛……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]また、亜由美さんがつねっているんじゃないか?[%p]
+ZH [name]拓也[line]不是，还抓着亚由美小姐吗？[%p]
+
+JA [name]たくや[line]起こすとき、ギュッってつねるんだよな‥‥。[%p]
+ZH [name]拓也[line]起床的时候，被狠狠地掐了一把……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]冷たい‥‥なんでだろう‥‥。[%p]
+ZH [name]拓也[line]好冷……是怎么回事呢……。[%p]
+
+JA [name]たくや[line]‥‥ベッドじゃないのか‥‥ここは。[%p]
+ZH [name]拓也[line]……不是床上吗……这地方。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ここは‥‥三角山のふもとだ。[%p]
+ZH [name]拓也[line]这里……是三角山的脚下。[%p]
+
+JA [name]たくや[line]そうだ、俺はここで‥‥‥‥。[%p]
+ZH [name]拓也[line]对了，我是在这里…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だ‥‥コントローラが光ってる。[%p]
+ZH [name]拓也[line]什么……控制器在发光。[%p]
+
+JA [name]たくや[line]ほら‥‥点滅している。そんなバカな。[%p]
+ZH [name]拓也[line]看……在忽亮忽灭。怎么会有这种事。[%p]
+
+JA [name]たくや[line]だけど‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]たくや[line]ビ、ビックリした‥‥何なんだ、これは。[%p]
+ZH [name]拓也[line]吃，吃了一惊……怎么回事，这个。[%p]
+
+JA [name]たくや[line]空間に、いきなり何かが投影された感じだ‥‥。[%p]
+ZH [name]拓也[line]空间上，感觉好像突然有什么投影上去了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]俺はいったい、どうしてしまったんだ‥‥。[%p]
+ZH [name]拓也[line]我究竟，发生什么事了……。[%p]
+
+JA 
+ZH 
+

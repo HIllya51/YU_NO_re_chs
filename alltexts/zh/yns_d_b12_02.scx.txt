@@ -1,0 +1,172 @@
+[name]拓也[line]……石头做的门。单凭我的力气，看样子是打不开的。[%p]
+[name]结城[line]话先说在前头，以我的力气也没用的哦。[%p]
+[name]拓也[line]谁说过要让你来开门之类的话了啊……。[%p]
+[name]拓也[line]怎么回事，这扇门是……。[%p]
+[name]拓也[line]不，比起这件事，这个真的是扇门吗……？[%p]
+[name]结城[line]不管怎么看，都是一扇门……。[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]呃哇！　什么声音。[%p]
+[name]结城[line]哈啊，看起来像是在某个凹槽里有个按钮状物品……。[%p]
+[name]拓也[line]你按下去了吗！？[%p]
+[name]结城[line]对不起——。[%p]
+[name]拓也[line]傻瓜！　那样的……咦？[%p]
+[name]结城[line]……怎么了？[%p]
+[name]拓也[line]里面……好像还有什么东西。[%p]
+[name]结城[line]哈啊。[%p]
+[name]拓也[line]这个是……。[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line](（这东西，为什么会在这里呢……？）)[%p]
+[name]结城[line]好漂亮的石头呢……是吧，头目。[%p]
+[name]拓也[line]…………。[%p]
+[name]结城[line]头目？[%p]
+[name]拓也[line]抱，抱歉。我刚才在想事情。[%p]
+[name]结城[line]怎么办呢，这个。[%p]
+[name]拓也[line]…………。[%p]
+[color index="840000"]JF:[宝玉6][color index="800000"]JF:得到了。
+[color index="840000"]JF:[宝玉6][color index="800000"]JF:得到了。
+[name]拓也[line]门的侧面，有个凹槽……。[%p]
+[name]拓也[line]……里面什么东西都没有啊。[%p]
+[name]拓也[line]里面，有一枚白色徽章……。[%p]
+[name]结城[line]我们要怎么办呢？[%p]
+[name]拓也[line]（对啊……。）。[%p]
+JF:获得白色奖牌
+JF:保留
+[name]拓也[line]好吧……先拿起徽章吧。[%p]
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[name]拓也[line]虽然得到了徽章……。[%p]
+[name]结城[line]你不拿下来吗。[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]里面，留着一枚黑色徽章呢……。[%p]
+JF:获得黑色奖牌
+JF:保留
+[name]拓也[line]好吧……先拿起徽章吧。[%p]
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[name]拓也[line]虽然得到了徽章……。[%p]
+[name]结城[line]你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]白色的和黑色徽章，这里面各有１个……。[%p]
+[name]结城[line]是枚白色徽章呢……你要怎么办呢？[%p]
+[name]拓也[line]…………。[%p]
+JF:获得白色奖牌
+JF:保留
+[name]拓也[line]好吧……先拿起徽章吧。[%p]
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[name]结城[line]你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]已经放进去１枚了……。[%p]
+[name]结城[line]……是枚黑色徽章呢。[%p]
+JF:获得黑色奖牌
+JF:保留
+[name]拓也[line]好吧……先拿起徽章吧。[%p]
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[name]结城[line]……你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]门的侧面，有一个凹槽……是什么呢。[%p]
+[name]拓也[line]……里面什么东西都没有啊。[%p]
+[name]结城[line]是呢……是什么的凹槽吧。[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]里面，有东西……是什么呢？[%p]
+[name]结城[line]……好像，里面有一枚白色徽章。[%p]
+[name]拓也[line]到底是什么意思啊。[%p]
+[name]结城[line]怎么办？[%p]
+[name]拓也[line]…………。[%p]
+JF:获得白色奖牌
+JF:保留
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[name]拓也[line]虽然得到了徽章……。[%p]
+[name]结城[line]你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]里面，好像有什么东西呢……。[%p]
+[name]结城[line]好像，里面有一枚黑色徽章……。[%p]
+[name]拓也[line]到底是什么意思啊。[%p]
+[name]结城[line]怎么办呢？[%p]
+[name]拓也[line]…………。[%p]
+JF:获得黑色奖牌
+JF:保留
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[name]拓也[line]虽然得到了徽章……。[%p]
+[name]结城[line]……你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]里面，好像有什么东西呢……。[%p]
+[name]结城[line]好像，里面放着黑色和白石的徽章各一枚……。[%p]
+[name]拓也[line]…………。[%p]
+[name]结城[line]……这是白色徽章吧。[%p]
+[name]拓也[line]…………。[%p]
+JF:获得白色奖牌
+JF:保留
+[name]拓也[line]好吧……先拿起徽章吧。[%p]
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[白色奖牌][color index="800000"]JF:得到了。
+[name]结城[line]……你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]拓也[line]已经放进去１枚了……。[%p]
+[name]结城[line]JF:……黑色的奖牌啊。雕刻着什么令人毛骨悚然的花纹。[%p]
+[name]拓也[line]…………。[%p]
+JF:获得黑色奖牌
+JF:保留
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[color index="840000"]JF:[黑色奖牌][color index="800000"]JF:得到了。
+[name]结城[line]……你不拿下来吗？[%p]
+[name]拓也[line]总而言之……就先这样放着不用管它了。[%p]
+[name]结城[line]到底……是什么东西呢。[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]因为有水所以很潮湿……是地下水的缘故吧。[%p]
+[name]拓也[line]露出了凹凸不平的岩石表面……。[%p]
+[name]结城[line]到处都是一样的感觉呢……。[%p]
+[name]拓也[line]因为有水所以很潮湿……是地下水的缘故吧。[%p]
+[name]拓也[line]露出了凹凸不平的岩石表面……。[%p]
+[name]结城[line]到处都是一样的感觉呢……。[%p]
+[name]拓也[line]现在嵌着一个石头做的圆盘……。[%p]
+[name]结城[line]应该是有什么意义的吧。[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]这里有个凹陷……虽然不知道是为什么而弄的。[%p]
+[name]拓也[line]……是什么呢，这个圆形的洞。[%p]
+[name]拓也[line]相当大呢……直径应该不少于１０公分吧。[%p]
+[name]拓也[line]是什么呢……？[%p]
+[name]结城[line]看起来好像是能嵌进去什么东西似的……。[%p]
+[name]拓也[line]什么东西……。[%p]
+[name]拓也[line]一扇异常坚固的门……。[%p]
+[name]拓也[line]看来，单凭我一个人的力气打不开啊……。[%p]
+[name]拓也[line]好像是石头削制成的门……。[%p]
+咚……。[%p]
+[name]拓也[line]好硬啊……单凭我一个人的力气，完全纹丝不动呢。[%p]
+[name]拓也[line]换句话说，几乎不可能光凭着蛮力强行打开。[%p]
+[name]结城[line]到底，是为了什么而存在的呢。[%p]
+[name]拓也[line]说到门的话，应该是为了把这边和对面分开而做的吧。[%p]
+[name]结城[line]你的意思是？[%p]
+[name]拓也[line]要是知道的话，就不用这么累了。[%p]
+[name]结城[line]哈啊……。[%p]
+[name]拓也[line]能够看到对面呢……。[%p]
+[name]拓也[line]从这里看过去的部分，只能看到通道还在延续而已……。[%p]
+[name]拓也[line]不过，有些地方有中空的洞穴……这个可以看到对面。[%p]
+[name]结城[line]可以看到什么？[%p]
+[name]拓也[line]跟之前的一样。通道。[%p]
+[name]结城[line]那么，这样一来，好像就没什么打开这里的理由了吧。[%p]
+[name]拓也[line]怎么会呢。这里有一扇门这个事实，应该就说明了是有把两边分开的意义的。[%p]
+[name]拓也[line]你的意思是说，在门的另一边，或许会有什么不一样的东西吗。[%p]
+[name]结城[line]不愧是头目啊。那么，会有什么东西呢？[%p]
+[name]拓也[line]不知道。[%p]
+[name]拓也[line]门就在我们俩的眼前呢……。[%p]
+[name]拓也[line]但是……这种地方居然会有门啊。[%p]
+[name]结城[line]是为了什么目的而存在的呢……。[%p]
+[name]拓也[line]……是啊。还是离开这扇门吧。[%p]
+[name]拓也[line](（没办法使用第２次呢……。）。)[%p]
+[name]拓也[line]…………。[%p]
+[name]拓也[line]咦，不过嵌上去非常地合缝呢。[%p]
+[name]拓也[line]拿不下来啊……我觉得应该是有某种意义的吧。[%p]
+[name]结城[line]那究竟是有什么意义呢。[%p]
+[name]拓也[line]不知道。[%p]
+[name]结城[line]…………。[%p]
+[name]拓也[line]……只是同样是圆形的东西，大小完全不一样呢。[%p]
+[name]拓也[line]这个白色徽章，嵌不进去呢……。[%p]
+[name]拓也[line]……只是同样是圆形的东西，大小完全不一样呢。[%p]
+[name]拓也[line]这个黑色徽章，嵌不进去呢……。[%p]
+[name]拓也[line]这个道具现在不用上……。[%p]
+[name]拓也[line]这东西不是在这里使用的啊……。[%p]
+[name]拓也[line]……现在不是使用道具的时候呢。[%p]

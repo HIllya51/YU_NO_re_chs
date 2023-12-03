@@ -1,0 +1,7 @@
+[name]Takuya[line]It reeks of mold and dust in here.[%p]
+[name]Takuya[line]I'm inside the storehouse.[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]It's dim. I wonder if there's a light.[%p]
+[name]Takuya[line]Smells like mold and dust.[%p]
+[name]Takuya[line]It probably hasn't been used for a while.[%p]
+[name]Takuya[line]⋯[%p]

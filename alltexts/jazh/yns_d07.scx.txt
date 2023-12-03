@@ -1,0 +1,1005 @@
+JA [name]たくや[line]廊下に来たけど‥‥。[%p]
+ZH [name]拓也[line]虽然走到走廊来了……。[%p]
+
+JA [name]たくや[line]真っ暗でよく見えないな‥‥。[%p]
+ZH [name]拓也[line]一片漆黑完全看不见啊……。[%p]
+
+JA [name]たくや[line]澪は校内にいないんじゃないか‥‥?[%p]
+ZH [name]拓也[line]澪应该不在校内吧……？[%p]
+
+JA [name]美月[line]あっ、たくや。[%p]
+ZH [name]美月[line]啊、拓也。[%p]
+
+JA [name]たくや[line]まだ?[%p]
+ZH [name]拓也[line]还没？[%p]
+
+JA [name]美月[line]ええ‥‥ふぅ、結構この学校、広いのよね。[%p]
+ZH [name]美月[line]是啊……呼，这个学校，真的相当大呢。[%p]
+
+JA [name]たくや[line]別学年の校舎なんかは、探さなくていいんだぜ。[%p]
+ZH [name]拓也[line]其他年级的校舍，不用去找也没关系。[%p]
+
+JA [name]美月[line]えっ‥‥?[%p]
+ZH [name]美月[line]诶……？[%p]
+
+JA [name]たくや[line]当たり前だろう? 澪が行きそうな場所を探さなくちゃ。[%p]
+ZH [name]拓也[line]那是当然的吧？　必须要到澪有可能会去的地方找。[%p]
+
+JA [name]美月[line]そ、そうよね‥‥島津さんが行きそうな場所といったら‥‥トイレ?[%p]
+ZH [name]美月[line]说，说的也是……说到岛津同学回去的地方……是厕所？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]なによ、誰でも行きそうな場所じゃない。[%p]
+ZH [name]美月[line]什么啊，那不是谁都会去的地方吗。[%p]
+
+JA [name]たくや[line]じゃあ、トイレの探索は美月さんに任せるよ。[%p]
+ZH [name]拓也[line]那么，去厕所探索这个任务就交给美月你了。[%p]
+
+JA [name]美月[line]ええ、そうするわ。トイレで島津さんを見つけたら‥‥見てらっしゃいよ。[%p]
+ZH [name]美月[line]是啊，那就这样吧。要是我在厕所找到岛津同学的话……会带她过来的。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何を見るんだ‥‥?[%p]
+ZH [name]拓也[line]你在看什么……？[%p]
+
+JA [name]美月[line]たくやっ![%p]
+ZH [name]美月[line]这是拓也！[%p]
+
+JA [name]美月[line]見つけたわ。[%p]
+ZH [name]美月[line]找到了。[%p]
+
+JA [name]たくや[line]えっ、どこ?[%p]
+ZH [name]拓也[line]诶，哪里？[%p]
+
+JA [name]美月[line]ほら見て、歴史研究室で見つけたの。無くしていた参考書。[%p]
+ZH [name]美月[line]你看这个，在历史研究室找到的。丢失了的参考书。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]なによ、これ、私にとっては大切なモノなのよ。[%p]
+ZH [name]美月[line]什么啊，这个，对我来说可是很重要的东西哦。[%p]
+
+JA [name]たくや[line]わかったよ‥‥良かったね。[%p]
+ZH [name]拓也[line]知道了……真是太好了。[%p]
+
+JA [name]美月[line]全然気持ちが入っていないのね。[%p]
+ZH [name]美月[line]我看你一点诚意都没有呢。[%p]
+
+JA [name]たくや[line](しょうがないだろ。)[%p]
+ZH [name]拓也[line](（那也没办法吧。）。)[%p]
+
+JA [name]美月[line]なに?[%p]
+ZH [name]美月[line]什么？[%p]
+
+JA [name]たくや[line]何でもありません。[%p]
+ZH [name]拓也[line]没什么。[%p]
+
+JA [name]美月[line]ふぅ‥‥しかし島津さんも、手を焼かせるわね。[%p]
+ZH [name]美月[line]呼……不过，岛津同学也真让人棘手呢。[%p]
+
+JA [name]たくや[line]手を焼かせるのは、お嬢様の専売特許だ。[%p]
+ZH [name]拓也[line]让人感到棘手，是大小姐的专利吧。[%p]
+
+JA [name]美月[line]でも、その方が可愛いって思うんでしょ? 男の子は。[%p]
+ZH [name]美月[line]但是，你不觉得这样子也挺可爱的吗？　对男孩子来说。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]今、サラっときついことを言わなかったか?[%p]
+ZH [name]拓也[line]刚才，你是不是不经意地说了件很不得了的话？[%p]
+
+JA [name]声[line]きゃっ。[%p]
+ZH [name]声音[line]呀。[%p]
+
+JA [name]たくや[line]あれ、美月さんじゃないか。[%p]
+ZH [name]拓也[line]咦，这不是美月吗。[%p]
+
+JA [name]美月[line]あぁ、もうびっくりしたわ。[%p]
+ZH [name]美月[line]啊啊，你真是吓了我一跳。[%p]
+
+JA [name]たくや[line]結構、暗いからね。[%p]
+ZH [name]拓也[line]因为，这里很暗吧。[%p]
+
+JA [name]美月[line]私の方は、まだ見つからないわ。[%p]
+ZH [name]美月[line]我这边，还没有找到啊。[%p]
+
+JA [name]たくや[line]俺の方も‥‥。[%p]
+ZH [name]拓也[line]我这边也……。[%p]
+
+JA [name]美月[line]結城君は‥‥?[%p]
+ZH [name]美月[line]结城君呢……？[%p]
+
+JA [name]たくや[line]あいつは多分、セントラル街の方を探しているんじゃないかな。[%p]
+ZH [name]拓也[line]那家伙啊，大概是去中央街那里找了吧。[%p]
+
+JA [name]美月[line]そ‥‥じゃ、もう少ししたら、校門前で落ち合いましょう。[%p]
+ZH [name]美月[line]是吗……那么，再稍微找一下，我们就到校门口汇合吧。[%p]
+
+JA [name]たくや[line]わかった‥‥。[%p]
+ZH [name]拓也[line]俺明白了……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さんは行ってしまった‥‥。[%p]
+ZH [name]拓也[line]美月已经走掉了……。[%p]
+
+JA [name]たくや[line]ふぅ‥‥それにしても澪のやつ、いったいどこへ行ったんだよ。[%p]
+ZH [name]拓也[line]呼……话虽这么说，不过澪那家伙究竟去了什么地方啊。[%p]
+
+JA [name]美月[line]きゃっ。[%p]
+ZH [name]美月[line]呀。[%p]
+
+JA [name]たくや[line]美月さん。[%p]
+ZH [name]拓也[line]美月。[%p]
+
+JA [name]美月[line]ホールには、いないみたいね、彼女‥‥。[%p]
+ZH [name]美月[line]大厅里面，好像不在呢，她……。[%p]
+
+JA [name]たくや[line]ああ、そうみたいだ。[%p]
+ZH [name]拓也[line]啊啊，看样子是的。[%p]
+
+JA [name]美月[line]たくやの方は?[%p]
+ZH [name]美月[line]这是拓也你呢？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]そう‥‥もう少し、校内と学校付近を探してみるわ。[%p]
+ZH [name]美月[line]是吗……我们就在校内和学校附近再找找看吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]美月さんは行ってしまった‥‥。[%p]
+ZH [name]拓也[line]美月已经走掉了……。[%p]
+
+JA [name]たくや[line]廊下に来たけど‥‥。[%p]
+ZH [name]拓也[line]虽然走到走廊来了……。[%p]
+
+JA [name]たくや[line]真っ暗でよく見えないな‥‥。[%p]
+ZH [name]拓也[line]一片漆黑完全看不见啊……。[%p]
+
+JA [name]たくや[line]澪は校内にいないんじゃないか‥‥?[%p]
+ZH [name]拓也[line]澪应该不在校内吧……？[%p]
+
+JA [name]たくや[line]2階の廊下だ‥‥。[%p]
+ZH [name]拓也[line]２楼的走廊……。[%p]
+
+JA [name]たくや[line]今は、誰もいないみたいだな‥‥。[%p]
+ZH [name]拓也[line]现在，好像没有人在了……。[%p]
+
+JA [name]たくや[line]‥‥あれ?[%p]
+ZH [name]拓也[line]……咦？[%p]
+
+JA [name]たくや[line]あそこにいるのは‥‥。[%p]
+ZH [name]拓也[line]（在那边的是……。）。[%p]
+
+JA [name]たくや[line](澪と‥‥立っているのは結城だ。)[%p]
+ZH [name]拓也[line](（澪和……站在一起的结城。）。)[%p]
+
+JA [name]たくや[line](2人で何か話をしているみたいだ‥‥。)[%p]
+ZH [name]拓也[line](（２个人好像在谈什么事……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]‥‥まさか、こんなことになるなんてね。[%p]
+ZH [name]澪[line]……难道，会变成这样吗。[%p]
+
+JA [name]結城[line]大丈夫ですよ、島津さんの疑惑はきっと晴れます。[%p]
+ZH [name]结城[line]没问题的，我一定会消除岛津同学的疑虑。[%p]
+
+JA [name]澪[line]そんなことを気にしているんじゃないのよ。[%p]
+ZH [name]澪[line]我现在不是在意那种事。[%p]
+
+JA [name]結城[line]じゃあ‥‥。[%p]
+ZH [name]结城[line]那么……。[%p]
+
+JA [name]澪[line]有馬君が、あんなことをする人だったなんて‥‥ちょっと、信じられなかった。[%p]
+ZH [name]澪[line]有马君，居然会是做出这种的人……我还是，有点不敢相信。[%p]
+
+JA [name]結城[line]でも、事実なんじゃないですか。さっき、ホールで言っていたじゃないですか。[%p]
+ZH [name]结城[line]但是，这不是都已经成为现实了吗。刚才，不是在大厅那边说过了吗。[%p]
+
+JA [name]澪[line]ええ、そうなんだけど‥‥。[%p]
+ZH [name]澪[line]是的，虽然是这样……。[%p]
+
+JA [name]結城[line]あの人は、そういう人だったんですよ‥‥。[%p]
+ZH [name]结城[line]那个人，就是这样的人哦……。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]結城[line]島津さんの不幸を、喜んでいるんですよ、きっと。[%p]
+ZH [name]结城[line]把岛津同学的不幸，当做开心的笑料，肯定是这样。[%p]
+
+JA [name]澪[line]違うわ![%p]
+ZH [name]澪[line]不是的！[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]ううん‥‥そうじゃないの。ごめんなさい、怒鳴ったりして。[%p]
+ZH [name]澪[line]不对……不是这样的。抱歉，对你发脾气。[%p]
+
+JA [name]結城[line]い、いえ‥‥。[%p]
+ZH [name]结城[line]没，没事……。[%p]
+
+JA [name]澪[line]違うわ‥‥有馬君は、本当にそんなことはしないと思う。[%p]
+ZH [name]澪[line]不是的……我觉得，有马君不会真的去做这种事的。[%p]
+
+JA [name]結城[line]なぜですか。たくやさんしか、こんなことをする人は‥‥。[%p]
+ZH [name]结城[line]为什么。除了拓也同学，还有谁会做这种事……。[%p]
+
+JA [name]澪[line]状況的にはね‥‥でも、なぜか有馬君がああいうことをする人には、思えなかった。[%p]
+ZH [name]澪[line]根据情况来看吧……不过，不知为什么，我总觉得有马君不是会做出这种事的人。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]それだけに、ショックは大きかったわ‥‥。[%p]
+ZH [name]澪[line]只有这一点，让我受到很大的打击……。[%p]
+
+JA [name]結城[line]島津さんは、盲目になっていたんですよ。ありもしない幻想を追い求めていたんです。[%p]
+ZH [name]结城[line]岛津同学，你已经变得盲目了。追求这种不存在的幻想。[%p]
+
+JA [name]澪[line]フフ‥‥そうかもね‥‥。[%p]
+ZH [name]澪[line]呵呵……或许吧……。[%p]
+
+JA [name]結城[line]元気を出して下さい。こんなときこそ、僕を頼ってくれると‥‥。[%p]
+ZH [name]结城[line]请拿出精神来。只有这个时候，你可以依靠我的……。[%p]
+
+JA [name]澪[line]ありがとう。でも、こういうときに優しくするのって、反則じゃないかしら。[%p]
+ZH [name]澪[line]谢谢你。不过，你在这时候对我这么温柔，不是违反规定了吗。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]ごめんなさい。結城君の気持ちは判っているの。だけど、今は少し、考えたい‥‥。[%p]
+ZH [name]澪[line]抱歉。结城君的心情我知道。但是，现在，我想再考虑考虑……。[%p]
+
+JA [name]結城[line]わ、わかっていますけど‥‥。[%p]
+ZH [name]结城[line]我，我明白，但是……。[%p]
+
+JA [name]澪[line]私ね‥‥。[%p]
+ZH [name]澪[line]我呢……。[%p]
+
+JA [name]結城[line]は、はあ。[%p]
+ZH [name]结城[line]哈，哈啊。[%p]
+
+JA [name]澪[line]外国の学校に、留学しよっかな。[%p]
+ZH [name]澪[line]已经决定出国留学了。[%p]
+
+JA [name]結城[line]ええっ!?[%p]
+ZH [name]结城[line]诶诶！？[%p]
+
+JA [name]澪[line]パパからね、ちょうどその話が来ているの。本当に、何もかもタイミングがぴったり。びっくりしちゃう。[%p]
+ZH [name]澪[line]从爸爸那里，刚好听到了这样的消息。真的是，所有的时机都正好。真的让我吃了一惊啊。[%p]
+
+JA [name]結城[line]だ、だって‥‥そんなこと、今まで一言も‥‥。[%p]
+ZH [name]结城[line]可，可是……这种事，你到之前为止一句都……。[%p]
+
+JA [name]澪[line]ええ。今まではそんなつもりなかったもの。だけどね、今回の件で、吹っ切れたのかも知れない。[%p]
+ZH [name]澪[line]是的。到之前为止本来都还没有这种打算的。但是，因为这次的事，说不定心情也舒畅多了。[%p]
+
+JA [name]結城[line]ふ、吹っ切れたって‥‥。[%p]
+ZH [name]结城[line]舒，舒畅是……。[%p]
+
+JA [name]澪[line]ありがとう、結城君。力づけてくれて。あなただけよ、私のことを心配してくれているのは。[%p]
+ZH [name]澪[line]谢谢你，结城君。谢谢你为我打气。只有你一个人，在为我担心。[%p]
+
+JA [name]結城[line]い、いえ‥‥僕は‥‥その‥‥。[%p]
+ZH [name]结城[line]不，不是……我是……那个……。[%p]
+
+JA [name]澪[line]あと1週間もないのね、この境町で私に残されている時間は‥‥。[%p]
+ZH [name]澪[line]只剩下１周了，我留着这个境町的时间……。[%p]
+
+JA [name]結城[line]い、1週間後に外国へ‥‥!?[%p]
+ZH [name]结城[line]１，１周之后就要出国……！？[%p]
+
+JA [name]澪[line]ええ。それまでに、やることをやってしまいたい。[%p]
+ZH [name]澪[line]是的。到那个时候为止，我还有想做的事。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]剣ノ岬のことで、確かめたいことがあるのよ。最後の知的探求心を満たしたいわ‥‥。[%p]
+ZH [name]澪[line]关于剑之岬的事，我还想要再做个确认。想要满足我最后的求知欲望……。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]じゃ、もう帰るね。[%p]
+ZH [name]澪[line]那么，我要回去了。[%p]
+
+JA [name]結城[line]し、島津さん! 実は‥‥。[%p]
+ZH [name]结城[line]岛，岛津同学！　其实……。[%p]
+
+JA [name]澪[line]なに?[%p]
+ZH [name]澪[line]什么？[%p]
+
+JA [name]結城[line]いえ、その‥‥何でも、ないです‥‥。[%p]
+ZH [name]结城[line]不，那么……什么，都没有……。[%p]
+
+JA [name]澪[line]フフ、どうしたの? 結城君。[%p]
+ZH [name]澪[line]呵呵，怎么了？　结城君。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]澪[line]じゃあね。[%p]
+ZH [name]澪[line]再见。[%p]
+
+JA [name]結城[line]そ、そんな‥‥。[%p]
+ZH [name]结城[line]怎，怎么这样……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](1週間後に、澪はこことサヨナラ、か‥‥。)[%p]
+ZH [name]拓也[line](（１周以后，澪就要跟这里告别了，吗……。）。)[%p]
+
+JA [name]たくや[line](くそっ、誤解されたまま別れるなんて‥‥。)[%p]
+ZH [name]拓也[line](（可恶，就这样被误解着分别什么的……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]あっ![%p]
+ZH [name]声音[line]啊！[%p]
+
+JA [name]たくや[line]よう。[%p]
+ZH [name]拓也[line]哟。[%p]
+
+JA [name]結城[line]み、見ていたんですか?[%p]
+ZH [name]结城[line]你，你看到了吗？[%p]
+
+JA [name]たくや[line]まあな。[%p]
+ZH [name]拓也[line]是啊。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]たくや[line]お、おい‥‥。[%p]
+ZH [name]拓也[line]喂，喂‥‥。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行ってしまった‥‥結城の内心も複雑なんだろうな。[%p]
+ZH [name]拓也[line]走掉了啊……结城的内心应该也相当复杂吧。[%p]
+
+JA [name]たくや[line]澪とは、もう一度会って、話をしたい‥‥。[%p]
+ZH [name]拓也[line]真想和澪再见一面，跟她地谈一谈……。[%p]
+
+JA [name]たくや[line]あいつが留学したいのなら、俺が止める権利はないけど‥‥。[%p]
+ZH [name]拓也[line]虽然说她要是想去留学的话，我是没有权利阻止的……。[%p]
+
+JA [name]たくや[line]誤解されたままってのは、シャクじゃないか。[%p]
+ZH [name]拓也[line]就这样被误解着，不是会令人恼火吗。[%p]
+
+JA [name]たくや[line]きちんと、話さないといけないのかも知れないな‥‥。[%p]
+ZH [name]拓也[line]或许，我真应该好好跟她谈一下的……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]2階の廊下だ‥‥。[%p]
+ZH [name]拓也[line]２楼的走廊……。[%p]
+
+JA [name]たくや[line]キョロキョロ‥‥。[%p]
+ZH [name]拓也[line]东张西望……。[%p]
+
+JA [name]たくや[line]‥‥澪はいないみたいだな。[%p]
+ZH [name]拓也[line]……澪好像不在啊。[%p]
+
+JA [name]たくや[line]まったく、あいつのことだから、絶対に誤解しているぞ。[%p]
+ZH [name]拓也[line]真是的，因为是那家伙的事，所以绝对误解了。[%p]
+
+JA [name]たくや[line]廊下だぜ‥‥目の前に研究室のドアが見える。[%p]
+ZH [name]拓也[line]这里是走廊……眼前能够看到研究室的门。[%p]
+
+JA [name]たくや[line]廊下に戻ってきてしまった‥‥。[%p]
+ZH [name]拓也[line]又回到走廊里来了……。[%p]
+
+JA [name]たくや[line]俺は何をやっているんだ‥‥?[%p]
+ZH [name]拓也[line]我在做什么啊……？[%p]
+
+JA [name]たくや[line]あっ‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](誰か、立ってる‥‥。)[%p]
+ZH [name]拓也[line](（有人，站在那里……。）。)[%p]
+
+JA [name]たくや[line](でも、何で俺がコソコソ隠れなくちゃならないんだ‥‥。)[%p]
+ZH [name]拓也[line](（不过，为什么我非得这么鬼鬼祟祟地藏起来呢……。）。)[%p]
+
+JA [name]たくや[line](まぁ、こんな時間に、校内をウロついてる俺に、非がないとは言わないけど。)[%p]
+ZH [name]拓也[line](（算了，这种时候，在学校里面闲晃的我，也不能说没有错。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](しかしそれにしても‥‥。)[%p]
+ZH [name]拓也[line](不过即使是这样……。)[%p]
+
+JA [name]たくや[line](いったい、こんな時間に誰だ‥‥?)[%p]
+ZH [name]拓也[line](（到底，是谁在这种时候……？）)[%p]
+
+JA [name]たくや[line](‥‥!?)[%p]
+ZH [name]拓也[line](……！？)[%p]
+
+JA [name]たくや[line](男と女‥‥。)[%p]
+ZH [name]拓也[line](（男人和女人……。）。)[%p]
+
+JA [name]たくや[line](手前の男は‥‥龍蔵寺だ。こんな時間に妙じゃないか‥‥。)[%p]
+ZH [name]拓也[line](（眼前的男人……是龙藏寺。这种时间好像挺微妙的嘛……。）。)[%p]
+
+JA [name]たくや[line](しかも、龍蔵寺と一緒に話している女性は‥‥。)[%p]
+ZH [name]拓也[line](（而且，和龙藏寺一起谈话的女性……。）。)[%p]
+
+JA [name]たくや[line](誰だったっけ‥‥そう、確か‥‥。)[%p]
+ZH [name]拓也[line](（是谁呢……对了，好像是……。）。)[%p]
+
+JA [name]たくや[line](うーん‥‥思い出せない。)[%p]
+ZH [name]拓也[line](（嗯——……想不起来了。）。)[%p]
+
+JA [name]たくや[line](何で彼女が校内の‥‥しかも龍蔵寺と話しているんだ?)[%p]
+ZH [name]拓也[line](（为什么她会在校内……而且还是在跟龙藏寺谈话？）)[%p]
+
+JA [name]たくや[line](訳がわからないぞ‥‥。)[%p]
+ZH [name]拓也[line](（实在是搞不懂……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]香織[line]‥‥では、このまま進めてよろしいんですね?[%p]
+ZH [name]香织[line]……那么，就这个样子进行下吧？[%p]
+
+JA [name]龍蔵寺[line]うむ‥‥ことの延長ということで頼む。あそこにはまだ、あれが存在するはずなのだ。[%p]
+ZH [name]龙藏寺[line]嗯姆……就拜托你延长这件事了。那个地方应该还有那东西存在吧，。[%p]
+
+JA [name]香織[line]フフ、代名詞が多いですわね。[%p]
+ZH [name]香织[line]呵呵，代名词还真多啊。[%p]
+
+JA [name]龍蔵寺[line]ことの性質上、やむを得ないだろう。[%p]
+ZH [name]龙藏寺[line]从事情的性质上来说，这也是无可奈何的吧。[%p]
+
+JA [name]香織[line]私は仕事ですから、そちらの理由は問いませんわ。[%p]
+ZH [name]香织[line]因为这是工作，所以我不会问你原因的。[%p]
+
+JA [name]龍蔵寺[line]殊勝な事だな。マス=メディアの責務というわけか。[%p]
+ZH [name]龙藏寺[line]那真是值得赞赏啊。这就是所谓大众传媒的职责和义务吧。[%p]
+
+JA [name]香織[line]そうです。市民には知る権利がありますわ。[%p]
+ZH [name]香织[line]是啊。对于市民来说是应该有知情权的。[%p]
+
+JA [name]龍蔵寺[line]プラス、君の知名度ということだな。[%p]
+ZH [name]龙藏寺[line]再加上，还有你的知名度吧。[%p]
+
+JA [name]香織[line]‥‥良い仕事をする者の知名度があがるのは、必然でしょう。売名を敢えてするつもりもありません。[%p]
+ZH [name]香织[line]……从事好工作的人能够提高知名度，这是必然的吧。我可没有沽名钓誉的打算。[%p]
+
+JA [name]龍蔵寺[line]わかっている、十分考慮するつもりだ。[%p]
+ZH [name]龙藏寺[line]我明白，你是有过充分打算了的。[%p]
+
+JA [name]香織[line]恐縮ですわ、龍蔵寺先生‥‥。[%p]
+ZH [name]香织[line]真是令我诚惶诚恐啊，龙藏寺老师……。[%p]
+
+JA [name]たくや[line](‥‥‥‥。)[%p]
+ZH [name]拓也[line](…………。)[%p]
+
+JA [name]たくや[line](‥‥いったい何のことを話しているんだ?)[%p]
+ZH [name]拓也[line](（……他们到底在说什么事啊？）)[%p]
+
+JA [name]たくや[line](どうやら、安易に声を掛ける雰囲気じゃないぜ‥‥。)[%p]
+ZH [name]拓也[line](（看起来，不是能够让我随便插嘴的气氛呢……。）。)[%p]
+
+JA [name]香織[line]‥‥しかし例のもの、あれを一体どうなさるおつもり?[%p]
+ZH [name]香织[line]……但是对于那样东西，你究竟打算怎么处理呢？[%p]
+
+JA [name]龍蔵寺[line]君が知る必要の無いことだ。[%p]
+ZH [name]龙藏寺[line]你没有知道的必要。[%p]
+
+JA [name]香織[line]でも興味は湧きますわ。先生が経済的にどうこうというのは、現実的じゃありませんものね。[%p]
+ZH [name]香织[line]但是我已经产生兴趣了啊。老师你如果以经济性来说的话，好像并不现实呢。[%p]
+
+JA [name]龍蔵寺[line]‥‥‥‥。[%p]
+ZH [name]龙藏寺[line]…………。[%p]
+
+JA [name]香織[line]営利目的で無いとすると‥‥純然たる学術的探求心かしら。[%p]
+ZH [name]香织[line]如果不是以营利为目的的话‥‥就是纯粹对学术的探求心咯。[%p]
+
+JA [name]龍蔵寺[line]あまり詮索はしないことだ。お互いのためにね。[%p]
+ZH [name]龙藏寺[line]这并不是什么值得探讨的事。为了我们双方着想。[%p]
+
+JA [name]香織[line]フフ‥‥わきまえています。ところで‥‥。[%p]
+ZH [name]香织[line]呵呵……我明白了。顺便问一下……。[%p]
+
+JA [name]龍蔵寺[line]ん。[%p]
+ZH [name]龙藏寺[line]嗯。[%p]
+
+JA [name]香織[line]彼は、如何なさいます?[%p]
+ZH [name]香织[line]JF:他怎么办？[%p]
+
+JA [name]龍蔵寺[line]ああ‥‥やたらと野心のある若者だったな。[%p]
+ZH [name]龙藏寺[line]啊啊……你说那个拥有过大野心的年轻人啊。[%p]
+
+JA [name]香織[line]フフ‥‥でも、彼の協力無くして、私たちのやろうとしていることは達成できないでしょうね。[%p]
+ZH [name]香织[line]呵呵……不过，如果没有他的帮助，我们想办的事也是无法达成的哦。[%p]
+
+JA [name]龍蔵寺[line]ふむ、あまりむげにも出来んという訳か。[%p]
+ZH [name]龙藏寺[line]呼姆，也就是说事情进行得相当顺利吗。[%p]
+
+JA [name]香織[line]私は、マス=メディアの責務を全うできれば言うことはありません。[%p]
+ZH [name]香织[line]我呢，只要能够把大众传媒应尽的责任和义务认真完成就没话说了。[%p]
+
+JA [name]龍蔵寺[line]プラス、報酬だろう。[%p]
+ZH [name]龙藏寺[line]另外，还有报酬吧。[%p]
+
+JA [name]香織[line]ええ‥‥プロである以上、タダではできませんから。[%p]
+ZH [name]香织[line]是啊……作为职业新闻人，也不能干白工啊。[%p]
+
+JA [name]龍蔵寺[line]わかった‥‥また何かあれば話し合うとしよう。[%p]
+ZH [name]龙藏寺[line]知道了……要是还有什么事的话我再找你吧。[%p]
+
+JA [name]香織[line]それと、もう1つ。[%p]
+ZH [name]香织[line]另外，还有１件事。[%p]
+
+JA [name]龍蔵寺[line]なにかね。[%p]
+ZH [name]龙藏寺[line]怎么了。[%p]
+
+JA [name]香織[line]私以外にも、誰かを雇っているようですね。[%p]
+ZH [name]香织[line]除了我以外，你好像另外还雇了人吧。[%p]
+
+JA [name]龍蔵寺[line]だったら、どうだと言うのかね。[%p]
+ZH [name]龙藏寺[line]就算如此，又怎么样呢。[%p]
+
+JA [name]香織[line]こちらの仕事の邪魔になるのは困ります。[%p]
+ZH [name]香织[line]要是妨碍到我这边的事就难办了。[%p]
+
+JA [name]龍蔵寺[line]君が心配する必要はない。広大の足どりを追わせているだけだ。[%p]
+ZH [name]龙藏寺[line]你没必要担心这个。那只是在追逐广大的脚步而已。[%p]
+
+JA [name]香織[line]探偵ですか?[%p]
+ZH [name]香织[line]是侦探吗？[%p]
+
+JA [name]龍蔵寺[line]興信所だよ。身元調査や浮気調査程度しかできん、しがない街の調査員だ。君とヤツとでは格が違う。[%p]
+ZH [name]龙藏寺[line]是信用调查所。只会调查人家身份和婚外情，是个无足挂齿的街道调查员。那家伙的水平跟你完全不一样。[%p]
+
+JA [name]香織[line]‥‥そうですか。[%p]
+ZH [name]香织[line]……这样啊。[%p]
+
+JA [name]龍蔵寺[line]あらゆる布石を惜しまぬというのが、私のポリシーでね。あんなヤツでも、多少は役に立つ。[%p]
+ZH [name]龙藏寺[line]要做好一切的准备进行布局，这才是我的策略。即使是那样的家伙，多多少少也会起到一点作用。[%p]
+
+JA [name]香織[line]‥‥わかりました。[%p]
+ZH [name]香织[line]……我知道了。[%p]
+
+JA [name]龍蔵寺[line]では。[%p]
+ZH [name]龙藏寺[line]再会。[%p]
+
+JA [name]たくや[line](どわっ、こっちへ来るぞ。)[%p]
+ZH [name]拓也[line](（呃哇，向这边走过来了。）。)[%p]
+
+JA [name]たくや[line](か、隠れないと‥‥。)[%p]
+ZH [name]拓也[line](（没，没地方藏身……。）。)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line](気付かれないように、気付かれないように‥‥。)[%p]
+ZH [name]拓也[line](（不要被发现，不要被发现……。）。)[%p]
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ふぅ‥‥。[%p]
+ZH [name]拓也[line]呼……。[%p]
+
+JA [name]たくや[line]どうやら、やりすごしたようだぜ‥‥。[%p]
+ZH [name]拓也[line]好歹，算是躲过去了……。[%p]
+
+JA [name]たくや[line]しかし、何で俺が隠れなくてはいけないんだ‥‥まったく。[%p]
+ZH [name]拓也[line]不过，为什么我非得躲起来不可呢……真是的。[%p]
+
+JA [name]たくや[line]別にやましい事なんて、これっぽっちも‥‥あるけれど。[%p]
+ZH [name]拓也[line]也没做什么亏心事，一点儿都……应该有点。[%p]
+
+JA [name]たくや[line]少なくとも、コソコソ泥棒のように隠れるいわれは無いぞ。[%p]
+ZH [name]拓也[line]至少，也没有理由像个小偷似的藏起来吧。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]とは言っても、ハローと挨拶する雰囲気じゃなかったのも事実だしな‥‥。[%p]
+ZH [name]拓也[line]话说回来，事实上也不是能够上去打招呼说声哈喽的气氛……。[%p]
+
+JA [name]たくや[line]龍蔵寺と‥‥確か朝倉香織って名前だったな。[%p]
+ZH [name]拓也[line]龙藏寺和……名字应该叫朝仓香织吧。[%p]
+
+JA [name]たくや[line]いったい、何のことを話していたんだろう‥‥。[%p]
+ZH [name]拓也[line]究竟，是在说什么事呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]静かな廊下だ‥‥。[%p]
+ZH [name]拓也[line]真是安静的走廊‥‥。[%p]
+
+JA [name]たくや[line]さっ、目的の本はあそこにあるんだ。手早くすませようぜ‥‥。[%p]
+ZH [name]拓也[line]好了，作为目的的书是在那个地方。我还是尽早完事吧……。[%p]
+
+JA [name]澪[line]きゃっ。[%p]
+ZH [name]澪[line]呀。[%p]
+
+JA [name]たくや[line]何だ、澪か‥‥ビックリしたな。[%p]
+ZH [name]拓也[line]什么，是澪吗……吓了我一跳。[%p]
+
+JA [name]澪[line]それはこっちのセリフよ‥‥こんな時間に、何をやってたの?[%p]
+ZH [name]澪[line]这是我要说的话……这种时候，你在做什么啊？[%p]
+
+JA [name]たくや[line]俺は‥‥澪に会いたかったのさ。[%p]
+ZH [name]拓也[line]我啊……是来见澪你的。[%p]
+
+JA [name]澪[line]えっ‥‥。[%p]
+ZH [name]澪[line]诶……。[%p]
+
+JA [name]たくや[line]三角山って、どのくらい調べているんだ?[%p]
+ZH [name]拓也[line]三角山，你打算做怎么样的调查呢？[%p]
+
+JA [name]澪[line]またそれ‥‥それ以外の興味って、ないの?[%p]
+ZH [name]澪[line]又是那个……除此之外，你就没别的兴趣了？[%p]
+
+JA [name]たくや[line]ない。[%p]
+ZH [name]拓也[line]没有。[%p]
+
+JA [name]澪[line]なによっ。[%p]
+ZH [name]澪[line]什么啊。[%p]
+
+JA [name]たくや[line]何でそこで怒るんだ。[%p]
+ZH [name]拓也[line]为什么现在会生气啊。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]澪は三角山に興味があって、俺もそれに興味があって、どういうことだって訊くのが、そんなに変かな。[%p]
+ZH [name]拓也[line]澪对三角山有兴趣，我也对那里产生了兴趣，像这样的事，听起来很奇怪吗。[%p]
+
+JA [name]澪[line]べ、別に‥‥変じゃないけど。[%p]
+ZH [name]澪[line]没，没有……虽然不奇怪。[%p]
+
+JA [name]たくや[line]だろう?[%p]
+ZH [name]拓也[line]是吧？[%p]
+
+JA [name]澪[line]だって‥‥。[%p]
+ZH [name]澪[line]可是……。[%p]
+
+JA [name]たくや[line](何なんだよ‥‥。)[%p]
+ZH [name]拓也[line](（到底要做什么啊……。）。)[%p]
+
+JA [name]女性の声[line]あら、お二人さん、どうしたのかしら‥‥?[%p]
+ZH [name]女性的声音[line]JF:啊，两位，怎么了？[%p]
+
+JA [name]澪[line]‥‥![%p]
+ZH [name]澪[line]……！[%p]
+
+JA [name]たくや[line](あれ、この声は‥‥。)[%p]
+ZH [name]拓也[line](（咦，这个声音是……。）。)[%p]
+
+JA [name]たくや[line]あれ、美月さん。[%p]
+ZH [name]拓也[line]咦，是美月啊。[%p]
+
+JA [name]美月[line]フフ、仲がよろしいのね。お邪魔だった?[%p]
+ZH [name]美月[line]呵呵，关系很好嘛。我打扰你们了？[%p]
+
+JA [name]澪[line]いえ、私、帰るところでしたから。[%p]
+ZH [name]澪[line]不，我现在正要回去了。[%p]
+
+JA [name]たくや[line]お、おい、澪‥‥。[%p]
+ZH [name]拓也[line]喂，喂，澪……。[%p]
+
+JA [name]澪[line]有馬君も「美月さん」と、お話があるみたいだしね。[%p]
+ZH [name]澪[line]看起来，有马君好像也有话要跟［美月小姐］说呢。[%p]
+
+JA [name]たくや[line]‥‥?[%p]
+ZH [name]拓也[line]……？[%p]
+
+JA [name]澪[line]じゃね。[%p]
+ZH [name]澪[line]再见咯。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何をプリプリしてるんだよ、あいつ‥‥。[%p]
+ZH [name]拓也[line]在生什么气啊，那家伙……。[%p]
+
+JA [name]美月[line]バカね‥‥決まってるじゃない。[%p]
+ZH [name]美月[line]傻瓜……那不是当然的吗。[%p]
+
+JA [name]たくや[line]あの日か?[%p]
+ZH [name]拓也[line]是那天吗？[%p]
+
+JA [name]美月[line]バカ。[%p]
+ZH [name]美月[line]傻瓜。[%p]
+
+JA [name]たくや[line]ばかばか、言わないでくれ。美月さんは何をやってるんだよ、こんな時間に。[%p]
+ZH [name]拓也[line]傻瓜傻瓜的，不要再这么说了。美月你现在在做什么啊，这个时候。[%p]
+
+JA [name]美月[line]私? 補習の後片付けなんかをね‥‥。[%p]
+ZH [name]美月[line]我？　在做补课的善后工作呢……。[%p]
+
+JA [name]たくや[line]補習の‥‥後片付け?[%p]
+ZH [name]拓也[line]补课的……善后工作？[%p]
+
+JA [name]美月[line]ま、おサボりさんは知らなかったでしょうけどね、私が歴史の補習を担当していたの。[%p]
+ZH [name]美月[line]嘛，虽然翘课同学不知道，不过我可是历史补课的代课老师哦。[%p]
+
+JA [name]たくや[line]えっ‥‥そうだったんだ。美月さんが、補習を。[%p]
+ZH [name]拓也[line]诶……是这样啊。美月你，来补课。[%p]
+
+JA [name]美月[line]ほら、その呼び方。「美月さん」だなんて、マズいわよ。[%p]
+ZH [name]美月[line]好了，这个称呼。［美月］什么的，可不行哦。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]美月[line]彼女、結構傷つきやすいタイプだしね‥‥怒ったかも。[%p]
+ZH [name]美月[line]她是很容易受伤的类型呢，说不定生气了……。[%p]
+
+JA [name]たくや[line]だったら、俺と澪が話している最中くらいは、遠慮してくれよ。[%p]
+ZH [name]拓也[line]这样的话，在我跟澪正在谈话的时候，你也要回避一下啊。[%p]
+
+JA [name]美月[line]なぜ?[%p]
+ZH [name]美月[line]为什么？[%p]
+
+JA [name]たくや[line]なぜって‥‥。[%p]
+ZH [name]拓也[line]什么为什么……。[%p]
+
+JA [name]美月[line]私が、なぜ彼女に気兼ねしないと、いけないのかしらね。[%p]
+ZH [name]美月[line]为什么，我非得要顾虑到她的心情不可啊。[%p]
+
+JA [name]たくや[line]そ、それはその‥‥。[%p]
+ZH [name]拓也[line]那，那个是……。[%p]
+
+JA [name]たくや[line](何だか、やりにくいな‥‥。)[%p]
+ZH [name]拓也[line](（怎么感觉，有点难办呢‥‥）。)[%p]
+
+JA [name]美月[line]どう、久しぶりにこうして会えたんだし‥‥話もあるの。[%p]
+ZH [name]美月[line]怎么样，我们已经这样好久没这样碰面了……我有话跟你说。[%p]
+
+JA [name]たくや[line]それは‥‥構わないけど‥‥。[%p]
+ZH [name]拓也[line]那个……也没什么关系……。[%p]
+
+JA [name]美月[line]なによ、未練たっぷりに彼女の後ろ姿を見て‥‥。[%p]
+ZH [name]美月[line]JF:什么啊，恋恋不舍地看着她的背影。[%p]
+
+JA [name]たくや[line]未練などない。ただ気になるだけさ。[%p]
+ZH [name]拓也[line]没有恋恋不舍。这只是你的错觉。[%p]
+
+JA [name]美月[line]ふぅん‥‥。[%p]
+ZH [name]美月[line]哼……。[%p]
+
+JA [name]たくや[line]で、話ってのは?[%p]
+ZH [name]拓也[line]那么，要说什么事？[%p]
+
+JA [name]美月[line]立ち話も何だから、研究室へ来ない?[%p]
+ZH [name]美月[line]你要这样站着说话，不进研究室来吗？[%p]
+
+JA [name]たくや[line]いいけど、俺だって多忙の身だからな。[%p]
+ZH [name]拓也[line]可以是可以，虽说我现在也是个大忙人。[%p]
+
+JA [name]美月[line]嘘おっしゃい。何もすることがなさそうに、ブラブラしていたくせに。[%p]
+ZH [name]美月[line]你在吹牛吧。明明看上去完全没什么事的样子，在这里瞎逛。[%p]
+
+JA [name]たくや[line](‥‥やりにくいな、まったく。)
+ZH [name]拓也[line](（……好难对付啊，真是的。）。)
+
+JA [name]美月[line]フフ‥‥久しぶりね、こうして研究室で会うのも。[%p]
+ZH [name]美月[line]呵呵……好久不见了，像这样在研究室碰面也是。[%p]
+
+JA [name]たくや[line]あ、ああ‥‥そうだね。[%p]
+ZH [name]拓也[line]啊，啊啊……是呢。[%p]
+
+JA [name]美月[line]どう、座る?[%p]
+ZH [name]美月[line]怎么样，坐吗？[%p]
+
+JA [name]たくや[line]いや、いい。[%p]
+ZH [name]拓也[line]不，谢了。[%p]
+
+JA [name]美月[line]じゃ、私は失礼させてもらうわ。[%p]
+ZH [name]美月[line]那么，我就失礼了。[%p]
+
+JA [name]たくや[line](ドキッ。)[%p]
+ZH [name]拓也[line](扑通。)[%p]
+
+JA [name]美月[line]なに?[%p]
+ZH [name]美月[line]什么？[%p]
+
+JA [name]たくや[line]い、いや‥‥何でもないよ。うん。[%p]
+ZH [name]拓也[line]没，没事……没什么。嗯。[%p]
+
+JA [name]たくや[line](なにドキドキしてるんだよ、俺は‥‥。)[%p]
+ZH [name]拓也[line](（我在心跳个什么劲啊……。）。)[%p]
+
+JA [name]たくや[line](まったく‥‥。)[%p]
+ZH [name]拓也[line](实在是‥‥。)[%p]
+
+JA [name]たくや[line]‥‥静かな廊下だな。[%p]
+ZH [name]拓也[line]……宁静的走廊。[%p]
+
+JA [name]たくや[line]補習授業はもう、終わったらしいぜ‥‥。[%p]
+ZH [name]拓也[line]看样子，补课已经结束了呢……。[%p]
+
+JA [name]結城[line]あっ、オヤビン‥‥。[%p]
+ZH [name]结城[line]啊、头目……。[%p]
+
+JA [name]たくや[line]結城じゃないか‥‥どうしたんだよ。[%p]
+ZH [name]拓也[line]这不是结城吗……你怎么了。[%p]
+
+JA [name]結城[line]え、ええ‥‥。[%p]
+ZH [name]结城[line]呃，是的……。[%p]
+
+JA [name]たくや[line]何だよ、はっきりしないな。[%p]
+ZH [name]拓也[line]什么啊，这么拖泥带水地。[%p]
+
+JA [name]結城[line]その‥‥さっき、研究室で島津さんとお話していましたよね。[%p]
+ZH [name]结城[line]那个……刚才，你在研究室跟岛津同学谈话了吧。[%p]
+
+JA [name]たくや[line]えっ、ああ、そうそう。なんだ、見ていたのか?[%p]
+ZH [name]拓也[line]诶，啊啊，对对。怎么，你看到了吗？[%p]
+
+JA [name]結城[line]見ていたっていっても、ちょっと部屋を覗いたら、お二人がいて、入りづらい雰囲気だったので‥‥。[%p]
+ZH [name]结城[line]JF:虽然想看，但是稍微看了一下房间，因为有两个人，气氛很难进去。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]‥‥‥‥。[%p]
+ZH [name]结城[line]…………。[%p]
+
+JA [name]たくや[line]単に、拾ったメモ帳を返しただけだよ。それ以上のことは、話しちゃいないぜ。[%p]
+ZH [name]拓也[line]我只是单纯地把捡到的记事本还给她而已。除此之外，没说别的什么话了。[%p]
+
+JA [name]結城[line]そ、そうなんですか‥‥?[%p]
+ZH [name]结城[line]是，是这样吗……？[%p]
+
+JA [name]たくや[line]ああ、澪も、お前の代返には感謝してるってさ。[%p]
+ZH [name]拓也[line]啊啊，澪也是，感谢你帮忙代签。[%p]
+
+JA [name]結城[line]そ、そうですか。やっぱり、島津さんは優しいですね。[%p]
+ZH [name]结城[line]是，是这样的啊。果然，岛津同学好温柔呢。[%p]
+
+JA [name]たくや[line](ふぅ‥‥。)[%p]
+ZH [name]拓也[line](呼……。)[%p]
+
+JA [name]結城[line]でも‥‥。[%p]
+ZH [name]结城[line]可是……。[%p]
+
+JA [name]たくや[line]でも?[%p]
+ZH [name]拓也[line]可是？[%p]
+
+JA [name]結城[line]補習はもう、終わったのですが‥‥。[%p]
+ZH [name]结城[line]虽然，补课已经结束了……。[%p]
+
+JA [name]たくや[line]おつとめご苦労。[%p]
+ZH [name]拓也[line]真是辛苦你了。[%p]
+
+JA [name]結城[line]だけど最後の授業で、運悪く代返が見つかってしまいまして‥‥。[%p]
+ZH [name]结城[line]只是，在最后补课的时候不巧地被发现代签了……。[%p]
+
+JA [name]たくや[line]お、俺の代返か?[%p]
+ZH [name]拓也[line]我，我的代签吗？[%p]
+
+JA [name]結城[line]いえ、島津さんの方で‥‥。[%p]
+ZH [name]结城[line]不，是岛津同学的……。[%p]
+
+JA [name]たくや[line]何だ、澪の方か。それは良かっ‥‥えっ、おまえ本当に澪の代返をしたのか?[%p]
+ZH [name]拓也[line]什么，是澪吗。那就好了……诶，你真的有帮澪代签吗？[%p]
+
+JA [name]結城[line]そうですよう、できる限り可愛らしい声を出そうと努力はしたんですが‥‥。[%p]
+ZH [name]结城[line]是的啊，虽然我尽最大努力装出很可爱的声音了……。[%p]
+
+JA [name]たくや[line]アホか。お前の可愛らしい声っていったって、九官鳥の声みたいなもんだろう。[%p]
+ZH [name]拓也[line]傻瓜。你发出来的可爱声音，那是九官鸟的声音一样吧。[%p]
+
+JA [name]結城[line]酷いですよう、ちょっとは自信あったんですよ‥‥ちょっとだけ。[%p]
+ZH [name]结城[line]糟糕了啊，亏我还有点自信呢……虽然只有稍微一点点。[%p]
+
+JA [name]たくや[line]で、どうなるんだよ。[%p]
+ZH [name]拓也[line]那么，怎么样了。[%p]
+
+JA [name]結城[line]どうなるって?[%p]
+ZH [name]结城[line]什么怎么样？[%p]
+
+JA [name]たくや[line]おまえの処置。学校側のお叱り。[%p]
+ZH [name]拓也[line]对你的处分。学校方面。[%p]
+
+JA [name]結城[line]もしかしたら、放課後にシボられそうで‥‥ふぅ。[%p]
+ZH [name]结城[line]可能，会在放学后被狠狠地训斥吧……呼。[%p]
+
+JA [name]たくや[line]そっか‥‥。[%p]
+ZH [name]拓也[line]是么……。[%p]
+
+JA [name]結城[line]そうだ、島津さんは、どこへ行かれました?[%p]
+ZH [name]结城[line]是啊，岛津同学呢，是不是到什么地方去了？[%p]
+
+JA [name]たくや[line]何でも、まだ調べモノがあるとか、何とか‥‥たぶん、三角山へ行っているんじゃないか?[%p]
+ZH [name]拓也[line]说什么，还有想要调查的东西，不管怎么说……或许，不会是到三角山去了吧？[%p]
+
+JA [name]結城[line]なるほど‥‥わかりました。それでは失礼しますっ。[%p]
+ZH [name]结城[line]原来如此……我知道了。那么就先失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]オヤビン。[%p]
+ZH [name]结城[line]头目。[%p]
+
+JA [name]たくや[line]おわっ。[%p]
+ZH [name]拓也[line]哦哇。[%p]
+
+JA [name]結城[line]オヤビンは、島津さんのこと‥‥別に何とも思っていないですよね。[%p]
+ZH [name]结城[line]头目，你对岛津同学……没有什么特别的想法吧。[%p]
+
+JA [name]たくや[line]お、俺が‥‥澪のことを?[%p]
+ZH [name]拓也[line]我，我对……澪吗？[%p]
+
+JA [name]結城[line]そうです。[%p]
+ZH [name]结城[line]是的。[%p]
+
+JA [name]たくや[line]俺にとって澪は、クラスメート以外の何者でもないぞ。[%p]
+ZH [name]拓也[line]对我来说，澪除了同班同学之外就没有其他关系了。[%p]
+
+JA [name]結城[line]安心しました‥‥正直、オヤビンが島津さんにラブラブ状態だったら、どうしようかと思っていましたから。[%p]
+ZH [name]结城[line]那我就安心了……说实话，头目你要是喜欢上岛津同学的话，我都不知道该怎么办了呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]結城[line]じゃ、今度こそ失礼しますっ。[%p]
+ZH [name]结城[line]那么，这回我就真的失陪了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]これはアレだな、子供に秘め事を隠そうとする、親の心境だ。[%p]
+ZH [name]拓也[line]JF:这是父母的心情，想对孩子隐瞒秘密。[%p]
+
+JA [name]たくや[line]ふぅ‥‥‥‥。[%p]
+ZH [name]拓也[line]呼…………。[%p]
+
+JA 
+ZH 
+

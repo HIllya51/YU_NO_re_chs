@@ -1,0 +1,378 @@
+JA [name]たくや[line]ふぅ‥‥‥‥。[%p]
+ZH [name]拓也[line]呼…………。[%p]
+
+JA [name]たくや[line]一眠りしたら、今度はあっちの方角を調べて‥‥‥。[%p]
+ZH [name]拓也[line]睡上一觉之后，再到那边方向去调查一下吧……。[%p]
+
+JA [name]たくや[line]‥‥‥ん?[%p]
+ZH [name]拓也[line]……嗯？[%p]
+
+JA [name]たくや[line]‥‥‥何だ、あれ。[%p]
+ZH [name]拓也[line]……这是，什么。[%p]
+
+JA [name]たくや[line]そうだ‥‥‥あそこだ。[%p]
+ZH [name]拓也[line]对了……是在那边。[%p]
+
+JA [name]たくや[line]いったい‥‥‥なんだ、あれは。[%p]
+ZH [name]拓也[line]到底……是什么呢，那东西。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](人だ‥‥‥人がいる。)[%p]
+ZH [name]拓也[line](（是人……有人在那里。）。)[%p]
+
+JA [name]たくや[line](そんなバカな。人がここにいるわけが‥‥。)[%p]
+ZH [name]拓也[line](（怎么可能啊。这里怎么可能会有人……。）。)[%p]
+
+JA [name]たくや[line](だけど‥‥どう見ても‥‥。)[%p]
+ZH [name]拓也[line](（但是……不管怎么看都……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。[%p]
+ZH [name]拓也[line]………………。[%p]
+
+JA [name]たくや[line](あっ‥‥金髪でロングヘア‥‥。)[%p]
+ZH [name]拓也[line](（啊……一头金色的长发……。）。)[%p]
+
+JA [name]たくや[line](まさか、いつかの夜、三角山で見た、あの‥‥。)[%p]
+ZH [name]拓也[line](（莫非，是那一晚，在三角山看到的，那个……。）。)[%p]
+
+JA [name]たくや[line](‥‥いや、違う。似ているけど、違う。)[%p]
+ZH [name]拓也[line](（……不，不对。虽然有点相似，但不是。）。)[%p]
+
+JA [name]たくや[line](俺の目の前で死んだ、あの女性じゃない‥‥。)[%p]
+ZH [name]拓也[line](（不是在我眼前死去的，那个女性……。）。)[%p]
+
+JA [name]たくや[line](‥‥じゃあ、いったい誰なんだよ。)[%p]
+ZH [name]拓也[line](（……那么，到底是谁呢。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](そ、それに‥‥水の上に‥‥。)[%p]
+ZH [name]拓也[line](（而，而且……还在水面上……。）。)[%p]
+
+JA [name]たくや[line](う、浮いてる‥‥?)[%p]
+ZH [name]拓也[line](（飘，漂浮着……？）)[%p]
+
+JA [name]たくや[line](まさか‥‥幽霊?)[%p]
+ZH [name]拓也[line](（难道……是幽灵？）)[%p]
+
+JA [name]たくや[line](バカな、そんな非科学的な‥‥。)[%p]
+ZH [name]拓也[line](（怎么可能，这种不科学的……。）。)[%p]
+
+JA [name]たくや[line](この湖は浅いんだ‥‥立っているに決まっている。)[%p]
+ZH [name]拓也[line](（这个湖的深浅……只要站上去就知道了。）。)[%p]
+
+JA [name]たくや[line](澪は‥‥‥そうだ、澪!)[%p]
+ZH [name]拓也[line](（澪呢……对了，澪！）)[%p]
+
+JA [name]たくや[line](澪‥‥‥おい、澪!)[%p]
+ZH [name]拓也[line](（澪……喂，澪！）)[%p]
+
+JA [name]たくや[line](‥‥‥!)[%p]
+ZH [name]拓也[line](（……！）)[%p]
+
+JA [name]たくや[line](こ、声が‥‥声が出ない。)[%p]
+ZH [name]拓也[line](（声，声音……声音发不出来。）。)[%p]
+
+JA [name]たくや[line](どういうことなんだ‥‥。)[%p]
+ZH [name]拓也[line](（到底怎么回事啊……。）。)[%p]
+
+JA [name]たくや[line](起きてくれ、おい澪っ!)[%p]
+ZH [name]拓也[line](（快点起来，喂，澪！）)[%p]
+
+JA [name]たくや[line](澪‥‥‥?)[%p]
+ZH [name]拓也[line](（澪……？）)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](どうしたんだよ‥‥‥澪。)[%p]
+ZH [name]拓也[line](（怎么了……澪。）。)[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line](澪‥‥‥?)[%p]
+ZH [name]拓也[line](（澪……？）)[%p]
+
+JA [name]たくや[line](くそっ、どうなってるんだ‥‥‥。)[%p]
+ZH [name]拓也[line](（可恶，到底怎么了啊……。）。)[%p]
+
+JA [name]たくや[line](まさか、あの‥‥‥。)[%p]
+ZH [name]拓也[line](（难道说，那个……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](あの女性のためか‥‥‥?)[%p]
+ZH [name]拓也[line](（是那个女性的缘故……？）)[%p]
+
+JA [name]たくや[line](んな非科学的な‥‥。)[%p]
+ZH [name]拓也[line](（这种不科学的……。）。)[%p]
+
+JA [name]たくや[line](だけど、これはどう考えても‥‥。)[%p]
+ZH [name]拓也[line](（但是，这样不管怎么看都是……。）。)[%p]
+
+JA [name]たくや[line](いったい、あの女性は‥‥‥。)[%p]
+ZH [name]拓也[line](（究竟，那个女性是……。）。)[%p]
+
+JA [name]たくや[line](俺のことを‥‥見つめている。)[%p]
+ZH [name]拓也[line](（一直……在看着我。）。)[%p]
+
+JA [name]たくや[line](いったい‥‥誰なんだっ!?)[%p]
+ZH [name]拓也[line](（究竟……是谁呢！？）)[%p]
+
+JA [name]女性[line]‥‥‥‥。[%p]
+ZH [name]女性[line]…………。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](誰なんだ、あの女性は‥‥。)[%p]
+ZH [name]拓也[line](（是谁呢，那个女性……。）。)[%p]
+
+JA [name]たくや[line](俺のことを‥‥じっと見つめている。)[%p]
+ZH [name]拓也[line](（一直……一直盯着我看。）。)[%p]
+
+JA [name]たくや[line](得体の知れない‥‥‥。)[%p]
+ZH [name]拓也[line](（不知道本来面目……。）。)[%p]
+
+JA [name]たくや[line]‥‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line](だけど‥‥‥。)[%p]
+ZH [name]拓也[line](（但是……。）。)[%p]
+
+JA [name]たくや[line](恐怖は感じない‥‥‥。)[%p]
+ZH [name]拓也[line](（没有可怕的感觉……。）。)[%p]
+
+JA [name]たくや[line](畏怖か‥‥‥?)[%p]
+ZH [name]拓也[line](（畏怖吗……？）)[%p]
+
+JA [name]たくや[line](いや、畏怖とも違う‥‥これは‥‥。)[%p]
+ZH [name]拓也[line](（不，跟畏怖不一样……这是……。）。)[%p]
+
+JA [name]たくや[line](安らぎ‥‥?)[%p]
+ZH [name]拓也[line](（安心感……？）)[%p]
+
+JA [name]たくや[line](なぜだろう‥‥‥。)[%p]
+ZH [name]拓也[line](（为什么呢……。）。)[%p]
+
+JA [name]たくや[line](心が‥‥暖かくなる。)[%p]
+ZH [name]拓也[line](（心里……感觉暖暖的。）。)[%p]
+
+JA [name]たくや[line](なぜか‥‥心が暖かくなる‥‥。)[%p]
+ZH [name]拓也[line](（为什么……心里会觉得很暖……。）。)[%p]
+
+JA [name]たくや[line](なぜだ‥‥?)[%p]
+ZH [name]拓也[line](为什么呀……？)[%p]
+
+JA [name]たくや[line](なぜなんだ‥‥‥。)[%p]
+ZH [name]拓也[line](（为什么呢……。）。)[%p]
+
+JA [name]たくや[line](あっ‥‥。)[%p]
+ZH [name]拓也[line](啊……。)[%p]
+
+JA [name]たくや[line]ま、待ってくれ![%p]
+ZH [name]拓也[line]请，请等一下！[%p]
+
+JA [name]たくや[line]おい、待てったら![%p]
+ZH [name]拓也[line]喂，等等我啊！[%p]
+
+JA [name]たくや[line]あれ‥‥‥。[%p]
+ZH [name]拓也[line]咦……。[%p]
+
+JA [name]たくや[line]声が出るぞ‥‥身体も動く。[%p]
+ZH [name]拓也[line]发出声音了……身体也能动。[%p]
+
+JA [name]たくや[line]湖は浅い‥‥十分追いかけられるぞ。[%p]
+ZH [name]拓也[line]湖很浅……够我跑过去追赶她了。[%p]
+
+JA [name]澪[line]‥‥ありまくん、どこへ行くの?[%p]
+ZH [name]澪[line]……有马君，你要去哪里啊？[%p]
+
+JA [name]たくや[line]このまま行かせてたまるか‥‥‥後を追いかけるんだ。[%p]
+ZH [name]拓也[line]不能让她就这样走了……我要跟在后面追上她。[%p]
+
+JA [name]澪[line]有馬君‥‥!?[%p]
+ZH [name]澪[line]有马君……！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]後を追いかけて‥‥俺は何をしようとしているんだろう。[%p]
+ZH [name]拓也[line]这样追在后面……我这到底是想要干什么呢。[%p]
+
+JA [name]たくや[line]問いつめて、何かを訊くのか‥‥?[%p]
+ZH [name]拓也[line]是想要追问她一些事吗……？[%p]
+
+JA [name]たくや[line]‥‥何かって‥‥なんだろうな。[%p]
+ZH [name]拓也[line]……一些事……是指什么事呢。[%p]
+
+JA [name]たくや[line]お前は幽霊かって、訊くのか‥‥?[%p]
+ZH [name]拓也[line]你是幽灵吗，难道想问她这个……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]わからない‥‥‥。[%p]
+ZH [name]拓也[line]搞不明白……。[%p]
+
+JA [name]たくや[line]だけど、追いかけなくちゃいけない気がする‥‥‥。[%p]
+ZH [name]拓也[line]但是，总觉得我非得追上去不可……。[%p]
+
+JA [name]たくや[line]あの女性が消えた先に‥‥‥何があるんだ?[%p]
+ZH [name]拓也[line]在那个女性消失的地方……会有什么东西呢？[%p]
+
+JA [name]たくや[line]何が‥‥‥。
+ZH [name]拓也[line]什么……。
+
+JA ‥‥くん。[%p]
+ZH ……君。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA ‥‥まくん‥‥くん![%p]
+ZH ……有马……君！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]声[line]‥‥有馬君、有馬君ってば![%p]
+ZH [name]声音[line]……有马君，有马君啊！[%p]
+
+JA [name]たくや[line]えっ‥‥。[%p]
+ZH [name]拓也[line]诶……。[%p]
+
+JA [name]澪[line]有馬君、もうどうしたのよ、急に![%p]
+ZH [name]澪[line]有马君，你这是怎么了啊，突然地！[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]何かに取り憑かれたように、駆け出すから‥‥どうしたのよ。[%p]
+ZH [name]澪[line]简直像是被什么东西附体了似的，一直往前跑……你怎么了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]‥‥有馬‥‥くん?[%p]
+ZH [name]澪[line]……有马……君？[%p]
+
+JA [name]たくや[line]みお‥‥。[%p]
+ZH [name]拓也[line]澪……。[%p]
+
+JA [name]澪[line]‥‥なに?[%p]
+ZH [name]澪[line]……什么？[%p]
+
+JA [name]たくや[line]見てみろよ‥‥あれを。[%p]
+ZH [name]拓也[line]你看……那个是什么。[%p]
+
+JA [name]澪[line]あれ‥‥。[%p]
+ZH [name]澪[line]咦……。[%p]
+
+JA [name]澪[line]‥‥!!?[%p]
+ZH [name]澪[line]……！！？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]な、何なの‥‥これ。[%p]
+ZH [name]澪[line]那，那是……什么。[%p]
+
+JA [name]たくや[line]さあな‥‥。[%p]
+ZH [name]拓也[line]谁知道……。[%p]
+
+JA [name]澪[line]さあなって‥‥これってどういうこと。[%p]
+ZH [name]澪[line]什么叫不知道……那到底是怎么回事。[%p]
+
+JA [name]たくや[line]こういうことだろう。[%p]
+ZH [name]拓也[line]就是这么回事吧。[%p]
+
+JA [name]澪[line]有馬君‥‥何を落ち着いているのよ。[%p]
+ZH [name]澪[line]有马君……你怎么能还这么镇定呢。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]澪[line]この高さだと、恐らく100メートル‥‥ううん、200メートルはくだらないわ。[%p]
+ZH [name]澪[line]这个高度看起来，恐怕有１００米……不对，应该有不少２００米吧。[%p]
+
+JA [name]たくや[line]だろうな。[%p]
+ZH [name]拓也[line]应该是吧。[%p]
+
+JA [name]澪[line]‥‥それだけ高いモノが、地下に存在するはずが‥‥。[%p]
+ZH [name]澪[line]……像这么高的东西，居然会存在于地下……。[%p]
+
+JA [name]たくや[line]存在可能な場所が、一か所だけあるぜ。[%p]
+ZH [name]拓也[line]可能会存在的地方，只有一个地方了吧。[%p]
+
+JA [name]澪[line]‥‥まさか。[%p]
+ZH [name]澪[line]……难道是。[%p]
+
+JA [name]たくや[line]そのまさか、かも知れない。[%p]
+ZH [name]拓也[line]可能，就是你说的难道是吧。[%p]
+
+JA [name]澪[line]‥‥‥‥。[%p]
+ZH [name]澪[line]…………。[%p]
+
+JA [name]たくや[line]見えないのか‥‥‥?[%p]
+ZH [name]拓也[line]你看不到吗……？[%p]
+
+JA [name]たくや[line]湖の先にある、あれが‥‥‥。[%p]
+ZH [name]拓也[line]就在湖尽头的，那个……。[%p]
+
+JA [name]たくや[line]湖じゃない‥‥‥その先にあるあれなんだ。[%p]
+ZH [name]拓也[line]不是湖……就是在尽头的那个东西。[%p]
+
+JA [name]たくや[line]湖からの光が眩しい‥‥‥。[%p]
+ZH [name]拓也[line]湖里发出耀眼的光芒……。[%p]
+
+JA [name]たくや[line]ほら、この先のあそこに‥‥‥。[%p]
+ZH [name]拓也[line]你看，就在尽头的那里……。[%p]
+
+JA [name]たくや[line]あれはいったい、なんだ‥‥‥?[%p]
+ZH [name]拓也[line]那个到底是，什么东西呢……？[%p]
+
+JA [name]たくや[line]そこじゃない‥‥‥。[%p]
+ZH [name]拓也[line]不是那里……。[%p]
+
+JA [name]たくや[line]岩を見るんじゃない‥‥‥。[%p]
+ZH [name]拓也[line]不是看着岩石……。[%p]
+
+JA [name]たくや[line]湖の先のアレだ‥‥‥いったい、何だろう。[%p]
+ZH [name]拓也[line]是湖尽头的那里……到底，是什么东西呢。[%p]
+
+JA [name]たくや[line]湖面の光で輝いている‥‥‥。[%p]
+ZH [name]拓也[line]湖面在闪烁着光芒……。[%p]
+
+JA [name]たくや[line]だけど今は、そこを見ているときだろうか‥‥‥?[%p]
+ZH [name]拓也[line]但是，现在是看着那个地方的时候吗……？[%p]
+
+JA [name]たくや[line]違う‥‥そこじゃない。[%p]
+ZH [name]拓也[line]不对……不是那里。[%p]
+
+JA [name]たくや[line]天井じゃない‥‥あそこだ。[%p]
+ZH [name]拓也[line]不是岩壁顶上……是那边。[%p]
+
+JA [name]たくや[line]アイテムは関係ないぜ‥‥‥。[%p]
+ZH [name]拓也[line]跟道具没什么关系吧……。[%p]
+
+JA [name]たくや[line]アイテムは関係ない‥‥‥。[%p]
+ZH [name]拓也[line]跟道具没什么关系……。[%p]
+
+JA [name]たくや[line]あそこに見えるアレが‥‥‥。[%p]
+ZH [name]拓也[line]就是在那边看到的那个……。[%p]
+
+JA [name]たくや[line]今はアイテムを使っているときじゃない‥‥‥。[%p]
+ZH [name]拓也[line]现在不是使用道具的时候……。[%p]
+
+JA [name]たくや[line]あれが‥‥‥気にならないか?[%p]
+ZH [name]拓也[line]那个……难道没有看到吗？[%p]
+
+JA 
+ZH 
+

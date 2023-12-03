@@ -1,0 +1,93 @@
+JA [name]たくや[line]ん‥‥。[%p]
+ZH [name]拓也[line]嗯……。[%p]
+
+JA [name]たくや[line]あれ、ここは‥‥。[%p]
+ZH [name]拓也[line]咦，这里是……。[%p]
+
+JA [name]たくや[line]三角山の‥‥中だ。[%p]
+ZH [name]拓也[line]三角山的……里面。[%p]
+
+JA [name]たくや[line]いったい俺は‥‥。[%p]
+ZH [name]拓也[line]我到底怎么来的‥‥。[%p]
+
+JA [name]たくや[line]何で、こんな所にいるんだ‥‥?[%p]
+ZH [name]拓也[line]为什么，会在这个地方呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだ、俺はここで気を失ってしまって‥‥。[%p]
+ZH [name]拓也[line]对了，我之前晕倒在这里……。[%p]
+
+JA [name]たくや[line]それで、夢を見ていたのか‥‥。[%p]
+ZH [name]拓也[line]然后，做了一个梦吗……。[%p]
+
+JA [name]たくや[line]夢‥‥‥‥。[%p]
+ZH [name]拓也[line]梦…………。[%p]
+
+JA [name]たくや[line]長い、長い夢だったような気がする‥‥。[%p]
+ZH [name]拓也[line]感觉，是个很长很长的梦……。[%p]
+
+JA [name]たくや[line]本当に長い夢だった‥‥。[%p]
+ZH [name]拓也[line]真是个好长的梦啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]だけど‥‥。[%p]
+ZH [name]拓也[line]可是……。[%p]
+
+JA [name]たくや[line]本当に、夢だったんだろうか‥‥?[%p]
+ZH [name]拓也[line]这件事，真的只是个梦吗……？[%p]
+
+JA [margin top="266"][margin left="400"]パ パ
+ZH [margin top="266"][margin left="400"]啪　啪
+
+JA [name]たくや[line]うっ‥‥。[%p]
+ZH [name]拓也[line]唔……。[%p]
+
+JA [name]たくや[line]頭が‥‥何だか痛い。[%p]
+ZH [name]拓也[line]脑袋……痛得好厉害。[%p]
+
+JA [name]たくや[line]くそっ‥‥いったい、どうしたっていうんだ。[%p]
+ZH [name]拓也[line]可恶……这到底是怎么回事。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何かを‥‥感じる。[%p]
+ZH [name]拓也[line]有没有……感觉到。[%p]
+
+JA [name]たくや[line]誰かが、俺を呼んでいる‥‥。[%p]
+ZH [name]拓也[line]有人，在呼唤我呢……。[%p]
+
+JA [name]たくや[line]ドアは両方とも閉まっている‥‥。[%p]
+ZH [name]拓也[line]门两边全部都关起来了……。[%p]
+
+JA [name]たくや[line]ここから出る方法は‥‥。[%p]
+ZH [name]拓也[line]从这里出去的方法是……。[%p]
+
+JA [name]たくや[line]‥‥ん?[%p]
+ZH [name]拓也[line]（……嗯？）[%p]
+
+JA [name]たくや[line]何か、真ん中にある‥‥。[%p]
+ZH [name]拓也[line]怎么突然这么认真……。[%p]
+
+JA [name]たくや[line]何だろう、あれは‥‥柱みたいなのが立っている。[%p]
+ZH [name]拓也[line]那东西，到底是什么呢……一根像柱子一样的东西矗立着。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]行き止まりだな‥‥。[%p]
+ZH [name]拓也[line]这里是尽头啊……。[%p]
+
+JA [name]たくや[line]別に何もないが‥‥。[%p]
+ZH [name]拓也[line]没什么特别之处……。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,2 @@
+[name]Takuya[line]There's nothing in the study. It's hard to call it a study now.[%p]
+[name]Takuya[line]⋯[%p]

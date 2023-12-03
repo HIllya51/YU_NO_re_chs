@@ -1,0 +1,18 @@
+JA [name]たくや[line]海岸へやってきたが‥‥。[%p]
+ZH [name]拓也[line]到海岸边了……。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ?[%p]
+ZH [name]拓也[line]……该怎么办好呢？[%p]
+
+JA [name]たくや[line]海岸だ‥‥。[%p]
+ZH [name]拓也[line]海岸……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]目の前に三角山‥‥剣ノ岬が見える。[%p]
+ZH [name]拓也[line]眼前能看到三角山……也就是剑之岬。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,357 @@
+JA [name]たくや[line]‥‥暗い小部屋だ。石のカベで囲まれている。[%p]
+ZH [name]拓也[line]……昏暗的小房间。完全被石墙包围起来了。[%p]
+
+JA [name]たくや[line]あれ、これは‥‥。[%p]
+ZH [name]拓也[line]咦，这个是……。[%p]
+
+JA [name]たくや[line]‥‥剣?[%p]
+ZH [name]拓也[line]……剑？[%p]
+
+JA [name]たくや[line]なんで、こんなのがここにあるんだ‥‥?[%p]
+ZH [name]拓也[line]为什么，这东西会掉在这里呢……？[%p]
+
+JA [name]たくや[line]鉄でできているみたいだ‥‥。[%p]
+ZH [name]拓也[line]看起来好像是铁做成的……。[%p]
+
+JA [name]たくや[line]やけに丈夫そうだ。[%p]
+ZH [name]拓也[line]好像异常地坚固呢。[%p]
+
+JA [name]たくや[line]あっ‥‥もしかしたら、こいつで‥‥。[%p]
+ZH [name]拓也[line]啊……说不定，可以用这东西……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [color index="840000"][鉄の剣][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:得到了。
+
+JA [color index="840000"][鉄の剣][color index="800000"]を手に入れました。
+ZH [color index="840000"]JF:[铁剑][color index="800000"]JF:得到了。
+
+JA [name]たくや[line]‥‥特にこれといって、変わったモノはないな。[%p]
+ZH [name]拓也[line]……特别是根据这东西，也没什么有变化的东西。[%p]
+
+JA [name]たくや[line]やたらと重圧感があるな‥‥。[%p]
+ZH [name]拓也[line]有种非常沉重的压力啊……。[%p]
+
+JA [name]たくや[line]いったい、この部屋は何なんだろう‥‥?[%p]
+ZH [name]拓也[line]到底，这个房间是怎么回事呢……？[%p]
+
+JA [name]たくや[line]カベといい、天井といい‥‥石が隙間なく敷き詰められている。[%p]
+ZH [name]拓也[line]墙壁也好，顶部也好……石头被铺砌得一点儿缝隙都没有。[%p]
+
+JA [name]たくや[line]‥‥そういえば、空気はどっからくるんだろう。[%p]
+ZH [name]拓也[line]……这么说起来，空气是从哪里传进来的呢。[%p]
+
+JA [name]たくや[line]全然、息苦しく感じないけど‥‥。[%p]
+ZH [name]拓也[line]完全，没有呼吸困难的感觉……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]堅いな‥‥やけに頑丈に作られている。[%p]
+ZH [name]拓也[line]好硬啊……被制造得异常坚固呢。[%p]
+
+JA [name]たくや[line]いったい、ここは何なんだろう‥‥?[%p]
+ZH [name]拓也[line]这里，到底是怎么回事呢……？[%p]
+
+JA [name]たくや[line]石ころが転がっている‥‥。[%p]
+ZH [name]拓也[line]小石块散落在地上……。[%p]
+
+JA [name]たくや[line]特に、何かが落ちているって訳じゃない‥‥。[%p]
+ZH [name]拓也[line]看来，并没有什么特别的东西掉下来……。[%p]
+
+JA [name]たくや[line]石ころが転がっているだけだ‥‥。[%p]
+ZH [name]拓也[line]只有一些小石块散落在地上……。[%p]
+
+JA [name]たくや[line]よくわからないが、カベに継ぎ目は見える‥‥。[%p]
+ZH [name]拓也[line]虽然不太明白，不过能够看到墙壁的接缝处……。[%p]
+
+JA [name]たくや[line]ここだけ、他のカベとは違うと思うんだが‥‥。[%p]
+ZH [name]拓也[line]只有这里，感觉跟其他墙壁是不一样的……。[%p]
+
+JA [name]たくや[line]‥‥横にスライドするって訳でもないし。[%p]
+ZH [name]拓也[line]……看起来也不能横向挪动。[%p]
+
+JA [name]たくや[line]うーん‥‥。[%p]
+ZH [name]拓也[line]嗯——……。[%p]
+
+JA ググ‥‥ググググ‥‥。[%p]
+ZH 咕咕……咕咕咕咕……。[%p]
+
+JA [name]たくや[line]うーん‥‥ダメか。押したくらいじゃ、ビクともしない。[%p]
+ZH [name]拓也[line]嗯——……不行啊。只是这么推的话，完全纹丝不动啊。[%p]
+
+JA [name]たくや[line]押してもダメなら‥‥っと、引く場所がないな。[%p]
+ZH [name]拓也[line]要是推也不行的话……呃，没有能拉的地方啊。[%p]
+
+JA [name]たくや[line]何だろう‥‥?[%p]
+ZH [name]拓也[line]是什么呢……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]何だか、継ぎ目が見える‥‥。[%p]
+ZH [name]拓也[line]好像，能够看到接缝处……。[%p]
+
+JA [name]たくや[line]ここだけ、他のカベと違うようだ‥‥。[%p]
+ZH [name]拓也[line]貌似，只有这里跟其他的墙壁不同……。[%p]
+
+JA [name]たくや[line]こっち方向へ行っても、どうせあの石の扉が閉まっているんだ。[%p]
+ZH [name]拓也[line]就算往这个方向走，这扇石头门也一直是关着的。[%p]
+
+JA [name]たくや[line]今は開いている方へ行ってみないか‥‥?[%p]
+ZH [name]拓也[line]这回要不要到开着的方向去看看呢……？[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるな‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮啊……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]扉が閉まっちまったな‥‥。[%p]
+ZH [name]拓也[line]门被关起来了啊……。[%p]
+
+JA [name]たくや[line]もう一度押すと、開くみたいだぜ‥‥。[%p]
+ZH [name]拓也[line]试着再按一次，看看能不能打开……。[%p]
+
+JA [name]たくや[line]‥‥どうするんだ?[%p]
+ZH [name]拓也[line]……该怎么办好呢？[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]‥‥かといって、何かやることがあるのか?[%p]
+ZH [name]拓也[line]……不过，还有什么我能够做的事吗？[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるぜ‥‥。[%p]
+ZH [name]拓也[line]有一个小小的按钮呢……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]扉が開いた‥‥。[%p]
+ZH [name]拓也[line]门打开了……。[%p]
+
+JA [name]たくや[line]ボタンを押すたびに、扉が開いたり閉まったりするみたいだ‥‥。[%p]
+ZH [name]拓也[line]门好像是被设计成，按了按钮之后就可以一会开，一会儿关……。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]あっ‥‥よく見たら、何かあるぜ。[%p]
+ZH [name]拓也[line]啊……仔细看的话，好像有东西。[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるが‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]わっ‥‥み、右側の扉が閉まっちまったぞ![%p]
+ZH [name]拓也[line]哇……右，右侧的门被关起来了呢！[%p]
+
+JA [name]たくや[line]ど、どうすればいいんだ‥‥閉じ込められた!?[%p]
+ZH [name]拓也[line]该，该怎么办好呢……被彻底地关起来了！？[%p]
+
+JA [name]たくや[line]お、落ち着け‥‥落ち着くんだ。[%p]
+ZH [name]拓也[line]（冷，冷静一点……我要冷静一点。）。[%p]
+
+JA [name]たくや[line]ボタンを押したら閉じたってことは‥‥。[%p]
+ZH [name]拓也[line]也就是说只要按了按钮就会关起来……。[%p]
+
+JA [name]たくや[line]‥‥もう一度押せば、開くんじゃないか?[%p]
+ZH [name]拓也[line]……要是再按一遍的话，不会又打开了吧？[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]もう扉が開いている‥‥。[%p]
+ZH [name]拓也[line]门已经打开了……。[%p]
+
+JA [name]たくや[line]いまはボタンよりも、先に進むときじゃないか?[%p]
+ZH [name]拓也[line]比起按钮，现在不是应该向前进的时候吗？[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるけど‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]あっ、開いた‥‥![%p]
+ZH [name]拓也[line]啊、打开了……！[%p]
+
+JA [name]たくや[line]そうか、右の扉を閉めてからじゃないと、左が開かないようになっていたんだ。[%p]
+ZH [name]拓也[line]是吗，如果不是因为右侧的门被关起来的话，左边的门也打不开呢。[%p]
+
+JA [name]たくや[line]だが‥‥。[%p]
+ZH [name]拓也[line]啊……。[%p]
+
+JA [name]たくや[line]何でそんな回りくどいことをするんだろう?[%p]
+ZH [name]拓也[line]为什么我要做这种兜圈子的事呢？[%p]
+
+JA [name]たくや[line]一緒に開いてはいけない理由でもあったんだろうか‥‥。[%p]
+ZH [name]拓也[line]有什么不可以一起打开的理由吧……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]そうだ‥‥何だかおかしい。[%p]
+ZH [name]拓也[line]对了……总觉得很奇怪啊。[%p]
+
+JA [name]たくや[line]さっきだって‥‥。[%p]
+ZH [name]拓也[line]是刚才的事……。[%p]
+
+JA [name]たくや[line]あの忌々しい、石の扉が閉まった途端だ‥‥穴に落ちてしまった‥‥。[%p]
+ZH [name]拓也[line]那扇令人讨厌的石头门，也已经关闭了…………掉进陷阱了啊。[%p]
+
+JA [name]たくや[line]先へ進むたびに、来た道が閉ざされていく‥‥そんな感じがする。[%p]
+ZH [name]拓也[line]在我前进的时候，来时的道路被封闭起来了……有这种感觉。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]ま、とにかく開いたことには違いない。先へ進めそうだぜ‥‥。[%p]
+ZH [name]拓也[line]嘛，总而言之可以打开这件事是不会有错的。可以往里面前进了……。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]小さなボタンが付いてるけど‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]‥‥やっぱり、何も起きない。[%p]
+ZH [name]拓也[line]……果然，什么都没发生啊。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]あっ‥‥よく見たら、何かあるぜ。[%p]
+ZH [name]拓也[line]啊……仔细看的话，好像有东西。[%p]
+
+JA [name]たくや[line]小さなボタンが付いてる‥‥。[%p]
+ZH [name]拓也[line]上面有个小小的按钮……。[%p]
+
+JA [name]たくや[line]‥‥‥‥?[%p]
+ZH [name]拓也[line]…………？[%p]
+
+JA ボタンを押しますか?
+ZH 要按按钮吗？
+
+JA 押す
+ZH 按下
+
+JA 押さない
+ZH JF:不按
+
+JA [name]たくや[line]‥‥
+ZH [name]拓也[line]……
+
+JA ‥‥
+ZH ……
+
+JA ‥‥。[%p]
+ZH ……。[%p]
+
+JA [name]たくや[line]‥‥‥‥‥‥。
+ZH [name]拓也[line]………………。
+
+JA [name]たくや[line]‥‥おかしいな、何も起きないぞ。[%p]
+ZH [name]拓也[line]……真奇怪啊，什么都没发生呢。[%p]
+
+JA [name]たくや[line]そうだな。むやみに押すのは止めておこう。[%p]
+ZH [name]拓也[line]JF:是啊。不要乱按。[%p]
+
+JA [name]たくや[line]‥‥そうだな。もう後戻りは出来ないんだ。[%p]
+ZH [name]拓也[line]……是吗。已经不能往回走了。[%p]
+
+JA [name]たくや[line]先へ進んでみようぜ‥‥慎重にな。[%p]
+ZH [name]拓也[line]就继续向前进吧……要小心谨慎地。[%p]
+
+JA [name]たくや[line]‥‥扉が閉まっているぜ。[%p]
+ZH [name]拓也[line]……门已经关起来了。[%p]
+
+JA [name]たくや[line]つまり、向こうへは戻れないってことだ。[%p]
+ZH [name]拓也[line]也就是说，已经没办法回到对面去了。[%p]
+
+JA [name]たくや[line]‥‥戻っても、あの石の扉が閉まってるだけだが。[%p]
+ZH [name]拓也[line]……就算回去了，也只是这扇石门关起来而已。[%p]
+
+JA [name]たくや[line]とりあえず、行ってみるか‥‥。[%p]
+ZH [name]拓也[line]姑且，先过去看一下吧……。[%p]
+
+JA [name]たくや[line]そこは、俺がいま入ってきた入り口だ。[%p]
+ZH [name]拓也[line]那里，是我们刚才进来的入口。[%p]
+
+JA [name]たくや[line]ということは、戻るんだな‥‥?[%p]
+ZH [name]拓也[line]这么说，已经要回去了啊……？[%p]
+
+JA [name]たくや[line]そうだな、美月さんがあの場所にいるはずだ‥‥。[%p]
+ZH [name]拓也[line]对啊，美月应该不可能会出现这种地方呢……。[%p]
+
+JA [name]たくや[line]戻ってみよう。[%p]
+ZH [name]拓也[line]回去看看吧。[%p]
+
+JA [name]たくや[line]今はアイテムを使うときじゃないようだ‥‥。[%p]
+ZH [name]拓也[line]现在好像不是使用道具的时候吧……。[%p]
+
+JA [name]たくや[line]それは使えないぜ‥‥。[%p]
+ZH [name]拓也[line]这个现在不能用……。[%p]
+
+JA [name]たくや[line]‥‥今はそのアイテムを使うときじゃないみたいだ。[%p]
+ZH [name]拓也[line]……看样子现在不是使用道具的时候。[%p]
+
+JA 
+ZH 
+

@@ -1,0 +1,8 @@
+[name]Takuya[line]Uh-oh. Here I am again.[%p]
+[name]Takuya[line]It somehow got unlocked⋯[%p]
+[name]Takuya[line]No, of course not.[%p]
+[name]Takuya[line]Sheesh⋯[%p]
+[name]Takuya[line]⋯[%p]
+[name]Takuya[line]My father's study⋯ I haven't gone inside in a long time.[%p]
+[name]Takuya[line]It's coated in dust and probably has mold and mushrooms growing inside.[%p]
+[name]Takuya[line]Maybe I can cook some of the mushrooms for dinner⋯[%p]

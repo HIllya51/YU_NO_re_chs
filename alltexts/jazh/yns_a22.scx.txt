@@ -1,0 +1,90 @@
+JA [name]たくや[line]三角山だ‥‥。[%p]
+ZH [name]拓也[line]三角山……。[%p]
+
+JA [name]たくや[line]‥‥誰かがいるって訳じゃ、なさそうだが‥‥。[auto-forward][linebreak][linebreak]
+ZH [name]拓也[line]……似乎，应该不会有谁在的吧……。[auto-forward][linebreak][linebreak]
+
+JA [name]たくや[line]‥‥!?[%p]
+ZH [name]拓也[line]……！？[%p]
+
+JA [name]たくや[line]な、なんだ、この音は‥‥。[%p]
+ZH [name]拓也[line]什，什么，这个声音是……。[%p]
+
+JA [name]たくや[line]地響き‥‥? いや、これは‥‥。[%p]
+ZH [name]拓也[line]地响……？　不对，这个是……。[%p]
+
+JA [name]たくや[line]うわっ。[%p]
+ZH [name]拓也[line]唔哇。[%p]
+
+JA [name]たくや[line]どうしたんだ‥‥いったい。[%p]
+ZH [name]拓也[line]到底是……怎么了。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]あっ、あそこの岩が‥‥。[%p]
+ZH [name]拓也[line]啊、那边的岩……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]穴が空いている‥‥随分とデカいやつだ。[%p]
+ZH [name]拓也[line]开了一个洞……开得相当大啊。[%p]
+
+JA [name]たくや[line]下りて行けそうだぜ‥‥。[%p]
+ZH [name]拓也[line]貌似能爬下去呢……。[%p]
+
+JA [name]たくや[line]幸い、懐中電灯は手元にある‥‥。[%p]
+ZH [name]拓也[line]正好，手电筒也在手上……。[%p]
+
+JA [name]たくや[line]オヤジの手記によると、10個の宝玉を持って、この時間にこの場所へ来れば、何かがあると書いてあった。[%p]
+ZH [name]拓也[line]JF:据爸爸的手记，带着10个宝玉，在这个时间来到这个地方，写着有什么。[%p]
+
+JA [name]たくや[line]そして、三角山のふもとにポッカリと空いた穴‥‥。[%p]
+ZH [name]拓也[line]然后，三角山的脚下突然裂开了一个空洞……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]考えている余地はなさそうだな‥‥。[%p]
+ZH [name]拓也[line]似乎没有思考的余地了啊……。[%p]
+
+JA [name]たくや[line]中に入ってみよう‥‥。[%p]
+ZH [name]拓也[line]进里面去看看吧……。[%p]
+
+JA [name]たくや[line]社だ‥‥。[%p]
+ZH [name]拓也[line]社……。[%p]
+
+JA [name]たくや[line]‥‥誰もいないみたいだな。[%p]
+ZH [name]拓也[line]……好像谁都不在啊。[%p]
+
+JA [name]たくや[line]10個の宝玉を持っていないと、ここにいても無意味らしいぜ‥‥。[%p]
+ZH [name]拓也[line]JF:如果没有10个宝玉的话，在这里也没有意义。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]やっぱり、10個の宝玉が揃っていないと、ダメなんだ。[%p]
+ZH [name]拓也[line]JF:果然，10个宝玉不齐备的话是不行的。[%p]
+
+JA [name]たくや[line]どうする‥‥?[%p]
+ZH [name]拓也[line]怎么办……？[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA [name]たくや[line]誰もいないな‥‥。[%p]
+ZH [name]拓也[line]没有人在……。[%p]
+
+JA [name]たくや[line]ここに、何かあると思ったんだが‥‥。[%p]
+ZH [name]拓也[line]虽然说，总觉得这里会有些什么东西……。[%p]
+
+JA [name]たくや[line]‥‥‥‥。[%p]
+ZH [name]拓也[line]…………。[%p]
+
+JA 
+ZH 
+

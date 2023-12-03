@@ -1,0 +1,8 @@
+[name]Takuya[line]It's a dead end⋯ I can't go any further.[%p]
+[name]Takuya[line]I'm not strong enough to move it⋯[%p]
+[name]Takuya[line]Should I give up and turn back?[%p]
+[name]Takuya[line]There's a huge rock blocking the way⋯[%p]
+[name]Takuya[line]The walls are all damp⋯[%p]
+[name]Takuya[line]Still damp⋯ Looks like moisture is dripping from the ceiling.[%p]
+[name]Takuya[line]There isn't much point in staying here.[%p]
+[name]Takuya[line]That item isn't going to do much here⋯[%p]
